@@ -5,12 +5,12 @@ layout: default
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: http://www.anygis.ru/index
-[02]: http://www.anygis.ru/Web/Html/Description_ru
-[03]: http://www.anygis.ru/Web/Html/RusOutdoor_ru
-[04]: http://www.anygis.ru/Web/Html/DownloadPage_ru
-[05]: http://www.anygis.ru/Web/Html/Api_ru
-[07]: http://www.anygis.ru/Web/Html/Vektor_and_raster_ru
+[01]: http://anygis.ru/index
+[02]: http://anygis.ru/Web/Html/Description_ru
+[03]: http://anygis.ru/Web/Html/RusOutdoor_ru
+[04]: http://anygis.ru/Web/Html/DownloadPage_ru
+[05]: http://anygis.ru/Web/Html/Api_ru
+[07]: http://anygis.ru/Web/Html/Vektor_and_raster_ru
 
 
 # Внимание!
@@ -25,9 +25,9 @@ layout: default
 
 [Список изменений][0]
 
-[0]: http://www.anygis.ru/Web/Html/Changelog_ru
+[0]: http://anygis.ru/Web/Html/Changelog_ru
 
-![](http://www.anygis.ru/Web/Img/4mapsGuru.png)
+![](http://anygis.ru/Web/Img/4mapsGuru.png)
 
 
 Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора [растровых][07] онлайн-карт:
@@ -43,8 +43,8 @@ layout: default
 
 [1]: https://shuriktravel.ru/maps/
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_short_ru.zip
-[3]: http://www.anygis.ru/Web/Html/Download/Guru_Maps_IOS_Short_ru
-[4]: http://www.anygis.ru/Web/Html/Download/Guru_Maps_Android_Short_ru
+[3]: http://anygis.ru/Web/Html/Download/Guru_Maps_IOS_Short_ru
+[4]: http://anygis.ru/Web/Html/Download/Guru_Maps_Android_Short_ru
 
 
 ### Полный набор
@@ -74,8 +74,8 @@ layout: default
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_full_ru.zip
-[12]: http://www.anygis.ru/Web/Html/Download/Guru_Maps_IOS_Full_ru
-[13]: http://www.anygis.ru/Web/Html/Download/Guru_Maps_Android_Full_ru
+[12]: http://anygis.ru/Web/Html/Download/Guru_Maps_IOS_Full_ru
+[13]: http://anygis.ru/Web/Html/Download/Guru_Maps_Android_Full_ru
 
 ---
 
@@ -138,7 +138,7 @@ layout: default
 
 ![](https://gurumaps.app/manuals/ios/assets/file_sharing_itunes.png)
 
-![](http://www.anygis.ru/Web/Img/guru_itunes.png)
+![](http://anygis.ru/Web/Img/guru_itunes.png)
 
 ---
 

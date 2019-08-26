@@ -5,12 +5,12 @@ layout: default
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: http://www.anygis.ru/index
-[02]: http://www.anygis.ru/Web/Html/Description_ru
-[03]: http://www.anygis.ru/Web/Html/RusOutdoor_ru
-[04]: http://www.anygis.ru/Web/Html/DownloadPage_ru
-[05]: http://www.anygis.ru/Web/Html/Api_ru
-[07]: http://www.anygis.ru/Web/Html/Vektor_and_raster_ru
+[01]: http://anygis.ru/index
+[02]: http://anygis.ru/Web/Html/Description_ru
+[03]: http://anygis.ru/Web/Html/RusOutdoor_ru
+[04]: http://anygis.ru/Web/Html/DownloadPage_ru
+[05]: http://anygis.ru/Web/Html/Api_ru
+[07]: http://anygis.ru/Web/Html/Vektor_and_raster_ru
 
 
 # Внимание!
@@ -24,9 +24,9 @@ layout: default
 
 [Список изменений][16]
 
-[16]: http://www.anygis.ru/Web/Html/Changelog_ru
+[16]: http://anygis.ru/Web/Html/Changelog_ru
 
-![](http://www.anygis.ru/Web/Img/4mapsLocus.png)
+![](http://anygis.ru/Web/Img/4mapsLocus.png)
 
 
 
@@ -48,7 +48,7 @@ layout: default
 
 [3]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_short_ru.zip
 
-[0]: http://www.anygis.ru/Web/Html/Download/Locus_Maps_Short_ru
+[0]: http://anygis.ru/Web/Html/Download/Locus_Maps_Short_ru
 
 
 
@@ -81,7 +81,7 @@ layout: default
 
 [12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/AnyGIS_full_set.xml
 
-[13]: http://www.anygis.ru/Web/Html/Download/Locus_Maps_Full_ru
+[13]: http://anygis.ru/Web/Html/Download/Locus_Maps_Full_ru
 
 
 ### Подготовка к установке

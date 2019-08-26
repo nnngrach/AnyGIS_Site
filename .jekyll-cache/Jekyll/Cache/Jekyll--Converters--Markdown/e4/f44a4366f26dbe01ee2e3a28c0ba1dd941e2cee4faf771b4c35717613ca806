@@ -1,0 +1,52 @@
+I"|<table>
+  <tbody>
+    <tr>
+      <td><a href="http://anygis.ru/index_en">AnyGIS</a></td>
+      <td><a href="http://anygis.ru/Web/Html/Description_en">How it works?</a></td>
+      <td><a href="http://anygis.ru/Web/Html/RusOutdoor_en">RusOutdoor Maps</a></td>
+      <td><a href="http://anygis.ru/Web/Html/DownloadPage_en">Download</a></td>
+      <td><a href="http://anygis.ru/Web/Html/Api_en">API</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="outdoor-mobile-maps">Outdoor mobile maps</h1>
+
+<p><img src="http://anygis.ru/Web/Img/smartphone.png" alt="" /></p>
+
+<p>Nowadays, almost everyone has a smartphone with them. And since we’re wearing it anyway, it would be nice if it did us as much good as possible. For example, to make the navigator apps in the phone really useful.</p>
+
+<p>This site provides a set of maps for country holidays: tourist, mountain, sea and many more. To make them easy to use, you will need a special application “map aggregator”. Aggregators differ from conventional navigation applications in that they are able to show many maps, not just one. For Android I can recommend <a href="https://www.locusmap.eu/">Locus</a> or <a href="http://osmand.net/">OsmAnd</a>, for iOS - <a href="https://gurumaps.app/">Guru Maps</a> (formerly Galileo Pro).</p>
+
+<p><img src="http://anygis.ru/Web/Img/locus_maplist.png" alt="" /></p>
+
+<p>These applications allow you to download specialized <a href="http://anygis.ru/Web/Html/Vektor_and_raster_en">raster</a> maps directly from your smartphone and use them without the Internet. This eliminates the need to download a map to your phone every time in advance using a computer. Moreover, if you suddenly need (anything happens), you can download the map directly during the route, because the mobile Internet today is quite possible to catch in the woods and in the mountains. (Although quite slow)</p>
+
+<p>All this makes the smartphone almost a complete replacement of the “Garmin + computer” bundle. Well, or in a great addition to it.</p>
+
+<h3 id="links">Links:</h3>
+
+<ul>
+  <li>
+    <p><a href="https://www.locusmap.eu/">Locus</a> app for Androd.</p>
+  </li>
+  <li>
+    <p>Map set and installation instructions for <a href="http://anygis.ru/Web/Html/Locus_ru">Locus</a>.</p>
+  </li>
+  <li>
+    <p><a href="http://osmand.net/">OsmAnd</a> app for IOS and Androd.</p>
+  </li>
+  <li>
+    <p>Map set and installation instructions for <a href="http://anygis.ru/Web/Html/Osmand_ru">Osmand</a>.</p>
+  </li>
+  <li>
+    <p><a href="https://gurumaps.app/">Guru Maps</a> for IOS and Androd.</p>
+  </li>
+  <li>
+    <p>Map set and installation instructions for <a href="http://anygis.ru/Web/Html/Galileo_ru">Guru Maps</a>.</p>
+  </li>
+</ul>
+
+<p>And in conclusion, I note that many of the maps in this set are loaded using the online-сonverter AnyGIS Server developed by me. <a href="http://anygis.ru/Web/Html/Description_en">Here</a> you can read about exactly how it works.</p>
+
+:ET

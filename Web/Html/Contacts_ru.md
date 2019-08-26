@@ -5,23 +5,23 @@ layout: default
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: http://www.anygis.ru/index
-[02]: http://www.anygis.ru/Web/Html/Description_ru
-[03]: http://www.anygis.ru/Web/Html/RusOutdoor_ru
-[04]: http://www.anygis.ru/Web/Html/DownloadPage_ru
-[05]: http://www.anygis.ru/Web/Html/Api_ru
+[01]: http://anygis.ru/index
+[02]: http://anygis.ru/Web/Html/Description_ru
+[03]: http://anygis.ru/Web/Html/RusOutdoor_ru
+[04]: http://anygis.ru/Web/Html/DownloadPage_ru
+[05]: http://anygis.ru/Web/Html/Api_ru
 
 
 
 # Контакты
 
-| <img src="http://www.anygis.ru/Web/Img/icon_fb.png" width="60"/> | **[Fb.com/anygismaps][10]** |
+| <img src="http://anygis.ru/Web/Img/icon_fb.png" width="60"/> | **[Fb.com/anygismaps][10]** |
 
-| <img src="http://www.anygis.ru/Web/Img/icon_vk.png" width="60"/> | **[Vk.com/anygis][11]** |
+| <img src="http://anygis.ru/Web/Img/icon_vk.png" width="60"/> | **[Vk.com/anygis][11]** |
 
-| <img src="http://www.anygis.ru/Web/Img/icon_email.png" width="60"/> | **[Anygis@bk.ru][12]** |
+| <img src="http://anygis.ru/Web/Img/icon_email.png" width="60"/> | **[Anygis@bk.ru][12]** |
 
-| <img src="http://www.anygis.ru/Web/Img/icon_git.png" width="60"/> | **[Fork on GitHub][13]** |
+| <img src="http://anygis.ru/Web/Img/icon_git.png" width="60"/> | **[Fork on GitHub][13]** |
 
 
 

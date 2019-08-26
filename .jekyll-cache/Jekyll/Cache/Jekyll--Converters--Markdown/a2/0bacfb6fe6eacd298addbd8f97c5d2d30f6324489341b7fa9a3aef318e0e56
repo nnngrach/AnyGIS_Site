@@ -1,0 +1,154 @@
+I"$<table>
+  <tbody>
+    <tr>
+      <td><a href="http://anygis.ru/index_en">AnyGIS</a></td>
+      <td><a href="http://anygis.ru/Web/Html/Description_en">How it works?</a></td>
+      <td><a href="http://anygis.ru/Web/Html/RusOutdoor_en">RusOutdoor Maps</a></td>
+      <td><a href="http://anygis.ru/Web/Html/DownloadPage_en">Download</a></td>
+      <td><a href="http://anygis.ru/Web/Html/Api_en">API</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="online-maps-sources-for-guru-maps">Online-maps sources for Guru Maps</h1>
+
+<p><a href="http://anygis.ru/Web/Html/Changelog_en">Сhangelog</a></p>
+
+<p><img src="http://anygis.ru/Web/Img/4mapsGuru.png" alt="" /></p>
+
+<p>It’s no secret that the basic set of cards with which the application is supplied is often not enough. However, it is possible to add additional maps yourself. Here you will find two sets of <a href="http://anygis.ru/Web/Html/Vektor_and_raster_en">raster</a> online-maps:</p>
+
+<h3 id="basic-set">Basic set</h3>
+<p>A great option for beginners. If you still not sure what cards you should upload in the navigation app, you’ll start with this collection. Here is a minimum set of the most necessary, in my opinion, cards.  This set is suitable not only to get acquainted with the different types of maps that can be installed in the application, but also quite cope with most everyday tasks.</p>
+
+<p><a href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_short_en.zip">Download from computer (all files)</a></p>
+
+<p><a href="http://anygis.ru/Web/Html/Download/Guru_Maps_IOS_Short_en">Download from iOS smathphone (by one file)</a></p>
+
+<p><a href="http://anygis.ru/Web/Html/Download/Guru_Maps_Android_Short_en">Download from Android smathphone (by one file)</a></p>
+
+<h3 id="full-set">Full set</h3>
+<p>If you already know what kind of maps you need, then this set is for you. Note that it already includes maps from other compilers collections: <a href="https://melda.ru/locus/maps/">Erelen</a>, <a href="http://4pda.ru/forum/index.php?showtopic=210573&amp;st=3060#entry52768866">Dreame</a>, <a href="https://ms.galileo-app.com/">ms.Galileo-app</a>, <a href="https://custom-map-source.appspot.com/">Custom-maps-sourse</a> and some others. And as there are many maps from the program <a href="http://www.sasgis.org/">SAS.Planet</a>. A total of about a hundred cards included. Here are some of them:</p>
+
+<ul>
+  <li>Maps for city (Google, Here, Bing, Yandex, 2gis)</li>
+  <li>Satellites (Google, ERSI, Here, Mapbox, Yandex)</li>
+  <li>OSM-based maps (Mapnik, Cyclemap, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap)</li>
+  <li>Digitized raster topomaps (Soviet military maps, GGC, Hiking maps with local coverage)</li>
+  <li>Information maps (Wikimapia)</li>
+</ul>
+
+<p><a href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_full_en.zip">Download from computer (all files)</a></p>
+
+<p><a href="http://anygis.ru/Web/Html/Download/Guru_Maps_IOS_Full_en">Download from iOS smathphone (by one file)</a></p>
+
+<p><a href="http://anygis.ru/Web/Html/Download/Guru_Maps_Android_Full_en">Download from Android smathphone (by one file)</a></p>
+
+<blockquote>
+  <p>Attention! Maps based on Yandex are made in a non-standard projection. To Guru Maps was able to show them without distortion, they have to <a href="http://anygis.ru/Web/Html/Description_en">transform</a> on the fly. So be prepared for the fact that these maps will load relatively slowly.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="how-to-install-maps-from-the-smatphone-android">How to install maps from the smatphone (Android)</h3>
+<ul>
+  <li>Follow the link <code class="highlighter-rouge">Download from Android smathphone</code>. You will see on the page with a list of cards.</li>
+  <li>Click on the map you are interested in.</li>
+  <li>Save file in the folder  <code class="highlighter-rouge">Android\data\com.bodunov.GalileoPro\files\Imported</code></li>
+  <li>Go back to the browser and repeat these steps with all the other maps you are interested in from the list.</li>
+</ul>
+
+<p>The other way</p>
+<ul>
+  <li>Save the file to any folder.  For example in <code class="highlighter-rouge">Downloads</code>.</li>
+  <li>Launch the File Manager app on your smartphone.</li>
+  <li>Click on the downloaded file with the extension <code class="highlighter-rouge">*.ms</code>.</li>
+  <li>Guru Maps will start and will transfer this file to it’s map list.</li>
+  <li>Go back to the browser and repeat these steps with all the other cards you are interested in from the list.</li>
+  <li>When finished, remove the downloaded maps from the <code class="highlighter-rouge">Downloads</code> folder.</li>
+</ul>
+
+<h3 id="how-to-install-maps-from-the-smatphone-ios">How to install maps from the smatphone (IOS)</h3>
+<ul>
+  <li>Follow the link <code class="highlighter-rouge">Download from IOS smathphone</code>. You will see on the page with a list of cards.</li>
+  <li>Click on the map you are interested in. A menu appears to select the file actions.</li>
+  <li>Select <code class="highlighter-rouge">Open in Guru Maps</code>. The application will start and open a menu with a list of installed maps. If everything went well, the newly installed map will appear at the end of this list.</li>
+  <li>Go back to the browser and repeat these steps with all the other cards you are interested in from the list.</li>
+</ul>
+
+<p align="center">
+<img src="https://gurumaps.app/manuals/ios/assets/file_import_url_1.png" width="200" />
+</p>
+
+<blockquote>
+  <p>Attention! This method of downloading maps directly from your smartphone may not work in older versions of GuruMaps (4.0.5 and below), showing the error “address is not valid”.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="how-to-install-maps-from-the-computer-android">How to install maps from the computer (Android)</h3>
+<ul>
+  <li>Follow the link <code class="highlighter-rouge">Download from computer</code> and get zip-archive with full or basic map set.</li>
+  <li>Extract files from archive.</li>
+  <li>Connect smartphone to computer.</li>
+  <li>Copy files to folder on smartphone  <code class="highlighter-rouge">Android\data\com.bodunov.GalileoPro\files\Imported</code></li>
+</ul>
+
+<h3 id="how-to-install-maps-from-the-computer-ios">How to install maps from the computer (IOS)</h3>
+<ul>
+  <li>Follow the link <code class="highlighter-rouge">Download from computer</code> and get zip-archive with full or basic map set.</li>
+  <li>Extract files from archive.</li>
+  <li>Start iTunes on your computer.</li>
+  <li>Connect smartphone to computer.</li>
+  <li>An icon with a smartphone will appear in the upper left corner of iTunes. Click on it.</li>
+  <li>In the left sidebar, click <code class="highlighter-rouge">File sharing</code>.</li>
+  <li>Find Guru Maps in the list of apps and select it.</li>
+  <li>Drag the map files to the right window.</li>
+</ul>
+
+<blockquote>
+  <p>Attention! The application will not see the maps that will be in the subfolders. It is necessary that all the files were in the same folder.</p>
+</blockquote>
+
+<p><img src="https://support.apple.com/library/content/dam/edam/applecare/images/ru_RU/itunes/macos-mojave-itunes-12-9-connected-device.png" alt="" /></p>
+
+<p><img src="https://gurumaps.app/manuals/ios/assets/file_sharing_itunes.png" alt="" /></p>
+
+<hr />
+
+<h3 id="how-to-set-up-the-traffic-layer">How to set up the traffic layer?</h3>
+<p>I note that among the cards in this collection there are several dynamic. I mean all the maps with a layer of corrent traffic sitiation. There should also include a layer with moving ships Openseamap. It is worth noting that the application is not designed for such cards, so in order to be able to work with them will need to do additional settings each time.</p>
+
+<h5 id="the-first-option---purging-the-cache">The first option - purging the cache:</h5>
+<ul>
+  <li>Open the settings menu</li>
+  <li>Select <code class="highlighter-rouge">Cashe info</code></li>
+  <li>Toggle the switch <code class="highlighter-rouge">Map refresh</code></li>
+  <li>Drag the slider to the left (actual map)</li>
+</ul>
+
+<p>As a result, the map will be periodically updated once in a certain (though relatively large) period of time.</p>
+
+<p align="center">
+<img src="https://gurumaps.app/manuals/ios/assets/cache_info.png" width="200" />
+</p>
+
+<h5 id="the-second-option-is-a-manual-deletion-of-the-cache">The second option is a manual deletion of the cache:</h5>
+<ul>
+  <li>Open the settings menu</li>
+  <li>Select <code class="highlighter-rouge">Cashe info</code></li>
+  <li>Find the map you are interested in in the list</li>
+  <li>Delete cache by clicking on the red circle to the left of the map name</li>
+</ul>
+
+<p>This removes the cache and reloads the entire map except for the area on the screen. To update it, you need to switch to any other map before deleting the cache.</p>
+
+<hr />
+
+<p>That’s all. If you have any suggestions what other sources of maps should be added to the collection (and what to remove), then send me an e-mail. It is desirable to attach a link to the page with the map of interest to the letter. And, of course, report bugs and inaccuracies on the site.</p>
+
+<p align="center">
+<a href="mailto:anygis@bk.ru">anygis@bk.ru</a> 
+</p>
+
+:ET

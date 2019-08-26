@@ -1,0 +1,149 @@
+I"$<table>
+  <tbody>
+    <tr>
+      <td><a href="http://anygis.ru/index_en">AnyGIS</a></td>
+      <td><a href="http://anygis.ru/Web/Html/Description_en">How it works?</a></td>
+      <td><a href="http://anygis.ru/Web/Html/RusOutdoor_en">RusOutdoor Maps</a></td>
+      <td><a href="http://anygis.ru/Web/Html/DownloadPage_en">Download</a></td>
+      <td><a href="http://anygis.ru/Web/Html/Api_en">API</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="online-maps-sources-for-locus">Online-maps sources for Locus</h1>
+
+<p><a href="http://anygis.ru/Web/Html/Changelog_en">Changelog</a></p>
+
+<p><img src="http://anygis.ru/Web/Img/4mapsLocus.png" alt="" /></p>
+
+<p>It’s no secret that the basic set of cards with which the application is supplied is often not enough. However, it is possible to add additional maps yourself. Here you will find two sets of <a href="http://anygis.ru/Web/Html/Vektor_and_raster_en">raster</a> online-maps:</p>
+
+<h3 id="basic-set">Basic set</h3>
+<p>A great option for beginners. If you still not sure what cards you should upload in the navigation app, you’ll start with this collection. Here is a minimum set of the most necessary, in my opinion, cards.  This set is suitable not only to get acquainted with the different types of maps that can be installed in the application, but also quite cope with most everyday tasks.</p>
+
+<p><a href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_short_en.zip">Download from computer (all files)</a></p>
+
+<p><a href="locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/AnyGIS_short_set.xml">Download from smartphone (all files)</a></p>
+
+<p><a href="http://anygis.ru/Web/Html/Download/Locus_Maps_Short_en">Download from smartphone (by one file)</a></p>
+
+<h3 id="full-set">Full set</h3>
+<p>If you already know what kind of maps you need, then this set is for you. Note that it already includes maps from other compilers collections: <a href="https://melda.ru/locus/maps/">Erelen</a>, <a href="http://4pda.ru/forum/index.php?showtopic=210573&amp;st=3060#entry52768866">Dreame</a>, <a href="https://ms.galileo-app.com/">ms.Galileo-app</a>, <a href="https://custom-map-source.appspot.com/">Custom-maps-sourse</a> and some others. And as there are many maps from the program <a href="http://www.sasgis.org/">SAS.Planet</a>. A total of about a hundred cards included. Here are some of them:</p>
+
+<ul>
+  <li>Maps for city (Google, Here, Bing, Yandex, 2gis)</li>
+  <li>Satellites (Google, ERSI, Here, Mapbox, Yandex)</li>
+  <li>OSM-based maps (Mapnik, Cyclemap, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap)</li>
+  <li>Digitized raster topomaps (Soviet military maps, GGC, Hiking maps with local coverage)</li>
+  <li>Information maps (Wikimapia)</li>
+</ul>
+
+<p><a href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_full_en.zip">Download from computer (all files)</a></p>
+
+<p><a href="locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/AnyGIS_full_set.xml">Download from smartphone (all files)</a></p>
+
+<p><a href="http://anygis.ru/Web/Html/Download/Locus_Maps_Full_en">Download from smartphone (by one file)</a></p>
+
+<h3 id="preparing-for-installation">Preparing for installation</h3>
+
+<p>Before the first installation of maps, I recommend to hide all standard maps of the Locus: many of them will be replaced by a version without restrictions on downloading the map. For this:</p>
+
+<ul>
+  <li>Open the menu with the list of maps.</li>
+  <li>In the upper right corner, click the button with three dots.</li>
+  <li>Select `Available maps’.</li>
+  <li>In the upper right corner, click the button with a wrench.</li>
+  <li>Click `Deselect all’.</li>
+</ul>
+
+<p>With all the following installations of maps from third-party sets, such an operation is no longer necessary. If you want to return any of the maps locus’a, then again go to this menu and check the box next to the desired map.</p>
+
+<p align="center">
+<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager2.png" />
+</p>
+
+<p align="center">
+<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager9.png" />
+</p>
+
+<p align="center">
+<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager10.png" />
+</p>
+
+<h3 id="how-to-install-maps-from-the-smartphone">How to install maps from the smartphone?</h3>
+<ul>
+  <li>If you want to install all the maps at once, just follow the link `Download from smartphone (all files)’.</li>
+  <li>If you want to install only some of the maps in this collection, go to the page with a list of maps by clicking on the link `Download from smartphone (by one file)’. On this page you can download a separate map or any group of maps as a whole.</li>
+  <li>The Locus app will start on your smartphone. An icon with the installation status will appear in the upper left corner. Wait for a while until the indicator tells you that the installation is complete. (The operation may take a couple of minutes.) If all goes well, the maps you just added will appear in the map list</li>
+  <li>If desired, hide unnecessary for you maps from my set of.</li>
+</ul>
+
+<blockquote>
+  <p>Attention! This feature is not supported by all browsers.</p>
+</blockquote>
+
+<h3 id="how-to-install-maps-from-the-computer">How to install maps from the computer?</h3>
+<ul>
+  <li>Follow the link <code class="highlighter-rouge">Download from computer</code>.</li>
+  <li>When the file is downloaded, unzip it.</li>
+  <li>Connect your smartphone or memory card to your computer.</li>
+  <li>Open the folder where you have installed Locus.</li>
+  <li>Open the folder with maps: <code class="highlighter-rouge">Locus/mapsOnline/custom</code>.</li>
+  <li>Copy all the maps and icons in to this folder.</li>
+  <li>Restart the app to see the maps you’ve added.</li>
+  <li>If desired, hide the unnecessary for you maps from my set.</li>
+</ul>
+
+<blockquote>
+  <p>Attention! The application will not see the cards that will lie in the subfolders. It is necessary that all the files were in the same folder.</p>
+</blockquote>
+
+<p>The idea is that after this everything should work fine. However, sometimes, if the Locus is already cluttered and you install new versions of maps on top of old ones, some of the files may not be replaced by new versions. In this case, you can completely uninstall Locus along with all the files and then install it again. Before such a procedure, do not forget to save your points, gps-tracks and downloaded offline maps.</p>
+
+<h3 id="how-to-set-cache-refreshing">How to set cache refreshing</h3>
+<p>Once the additional maps are loaded and appear in the Locus, it is useful to configure how long they are stored in the cache. Let me remind you that all the map fragments are downloaded to the smartphone memory before they appear on the screen. With this procedure, all saved areas can be displayed without the Internet.</p>
+
+<p>However, many maps are updated from time to time, becoming better and more accurate. Unfortunately, by default, the Locus prevents all cached maps from being downloaded again. So you should manually make additional settings for all the maps for which you want to get updates. For this:</p>
+
+<ul>
+  <li>Open the menu with the list of maps</li>
+  <li>Click the three-dot button to the right of the title of the selected map.</li>
+  <li>Select <code class="highlighter-rouge">Set Valid for</code></li>
+  <li>Specify how many hours later the application will be allowed to download the map tiles again.</li>
+</ul>
+
+<p align="center">
+<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager.png" />
+</p>
+
+<h3 id="optimal-values-for-cache-refresh-time">Optimal values for cache refresh time:</h3>
+
+<h5 id="0-hours--dont-save">0 hours  (don’t save)</h5>
+
+<p>Suitable for all dynamically changing maps. For example, all maps and overlays with traffic: Yandex Traffic, Google Traffic, Traffic Here, OpenSeaMap Traffic.</p>
+
+<h5 id="720-hours--30-days">720 hours  (30 days)</h5>
+
+<p>For modern digital maps, which are regularly updated, including all maps from the categories “City”, “Information” and “OSM”.</p>
+
+<h5 id="2160-hours--90-days">2160 hours  (90 days)</h5>
+
+<p>For all cards in the category “Satellites”.</p>
+
+<h5 id="8760-hours--365-days">8760 hours  (365 days)</h5>
+
+<p>For rarely updated maps.</p>
+
+<h5 id="default--dont-update">Default  (don’t update)</h5>
+
+<p>For all raster (roughly “scanned”) maps, you can leave the cache storage time unchanged. That is endless: it is unlikely that someone will ever redraw them. So you can skip and do not do the above settings for all the remaining cards from the category “Eurasia”.</p>
+
+<hr />
+
+<p>That’s all. If you have any suggestions what other sources of maps should be added to the collection (and what to remove), then send me an e-mail. It is desirable to attach a link to the page with the map of interest to the letter. And, of course, report bugs and inaccuracies on the site.</p>
+
+<p align="center">
+<a href="mailto:anygis@bk.ru">anygis@bk.ru</a> 
+</p>
+
+:ET
