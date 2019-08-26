@@ -1,0 +1,100 @@
+I"r<table>
+  <tbody>
+    <tr>
+      <td><a href="http://www.anygis.ru/index_en">AnyGIS</a></td>
+      <td><a href="http://www.anygis.ru/Web/Html/Description_en">How it works?</a></td>
+      <td><a href="http://www.anygis.ru/Web/Html/RusOutdoor_en">RusOutdoor Maps</a></td>
+      <td><a href="http://www.anygis.ru/Web/Html/DownloadPage_en">Download</a></td>
+      <td><a href="http://www.anygis.ru/Web/Html/Api_en">API</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="june-2019">June 2019</h3>
+
+<p>Update links for Strava maps for new version of Locus</p>
+
+<h3 id="may-2019">May 2019</h3>
+
+<p>Add Votetovid.ri mountain map</p>
+
+<p>Add Vestra mountain map</p>
+
+<p>Bugfix</p>
+
+<h3 id="april-2019">April 2019</h3>
+
+<p>Added script for automatic authorization in Strava Heatmaps.</p>
+
+<p>Added a script for automatic a</p>
+
+<p>Added a set of maps in the format of the OsmAnd app for Android.</p>
+
+<p>Added English version of the site.</p>
+
+<p>Added a set of maps with the English labels.</p>
+
+<h3 id="march-2019">March 2019</h3>
+
+<p>Added a set of maps in the OruxMaps application format.</p>
+
+<p>Fixed error loading Guru Maps on iOS.</p>
+
+<p>Added maps Navionics, Rosreestr, Kosmosnimki.ru.</p>
+
+<p>Added maps of Central and Western Europe.</p>
+
+<p>Added mapsurfer, Bing Satellite maps.</p>
+
+<p>Added a new set with the Soviet topographic maps of the 1970-90s (not the Genshtab)</p>
+
+<p>Added a new set with historical maps.</p>
+
+<p>Fixed bug when loading Guru Maps on Android.</p>
+
+<p>Added map of Northern Europe and the United States.</p>
+
+<p>The end of the beta test. Release!</p>
+
+<p>The main functionality is implemented. The beginning of beta testing of the collection for Locus and GuruMaps.</p>
+
+<h3 id="february-2019">February 2019</h3>
+
+<p>Added mode for traffic indexing.</p>
+
+<p>Created script for automatic generation of files based on the collected database. This allows to update maps more often.</p>
+
+<p>Made a website for easy loading maps.</p>
+
+<h3 id="winter-2018">Winter 2018</h3>
+
+<p>Added a mode for downloading images via the direct proxy. (For Mapnik)</p>
+
+<p>Added a mode to select the best available maps for the area. (Checked if there is а piece of map for required coordinates on all servers, in order of their priority). In this mode is based on a set of maps RusOutdoorMaps, which included a selection of optimal raster maps from the Genshtab, GGC, and maps from the tourist section of the Sas.planet programm.</p>
+
+<p>Added map selection mode from multiple mirrors.</p>
+
+<h3 id="autumn-2018">Autumn 2018</h3>
+
+<p>The first test set of online map sources for Locus has been prepared.</p>
+
+<p>Added map layer shaded relief and supplements through the service MapBox. Added Mapnik + Hillshade map.</p>
+
+<p>Added mode for layers with traffic.</p>
+
+<p>Added some maps from sets from Erelen and from Dreamers.</p>
+
+<p>The project was rewritten from PHP to Swift. Changed the links in the set for Galileo.</p>
+
+<h3 id="summer-2018">Summer 2018</h3>
+
+<p>The first test set of online map sources for Galileo Pro has been prepared.</p>
+
+<p>Added mode to download images spoofing the Referer and UserAgent.</p>
+
+<p>Added the function of image processing. Implemented a Converter maps from elliptic projection in WGS84 standard spherical projection WebMerkatror.</p>
+
+<p>Implemented link generation for Wikimapia and SAS.planet maps (from the Tourist and the Genshtab sections).</p>
+
+<p>Work on the project has begun. (PHP)</p>
+:ET
