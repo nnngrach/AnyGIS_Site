@@ -445,29 +445,6 @@ layout: default
 
 
 
-### Overlay
-[Strava Heatmap - All](http://anygis.ru/server/download/galileo_en/Overlay-Strava_All_SD.ms "Download this map")
-
-[Strava Heatmap - All (Bluered)](http://anygis.ru/server/download/galileo_en/Overlay-Strava_All_Bluered_SD.ms "Download this map")
-
-[Strava Heatmap - Ride](http://anygis.ru/server/download/galileo_en/Overlay-Strava_Ride_SD.ms "Download this map")
-
-[Strava Heatmap - Ride (Bluered)](http://anygis.ru/server/download/galileo_en/Overlay-Strava_Ride_Bluered_SD.ms "Download this map")
-
-[Strava Heatmap - Run](http://anygis.ru/server/download/galileo_en/Overlay-Strava_Run_SD.ms "Download this map")
-
-[Strava Heatmap - Run (Bluered)](http://anygis.ru/server/download/galileo_en/Overlay-Strava_Run_Bluered_SD.ms "Download this map")
-
-[Strava Heatmap - Water](http://anygis.ru/server/download/galileo_en/Overlay-Strava_Water_SD.ms "Download this map")
-
-[Strava Heatmap - Water (Bluered)](http://anygis.ru/server/download/galileo_en/Overlay-Strava_Water_Bluered_SD.ms "Download this map")
-
-[Strava Heatmap - Winter](http://anygis.ru/server/download/galileo_en/Overlay-Strava_Winter_SD.ms "Download this map")
-
-[Strava Heatmap - Winter (Bluered)](http://anygis.ru/server/download/galileo_en/Overlay-Strava_Winter_Bluered_SD.ms "Download this map")
-
-
-
 ### Overpass
 [OverpassTurbo: Drinking Water](http://anygis.ru/server/download/galileo_en/Overpass-Drinking_Water.ms "Download this map")
 

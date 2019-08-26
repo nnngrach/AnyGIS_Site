@@ -442,29 +442,6 @@ layout: default
 
 
 
-### Overlay
-[Strava Heatmap - All 256](http://anygis.ru/server/download/galileo_ru/Overlay-Strava_All_SD.ms "Скачать эту карту")
-
-[Strava Heatmap - All 256 (Bluered)](http://anygis.ru/server/download/galileo_ru/Overlay-Strava_All_Bluered_SD.ms "Скачать эту карту")
-
-[Strava Heatmap - Ride 256](http://anygis.ru/server/download/galileo_ru/Overlay-Strava_Ride_SD.ms "Скачать эту карту")
-
-[Strava Heatmap - Ride 256 (Bluered)](http://anygis.ru/server/download/galileo_ru/Overlay-Strava_Ride_Bluered_SD.ms "Скачать эту карту")
-
-[Strava Heatmap - Run 256](http://anygis.ru/server/download/galileo_ru/Overlay-Strava_Run_SD.ms "Скачать эту карту")
-
-[Strava Heatmap - Run 256 (Bluered)](http://anygis.ru/server/download/galileo_ru/Overlay-Strava_Run_Bluered_SD.ms "Скачать эту карту")
-
-[Strava Heatmap - Water 256](http://anygis.ru/server/download/galileo_ru/Overlay-Strava_Water_SD.ms "Скачать эту карту")
-
-[Strava Heatmap - Water 256 (Bluered)](http://anygis.ru/server/download/galileo_ru/Overlay-Strava_Water_Bluered_SD.ms "Скачать эту карту")
-
-[Strava Heatmap - Winter 256](http://anygis.ru/server/download/galileo_ru/Overlay-Strava_Winter_SD.ms "Скачать эту карту")
-
-[Strava Heatmap - Winter 256 (Bluered)](http://anygis.ru/server/download/galileo_ru/Overlay-Strava_Winter_Bluered_SD.ms "Скачать эту карту")
-
-
-
 ### Overpass
 [OverpassTurbo: Гравийные дорожки для бега](http://anygis.ru/server/download/galileo_ru/Overpass-GravelRunTrails.ms "Скачать эту карту")
 
