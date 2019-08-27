@@ -5,12 +5,12 @@ layout: default
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: http://anygis.ru/index
-[02]: http://anygis.ru/Web/Html/Description_ru
-[03]: http://anygis.ru/Web/Html/RusOutdoor_ru
-[04]: http://anygis.ru/Web/Html/DownloadPage_ru
-[05]: http://anygis.ru/Web/Html/Api_ru
-[07]: http://anygis.ru/Web/Html/Vektor_and_raster_ru
+[01]: https://anygis.ru/index
+[02]: https://anygis.ru/Web/Html/Description_ru
+[03]: https://anygis.ru/Web/Html/RusOutdoor_ru
+[04]: https://anygis.ru/Web/Html/DownloadPage_ru
+[05]: https://anygis.ru/Web/Html/Api_ru
+[07]: https://anygis.ru/Web/Html/Vektor_and_raster_ru
 
 
 # Внимание!
@@ -23,13 +23,13 @@ layout: default
 
 # Туристические карты для смартфонов
 
-![](http://anygis.ru/Web/Img/smartphone.png)
+![](https://anygis.ru/Web/Img/smartphone.png)
 
 В наши дни практически у каждого при себе есть смартфон. И раз уж мы его все равно носим, хочется, чтобы он приносил нам как можно больше пользы. Например, чтобы навигатор в телефоне стал по-настоящему полезным.
 
 Этот сайт предоставляет комплект карт для загородного отдыха: туристические, горные, морские и много какие ещё. Чтобы ими было удобно пользоваться, вам потребуется специальное приложение "картографический агрегатор". От обычных навигационных приложений они отличаются тем, что умеют показывать много карт, а не только какую-то одну. Для Android можно порекомендовать [Locus][1] или [OsmAnd][6], для iOS - [Guru Maps][2] (раньше он назывался Galileo Pro).
 
-![](http://anygis.ru/Web/Img/locus_maplist.png)
+![](https://anygis.ru/Web/Img/locus_maplist.png)
 
 Эти приложения позволяют загружать специализированные [растровые][07] карты прямо со смартфона и пользоваться ими без интернета. При желании, это избавляет от необходимости, каждый раз заблаговременно загружать в телефон карту с помощью компьютера. Более того, если вдруг потребуется (всякое бывает), вы сможете загружать карту прямо во время маршрута, ведь мобильный интернет сегодня вполне можно поймать и в лесу, и в горах. Хотя и довольно медленный.
 
@@ -60,11 +60,11 @@ layout: default
 
 [1]: https://www.locusmap.eu/
 [2]: https://gurumaps.app/
-[3]: http://www.sasgis.org/
+[3]: https://www.sasgis.org/
 [4]: https://nakarte.me
 [5]: https://melda.ru/2017/07/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-%D0%BF%D0%BE%D1%85%D0%BE%D0%B4%D0%B5-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD-vs-garmin/
-[6]: http://osmand.net/
-[10]: http://anygis.ru/Web/Html/Locus_ru
-[11]: http://anygis.ru/Web/Html/Osmand_ru
-[12]: http://anygis.ru/Web/Html/Galileo_ru
+[6]: https://osmand.net/
+[10]: https://anygis.ru/Web/Html/Locus_ru
+[11]: https://anygis.ru/Web/Html/Osmand_ru
+[12]: https://anygis.ru/Web/Html/Galileo_ru
 

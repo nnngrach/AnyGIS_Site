@@ -5,12 +5,12 @@ layout: default
 | [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
 
 
-[01]: http://anygis.ru/index_en
-[02]: http://anygis.ru/Web/Html/Description_en
-[03]: http://anygis.ru/Web/Html/RusOutdoor_en
-[04]: http://anygis.ru/Web/Html/DownloadPage_en
-[05]: http://anygis.ru/Web/Html/Api_en
-[07]: http://anygis.ru/Web/Html/Vektor_and_raster_en
+[01]: https://anygis.ru/index_en
+[02]: https://anygis.ru/Web/Html/Description_en
+[03]: https://anygis.ru/Web/Html/RusOutdoor_en
+[04]: https://anygis.ru/Web/Html/DownloadPage_en
+[05]: https://anygis.ru/Web/Html/Api_en
+[07]: https://anygis.ru/Web/Html/Vektor_and_raster_en
 
 
 
@@ -19,9 +19,9 @@ layout: default
 
 [Changelog][0]
 
-[0]: http://anygis.ru/Web/Html/Changelog_en
+[0]: https://anygis.ru/Web/Html/Changelog_en
 
-![](http://anygis.ru/Web/Img/4mapsOrux.png)
+![](https://anygis.ru/Web/Img/4mapsOrux.png)
 
 
 
@@ -55,10 +55,10 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [5]: https://github.com/nnngrach/AnyGIS_maps/tree/master/Experimantal_area
 [6]: https://melda.ru/locus/maps/
-[7]: http://4pda.ru/forum/index.php?showtopic=210573&st=3060#entry52768866
+[7]: https://4pda.ru/forum/index.php?showtopic=210573&st=3060#entry52768866
 [8]: https://ms.galileo-app.com/
 [9]: https://custom-map-source.appspot.com/
-[10]: http://www.sasgis.org/
+[10]: https://www.sasgis.org/
 
 [11]: https://anygis.herokuapp.com/download/orux_full_en/onlinemapsources.xml
 
@@ -72,11 +72,11 @@ If you already know what kind of maps you need, then this set is for you. Note t
 * Open Map list and press Refresh button. 
 * New maps should appear in the application in the section `Online` of the folder `Layers`
 
-![](http://anygis.ru/Web/Img/oruxMapUpdater.png)
+![](https://anygis.ru/Web/Img/oruxMapUpdater.png)
 
 * If any of the cards seem superfluous to you, you can remove them from the list. To do this, simply click and hold on the name of the card. After a while, it will disappear from the list.
 
-![](http://anygis.ru/Web/Img/oruxMapDeleter.png)
+![](https://anygis.ru/Web/Img/oruxMapDeleter.png)
 
 
 That's all. If you have any suggestions what other sources of maps should be added to the collection (and what to remove), then send me an e-mail. It is desirable to attach a link to the page with the map of interest to the letter. And, of course, report bugs and inaccuracies on the site.

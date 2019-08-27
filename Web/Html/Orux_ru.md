@@ -5,12 +5,12 @@ layout: default
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: http://anygis.ru/index
-[02]: http://anygis.ru/Web/Html/Description_ru
-[03]: http://anygis.ru/Web/Html/RusOutdoor_ru
-[04]: http://anygis.ru/Web/Html/DownloadPage_ru
-[05]: http://anygis.ru/Web/Html/Api_ru
-[07]: http://anygis.ru/Web/Html/Vektor_and_raster_ru
+[01]: https://anygis.ru/index
+[02]: https://anygis.ru/Web/Html/Description_ru
+[03]: https://anygis.ru/Web/Html/RusOutdoor_ru
+[04]: https://anygis.ru/Web/Html/DownloadPage_ru
+[05]: https://anygis.ru/Web/Html/Api_ru
+[07]: https://anygis.ru/Web/Html/Vektor_and_raster_ru
 
 
 # Внимание!
@@ -25,9 +25,9 @@ layout: default
 
 [Список изменений][0]
 
-[0]: http://anygis.ru/Web/Html/Changelog_ru
+[0]: https://anygis.ru/Web/Html/Changelog_ru
 
-![](http://anygis.ru/Web/Img/4mapsOrux.png)
+![](https://anygis.ru/Web/Img/4mapsOrux.png)
 
 
 
@@ -63,10 +63,10 @@ layout: default
 
 [5]: https://github.com/nnngrach/AnyGIS_maps/tree/master/Experimantal_area
 [6]: https://melda.ru/locus/maps/
-[7]: http://4pda.ru/forum/index.php?showtopic=210573&st=3060#entry52768866
+[7]: https://4pda.ru/forum/index.php?showtopic=210573&st=3060#entry52768866
 [8]: https://ms.galileo-app.com/
 [9]: https://custom-map-source.appspot.com/
-[10]: http://www.sasgis.org/
+[10]: https://www.sasgis.org/
 
 [11]: https://anygis.herokuapp.com/download/orux_full_ru/onlinemapsources.xml
 
@@ -79,11 +79,11 @@ layout: default
 * Перезапустите Orux или нажмите на кнопку Обновить. 
 * Новые карты должны появиться в разеле `Online` в папке `Layers`
 
-![](http://anygis.ru/Web/Img/oruxMapUpdater.png)
+![](https://anygis.ru/Web/Img/oruxMapUpdater.png)
 
 * Если какие-то из карт покажутся вам лишними, то вы можете удалить их из списка. Для этого нужно просто нажать и удерживать на названии карты. Через некоторое время она исчезнет из списка.
 
-![](http://anygis.ru/Web/Img/oruxMapDeleter.png)
+![](https://anygis.ru/Web/Img/oruxMapDeleter.png)
 
 
 На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.

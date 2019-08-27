@@ -5,12 +5,12 @@ layout: default
 | [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
 
 
-[01]: http://anygis.ru/index_en
-[02]: http://anygis.ru/Web/Html/Description_en
-[03]: http://anygis.ru/Web/Html/RusOutdoor_en
-[04]: http://anygis.ru/Web/Html/DownloadPage_en
-[05]: http://anygis.ru/Web/Html/Api_en
-[07]: http://anygis.ru/Web/Html/Vektor_and_raster_en
+[01]: https://anygis.ru/index_en
+[02]: https://anygis.ru/Web/Html/Description_en
+[03]: https://anygis.ru/Web/Html/RusOutdoor_en
+[04]: https://anygis.ru/Web/Html/DownloadPage_en
+[05]: https://anygis.ru/Web/Html/Api_en
+[07]: https://anygis.ru/Web/Html/Vektor_and_raster_en
 
 
 
@@ -19,9 +19,9 @@ layout: default
 
 [Changelog][16]
 
-[16]: http://anygis.ru/Web/Html/Changelog_en
+[16]: https://anygis.ru/Web/Html/Changelog_en
 
-![](http://anygis.ru/Web/Img/4mapsAlpine.png)
+![](https://anygis.ru/Web/Img/4mapsAlpine.png)
 
 
 
@@ -39,7 +39,7 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_en.zip
 
-[3]: http://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Short_en
+[3]: https://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Short_en
 
 
 
@@ -59,14 +59,14 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [5]: https://github.com/nnngrach/AnyGIS_maps/tree/master/Experimantal_area
 [6]: https://melda.ru/locus/maps/
-[7]: http://4pda.ru/forum/index.php?showtopic=210573&st=3060#entry52768866
+[7]: https://4pda.ru/forum/index.php?showtopic=210573&st=3060#entry52768866
 [8]: https://ms.galileo-app.com/
 [9]: https://custom-map-source.appspot.com/
-[10]: http://www.sasgis.org/
+[10]: https://www.sasgis.org/
 
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_full_en.zip
 
-[12]: http://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Full_ru
+[12]: https://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Full_ru
 
 
 

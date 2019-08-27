@@ -6,11 +6,11 @@ layout: default
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: http://anygis.ru/index
-[02]: http://anygis.ru/Web/Html/Description_ru
-[03]: http://anygis.ru/Web/Html/RusOutdoor_ru
-[04]: http://anygis.ru/Web/Html/DownloadPage_ru
-[05]: http://anygis.ru/Web/Html/Api_ru
+[01]: https://anygis.ru/index
+[02]: https://anygis.ru/Web/Html/Description_ru
+[03]: https://anygis.ru/Web/Html/RusOutdoor_ru
+[04]: https://anygis.ru/Web/Html/DownloadPage_ru
+[05]: https://anygis.ru/Web/Html/Api_ru
 # Скачать карты для Locus Maps
 
 

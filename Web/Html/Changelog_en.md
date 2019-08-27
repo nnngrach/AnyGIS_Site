@@ -5,11 +5,11 @@ layout: default
 | [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
 
 
-[01]: http://anygis.ru/index_en
-[02]: http://anygis.ru/Web/Html/Description_en
-[03]: http://anygis.ru/Web/Html/RusOutdoor_en
-[04]: http://anygis.ru/Web/Html/DownloadPage_en
-[05]: http://anygis.ru/Web/Html/Api_en
+[01]: https://anygis.ru/index_en
+[02]: https://anygis.ru/Web/Html/Description_en
+[03]: https://anygis.ru/Web/Html/RusOutdoor_en
+[04]: https://anygis.ru/Web/Html/DownloadPage_en
+[05]: https://anygis.ru/Web/Html/Api_en
 
 
 ### June 2019
