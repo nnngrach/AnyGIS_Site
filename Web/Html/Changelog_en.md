@@ -12,6 +12,15 @@ layout: default
 [05]: https://anygis.ru/Web/Html/Api_en
 
 
+### August 2019
+
+Site tranfered to new URL: Anygis.ru
+
+Add some newmaps
+
+Add AlpineQuest map pack
+
+
 ### June 2019
 
 Update links for Strava maps for new version of Locus
