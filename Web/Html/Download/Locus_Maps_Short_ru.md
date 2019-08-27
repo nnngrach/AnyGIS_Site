@@ -98,16 +98,6 @@ layout: default
 
 [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-OpenSreetMaps_Tracks.xml "Скачать эту карту")
 
-[Strava Heatmap - All 256](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_All_SD.xml "Скачать эту карту")
-
-[Strava Heatmap - Ride 256](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Ride_SD.xml "Скачать эту карту")
-
-[Strava Heatmap - Run 256](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Run_SD.xml "Скачать эту карту")
-
-[Strava Heatmap - Water 256](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Water_SD.xml "Скачать эту карту")
-
-[Strava Heatmap - Winter 256](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Winter_SD.xml "Скачать эту карту")
-
 [Waymarkedtrails.org - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
 
 [Waymarkedtrails.org - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Hiking.xml "Скачать эту карту")
