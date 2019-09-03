@@ -12,9 +12,14 @@ layout: default
 [05]: https://anygis.ru/Web/Html/Api_en
 
 
+### September 2019
+
+Accelerated authorization in the courts Strava
+
+
 ### August 2019
 
-Site tranfered to new URL: Anygis.ru
+Site tranfered to new URL: AnyGIS.ru
 
 Add some newmaps
 

@@ -77,8 +77,6 @@ layout: default
 
 [Mapnik (PROXY)](https://anygis.ru/server/download/galileo_ru/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
 
-[Mapnik (no labels)](https://anygis.ru/server/download/galileo_ru/Global-OSM-Mapnik_No_labels.ms "Скачать эту карту")
-
 [Mapnik + Рельеф](https://anygis.ru/server/download/galileo_ru/Global-OSM-Mapnik_Hillshade.ms "Скачать эту карту")
 
 [Michelin transport](https://anygis.ru/server/download/galileo_ru/Global-OSM-Michelin.ms "Скачать эту карту")

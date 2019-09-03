@@ -11,9 +11,15 @@ layout: default
 [04]: https://anygis.ru/Web/Html/DownloadPage_ru
 [05]: https://anygis.ru/Web/Html/Api_ru
 
+
+### Сертябрь 2019
+
+Увеличена скорость авто авторизации для карт Strava
+
+
 ### Август 2019
 
-Переезд на новый домен Anygis.ru
+Переезд на новый домен AnyGIS.ru
 
 Часть ссылок переведена с протокола HTTP на HTTPS
 

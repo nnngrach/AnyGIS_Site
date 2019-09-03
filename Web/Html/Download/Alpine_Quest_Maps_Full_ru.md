@@ -79,8 +79,6 @@ layout: default
 
 [Mapnik (PROXY)](https://anygis.ru/server/download/alpine_ru/Global-OSM-Mapnik_Proxy.AQX "Скачать эту карту")
 
-[Mapnik (no labels)](https://anygis.ru/server/download/alpine_ru/Global-OSM-Mapnik_No_labels.AQX "Скачать эту карту")
-
 [Michelin transport](https://anygis.ru/server/download/alpine_ru/Global-OSM-Michelin.AQX "Скачать эту карту")
 
 [OpenTopoMap](https://anygis.ru/server/download/alpine_ru/Global-OSM-OpenTopoMap.AQX "Скачать эту карту")
