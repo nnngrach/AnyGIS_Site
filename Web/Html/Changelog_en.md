@@ -14,6 +14,8 @@ layout: default
 
 ### September 2019
 
+Bugfix for proxy mode
+
 Accelerated authorization in the courts Strava
 
 
