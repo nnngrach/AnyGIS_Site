@@ -14,6 +14,8 @@ layout: default
 
 ### September 2019
 
+Add own Image Processing service
+
 Bugfix for proxy mode
 
 Accelerated authorization in the courts Strava
