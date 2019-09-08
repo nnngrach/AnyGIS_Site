@@ -34,7 +34,7 @@ layout: default
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: https://anygis.herokuapp.com/download/orux_short_ru/onlinemapsources.xml
+[2]: https://anygis.ru/api/v1/download/orux_short_ru/onlinemapsources.xml
 
 
 
@@ -61,7 +61,7 @@ layout: default
 [9]: https://custom-map-source.appspot.com/
 [10]: https://www.sasgis.org/
 
-[11]: https://anygis.herokuapp.com/download/orux_full_ru/onlinemapsources.xml
+[11]: https://anygis.ru/api/v1/download/orux_full_ru/onlinemapsources.xml
 
 
 

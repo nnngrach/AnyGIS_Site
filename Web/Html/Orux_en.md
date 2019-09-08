@@ -35,7 +35,7 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: https://anygis.herokuapp.com/download/orux_short_en/onlinemapsources.xml
+[2]: https://anygis.ru/api/v1/download/orux_short_en/onlinemapsources.xml
 
 
 
@@ -60,7 +60,7 @@ If you already know what kind of maps you need, then this set is for you. Note t
 [9]: https://custom-map-source.appspot.com/
 [10]: https://www.sasgis.org/
 
-[11]: https://anygis.herokuapp.com/download/orux_full_en/onlinemapsources.xml
+[11]: https://anygis.ru/api/v1/download/orux_full_en/onlinemapsources.xml
 
 
 

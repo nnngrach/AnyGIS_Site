@@ -24,7 +24,7 @@ Host / MapName / X / Y / Z
 As an example, let's create a query to download the Wikimapia's map tile. To do this, we will use the following parameters:
 
 ```
-Host = https://anygis.server/ru/
+Host = https://anygis.ru/api/v1/
 MapName = Wikimapia
 X = 619
 Y = 320
@@ -34,7 +34,7 @@ Z = 10
 The final version of the query will look like this:
 
 ```
-https://anygis.ru/server/Wikimapia/619/320/10
+https://anygis.ru/api/v1/Wikimapia/619/320/10
 ```
 
 X ,Y are the tile numbers in the standard web Mercator projection. Z - level of zoom for it same. In other words, these are the same values that are used to obtain OpenStreetMap tiles.
@@ -43,13 +43,13 @@ Also, instead of tile numbers, you can specify the coordinates in decimal format
 
 ```
 Host / MapName / Longitude / Latitude / Z
-https://anygis.ru/server/Wikimapia/56.062293/37.708244/10
+https://anygis.ru/api/v1/Wikimapia/56.062293/37.708244/10
 ```
 
 
 To get the MapName parameter, go to the page with the list of available maps:
 
 ```
-https://anygis.ru/server/list
+https://anygis.ru/api/v1/list
 ```
 
