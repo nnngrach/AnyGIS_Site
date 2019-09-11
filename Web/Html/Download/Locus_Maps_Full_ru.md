@@ -271,6 +271,8 @@ layout: default
 
 
 ### [Евразия - Туристические - Разное](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Hiking-Other.xml "Скачать всю группу")
+[Велокарта Чепецк.net](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Hiking-Other-Chepezk.xml "Скачать эту карту")
+
 [Карпаты](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Hiking-Other-Karpaty.xml "Скачать эту карту")
 
 [Катунский Чуйский хребты.  Алтай](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Hiking-Other-Altay.xml "Скачать эту карту")
@@ -377,6 +379,8 @@ layout: default
 [Ukraine - Visicom](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Eastern-Visicom.xml "Скачать эту карту")
 
 [Ukraine - Кадастровая карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Eastern-CadastrUA_overlay.xml "Скачать эту карту")
+
+[Беларусь LatLon.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Eastern-Belarus_LatLon.xml "Скачать эту карту")
 
 [Беларусь Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Eastern-Belarus_Genshtab.xml "Скачать эту карту")
 

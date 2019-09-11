@@ -237,6 +237,8 @@ layout: default
 
 
 ### Евразия - Туристические - Разное
+[Велокарта Чепецк.net](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Hiking-Other-Chepezk.sqlitedb "Скачать эту карту")
+
 [Карпаты](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Hiking-Other-Karpaty.sqlitedb "Скачать эту карту")
 
 [Катунский Чуйский хребты.  Алтай](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Hiking-Other-Altay.sqlitedb "Скачать эту карту")
@@ -326,6 +328,8 @@ layout: default
 [Ukraine - Visicom](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Visicom.sqlitedb "Скачать эту карту")
 
 [Ukraine - Кадастровая карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-CadastrUA_overlay.sqlitedb "Скачать эту карту")
+
+[Беларусь LatLon.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Belarus_LatLon.sqlitedb "Скачать эту карту")
 
 [Беларусь Генштаб](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.sqlitedb "Скачать эту карту")
 

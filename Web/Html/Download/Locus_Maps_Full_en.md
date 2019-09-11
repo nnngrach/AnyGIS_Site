@@ -230,6 +230,11 @@ layout: default
 
 
 
+### [Eurasia - Eastern](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Eastern.xml "Download all group files")
+[Belarus LatLon.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-Belarus_LatLon.xml "Download this map")
+
+
+
 ### [Europe - Eastern](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Eastern.xml "Download all group files")
 [Ukraine - Cadaster map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-CadastrUA_overlay.xml "Download this map")
 
@@ -375,6 +380,8 @@ layout: default
 [Altai Katun Ridge](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Other-Altay.xml "Download this map")
 
 [Carpathians](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Other-Karpaty.xml "Download this map")
+
+[Chepezk cycle map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Other-Chepezk.xml "Download this map")
 
 [Ergaki - Ardan](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Other-Sayani.xml "Download this map")
 

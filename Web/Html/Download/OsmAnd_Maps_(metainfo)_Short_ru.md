@@ -70,6 +70,11 @@ layout: default
 
 
 
+### Евразия - Туристические - Разное
+[Велокарта Чепецк.net](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Hiking-Other-Chepezk.zip "Скачать эту карту")
+
+
+
 ### Overlay
 [Navionics Marine Charts](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Navionics_Marine_Charts.zip "Скачать эту карту")
 

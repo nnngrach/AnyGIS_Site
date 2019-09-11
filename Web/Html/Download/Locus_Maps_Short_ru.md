@@ -91,6 +91,11 @@ layout: default
 
 
 
+### [Евразия - Туристические - Разное](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Hiking-Other.xml "Скачать всю группу")
+[Велокарта Чепецк.net](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Hiking-Other-Chepezk.xml "Скачать эту карту")
+
+
+
 ### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Overlay.xml "Скачать всю группу")
 [Navionics Marine Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Navionics_Marine_Charts.xml "Скачать эту карту")
 

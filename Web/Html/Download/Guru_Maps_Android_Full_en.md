@@ -209,6 +209,11 @@ layout: default
 
 
 
+### Eurasia - Eastern
+[Belarus LatLon.org](https://anygis.ru/api/v1/download/galileo_en/Europe-Eastern-Belarus_LatLon.ms "Download this map")
+
+
+
 ### Europe - Eastern
 [Ukraine - Cadaster map](https://anygis.ru/api/v1/download/galileo_en/Europe-Eastern-CadastrUA_overlay.ms "Download this map")
 
@@ -352,6 +357,8 @@ layout: default
 [Altai Katun Ridge](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Other-Altay.ms "Download this map")
 
 [Carpathians](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Other-Karpaty.ms "Download this map")
+
+[Chepezk cycle map](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Other-Chepezk.ms "Download this map")
 
 [Ergaki - Ardan](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Other-Sayani.ms "Download this map")
 

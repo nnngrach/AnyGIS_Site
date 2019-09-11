@@ -85,3 +85,8 @@ layout: default
 
 [RusOutdoor maps (lite)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.ms "Скачать эту карту")
 
+
+
+### Евразия - Туристические - Разное
+[Велокарта Чепецк.net](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Chepezk.ms "Скачать эту карту")
+

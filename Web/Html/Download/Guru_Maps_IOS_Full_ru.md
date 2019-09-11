@@ -261,6 +261,8 @@ layout: default
 
 
 ### Евразия - Туристические - Разное
+[Велокарта Чепецк.net](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Chepezk.ms "Скачать эту карту")
+
 [Карпаты](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Karpaty.ms "Скачать эту карту")
 
 [Катунский Чуйский хребты.  Алтай](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Altay.ms "Скачать эту карту")
@@ -363,6 +365,8 @@ layout: default
 [Ukraine - Visicom](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Visicom.ms "Скачать эту карту")
 
 [Ukraine - Кадастровая карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_overlay.ms "Скачать эту карту")
+
+[Беларусь LatLon.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Belarus_LatLon.ms "Скачать эту карту")
 
 [Беларусь Генштаб](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.ms "Скачать эту карту")
 

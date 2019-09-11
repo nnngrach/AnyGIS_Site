@@ -261,6 +261,8 @@ layout: default
 
 
 ### Евразия - Туристические - Разное
+[Велокарта Чепецк.net](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Other-Chepezk.ms "Скачать эту карту")
+
 [Карпаты](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Other-Karpaty.ms "Скачать эту карту")
 
 [Катунский Чуйский хребты.  Алтай](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Other-Altay.ms "Скачать эту карту")
@@ -363,6 +365,8 @@ layout: default
 [Ukraine - Visicom](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-Visicom.ms "Скачать эту карту")
 
 [Ukraine - Кадастровая карта](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-CadastrUA_overlay.ms "Скачать эту карту")
+
+[Беларусь LatLon.org](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-Belarus_LatLon.ms "Скачать эту карту")
 
 [Беларусь Генштаб](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-Belarus_Genshtab.ms "Скачать эту карту")
 

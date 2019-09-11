@@ -181,6 +181,11 @@ layout: default
 
 
 
+### Eurasia - Eastern
+[Belarus LatLon.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Eastern-Belarus_LatLon.sqlitedb "Download this map")
+
+
+
 ### Europe - Eastern
 [Ukraine - Cadaster map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Eastern-CadastrUA_overlay.sqlitedb "Download this map")
 
@@ -326,6 +331,8 @@ layout: default
 [Altai Katun Ridge](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Hiking-Other-Altay.sqlitedb "Download this map")
 
 [Carpathians](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Hiking-Other-Karpaty.sqlitedb "Download this map")
+
+[Chepezk cycle map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Hiking-Other-Chepezk.sqlitedb "Download this map")
 
 [Ergaki - Ardan](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Hiking-Other-Sayani.sqlitedb "Download this map")
 

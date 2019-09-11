@@ -77,6 +77,11 @@ layout: default
 
 
 
+### Евразия - Туристические - Разное
+[Велокарта Чепецк.net](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Other-Chepezk.AQX "Скачать эту карту")
+
+
+
 ### Overlay
 [Navionics Marine Charts](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Navionics_Marine_Charts.AQX "Скачать эту карту")
 
