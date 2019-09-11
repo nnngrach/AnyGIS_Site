@@ -18,7 +18,7 @@ layout: default
 
 ***Universal map for hiking and mountain tourism in Russia and neighboring countries***
 
-*last update: 19.02.19*
+*last update: 1.09.19*
 
 ![](https://anygis.ru/Web/Img/nnngrach_zagedan.jpg)
 
@@ -48,7 +48,7 @@ This group of layers should be used to select the desired continent, country, an
 
 ### Layer 2 - Cities and highways
 
-Zoom: 10
+Zoom: 10 - 11
 
 OSM Sputnik.ru
 
@@ -57,15 +57,6 @@ This and the next layer should be used to find the region of interest, focusing 
 ![](https://anygis.ru/Web/Img/sputnik_ru.png)
 
 
-### Layer 3 - Cities and highways
-
-Zoom: 11
-
-Yandex Map
-
-This and the previous layer should be used to find the region of interest, focusing on city names and highway lines. Plus maps from the site Yandex in a more detailed and visual rendering of roads. There is a display of wetlands. Cons - a map in a non-standard projection. To convert it takes extra time and the map is loaded not so fast. Very often I just slip through this layer.
-
-![](https://anygis.ru/Web/Img/ya_map.png)
 
 ***
 
@@ -115,7 +106,13 @@ Maps with local coverage, GGC 500m, OSM Outdoors
 ![](https://anygis.ru/Web/Img/ggc.png)
 
 
+***
 
+About Thunderforest Outdoors
+
+Thunderforest Outdoors is OSM-based map. There is quite a clear drawing of the terrain and well-marked lines of trails.
+
+![](https://anygis.ru/Web/Img/osm_outdoors.png)
 
 ***
 
@@ -123,17 +120,15 @@ Maps with local coverage, GGC 500m, OSM Outdoors
 
 Zoom: 15
 
-Thunderforest Outdoors + POI layer
+Chepeck OSM 
 
 OSM maps are public digital maps that cover the entire planet. The information here is the most up-to-date. Suitable not only for the forest, but also for the city. In addition to natural sites and trails, this map can be marked by public transport and railway stations, as well as shops and some attractions.
 
 Of the minuses, it is worth noting that this is a public map it can be changed by anyone. Including not competent enough . It is also worth noting that remote areas that are visited by few people can be drawn in insufficient detail.
 
-If we talk specifically about the map Thunderforest Outdoors, there is quite a clear drawing of the terrain and well-marked lines of trails.
+For this layer I chose map Chepetsk.net. This is cycle map with hight contrast level to make it easier to see the map on the phone screen in the bright sun. Also here POI ponits drawings from 15 zoom level. This is very usefull with planning. Of the minuses - it does not display the terrain.
 
-In addition to this map, I added a layer with POI icons: springs, camping lots, etc. According to the OSM standard, many of these icons are only displayed at scale 16 or even 17. But, in my opinion, when planning a route, it is convenient to see such important objects "from afar".  Unfortunately, this additional operation slightly reduced the loading speed of the map. 
-
-![](https://anygis.ru/Web/Img/osm_outdoors.png)
+![](https://anygis.ru/Web/Img/chepeck.png)
 
 
 
@@ -141,11 +136,10 @@ In addition to this map, I added a layer with POI icons: springs, camping lots, 
 
 Zoom: 16
 
-OpenStreetMaps Mapnik + hillshade layer
+OpenStreetMaps Mapnik
 
 This is the basic version of OSM maps. It has the same pros and cons as all OSM maps. In my opinion, this version is the most versatile and has the largest number of POI icons and signed objects. Of the minuses - it does not display the terrain.
 
-To compensate, I added an additional semi-transparent layer with relief to this map. Not too noticeable, so as not to distract attention and not to paint over small objects on the map. But at the same time, to areas with a strong height difference immediately caught the eye. As in the previous case, you have to pay for loading an additional layer with increased loading time.
 
 ![](https://anygis.ru/Web/Img/mapnik.png)
 
