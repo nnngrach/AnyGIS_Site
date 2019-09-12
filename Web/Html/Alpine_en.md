@@ -75,8 +75,8 @@ If you already know what kind of maps you need, then this set is for you. Note t
 ### How to install maps from the computer?
 * Follow the links on this page and download any map.
 * If you'll get zip-archieve, then extract files from it. 
-* Copy dowloaded file to this folder on your smartphone: `\alpinequest\datastore\custom-maps\`.
-* Restart the app to see the maps you've added.
+* Copy dowloaded file to this folder on your smartphone: `\alpinequest\maps`.
+* New maps should appear in the application.
  
 
 
