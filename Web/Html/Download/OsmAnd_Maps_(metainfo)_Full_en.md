@@ -25,8 +25,6 @@ layout: default
 
 [Here Terrain](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Here_terrain.zip "Download this map")
 
-[Waze](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Waze.zip "Download this map")
-
 [Yandex Map](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_map.zip "Download this map")
 
 [Yandex Map (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_map_proxy.zip "Download this map")

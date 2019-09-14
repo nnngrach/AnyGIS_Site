@@ -19,8 +19,6 @@ layout: default
 
 [Google Terrain](https://anygis.ru/api/v1/download/alpine_en/Global-City-Google_terrain.AQX "Download this map")
 
-[Waze](https://anygis.ru/api/v1/download/alpine_en/Global-City-Waze.AQX "Download this map")
-
 
 
 ### Global - Satellites

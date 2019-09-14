@@ -31,8 +31,6 @@ layout: default
 
 [Here Traffic](https://anygis.ru/api/v1/download/galileo_en/Global-City-Here_traffic.ms "Download this map")
 
-[Waze](https://anygis.ru/api/v1/download/galileo_en/Global-City-Waze.ms "Download this map")
-
 [Yandex Map](https://anygis.ru/api/v1/download/galileo_en/Global-City-Yandex_map.ms "Download this map")
 
 

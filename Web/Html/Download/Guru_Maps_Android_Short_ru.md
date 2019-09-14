@@ -80,6 +80,11 @@ layout: default
 
 
 
+### Евразия - Топокарты - Советские
+[Топокарты (Все масштабы)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Topo-Soviet-All.ms "Скачать эту карту")
+
+
+
 ### Евразия - Туристические - Многослойные
 [RusOutdoor maps](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.ms "Скачать эту карту")
 

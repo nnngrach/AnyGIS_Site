@@ -27,8 +27,6 @@ layout: default
 
 [Here Ландшафт](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Here_terrain.AQX "Скачать эту карту")
 
-[Waze Пробки](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Waze.AQX "Скачать эту карту")
-
 [Yandex Карта](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
 
 [Yandex Карта (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map_proxy.AQX "Скачать эту карту")

@@ -84,6 +84,11 @@ layout: default
 
 
 
+### [Евразия - Топокарты - Советские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo-Soviet.xml "Скачать всю группу")
+[Топокарты (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-All.xml "Скачать эту карту")
+
+
+
 ### [Евразия - Туристические - Многослойные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Hiking-Multylayer.xml "Скачать всю группу")
 [RusOutdoor maps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml "Скачать эту карту")
 

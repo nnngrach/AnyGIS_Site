@@ -19,8 +19,6 @@ layout: default
 
 [Google Terrain](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-City-Google_terrain.sqlitedb "Download this map")
 
-[Waze](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-City-Waze.sqlitedb "Download this map")
-
 
 
 ### Global - Satellites

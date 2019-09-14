@@ -70,6 +70,11 @@ layout: default
 
 
 
+### Евразия - Топокарты - Советские
+[Топокарты (Все масштабы)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Topo-Soviet-All.zip "Скачать эту карту")
+
+
+
 ### Евразия - Туристические - Разное
 [Велокарта Чепецк.net](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Hiking-Other-Chepezk.zip "Скачать эту карту")
 

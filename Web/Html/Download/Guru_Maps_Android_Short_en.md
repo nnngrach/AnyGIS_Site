@@ -19,8 +19,6 @@ layout: default
 
 [Google Terrain](https://anygis.ru/api/v1/download/galileo_en/Global-City-Google_terrain.ms "Download this map")
 
-[Waze](https://anygis.ru/api/v1/download/galileo_en/Global-City-Waze.ms "Download this map")
-
 
 
 ### Global - Satellites

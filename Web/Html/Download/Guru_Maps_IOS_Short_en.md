@@ -19,8 +19,6 @@ layout: default
 
 [Google Terrain](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain.ms "Download this map")
 
-[Waze](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Waze.ms "Download this map")
-
 
 
 ### Global - Satellites
