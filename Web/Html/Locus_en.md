@@ -129,7 +129,16 @@ With all the following installations of maps from third-party sets, such an oper
 
 The idea is that after this everything should work fine. However, sometimes, if the Locus is already cluttered and you install new versions of maps on top of old ones, some of the files may not be replaced by new versions. In this case, you can completely uninstall Locus along with all the files and then install it again. Before such a procedure, do not forget to save your points, gps-tracks and downloaded offline maps.
 
- 
+
+
+### Deinsallation
+
+[Delete all AnyGIS maps][17]
+
+[17]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/Uninstaller_AnyGIS_full_set.xml
+
+
+
 
 ### How to set cache refreshing
 Once the additional maps are loaded and appear in the Locus, it is useful to configure how long they are stored in the cache. Let me remind you that all the map fragments are downloaded to the smartphone memory before they appear on the screen. With this procedure, all saved areas can be displayed without the Internet.
