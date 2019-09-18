@@ -17,9 +17,9 @@ layout: default
 
 # Карты для Locus
 
-[Список изменений][16]
+[Список изменений][00]
 
-[16]: https://anygis.ru/Web/Html/Changelog_ru
+[00]: https://anygis.ru/Web/Html/Changelog_ru
 
 ![](https://anygis.ru/Web/Img/4mapsLocus.png)
 

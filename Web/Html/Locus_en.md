@@ -17,9 +17,9 @@ layout: default
 
 # Online-maps sources for Locus
 
-[Changelog][16]
+[Changelog][00]
 
-[16]: https://anygis.ru/Web/Html/Changelog_en
+[00]: https://anygis.ru/Web/Html/Changelog_en
 
 ![](https://anygis.ru/Web/Img/4mapsLocus.png)
 
