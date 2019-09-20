@@ -27,7 +27,7 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Here_ter)  [Here Ландшафт](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Here_terrain.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Карта](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
+[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84)  [Yandex Карта](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Карта (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map_proxy.AQX "Скачать эту карту")
 
@@ -56,7 +56,7 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Sentinel)  [Sentinel](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Спутник](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Yandex.AQX "Скачать эту карту")
+[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84)  [Yandex Спутник](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Yandex.AQX "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Спутник (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Yandex_proxy.AQX "Скачать эту карту")
 
