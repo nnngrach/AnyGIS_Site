@@ -438,6 +438,8 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Here_traffic_layer)  [Here Traffic](https://anygis.ru/api/v1/download/alpine_en/Overlay-Here_traffic.AQX "Download this map")
 
+[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Hillshade_SRTM)  [Hillshade SRTM](https://anygis.ru/api/v1/download/alpine_en/Overlay-Hillshade_SRTM.AQX "Download this map")
+
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Hillshade_VotEtoVid)  [Hillshade Slope map](https://anygis.ru/api/v1/download/alpine_en/Overlay-Hillshade_Slopemap.AQX "Download this map")
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Hillshade_Waymarkedtrails)  [Hillshade Waymarkedtrails.org](https://anygis.ru/api/v1/download/alpine_en/Overlay-Hillshade_Waymarkedtrails.AQX "Download this map")

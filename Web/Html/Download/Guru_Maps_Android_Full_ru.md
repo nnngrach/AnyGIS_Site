@@ -302,11 +302,11 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota)  [Yota](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Yota.ms "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Hillshade_VotEtoVid)  [Карта уклонов](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Slopemap.ms "Скачать эту карту")
-
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS)  [МТС](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-MTS.ms "Скачать эту карту")
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon)  [Мегафон](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Megafon.ms "Скачать эту карту")
+
+[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Hillshade_VotEtoVid)  [Рельеф Карта уклонов](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Slopemap.ms "Скачать эту карту")
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Rosreestr_kadaster)  [РосРеестр - Кадастровые границы](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-RosReestr.ms "Скачать эту карту")
 
