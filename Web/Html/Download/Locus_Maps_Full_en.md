@@ -470,6 +470,8 @@ layout: default
 
 
 ### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Overlay.xml "Download all group files")
+[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Garmin_MarineImages)  [Garmin Quickdraw MarineImages](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Garmin_MarineImages.xml "Download this map")
+
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Google_labels)  [Google Labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Google_labels.xml "Download this map")
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Google_Trafic_Layer)  [Google Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Google_traffic.xml "Download this map")

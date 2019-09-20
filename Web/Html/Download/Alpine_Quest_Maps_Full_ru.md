@@ -423,6 +423,8 @@ layout: default
 
 
 ### Overlay
+[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Garmin_MarineImages)  [Garmin MarineImages (Снимки сонара)](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Garmin_MarineImages.AQX "Скачать эту карту")
+
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Google_labels)  [Google Надписи](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Google_labels.AQX "Скачать эту карту")
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Google_Trafic_Layer)  [Google Пробки](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Google_traffic.AQX "Скачать эту карту")

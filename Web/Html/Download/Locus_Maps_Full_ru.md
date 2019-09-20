@@ -461,6 +461,8 @@ layout: default
 
 
 ### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Overlay.xml "Скачать всю группу")
+[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Garmin_MarineImages)  [Garmin MarineImages (Снимки сонара)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Garmin_MarineImages.xml "Скачать эту карту")
+
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Google_labels)  [Google Надписи](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Google_labels.xml "Скачать эту карту")
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Google_Trafic_Layer)  [Google Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Google_traffic.xml "Скачать эту карту")

@@ -402,6 +402,8 @@ layout: default
 
 
 ### Overlay
+[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Garmin_MarineImages)  [Garmin MarineImages (Снимки сонара)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Garmin_MarineImages.sqlitedb "Скачать эту карту")
+
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Google_Trafic_Layer)  [Google Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Google_traffic.sqlitedb "Скачать эту карту")
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Google_Trafic_Layer_proxy)  [Google Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Google_traffic_proxy.sqlitedb "Скачать эту карту")
