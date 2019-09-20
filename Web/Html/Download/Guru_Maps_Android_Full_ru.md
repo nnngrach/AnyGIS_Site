@@ -125,9 +125,9 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [Open Sea Map](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-OpenSeaMap.ms "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [Open Sea Map + Карта глубин](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-OpenSeaMap_deep.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Карта глубин](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-OpenSeaMap_deep.ms "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [Open Sea Map + Морской траффик](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Морской траффик](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
 
 
 

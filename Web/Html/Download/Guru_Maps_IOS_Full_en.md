@@ -125,9 +125,9 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [Open Sea Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Water-OpenSeaMap.ms "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [Open Sea Map + Deep Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Water-OpenSeaMap_deep.ms "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Deep Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Water-OpenSeaMap_deep.ms "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [Open Sea Map + Traffic](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Water-OpenSeaMap_traffic.ms "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Traffic](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Water-OpenSeaMap_traffic.ms "Download this map")
 
 
 
