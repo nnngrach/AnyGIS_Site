@@ -452,6 +452,10 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/TILE_GRID)  [OSM Tile Grid](https://anygis.ru/api/v1/download/alpine_en/Overlay-Tile_grid.AQX "Download this map")
 
+[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [OpenSeaMap](https://anygis.ru/api/v1/download/alpine_en/Overlay-OpenSeaMap_seamark.AQX "Download this map")
+
+[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth)  [OpenSeaMap Deep Map](https://anygis.ru/api/v1/download/alpine_en/Overlay-OpenSeaMap_deep.AQX "Download this map")
+
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Traffic)  [OpenSeaMap Traffic](https://anygis.ru/api/v1/download/alpine_en/Overlay-OpenSeaMap_traffic.AQX "Download this map")
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer)  [OpenSnowMap Pistes](https://anygis.ru/api/v1/download/alpine_en/Overlay-OpenSnowMap_pistes.AQX "Download this map")

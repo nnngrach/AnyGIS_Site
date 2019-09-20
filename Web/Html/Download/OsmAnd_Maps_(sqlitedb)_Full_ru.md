@@ -414,6 +414,10 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/TILE_GRID)  [OSM Tile Grid](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Tile_grid.sqlitedb "Скачать эту карту")
 
+[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [OpenSeaMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-OpenSeaMap_seamark.sqlitedb "Скачать эту карту")
+
+[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth)  [OpenSeaMap Карта глубин](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-OpenSeaMap_deep.sqlitedb "Скачать эту карту")
+
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Traffic)  [OpenSeaMap Морской траффик](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-OpenSeaMap_traffic.sqlitedb "Скачать эту карту")
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer)  [OpenSnowMap Лыжные трассы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-OpenSnowMap_pistes.sqlitedb "Скачать эту карту")

@@ -435,6 +435,10 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/TILE_GRID)  [OSM Tile Grid](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Tile_grid.AQX "Скачать эту карту")
 
+[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [OpenSeaMap](https://anygis.ru/api/v1/download/alpine_ru/Overlay-OpenSeaMap_seamark.AQX "Скачать эту карту")
+
+[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth)  [OpenSeaMap Карта глубин](https://anygis.ru/api/v1/download/alpine_ru/Overlay-OpenSeaMap_deep.AQX "Скачать эту карту")
+
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Traffic)  [OpenSeaMap Морской траффик](https://anygis.ru/api/v1/download/alpine_ru/Overlay-OpenSeaMap_traffic.AQX "Скачать эту карту")
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer)  [OpenSnowMap Лыжные трассы](https://anygis.ru/api/v1/download/alpine_ru/Overlay-OpenSnowMap_pistes.AQX "Скачать эту карту")

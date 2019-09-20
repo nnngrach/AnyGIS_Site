@@ -428,6 +428,10 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/TILE_GRID)  [OSM Tile Grid](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Tile_grid.sqlitedb "Download this map")
 
+[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [OpenSeaMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-OpenSeaMap_seamark.sqlitedb "Download this map")
+
+[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth)  [OpenSeaMap Deep Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-OpenSeaMap_deep.sqlitedb "Download this map")
+
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Traffic)  [OpenSeaMap Traffic](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-OpenSeaMap_traffic.sqlitedb "Download this map")
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer)  [OpenSnowMap Pistes](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-OpenSnowMap_pistes.sqlitedb "Download this map")

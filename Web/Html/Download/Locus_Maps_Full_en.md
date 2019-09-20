@@ -490,6 +490,10 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/TILE_GRID)  [OSM Tile Grid](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Tile_grid.xml "Download this map")
 
+[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark)  [OpenSeaMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-OpenSeaMap_seamark.xml "Download this map")
+
+[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth)  [OpenSeaMap Deep Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-OpenSeaMap_deep.xml "Download this map")
+
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Traffic)  [OpenSeaMap Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-OpenSeaMap_traffic.xml "Download this map")
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer)  [OpenSnowMap Pistes](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-OpenSnowMap_pistes.xml "Download this map")
