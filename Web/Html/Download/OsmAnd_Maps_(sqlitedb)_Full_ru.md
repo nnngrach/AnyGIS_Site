@@ -25,9 +25,9 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Here_ter)  [Here Ландшафт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Here_terrain.sqlitedb "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84)  [Yandex Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map.sqlitedb "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84_proxy)  [Yandex Карта (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map_proxy.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Карта (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map_proxy.sqlitedb "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Народная](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_narodnaya.sqlitedb "Скачать эту карту")
 
@@ -52,11 +52,11 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Sentinel)  [Sentinel](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel.sqlitedb "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84)  [Yandex Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84_referer)  [Yandex Спутник (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex_proxy.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Спутник (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex_proxy.sqlitedb "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Kosmosnimki_WGS84)  [Космоснимки.ру](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Kosmosnimki.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Kosmosnimki.sqlitedb "Скачать эту карту")
 
 
 
@@ -452,11 +452,11 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Wikimapia_layer)  [Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Wikimapia.sqlitedb "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84)  [Yandex Надписи](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Yandex_labels.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Надписи](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Yandex_labels.sqlitedb "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84)  [Yandex Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Yandex_traffic.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Yandex_traffic.sqlitedb "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84_proxy)  [Yandex Пробки (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Yandex_traffic_proxy.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Yandex_traffic_proxy.sqlitedb "Скачать эту карту")
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Hillshade_Waymarkedtrails)  [Рельеф Waymarkedtrails.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Hillshade_Waymarkedtrails.sqlitedb "Скачать эту карту")
 

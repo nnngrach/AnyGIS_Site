@@ -25,9 +25,9 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Here_ter)  [Here Terrain](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Here_terrain.zip "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84)  [Yandex Map](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_map.zip "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Map](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_map.zip "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84_proxy)  [Yandex Map (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_map_proxy.zip "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Map (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_map_proxy.zip "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex MapEditor](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_narodnaya.zip "Download this map")
 
@@ -44,7 +44,7 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Here_sat)  [Here Satellite](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Here.zip "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Kosmosnimki_WGS84)  [Kosmosnimki.ru](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Kosmosnimki.zip "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Kosmosnimki.ru](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Kosmosnimki.zip "Download this map")
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Mapbox_Sat)  [Mapbox Satellite](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Mapbox.zip "Download this map")
 
@@ -54,9 +54,9 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Sentinel)  [Sentinel](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Sentinel.zip "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84)  [Yandex Satellite](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex.zip "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Satellite](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex.zip "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84_referer)  [Yandex Satellite (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex_proxy.zip "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Satellite (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex_proxy.zip "Download this map")
 
 
 
@@ -460,11 +460,11 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Wikimapia_layer)  [Wikimapia.org](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Wikimapia.zip "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84)  [Yandex Labels](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Yandex_labels.zip "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Labels](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Yandex_labels.zip "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84)  [Yandex Traffic](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Yandex_traffic.zip "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Yandex_traffic.zip "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84_proxy)  [Yandex Traffic (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Yandex_traffic_proxy.zip "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Yandex_traffic_proxy.zip "Download this map")
 
 
 

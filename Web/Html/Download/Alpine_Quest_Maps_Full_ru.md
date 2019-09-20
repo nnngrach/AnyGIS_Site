@@ -27,9 +27,9 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Here_ter)  [Here Ландшафт](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Here_terrain.AQX "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84)  [Yandex Карта](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Карта](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84_proxy)  [Yandex Карта (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map_proxy.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Карта (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map_proxy.AQX "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Народная](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_narodnaya.AQX "Скачать эту карту")
 
@@ -56,11 +56,11 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Sentinel)  [Sentinel](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel.AQX "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84)  [Yandex Спутник](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Yandex.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Спутник](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Yandex.AQX "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84_referer)  [Yandex Спутник (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Yandex_proxy.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Спутник (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Yandex_proxy.AQX "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Kosmosnimki_WGS84)  [Космоснимки.ру](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Kosmosnimki.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Kosmosnimki.AQX "Скачать эту карту")
 
 
 
@@ -471,11 +471,11 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Wikimapia_layer)  [Wikimapia.org](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Wikimapia.AQX "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84)  [Yandex Надписи](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_labels.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Надписи](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_labels.AQX "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84)  [Yandex Пробки](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_traffic.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_traffic.AQX "Скачать эту карту")
 
-[![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84_proxy)  [Yandex Пробки (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_traffic_proxy.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_traffic_proxy.AQX "Скачать эту карту")
 
 [![](https://anygis.ru/Web/Img/eye.png "Предпросмотр карты")](https://anygis.ru/api/v1/preview/Hillshade_Waymarkedtrails)  [Рельеф Waymarkedtrails.org](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Hillshade_Waymarkedtrails.AQX "Скачать эту карту")
 

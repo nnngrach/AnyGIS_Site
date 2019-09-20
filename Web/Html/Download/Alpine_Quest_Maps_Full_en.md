@@ -27,9 +27,9 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Here_ter)  [Here Terrain](https://anygis.ru/api/v1/download/alpine_en/Global-City-Here_terrain.AQX "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84)  [Yandex Map](https://anygis.ru/api/v1/download/alpine_en/Global-City-Yandex_map.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Map](https://anygis.ru/api/v1/download/alpine_en/Global-City-Yandex_map.AQX "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84_proxy)  [Yandex Map (proxy)](https://anygis.ru/api/v1/download/alpine_en/Global-City-Yandex_map_proxy.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Map (proxy)](https://anygis.ru/api/v1/download/alpine_en/Global-City-Yandex_map_proxy.AQX "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex MapEditor](https://anygis.ru/api/v1/download/alpine_en/Global-City-Yandex_narodnaya.AQX "Download this map")
 
@@ -48,7 +48,7 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Here_sat)  [Here Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Here.AQX "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Kosmosnimki_WGS84)  [Kosmosnimki.ru](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Kosmosnimki.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Kosmosnimki.ru](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Kosmosnimki.AQX "Download this map")
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Mapbox_Sat)  [Mapbox Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Mapbox.AQX "Download this map")
 
@@ -58,9 +58,9 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Sentinel)  [Sentinel](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Sentinel.AQX "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84)  [Yandex Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Yandex.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Yandex.AQX "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84_referer)  [Yandex Satellite (proxy)](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Yandex_proxy.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Satellite (proxy)](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Yandex_proxy.AQX "Download this map")
 
 
 
@@ -486,11 +486,11 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Wikimapia_layer)  [Wikimapia.org](https://anygis.ru/api/v1/download/alpine_en/Overlay-Wikimapia.AQX "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84)  [Yandex Labels](https://anygis.ru/api/v1/download/alpine_en/Overlay-Yandex_labels.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Labels](https://anygis.ru/api/v1/download/alpine_en/Overlay-Yandex_labels.AQX "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84)  [Yandex Traffic](https://anygis.ru/api/v1/download/alpine_en/Overlay-Yandex_traffic.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic](https://anygis.ru/api/v1/download/alpine_en/Overlay-Yandex_traffic.AQX "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84_proxy)  [Yandex Traffic (proxy)](https://anygis.ru/api/v1/download/alpine_en/Overlay-Yandex_traffic_proxy.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic (proxy)](https://anygis.ru/api/v1/download/alpine_en/Overlay-Yandex_traffic_proxy.AQX "Download this map")
 
 
 

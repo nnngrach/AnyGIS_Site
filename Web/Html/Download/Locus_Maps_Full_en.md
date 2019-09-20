@@ -31,13 +31,13 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Here_traffic_layer)  [Here Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Here_traffic.xml "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84)  [Yandex Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_map.xml "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_map.xml "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_map_WGS84_proxy)  [Yandex Map (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_map_proxy.xml "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Map (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_map_proxy.xml "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex MapEditor](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_narodnaya.xml "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84)  [Yandex Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_traffic.xml "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_traffic.xml "Download this map")
 
 
 
@@ -54,7 +54,7 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Here_sat)  [Here Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Here.xml "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Kosmosnimki_WGS84)  [Kosmosnimki.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Kosmosnimki.xml "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Kosmosnimki.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Kosmosnimki.xml "Download this map")
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Mapbox_Sat)  [Mapbox Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Mapbox.xml "Download this map")
 
@@ -64,11 +64,11 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Sentinel)  [Sentinel](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Sentinel.xml "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84)  [Yandex Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex.xml "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex.xml "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84_referer)  [Yandex Satellite (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex_proxy.xml "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Satellite (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex_proxy.xml "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84)  [Yandex Satellite + labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex_with_labels.xml "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Satellite + labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex_with_labels.xml "Download this map")
 
 
 
@@ -524,11 +524,11 @@ layout: default
 
 [![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Wikimapia_layer)  [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Wikimapia.xml "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84)  [Yandex Labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_labels.xml "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_labels.xml "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84)  [Yandex Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_traffic.xml "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_traffic.xml "Download this map")
 
-[![](https://anygis.ru/Web/Img/eye.png "Preview map")](https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84_proxy)  [Yandex Traffic (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_traffic_proxy.xml "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_traffic_proxy.xml "Download this map")
 
 
 
