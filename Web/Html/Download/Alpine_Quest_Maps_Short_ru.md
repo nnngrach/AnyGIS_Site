@@ -15,95 +15,95 @@ layout: default
 
 
 ### Глобальные - Городские
-<a href="https://anygis.ru/api/v1/preview/Other_Ru_2gis" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [2Gis](https://anygis.ru/api/v1/download/alpine_ru/Global-City-2gis.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ru_2gis" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [2Gis](https://anygis.ru/api/v1/download/alpine_ru/Global-City-2gis.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Google Карта RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_map_ru.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Google Карта RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_map_ru.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Google Ландшафт RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_terrain_ru.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Google Ландшафт RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_terrain_ru.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Yandex Карта](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Yandex Карта](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
 
 
 
 ### Глобальные - Спутниковые
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Google Спутник (гибрид) RU](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google_with_labels_ru.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Google Спутник (гибрид) RU](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google_with_labels_ru.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Yandex Спутник](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Yandex.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Yandex Спутник](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Yandex.AQX "Скачать эту карту")
 
 
 
 ### Глобальные - OSM
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Mapnik](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Mapnik.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Mapnik](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Mapnik.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_proxy" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Mapnik (PROXY)](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Mapnik_Proxy.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_proxy" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Mapnik (PROXY)](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Mapnik_Proxy.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [OpenTopoMap](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-OpenTopoMap.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [OpenTopoMap](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-OpenTopoMap.AQX "Скачать эту карту")
 
 
 
 ### Глобальные - OSM - Ways
-<a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Thunderforest Cycle](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ways-Thunderforest_Cycle.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Thunderforest Cycle](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ways-Thunderforest_Cycle.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Outdoors" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Thunderforest Outdoor](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ways-Thunderforest_Outdoor.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Outdoors" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Thunderforest Outdoor](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ways-Thunderforest_Outdoor.AQX "Скачать эту карту")
 
 
 
 ### Глобальные - Водные
-<a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Navionics Marine Charts](https://anygis.ru/api/v1/download/alpine_ru/Global-Water-Navionics_Marine_Charts.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Navionics Marine Charts](https://anygis.ru/api/v1/download/alpine_ru/Global-Water-Navionics_Marine_Charts.AQX "Скачать эту карту")
 
 
 
 ### Глобальные - Справочные
-<a href="https://anygis.ru/api/v1/preview/Nakarte_Westra" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Nakarte.me - Перевалы Вестра](https://anygis.ru/api/v1/download/alpine_ru/Global-Info-Westra_Passes.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Nakarte_Westra" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Nakarte.me - Перевалы Вестра](https://anygis.ru/api/v1/download/alpine_ru/Global-Info-Westra_Passes.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Wikimapia" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Wikimapia.org](https://anygis.ru/api/v1/download/alpine_ru/Global-Info-Wikimapia.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Wikimapia" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Wikimapia.org](https://anygis.ru/api/v1/download/alpine_ru/Global-Info-Wikimapia.AQX "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - ГГЦ
-<a href="https://anygis.ru/api/v1/preview/Combo_Best_GGC" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [ГосГисЦентр (Все масштабы)](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Topo-GGC-All.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Combo_Best_GGC" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [ГосГисЦентр (Все масштабы)](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Topo-GGC-All.AQX "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - Генштаб
-<a href="https://anygis.ru/api/v1/preview/Combo_Best_Genshtab" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Генштаб (Все масштабы)](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Topo-Genshtab-All.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Combo_Best_Genshtab" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Генштаб (Все масштабы)](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Topo-Genshtab-All.AQX "Скачать эту карту")
 
 
 
 ### Евразия - Туристические - Многослойные
-<a href="https://anygis.ru/api/v1/preview/Combo_RusOutdoor" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [RusOutdoor maps](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Combo_RusOutdoor" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [RusOutdoor maps](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Combo_RusOutdoor_lite" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [RusOutdoor maps (lite)](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Combo_RusOutdoor_lite" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [RusOutdoor maps (lite)](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.AQX "Скачать эту карту")
 
 
 
 ### Евразия - Туристические - Разное
-<a href="https://anygis.ru/api/v1/preview/Local_Chepezk" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Велокарта Чепецк.net](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Other-Chepezk.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Local_Chepezk" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Велокарта Чепецк.net](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Other-Chepezk.AQX "Скачать эту карту")
 
 
 
 ### Overlay
-<a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Navionics Marine Charts](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Navionics_Marine_Charts.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Navionics Marine Charts](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Navionics_Marine_Charts.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [OpenSnowMap Лыжные трассы](https://anygis.ru/api/v1/download/alpine_ru/Overlay-OpenSnowMap_pistes.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [OpenSnowMap Лыжные трассы](https://anygis.ru/api/v1/download/alpine_ru/Overlay-OpenSnowMap_pistes.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [OpenStreetMap GPS Tracks](https://anygis.ru/api/v1/download/alpine_ru/Overlay-OpenSreetMaps_Tracks.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [OpenStreetMap GPS Tracks](https://anygis.ru/api/v1/download/alpine_ru/Overlay-OpenSreetMaps_Tracks.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Strava Heatmap - All 256](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Strava_All_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Strava Heatmap - All 256](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Strava_All_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Strava Heatmap - Ride 256](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Strava_Ride_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Strava Heatmap - Ride 256](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Strava_Ride_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Strava Heatmap - Run 256](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Strava_Run_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Strava Heatmap - Run 256](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Strava_Run_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Strava Heatmap - Water 256](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Strava_Water_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Strava Heatmap - Water 256](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Strava_Water_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Strava Heatmap - Winter 256](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Strava_Winter_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Strava Heatmap - Winter 256](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Strava_Winter_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Waymarkedtrails.org - Cycling](https://anygis.ru/api/v1/download/alpine_ru/Overlay-WayMarkedTrails_Cycling.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Waymarkedtrails.org - Cycling](https://anygis.ru/api/v1/download/alpine_ru/Overlay-WayMarkedTrails_Cycling.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Waymarkedtrails.org - Hiking](https://anygis.ru/api/v1/download/alpine_ru/Overlay-WayMarkedTrails_Hiking.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Waymarkedtrails.org - Hiking](https://anygis.ru/api/v1/download/alpine_ru/Overlay-WayMarkedTrails_Hiking.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Предпросмотр карты"/> Предпросмотр карты</a>  [Wikimapia.org](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Wikimapia.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> title="Предпросмотр карты"</a>  [Wikimapia.org](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Wikimapia.AQX "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Надписи](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_labels.AQX "Скачать эту карту")
 
