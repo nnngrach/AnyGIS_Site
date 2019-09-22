@@ -15,60 +15,60 @@ layout: default
 
 
 ### Global - City
-<a href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Google Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_map.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Google Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_map.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Ter_EN_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Google Terrain](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Google_Ter_EN_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Google Terrain](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain.ms "Download this map")
 
 
 
 ### Global - Satellites
-<a href="https://anygis.ru/api/v1/preview/Bing_sat_for_guru" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Bing Bird's Eye](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Bing_birds_eye.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Bing_sat_for_guru" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Bing Bird's Eye](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Bing_birds_eye.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [ESRI World Imagenary](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-ESRI_Imagenary.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [ESRI World Imagenary](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-ESRI_Imagenary.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Google Satellite + labels](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Google_with_labels.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Google Satellite + labels](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Google_with_labels.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Here Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Here.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Here Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Here.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Mapbox Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Mapbox.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Mapbox Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Mapbox.ms "Download this map")
 
 
 
 ### Global - OSM
-<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [4U maps](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-4umaps.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [4U maps](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-4umaps.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Mapnik](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Mapnik.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Mapnik](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Mapnik.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Opnvkarte.de](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Opnvkarte.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Opnvkarte.de](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Opnvkarte.ms "Download this map")
 
 
 
 ### Global - OSM - Ways
-<a href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Mtbmap.cz](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-MTB_Map_Europe.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Mtbmap.cz](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-MTB_Map_Europe.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-OpenSnowMap.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-OpenSnowMap.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Strava Heatmap - Ride](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Strava_Ride.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Strava Heatmap - Ride](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Strava_Ride.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Strava Heatmap - Run](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Strava_Run.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Strava Heatmap - Run](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Strava_Run.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Thunderforest Cycle](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Thunderforest_Cycle.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Thunderforest Cycle](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Thunderforest_Cycle.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Outdoors" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Thunderforest Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Thunderforest_Outdoor.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Outdoors" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Thunderforest Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Thunderforest_Outdoor.ms "Download this map")
 
 
 
 ### Global - Nautical
-<a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Navionics Marine Charts](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Water-Navionics_Marine_Charts.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Navionics Marine Charts](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Water-Navionics_Marine_Charts.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Open Sea Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Water-OpenSeaMap.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Open Sea Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Water-OpenSeaMap.ms "Download this map")
 
 
 
 ### Global-Info
-<a href="https://anygis.ru/api/v1/preview/Wikimapia" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Wikimapia.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Info-Wikimapia.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Wikimapia" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Wikimapia.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Info-Wikimapia.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" /> Preview map</a>  [Wikimapia.org + Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Info-Wikimapia_satellite.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank"><img src="https://anygis.ru/Web/Img/eye.png" alt="Preview map"/> Preview map</a>  [Wikimapia.org + Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Info-Wikimapia_satellite.ms "Download this map")
 
