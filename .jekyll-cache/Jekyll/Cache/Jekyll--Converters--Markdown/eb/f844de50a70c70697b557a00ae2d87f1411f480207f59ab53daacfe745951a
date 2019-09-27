@@ -1,0 +1,51 @@
+I"i<table>
+  <tbody>
+    <tr>
+      <td><a href="https://anygis.ru/index_en">AnyGIS</a></td>
+      <td><a href="https://anygis.ru/Web/Html/Description_en">How it works?</a></td>
+      <td><a href="https://anygis.ru/Web/Html/RusOutdoor_en">RusOutdoor Maps</a></td>
+      <td><a href="https://anygis.ru/Web/Html/DownloadPage_en">Download</a></td>
+      <td><a href="https://anygis.ru/Web/Html/Api_en">API</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="contacts">Contacts</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://anygis.ru/Web/Img/icon_fb.png" width="60" /></td>
+      <td><strong><a href="https://www.facebook.com/anygismaps">Fb.com/anygismaps</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://anygis.ru/Web/Img/icon_vk.png" width="60" /></td>
+      <td><strong><a href="https://vk.com/anygis">Vk.com/anygis</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://anygis.ru/Web/Img/icon_email.png" width="60" /></td>
+      <td><strong><a href="mailto:anygis@bk.ru">Anygis@bk.ru</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://anygis.ru/Web/Img/icon_git.png" width="60" /></td>
+      <td><strong><a href="https://github.com/nnngrach/AnyGIS_server">Fork on GitHub</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+:ET
