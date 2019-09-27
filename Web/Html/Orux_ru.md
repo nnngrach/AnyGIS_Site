@@ -70,7 +70,7 @@ layout: default
 
 * Поместите файл `onlinemapsources.xml` в папку  `oruxmaps\mapfiles\customonlinemaps`
 * Перезапустите Orux или нажмите на кнопку Обновить. 
-* Новые карты должны появиться в разеле `Online` в папке `Layers`
+* Новые карты должны появиться в разделе `Online` в папке `Layers`
 
 ![](https://anygis.ru/Web/Img/oruxMapUpdater.png)
 
