@@ -1,0 +1,92 @@
+I"é3<table>
+  <tbody>
+    <tr>
+      <td><a href="https://anygis.ru/index_en">AnyGIS</a></td>
+      <td><a href="https://anygis.ru/Web/Html/Description_en">How it works?</a></td>
+      <td><a href="https://anygis.ru/Web/Html/RusOutdoor_en">RusOutdoor Maps</a></td>
+      <td><a href="https://anygis.ru/Web/Html/DownloadPage_en">Download</a></td>
+      <td><a href="https://anygis.ru/Web/Html/Api_en">API</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="download-maps-for-osmand-maps-sqlitedb">Download maps for OsmAnd Maps (sqlitedb)</h1>
+
+<h3 id="global---city">Global - City</h3>
+<p><a href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-City-Google_map.sqlitedb" title="Download this map">Google Map</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Google_Ter_EN_SD" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-City-Google_terrain.sqlitedb" title="Download this map">Google Terrain</a></p>
+
+<h3 id="global---satellites">Global - Satellites</h3>
+<p><a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-ESRI_Imagenary.sqlitedb" title="Download this map">ESRI World Imagenary</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Google_with_labels.sqlitedb" title="Download this map">Google Satellite + labels</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Here.sqlitedb" title="Download this map">Here Satellite</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Mapbox.sqlitedb" title="Download this map">Mapbox Satellite</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Yandex.sqlitedb" title="Download this map">Yandex Satellite</a></p>
+
+<p><img src="https://anygis.ru/Web/Img/eyeNo.png" alt="" />  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Yandex_proxy.sqlitedb" title="Download this map">Yandex Satellite (proxy)</a></p>
+
+<h3 id="global---osm">Global - OSM</h3>
+<p><a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Mapnik.sqlitedb" title="Download this map">Mapnik</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Opnvkarte.sqlitedb" title="Download this map">OpenBusMap (Opnvkarte.de)</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-OpenTopoMap.sqlitedb" title="Download this map">OpenTopoMap</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_proxi" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-OpenTopoMap_proxy.sqlitedb" title="Download this map">OpenTopoMap proxy</a></p>
+
+<h3 id="global---osm---ways">Global - OSM - Ways</h3>
+<p><a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-4umaps.sqlitedb" title="Download this map">4U maps</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Osm_Cyclosm" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Ways-Cyclosm.sqlitedb" title="Download this map">Cyclosm</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Ways-MTB_Map_Europe.sqlitedb" title="Download this map">Mtbmap.cz</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Ways-Thunderforest_Cycle.sqlitedb" title="Download this map">Thunderforest Cycle</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Osm_Outdoors" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Ways-Thunderforest_Outdoor.sqlitedb" title="Download this map">Thunderforest Outdoor</a></p>
+
+<h3 id="global---nautical">Global - Nautical</h3>
+<p><a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Water-Navionics_Marine_Charts.sqlitedb" title="Download this map">Navionics Marine Charts</a></p>
+
+<h3 id="global-info">Global-Info</h3>
+<p><a href="https://anygis.ru/api/v1/preview/Wikimapia" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Info-Wikimapia.sqlitedb" title="Download this map">Wikimapia.org</a></p>
+
+<h3 id="overlay">Overlay</h3>
+<p><a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Here_traffic.sqlitedb" title="Download this map">Here Traffic</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Hillshade_Openmapsurfer" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Hillshade_Openmapsurfer.sqlitedb" title="Download this map">Hillshade Openmapsurfer</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Hillshade_SRTM" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Hillshade_SRTM.sqlitedb" title="Download this map">Hillshade SRTM</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Hillshade_Waymarkedtrails" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Hillshade_Waymarkedtrails.sqlitedb" title="Download this map">Hillshade Waymarkedtrails.org</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Hillshade_Windy" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Hillshade_Windy.sqlitedb" title="Download this map">Hillshade Windy.com</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Navionics_Marine_Charts.sqlitedb" title="Download this map">Navionics Marine Charts</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-OpenSnowMap_pistes.sqlitedb" title="Download this map">OpenSnowMap Pistes</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-OpenSreetMaps_Tracks.sqlitedb" title="Download this map">OpenStreetMap GPS Tracks</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Strava_All_SD.sqlitedb" title="Download this map">Strava Heatmap - All</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Strava_Ride_SD.sqlitedb" title="Download this map">Strava Heatmap - Ride</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Strava_Run_SD.sqlitedb" title="Download this map">Strava Heatmap - Run</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Strava_Water_SD.sqlitedb" title="Download this map">Strava Heatmap - Water</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Strava_Winter_SD.sqlitedb" title="Download this map">Strava Heatmap - Winter</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-WayMarkedTrails_Cycling.sqlitedb" title="Download this map">Waymarkedtrails.org - Cycling</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-WayMarkedTrails_Hiking.sqlitedb" title="Download this map">Waymarkedtrails.org - Hiking</a></p>
+
+<p><a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Preview map"> <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  <a href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Wikimapia.sqlitedb" title="Download this map">Wikimapia.org</a></p>
+
+:ET
