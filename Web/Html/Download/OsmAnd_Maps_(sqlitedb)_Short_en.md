@@ -37,19 +37,21 @@ layout: default
 
 
 ### Global - OSM
-<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-4umaps.sqlitedb "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Mapnik.sqlitedb "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenBusMap (Opnvkarte.de)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Opnvkarte.sqlitedb "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-OpenTopoMap.sqlitedb "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_proxi" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap proxy](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-OpenTopoMap_proxy.sqlitedb "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Opnvkarte.de](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Opnvkarte.sqlitedb "Download this map")
-
 
 
 ### Global - OSM - Ways
+<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-4umaps.sqlitedb "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Cyclosm" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Cyclosm](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Ways-Cyclosm.sqlitedb "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mtbmap.cz](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Ways-MTB_Map_Europe.sqlitedb "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Cycle](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-OSM-Ways-Thunderforest_Cycle.sqlitedb "Download this map")
@@ -70,6 +72,8 @@ layout: default
 
 ### Overlay
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Traffic](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Here_traffic.sqlitedb "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Hillshade_Openmapsurfer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hillshade Openmapsurfer](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Hillshade_Openmapsurfer.sqlitedb "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Hillshade_SRTM" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hillshade SRTM](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Hillshade_SRTM.sqlitedb "Download this map")
 

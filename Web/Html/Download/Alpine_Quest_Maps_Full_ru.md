@@ -65,8 +65,6 @@ layout: default
 
 
 ### Глобальные - OSM
-<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-4umaps.AQX "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Ersi_Topomap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ERSI Topomap](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ersi_topo.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Hike_Bike" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hike and bike](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-HikeBike.AQX "Скачать эту карту")
@@ -79,9 +77,17 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Michelin" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Michelin transport](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Michelin.AQX "Скачать эту карту")
 
+
+
+### Глобальные - OSM - Ways
+<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenBusMap (Opnvkarte.de)](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Opnvkarte.AQX "Скачать эту карту")
+
+
+
+### Глобальные - OSM
 <a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-OpenTopoMap.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Opnvkarte.de](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Opnvkarte.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Osmand_Mapnik.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Sputnik.AQX "Скачать эту карту")
 
@@ -89,9 +95,13 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport Dark](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Thunderforest_Transport_Dark.AQX "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-4umaps.AQX "Скачать эту карту")
+
 
 
 ### Глобальные - OSM - Ways
+<a href="https://anygis.ru/api/v1/preview/Osm_Cyclosm" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Cycleosm](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ways-Cyclosm.AQX "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapy_Winter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapy Winter](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ways-Mapy_Winter.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mtbmap.cz](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ways-MTB_Map_Europe.AQX "Скачать эту карту")
@@ -437,6 +447,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Tile Grid](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Tile_grid.AQX "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Osm_Public_Transport_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Общественный транспорт](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Public_Transport.AQX "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap](https://anygis.ru/api/v1/download/alpine_ru/Overlay-OpenSeaMap_seamark.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap Карта глубин](https://anygis.ru/api/v1/download/alpine_ru/Overlay-OpenSeaMap_deep.AQX "Скачать эту карту")
@@ -480,6 +492,10 @@ layout: default
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_traffic.AQX "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_traffic_proxy.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Hillshade_Mapbox_Contour_Lines" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Контурные линии Mapbox ](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Hillshade_Mapbox_Contour_Lines.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Hillshade_Openmapsurfer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Рельеф Openmapsurfer](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Hillshade_Openmapsurfer.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Hillshade_SRTM" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Рельеф SRTM](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Hillshade_SRTM.AQX "Скачать эту карту")
 

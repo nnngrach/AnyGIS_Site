@@ -42,6 +42,8 @@ layout: default
 
 
 ### Глобальные - OSM - Ways
+<a href="https://anygis.ru/api/v1/preview/Osm_Cyclosm" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Cycleosm](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ways-Cyclosm.AQX "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Cycle](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ways-Thunderforest_Cycle.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Outdoors" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Outdoor](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Ways-Thunderforest_Outdoor.AQX "Скачать эту карту")
@@ -108,4 +110,6 @@ layout: default
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Надписи](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_labels.AQX "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Yandex_traffic.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Hillshade_Openmapsurfer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Рельеф Openmapsurfer](https://anygis.ru/api/v1/download/alpine_ru/Overlay-Hillshade_Openmapsurfer.AQX "Скачать эту карту")
 

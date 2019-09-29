@@ -73,8 +73,6 @@ layout: default
 
 
 ### [Global - OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-OSM.xml "Download all group files")
-<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-4umaps.xml "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Ersi_Topomap" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ERSI Topomap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Ersi_topo.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Hike_Bike" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hike and bike](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-HikeBike.xml "Download this map")
@@ -87,9 +85,11 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Michelin" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Michelin transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Michelin.xml "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenBusMap (Opnvkarte.de)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Opnvkarte.xml "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-OpenTopoMap.xml "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Opnvkarte.de](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Opnvkarte.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Osmand_Mapnik.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Sputnik.xml "Download this map")
 
@@ -97,6 +97,16 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport Dark](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Thunderforest_Transport_Dark.xml "Download this map")
 
+
+
+### [Global - OSM - Ways](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-OSM.xml "Download all group files")
+<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-4umaps.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Cyclosm" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Cyclosm](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Ways-Cyclosm.xml "Download this map")
+
+
+
+### [Global - OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-OSM-Ways.xml "Download all group files")
 <a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik + GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Ways-Mapnik_GPS_Tracks.xml "Download this map")
 
 
@@ -478,6 +488,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Here_traffic.xml "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Hillshade_Mapbox_Contour_Lines" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hillshade Mapbox (contour lines)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Hillshade_Mapbox_Contour_Lines.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Hillshade_Openmapsurfer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hillshade Openmapsurfer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Hillshade_Openmapsurfer.xml "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Hillshade_SRTM" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hillshade SRTM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Hillshade_SRTM.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Hillshade_VotEtoVid" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hillshade Slope map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Hillshade_Slopemap.xml "Download this map")
@@ -489,6 +503,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Marine Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Navionics_Marine_Charts.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Sonar_Charts_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Sonar Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Navionics_Sonar_Charts.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Public_Transport_Layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Public Transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Public_Transport.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Tile Grid](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Tile_grid.xml "Download this map")
 

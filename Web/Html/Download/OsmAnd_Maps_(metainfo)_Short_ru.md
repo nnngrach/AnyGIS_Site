@@ -42,6 +42,8 @@ layout: default
 
 
 ### Глобальные - OSM - Ways
+<a href="https://anygis.ru/api/v1/preview/Osm_Cyclosm" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Cycleosm](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Ways-Cyclosm.zip "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Cycle](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Ways-Thunderforest_Cycle.zip "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Outdoors" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Outdoor](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Ways-Thunderforest_Outdoor.zip "Скачать эту карту")
@@ -99,4 +101,6 @@ layout: default
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Надписи](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Yandex_labels.zip "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Yandex_traffic.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Hillshade_Openmapsurfer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Рельеф Openmapsurfer](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Hillshade_Openmapsurfer.zip "Скачать эту карту")
 

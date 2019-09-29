@@ -39,17 +39,19 @@ layout: default
 
 
 ### Global - OSM
-<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-4umaps.AQX "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Mapnik.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-OpenTopoMap.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenBusMap (Opnvkarte.de)](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Opnvkarte.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Opnvkarte.de](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Opnvkarte.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-OpenTopoMap.AQX "Download this map")
 
 
 
 ### Global - OSM - Ways
+<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-4umaps.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Cyclosm" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Cyclosm](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Ways-Cyclosm.AQX "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mtbmap.cz](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Ways-MTB_Map_Europe.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Cycle](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Ways-Thunderforest_Cycle.AQX "Download this map")
@@ -70,6 +72,8 @@ layout: default
 
 ### Overlay
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Traffic](https://anygis.ru/api/v1/download/alpine_en/Overlay-Here_traffic.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Hillshade_Openmapsurfer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hillshade Openmapsurfer](https://anygis.ru/api/v1/download/alpine_en/Overlay-Hillshade_Openmapsurfer.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Hillshade_SRTM" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hillshade SRTM](https://anygis.ru/api/v1/download/alpine_en/Overlay-Hillshade_SRTM.AQX "Download this map")
 

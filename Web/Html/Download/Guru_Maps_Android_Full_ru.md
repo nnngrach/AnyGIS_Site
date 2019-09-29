@@ -63,8 +63,6 @@ layout: default
 
 
 ### Глобальные - OSM
-<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-4umaps.ms "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Ersi_Topomap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ERSI Topomap](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ersi_topo.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Hike_Bike" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hike and bike](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-HikeBike.ms "Скачать эту карту")
@@ -77,9 +75,17 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Michelin" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Michelin transport](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Michelin.ms "Скачать эту карту")
 
+
+
+### Глобальные - OSM - Ways
+<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenBusMap (Opnvkarte.de)](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Opnvkarte.ms "Скачать эту карту")
+
+
+
+### Глобальные - OSM
 <a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Opnvkarte.de](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Opnvkarte.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osmand_Mapnik.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Sputnik.ms "Скачать эту карту")
 
@@ -87,9 +93,13 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport Dark](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Thunderforest_Transport_Dark.ms "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-4umaps.ms "Скачать эту карту")
+
 
 
 ### Глобальные - OSM - Ways
+<a href="https://anygis.ru/api/v1/preview/Osm_Cyclosm" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Cycleosm](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Cyclosm.ms "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik + GPS треки](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Mapnik_GPS_Tracks.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapy_Winter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapy Winter](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Mapy_Winter.ms "Скачать эту карту")

@@ -42,6 +42,8 @@ layout: default
 
 
 ### Глобальные - OSM - Ways
+<a href="https://anygis.ru/api/v1/preview/Osm_Cyclosm" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Cycleosm](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Cyclosm.ms "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-OpenSnowMap.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_Ride.ms "Скачать эту карту")
