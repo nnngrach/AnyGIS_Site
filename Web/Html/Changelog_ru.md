@@ -18,7 +18,7 @@ layout: default
 
 Добавлен конвертер из координат XYZ в Quad (применяется в картах Bing)
 
-Добавлены новые карты: Чепецк.Net, LatLon.org, Garmin MarineImages
+Добавлены новые карты: Чепецк.Net, LatLon.org, Garmin MarineImages, Cyclosm, Hillshade_Openmapsurfer, Hillshade_Mapbox_Contour_Lines, Osmand_Mapnik
 
 Обновлены неработающие слои в карте RusOutdoor map
 
