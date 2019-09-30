@@ -17,6 +17,9 @@ layout: default
 
 | <img src="https://anygis.ru/Web/Img/icon_fb.png" width="60"/> | **[Fb.com/anygismaps][10]** |
 
+| <img src="https://anygis.ru/Web/Img/icon_tm.png" width="60"/> | **[t.me/anygis
+][14]** |
+
 | <img src="https://anygis.ru/Web/Img/icon_vk.png" width="60"/> | **[Vk.com/anygis][11]** |
 
 | <img src="https://anygis.ru/Web/Img/icon_email.png" width="60"/> | **[Anygis@bk.ru][12]** |
@@ -33,7 +36,7 @@ layout: default
 [11]: https://vk.com/anygis
 [12]: mailto:anygis@bk.ru
 [13]: https://github.com/nnngrach/AnyGIS_server
-[14]: https://github.com/nnngrach/AnyGIS_server
+[14]: https://t.me/anygis
 
 
 
