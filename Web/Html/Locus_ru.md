@@ -194,13 +194,13 @@ layout: default
 
 [Руководство по настройке Locus. Советы и лайфхаки][14]
 
-[Русскоязычный форум Locus и множество полезных файлов для него][15]
+[Русскоязычный форум Locus на 4PDA и множество полезных файлов для него][15]
 
 [Как настроить "дополнительные скрипты" для Locus][16]
 
 [14]: https://shuriktravel.ru/locusmap_firststep/
 
-[15]: https://4pda.ru/forum/index.php?showtopic=210573
+[15]: http://4pda.ru/forum/index.php?showtopic=210573&st=7740
 
 [16]: https://melda.ru/locus/quick-www-bookmarks/
 
