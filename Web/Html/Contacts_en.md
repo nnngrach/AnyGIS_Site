@@ -17,8 +17,7 @@ layout: default
 
 | <img src="https://anygis.ru/Web/Img/icon_fb.png" width="60"/> | **[Fb.com/anygismaps][10]** |
 
-| <img src="https://anygis.ru/Web/Img/icon_tm.png" width="60"/> | **[t.me/anygis
-][14]** |
+| <img src="https://anygis.ru/Web/Img/icon_tm.png" width="60"/> | **[T.me/anygis][14]** |
 
 | <img src="https://anygis.ru/Web/Img/icon_vk.png" width="60"/> | **[Vk.com/anygis][11]** |
 
