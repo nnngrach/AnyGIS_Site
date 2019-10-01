@@ -14,36 +14,8 @@ layout: default
 # Download maps for Alpine Quest Maps
 
 
-### Global - City
-<a href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Map](https://anygis.ru/api/v1/download/alpine_en/Global-City-Google_map.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Google_Ter_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Terrain](https://anygis.ru/api/v1/download/alpine_en/Global-City-Google_terrain.AQX "Download this map")
-
-
-
 ### Global - Satellites
-<a href="https://anygis.ru/api/v1/preview/Bing_sat_for_guru" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Bird's Eye](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Bing_birds_eye.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI World Imagenary](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-ESRI_Imagenary.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Satellite + labels](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Google_with_labels.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Here.AQX "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Mapbox.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Yandex.AQX "Download this map")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Satellite (proxy)](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Yandex_proxy.AQX "Download this map")
-
-
-
-### Global - OSM
-<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-4umaps.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Mapnik.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-OpenTopoMap.AQX "Download this map")
 
 
 
@@ -52,21 +24,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mtbmap.cz](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Ways-MTB_Map_Europe.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenBusMap (Opnvkarte.de)](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Ways-Opnvkarte.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Cycle](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Ways-Thunderforest_Cycle.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Osm_Outdoors" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Outdoor](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Ways-Thunderforest_Outdoor.AQX "Download this map")
-
 
 
 ### Global - Nautical
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Marine Charts](https://anygis.ru/api/v1/download/alpine_en/Global-Water-Navionics_Marine_Charts.AQX "Download this map")
-
-
-
-### Global-Info
-<a href="https://anygis.ru/api/v1/preview/Wikimapia" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](https://anygis.ru/api/v1/download/alpine_en/Global-Info-Wikimapia.AQX "Download this map")
 
 
 
@@ -83,10 +44,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Marine Charts](https://anygis.ru/api/v1/download/alpine_en/Overlay-Navionics_Marine_Charts.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap Pistes](https://anygis.ru/api/v1/download/alpine_en/Overlay-OpenSnowMap_pistes.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenStreetMap GPS Tracks](https://anygis.ru/api/v1/download/alpine_en/Overlay-OpenSreetMaps_Tracks.AQX "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All](https://anygis.ru/api/v1/download/alpine_en/Overlay-Strava_All_SD.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](https://anygis.ru/api/v1/download/alpine_en/Overlay-Strava_Ride_SD.AQX "Download this map")
@@ -96,10 +53,4 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water](https://anygis.ru/api/v1/download/alpine_en/Overlay-Strava_Water_SD.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](https://anygis.ru/api/v1/download/alpine_en/Overlay-Strava_Winter_SD.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Cycling](https://anygis.ru/api/v1/download/alpine_en/Overlay-WayMarkedTrails_Cycling.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Hiking](https://anygis.ru/api/v1/download/alpine_en/Overlay-WayMarkedTrails_Hiking.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](https://anygis.ru/api/v1/download/alpine_en/Overlay-Wikimapia.AQX "Download this map")
 
