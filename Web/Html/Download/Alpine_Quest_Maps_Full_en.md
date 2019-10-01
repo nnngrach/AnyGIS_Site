@@ -85,11 +85,6 @@ layout: default
 
 
 
-### Europe - Southeast
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Montenecro 250](https://anygis.ru/api/v1/download/alpine_en/Europe-Southeast-Montenegro.AQX "Download this map")
-
-
-
 ### Europe - Eastern
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Belarus - DZZ.by (need a proxy!)](https://anygis.ru/api/v1/download/alpine_en/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.AQX "Download this map")
 
@@ -107,8 +102,6 @@ layout: default
 
 ### Europe - Eastern
 <a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Cadaster map](https://anygis.ru/api/v1/download/alpine_en/Europe-Eastern-CadastrUA_overlay.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Meta" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Meta.ua](https://anygis.ru/api/v1/download/alpine_en/Europe-Eastern-MetaUA.AQX "Download this map")
 
 
 

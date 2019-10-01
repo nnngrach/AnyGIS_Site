@@ -263,8 +263,6 @@ layout: default
 ### Европа - Восточная
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Belarus - DZZ.by (need a proxy!)](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Meta" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Meta.ua](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-MetaUA.AQX "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастровая карта](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-CadastrUA_overlay.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь LatLon.org](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-Belarus_LatLon.AQX "Скачать эту карту")
@@ -294,11 +292,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_FranceTopo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [France Topo IGN.fr](https://anygis.ru/api/v1/download/alpine_ru/Europe-Western-France_topo.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_GB_Topo_locus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Great Britain Topo](https://anygis.ru/api/v1/download/alpine_ru/Europe-Western-GB_topo.AQX "Скачать эту карту")
-
-
-
-### Европа - Юго-восточная
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Черногория 250м 1970-72](https://anygis.ru/api/v1/download/alpine_ru/Europe-Southeast-Montenegro.AQX "Скачать эту карту")
 
 
 
