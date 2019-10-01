@@ -195,16 +195,6 @@ layout: default
 ### [Евразия - Топокарты - Советские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo-Soviet.xml "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Combo_Best_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-All.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_01000" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 1000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-01000.xml "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_10000" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 10000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-10000.xml "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_00250" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-00250.xml "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_25000" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 25000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-25000.xml "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_00500" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-00500.xml "Скачать эту карту")
-
 
 
 ### [Евразия - Туристические - Многослойные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Hiking-Multylayer.xml "Скачать всю группу")

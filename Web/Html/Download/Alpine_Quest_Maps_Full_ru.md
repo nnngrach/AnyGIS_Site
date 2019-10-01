@@ -100,16 +100,6 @@ layout: default
 ### Евразия - Топокарты - Советские
 <a href="https://anygis.ru/api/v1/preview/Combo_Best_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты (Все масштабы)](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Topo-Soviet-All.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_01000" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 1000 м](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Topo-Soviet-01000.AQX "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_10000" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 10000 м](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Topo-Soviet-10000.AQX "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_00250" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 250 м](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Topo-Soviet-00250.AQX "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_25000" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 25000 м](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Topo-Soviet-25000.AQX "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_00500" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 500 м](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Topo-Soviet-00500.AQX "Скачать эту карту")
-
 
 
 ### Евразия - Туристические - Многослойные

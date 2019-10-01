@@ -300,16 +300,6 @@ layout: default
 
 
 ### Eurasia - Topo - Soviet
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_01000" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps 1 000m](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Topo-Soviet-01000.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_10000" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps 10 000m](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Topo-Soviet-10000.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_25000" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps 25 000m](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Topo-Soviet-25000.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_00250" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps 250m](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Topo-Soviet-00250.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_00500" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps 500m](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Topo-Soviet-00500.ms "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Combo_Best_Topo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps Compilation](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Topo-Soviet-All.ms "Download this map")
 
 

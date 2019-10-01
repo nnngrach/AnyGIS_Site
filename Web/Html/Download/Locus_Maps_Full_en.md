@@ -323,16 +323,6 @@ layout: default
 
 
 ### [Eurasia - Topo - Soviet](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo-Soviet.xml "Download all group files")
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_01000" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps 1 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-01000.xml "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_10000" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps 10 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-10000.xml "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_25000" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps 25 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-25000.xml "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_00250" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps 250m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-00250.xml "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_00500" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps 500m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-00500.xml "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Combo_Best_Topo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomaps Compilation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-All.xml "Download this map")
 
 

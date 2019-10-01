@@ -163,14 +163,6 @@ layout: default
 ### Евразия - Топокарты - Советские
 <a href="https://anygis.ru/api/v1/preview/Combo_Best_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты (Все масштабы)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Topo-Soviet-All.zip "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_10000" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 10000 м](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Topo-Soviet-10000.zip "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_00250" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 250 м](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Topo-Soviet-00250.zip "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_25000" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 25000 м](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Topo-Soviet-25000.zip "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Locals_Topo_00500" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты 500 м](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Topo-Soviet-00500.zip "Скачать эту карту")
-
 
 
 ### Евразия - Туристические - Многослойные
