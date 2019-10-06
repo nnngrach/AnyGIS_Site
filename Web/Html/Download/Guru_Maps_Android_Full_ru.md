@@ -64,7 +64,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Спутник](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Kosmosnimki" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Космоснимки.ру](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
 
 
 
@@ -115,6 +115,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_All.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_Ride.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride + Run](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_RideAndRun.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_Run.ms "Скачать эту карту")
 
