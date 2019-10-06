@@ -69,21 +69,21 @@ layout: default
 
 
 ### Глобальные - OSM
-<a href="https://anygis.ru/api/v1/preview/Osm_Geofabrik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Geofabrik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osm_Geofabrik.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Geofabrik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Geofabrik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Geofabrik.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Hike_Bike" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hike and bike](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-HikeBike.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osm_Komoot.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Komoot.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Kosmosnimki.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Terrain](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osm_Mapbox_Terrain.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Terrain](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapbox_Terrain.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapnik.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik (PROXY)](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osm_Mapsurfer.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapsurfer.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Michelin" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Michelin transport](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Michelin.ms "Скачать эту карту")
 
@@ -91,7 +91,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osmand_Mapnik.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info Горные приюты](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osm_Refuges.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info Горные приюты](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Refuges.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Sputnik.ms "Скачать эту карту")
 
@@ -259,11 +259,11 @@ layout: default
 
 
 ### Евразия - Туристические - Хибины
-<a href="https://anygis.ru/api/v1/preview/Local_Karelia3" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Горы Хибинской тундры](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Khininy-Hills.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Local_Karelia3" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Горы Хибинской тундры](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Khibiny-Hills.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Local_Karelia1" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Хибинские и ловоозерские тундры (Аэрогеодезия 2008)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Khibiny-Tundra_Aerogeodesiya.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Local_Karelia2" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Хибинские и ловоозерские тундры (СССР)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Khininy-Tundra_Old.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Local_Karelia2" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Хибинские и ловоозерские тундры (СССР)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Khibiny-Tundra_Old.ms "Скачать эту карту")
 
 
 

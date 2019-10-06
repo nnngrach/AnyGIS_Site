@@ -69,21 +69,21 @@ layout: default
 
 
 ### Global - OSM
-<a href="https://anygis.ru/api/v1/preview/Osm_Geofabrik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Geofabrik](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Osm_Geofabrik.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Geofabrik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Geofabrik](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Geofabrik.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Hike_Bike" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hike and bike](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-HikeBike.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Osm_Komoot.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Komoot.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Kosmosnimki.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Terrain](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Osm_Mapbox_Terrain.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Terrain](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Mapbox_Terrain.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Mapnik.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik (PROXY)](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Mapnik_Proxy.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Osm_Mapsurfer.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Mapsurfer.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Michelin" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Michelin transport](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Michelin.ms "Download this map")
 
@@ -91,7 +91,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Osmand_Mapnik.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info Mountain shelters](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Osm_Refuges.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info Mountain shelters](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Refuges.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Sputnik.ms "Download this map")
 
@@ -369,11 +369,11 @@ layout: default
 
 
 ### Eurasia - Hiking - Khibiny
-<a href="https://anygis.ru/api/v1/preview/Local_Karelia3" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Khibiny's Mountains](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Khininy-Hills.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Local_Karelia3" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Khibiny's Mountains](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Khibiny-Hills.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Local_Karelia1" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Khibiny's Tundra (2008)](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Khibiny-Tundra_Aerogeodesiya.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Local_Karelia2" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Khibiny's Tundra (Old)](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Khininy-Tundra_Old.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Local_Karelia2" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Khibiny's Tundra (Old)](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Khibiny-Tundra_Old.ms "Download this map")
 
 
 
