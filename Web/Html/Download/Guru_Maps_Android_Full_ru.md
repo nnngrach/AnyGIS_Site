@@ -19,11 +19,15 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Bing_map_for_guru" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Карта](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Bing_map.ms "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Google_Bike_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Bike RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_bike_ru.ms "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Карта RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_map_ru.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Ландшафт RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_terrain_ru.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Пробки](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_traffic.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Google_Transit_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Транзит RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_transit_ru.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Карта](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Here_map.ms "Скачать эту карту")
 
@@ -32,6 +36,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Пробки](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Here_traffic.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Карта](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Yandex_map.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Народная](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Yandex_narodnaya.ms "Скачать эту карту")
 
 
 
@@ -63,21 +69,29 @@ layout: default
 
 
 ### Глобальные - OSM
-<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-4umaps.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Geofabrik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Geofabrik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osm_Geofabrik.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Hike_Bike" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hike and bike](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-HikeBike.ms "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osm_Komoot.ms "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Kosmosnimki.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Terrain](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osm_Mapbox_Terrain.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapnik.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik (PROXY)](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osm_Mapsurfer.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Michelin" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Michelin transport](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Michelin.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osmand_Mapnik.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info Горные приюты](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osm_Refuges.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Sputnik.ms "Скачать эту карту")
 
@@ -93,8 +107,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik + GPS треки](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Mapnik_GPS_Tracks.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapy_Winter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapy Winter](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Mapy_Winter.ms "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mtbmap.cz](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-MTB_Map_Europe.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenBusMap (Opnvkarte.de)](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Opnvkarte.ms "Скачать эту карту")
 
@@ -144,6 +156,11 @@ layout: default
 
 
 
+### Евразия - OSM
+<a href="https://anygis.ru/api/v1/preview/Local_Chepezk" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Велокарта Чепецк.net](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-OSM-Chepezk.ms "Скачать эту карту")
+
+
+
 ### Евразия - Топокарты - ГГЦ
 <a href="https://anygis.ru/api/v1/preview/Combo_Best_GGC" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ГосГисЦентр (Все масштабы)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Topo-GGC-All.ms "Скачать эту карту")
 
@@ -158,6 +175,8 @@ layout: default
 
 
 ### Евразия - Топокарты - Генштаб
+<a href="https://anygis.ru/api/v1/preview/Other_Ru_Topomapper" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topomapper - Генштаб 1000м (вся планета)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Topo-Genshtab-Topomapper_planet.ms "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Combo_Best_Genshtab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Генштаб (Все масштабы)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Topo-Genshtab-All.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Locals_Genshtab_01000" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Генштаб 1 000 м](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Topo-Genshtab-01000.ms "Скачать эту карту")
@@ -177,8 +196,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Locals_Genshtab_00500" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Генштаб 500 м](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Topo-Genshtab-00500.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Locals_Genshtab_00500_new" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Генштаб 500 м v2](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Topo-Genshtab-00500_new.ms "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Other_Ru_Topomapper" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Советские военные карты 1км (вся планета)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Topo-Genshtab-Topomapper_planet.ms "Скачать эту карту")
 
 
 
@@ -249,8 +266,6 @@ layout: default
 
 
 ### Евразия - Туристические - Разное
-<a href="https://anygis.ru/api/v1/preview/Local_Chepezk" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Велокарта Чепецк.net](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Other-Chepezk.ms "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Local_Karpaty" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Карпаты](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Other-Karpaty.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Local_Altay1" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Катунский Чуйский хребты.  Алтай](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Other-Altay.ms "Скачать эту карту")
@@ -283,24 +298,34 @@ layout: default
 ### Евразия - Лётные
 <a href="https://anygis.ru/api/v1/preview/Ersi_Avia" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ERSI World Navigation Charts](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Aviation-ERSI_Navigation_Charts.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Local_Avia_Rnk" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Лётные карты RNK](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Aviation-RNK.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Local_Avia_Baionline" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Лётные карты Baionline](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Aviation-Baionline.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Local_Avia_Rnk" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Лётные карты RNK 2016](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Aviation-RNK_2016.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Local_Avia_Rnk2019" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Лётные карты RNK 2019](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Aviation-RNK_2019.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Local_Avia_Mvl" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Лётные карты МВЛ](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Aviation-MVL.ms "Скачать эту карту")
 
 
 
 ### Евразия - Справочные
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Tele2](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Tele2.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Tele2](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Tele2.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yota](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Yota.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yota](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Yota.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [МТС](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-MTS.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Билайн](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Beeline.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Мегафон](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Megafon.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [МТС](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-MTS.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Мегафон](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Megafon.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Hillshade_VotEtoVid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Рельеф Карта уклонов](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Slopemap.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Rosreestr_kadaster" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [РосРеестр - Кадастровые границы](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-RosReestr.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Ростелком](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Rostelcom.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Тинькофф](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Tinkoff.ms "Скачать эту карту")
 
 
 
@@ -347,12 +372,25 @@ layout: default
 
 
 
+### Европа - OSM
+<a href="https://anygis.ru/api/v1/preview/Osm_4umaps" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [4U maps](https://anygis.ru/api/v1/download/galileo_ru/Europe-OSM-4umaps.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mtbmap.cz](https://anygis.ru/api/v1/download/galileo_ru/Europe-OSM-MTB_Map_Europe.ms "Скачать эту карту")
+
+
+
 ### Европа - Восточная
 <a href="https://anygis.ru/api/v1/preview/Other_Ukr_Meta" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Meta.ua](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-MetaUA.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Ukr_Visicom_UK" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Visicom](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-Visicom.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастровая карта](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-CadastrUA_overlay.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Genshtab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Генштаб 1км](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-CadastrUA_genshtab.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Карта](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-CadastrUA_map.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Спутник](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-CadastrUA_sat.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастровые границы](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-CadastrUA_overlay.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь LatLon.org](https://anygis.ru/api/v1/download/galileo_ru/Europe-Eastern-Belarus_LatLon.ms "Скачать эту карту")
 
