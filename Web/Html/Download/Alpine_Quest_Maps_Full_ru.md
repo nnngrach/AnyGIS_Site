@@ -15,8 +15,6 @@ layout: default
 
 
 ### [Глобальные - Спутниковые](https://anygis.ru/api/v1/download/alpine_ru/_Global-Satellites.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Combo_All_Satellites" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [AnyGIS Спутниковый сборник](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-All.AQX "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Спутник](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Mapbox.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium Imagery](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Maxar_Premium_Imagery.AQX "Скачать эту карту")
@@ -285,8 +283,6 @@ layout: default
 
 
 ### [Европа - Восточная](https://anygis.ru/api/v1/download/alpine_ru/_Europe-Eastern.AQX "Скачать всю группу")
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Belarus - DZZ.by (need a proxy!)](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.AQX "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Карта](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-CadastrUA_map.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Спутник](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-CadastrUA_sat.AQX "Скачать эту карту")
@@ -326,9 +322,9 @@ layout: default
 ### [Overlay - Надписи и дороги](https://anygis.ru/api/v1/download/alpine_ru/_Overlay_Hybrid.AQX "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox подписи и тропы](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Mapbox.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Tile Grid](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Tile_grid.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID_WHITE" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Tile Grid (white)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Tile_grid_white.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Wiggle_wifi.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Wiggle_wifi_proxy.AQX "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс Народная надписи](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Yandex_narod.AQX "Скачать эту карту")
 

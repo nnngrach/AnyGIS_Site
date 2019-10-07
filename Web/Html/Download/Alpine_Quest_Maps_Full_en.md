@@ -15,8 +15,6 @@ layout: default
 
 
 ### [Global - Satellites](https://anygis.ru/api/v1/download/alpine_en/_Global-Satellites.AQX "Download all group files")
-<a href="https://anygis.ru/api/v1/preview/Combo_All_Satellites" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [AnyGIS Satellites compilation](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-All.AQX "Download this map")
-
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Kosmosnimki.ru](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Kosmosnimki.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Mapbox.AQX "Download this map")
@@ -93,11 +91,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_FranceTopo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [France Topo IGN.fr](https://anygis.ru/api/v1/download/alpine_en/Europe-Western-France_topo.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_GB_Topo_locus" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Great Britain Topo](https://anygis.ru/api/v1/download/alpine_en/Europe-Western-GB_topo.AQX "Download this map")
-
-
-
-### [Europe - Eastern](https://anygis.ru/api/v1/download/alpine_en/_Europe-Eastern.AQX "Download all group files")
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Belarus - DZZ.by (need a proxy!)](https://anygis.ru/api/v1/download/alpine_en/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.AQX "Download this map")
 
 
 
@@ -335,9 +328,9 @@ layout: default
 ### [Overlay - Labels & Ways](https://anygis.ru/api/v1/download/alpine_en/_Overlay_Hybrid.AQX "Download all group files")
 <a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox labels and trails](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-Mapbox.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Tile Grid](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-Tile_grid.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID_WHITE" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Tile Grid](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-Tile_grid_white.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-Wiggle_wifi.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location (proxy)](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-Wiggle_wifi_proxy.AQX "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Map Editor labels](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-Yandex_narod.AQX "Download this map")
 
