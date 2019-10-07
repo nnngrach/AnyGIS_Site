@@ -37,8 +37,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Карта](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Yandex_map.ms "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Народная](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Yandex_narodnaya.ms "Скачать эту карту")
-
 
 
 ### Глобальные - Спутниковые
