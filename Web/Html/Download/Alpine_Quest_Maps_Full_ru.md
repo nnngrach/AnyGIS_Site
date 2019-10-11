@@ -322,7 +322,7 @@ layout: default
 ### [Overlay - Надписи и дороги](https://anygis.ru/api/v1/download/alpine_ru/_Overlay_Hybrid.AQX "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox подписи и тропы](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Mapbox.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TILE_GRID_WHITE" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Tile Grid (white)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Tile_grid_white.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID_WHITE" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Tile Grid (white)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Tile_grid_white.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Wiggle_wifi_proxy.AQX "Скачать эту карту")
 

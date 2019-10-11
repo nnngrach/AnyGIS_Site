@@ -470,6 +470,11 @@ layout: default
 
 
 
+### Overlay - Надписи и дороги
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Tile Grid (gray)](https://anygis.ru/api/v1/download/galileo_ru/Overlay_Hybrid-Tile_grid_gray.ms "Скачать эту карту")
+
+
+
 ### Overpass
 <a href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Гравийные дорожки для бега](https://anygis.ru/api/v1/download/galileo_ru/Overpass-GravelRunTrails.ms "Скачать эту карту")
 

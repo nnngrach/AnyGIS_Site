@@ -482,6 +482,11 @@ layout: default
 
 
 
+### Overlay - Labels & Ways
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Tile Grid](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay_Hybrid-Tile_grid_gray.ms "Download this map")
+
+
+
 ### Overpass
 <a href="https://anygis.ru/api/v1/preview/Mapshooter_Water" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Drinking Water](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overpass-Drinking_Water.ms "Download this map")
 
