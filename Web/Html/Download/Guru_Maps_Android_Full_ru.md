@@ -58,7 +58,21 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard Imagery](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Maxar_Standard_Imagery.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Sentinel.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Agriculture](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Sentinel_Agriculture.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Bathimetric](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Sentinel_Bathimetric.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Geology](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Sentinel_Geology.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Moisture index](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Sentinel_Moisture.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel NDVI](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Sentinel_NDVI.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Sentinel_SWIR.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Sentinel_True_color.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Sentinel_Urban.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Спутник](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
 

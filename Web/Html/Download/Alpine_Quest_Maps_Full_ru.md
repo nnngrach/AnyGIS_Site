@@ -21,6 +21,22 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel.AQX "Скачать эту карту")
 
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Agriculture](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Agriculture.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Bathimetric](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Bathimetric.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Geology](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Geology.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Moisture index](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Moisture.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel NDVI](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_NDVI.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel SWIR](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_SWIR.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_True_color.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Urban](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Urban.AQX "Скачать эту карту")
+
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Kosmosnimki.AQX "Скачать эту карту")
 
 
