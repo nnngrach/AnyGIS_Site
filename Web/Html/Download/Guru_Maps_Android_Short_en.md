@@ -15,9 +15,15 @@ layout: default
 
 
 ### Global - City
+<a href="https://anygis.ru/api/v1/preview/Garmin_navicom" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Garmin.ru (navicom)](https://anygis.ru/api/v1/download/galileo_en/Global-City-Garmin_ru.ms "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Map](https://anygis.ru/api/v1/download/galileo_en/Global-City-Google_map.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Ter_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Terrain](https://anygis.ru/api/v1/download/galileo_en/Global-City-Google_terrain.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Day](https://anygis.ru/api/v1/download/galileo_en/Global-City-TomTom_base_day.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Night](https://anygis.ru/api/v1/download/galileo_en/Global-City-TomTom_base_night.ms "Download this map")
 
 
 

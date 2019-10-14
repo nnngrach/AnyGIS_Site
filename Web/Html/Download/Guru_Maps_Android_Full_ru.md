@@ -143,6 +143,8 @@ layout: default
 
 
 ### Глобальные - Водные
+<a href="https://anygis.ru/api/v1/preview/Water_CMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [C-Map](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-CMap.ms "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Ersi_Ocean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI Ocean](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-ERSI_ocean.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics + OSM](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-Navionics_OSM.ms "Скачать эту карту")
@@ -214,7 +216,7 @@ layout: default
 
 
 ### Евразия - Топокарты - Советские
-<a href="https://anygis.ru/api/v1/preview/Combo_Best_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты (Все масштабы)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Topo-Soviet-All.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Combo_Best_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Топокарты Nakarte.me (Все масштабы)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Topo-Soviet-All.ms "Скачать эту карту")
 
 
 
@@ -370,13 +372,25 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Maykop_1925" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Майкопский округ 1925](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-Maykop_1925.ms "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Historic_MSK_1852" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Москва - Хотевский план 1852](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-MSK_1852.ms "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_2km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Немецкий Генштаб 1941 2км](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_3km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Немецкий Генштаб 1942 3км](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Historic_SPB_1917" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Петроград 1917](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-SPB_1917.ms "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Historic_RKKA_2km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [РККА 1932-1942 2км](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-RKKA_2km.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_RKKA_1km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [РККА 1940 1км](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-RKKA_1km.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_SPB_1705" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Санкт-Петербург 1705](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-SPB_1705.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_SPB_1725" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Санкт-Петербург 1725](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-SPB_1725.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_SPB_1883" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Санкт-Петербург 1883 (план Вортникова)](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-SPB_1883.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_SPB_1894" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Санкт-Петербург 1894](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-SPB_1894.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Strelbitsky_1882" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Стрельбицкого 1882 10-верстовая](https://anygis.ru/api/v1/download/galileo_ru/Hystoric-Strelbitsky_1882.ms "Скачать эту карту")
 
@@ -425,6 +439,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_FinnTopo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Finland Topo Retkikartta.fi](https://anygis.ru/api/v1/download/galileo_ru/Europe-Northern-Finland_topo.ms "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Fonecta_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Fonecta.fi](https://anygis.ru/api/v1/download/galileo_ru/Europe-Northern-Fonecta.ms "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Hitta" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hitta](https://anygis.ru/api/v1/download/galileo_ru/Europe-Northern-Hitta.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Hitta_Frilufts" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hitta Frilufts](https://anygis.ru/api/v1/download/galileo_ru/Europe-Northern-Hitta_Frilufts.ms "Скачать эту карту")
@@ -444,6 +460,10 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Skoterleder" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Skoterleder](https://anygis.ru/api/v1/download/galileo_ru/Europe-Northern-Skoterleder.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norgeskart" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4](https://anygis.ru/api/v1/download/galileo_ru/Europe-Northern-Norgeskart.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 Hybrid](https://anygis.ru/api/v1/download/galileo_ru/Europe-Northern-Norgeskart_Hybrid.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 Satellite](https://anygis.ru/api/v1/download/galileo_ru/Europe-Northern-Norgeskart_Satellite.ms "Скачать эту карту")
 
 
 
