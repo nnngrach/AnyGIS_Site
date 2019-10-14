@@ -25,6 +25,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Transit_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Транзит RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_transit_ru.AQX "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom День](https://anygis.ru/api/v1/download/alpine_ru/Global-City-TomTom_base_day.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Ночь](https://anygis.ru/api/v1/download/alpine_ru/Global-City-TomTom_base_night.AQX "Скачать эту карту")
+
 
 
 ### [Глобальные - Спутниковые](https://anygis.ru/api/v1/download/alpine_ru/_Global-Satellites.AQX "Скачать всю группу")
