@@ -552,6 +552,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Incidents](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_Traffic-TomTom_incidents.zip "Download this map")
 
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Directions](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_Traffic-Yandex_direcions.zip "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Intensity](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_Traffic-Yandex_intensity.zip "Download this map")
+
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_Traffic-Yandex.zip "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_Traffic-Yandex_proxy.zip "Download this map")
@@ -580,10 +584,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_GPS_tracks-Strava_Winter_HD.zip "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter (Bluered)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_GPS_tracks-Strava_Winter_Bluered_SD.zip "Download this map")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Directions](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_GPS_tracks-Yandex_direcions.zip "Download this map")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Intensity](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_GPS_tracks-Yandex_intensity.zip "Download this map")
 
 
 

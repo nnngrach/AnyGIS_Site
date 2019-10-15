@@ -35,9 +35,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Пробки](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Here_traffic.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom День](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-TomTom_base_day.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (день)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-TomTom_base_day.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Ночь](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-TomTom_base_night.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (ночь)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-TomTom_base_night.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Yandex_map.ms "Скачать эту карту")
 
@@ -52,7 +52,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Google.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google (гибрид) RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels_ru.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Гибрид RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels_ru.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Here.ms "Скачать эту карту")
 
@@ -412,21 +412,21 @@ layout: default
 
 
 ### Европа - Восточная
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Meta" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Meta.ua](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-MetaUA.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь - LatLon.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Belarus_LatLon.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Visicom_UK" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Visicom](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Visicom.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Historic_Belarus_Genstab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь - Генштаб](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Genshtab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Генштаб 1км](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_genshtab.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Meta" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Meta.ua](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-MetaUA.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_map.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Visicom_UK" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Visicom](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Visicom.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_sat.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Genshtab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастр Генштаб 1км](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_genshtab.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастровые границы](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_overlay.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастр Карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_map.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь LatLon.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Belarus_LatLon.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастр Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_sat.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Historic_Belarus_Genstab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь Генштаб](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастровые границы](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_overlay.ms "Скачать эту карту")
 
 
 

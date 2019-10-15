@@ -560,6 +560,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Incidents](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_Traffic-TomTom_incidents.sqlitedb "Download this map")
 
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Directions](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_Traffic-Yandex_direcions.sqlitedb "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Intensity](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_Traffic-Yandex_intensity.sqlitedb "Download this map")
+
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_Traffic-Yandex.sqlitedb "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_Traffic-Yandex_proxy.sqlitedb "Download this map")
@@ -590,10 +594,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_GPS_tracks-Strava_Winter_HD.sqlitedb "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_GPS_tracks-Strava_Winter_Bluered_SD.sqlitedb "Download this map")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Directions](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_GPS_tracks-Yandex_direcions.sqlitedb "Download this map")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Intensity](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_GPS_tracks-Yandex_intensity.sqlitedb "Download this map")
 
 
 

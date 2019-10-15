@@ -25,16 +25,16 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Transit_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Транзит RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_transit_ru.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom День](https://anygis.ru/api/v1/download/alpine_ru/Global-City-TomTom_base_day.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (день)](https://anygis.ru/api/v1/download/alpine_ru/Global-City-TomTom_base_day.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Ночь](https://anygis.ru/api/v1/download/alpine_ru/Global-City-TomTom_base_night.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (ночь)](https://anygis.ru/api/v1/download/alpine_ru/Global-City-TomTom_base_night.AQX "Скачать эту карту")
 
 
 
 ### [Глобальные - Спутниковые](https://anygis.ru/api/v1/download/alpine_ru/_Global-Satellites.AQX "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google (гибрид) RU](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google_with_labels_ru.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Гибрид RU](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google_with_labels_ru.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Mapbox.AQX "Скачать эту карту")
 
@@ -338,15 +338,15 @@ layout: default
 
 
 ### [Европа - Восточная](https://anygis.ru/api/v1/download/alpine_ru/_Europe-Eastern.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Карта](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-CadastrUA_map.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь - LatLon.org](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-Belarus_LatLon.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Спутник](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-CadastrUA_sat.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Historic_Belarus_Genstab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь - Генштаб](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-Belarus_Genshtab.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастровые границы](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-CadastrUA_overlay.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастр Карта](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-CadastrUA_map.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь LatLon.org](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-Belarus_LatLon.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастр Спутник](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-CadastrUA_sat.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Historic_Belarus_Genstab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь Генштаб](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-Belarus_Genshtab.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастровые границы](https://anygis.ru/api/v1/download/alpine_ru/Europe-Eastern-CadastrUA_overlay.AQX "Скачать эту карту")
 
 
 

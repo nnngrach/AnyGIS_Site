@@ -29,9 +29,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Here_ter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Ландшафт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Here_terrain.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom День](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-TomTom_base_day.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (день)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-TomTom_base_day.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Ночь](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-TomTom_base_night.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (ночь)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-TomTom_base_night.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map.sqlitedb "Скачать эту карту")
 
@@ -48,7 +48,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Google.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google (гибрид) RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Гибрид RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Here.sqlitedb "Скачать эту карту")
 
@@ -388,23 +388,23 @@ layout: default
 
 
 ### Европа - Восточная
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Meta" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Meta.ua](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-MetaUA.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь - LatLon.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Belarus_LatLon.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Luxena" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Navlux](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Navlux.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Historic_Belarus_Genstab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь - Генштаб](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Visicom_UK" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Visicom](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Visicom.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Meta" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Meta.ua](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-MetaUA.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Genshtab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Генштаб 1км](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-CadastrUA_genshtab.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Luxena" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Navlux](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Navlux.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-CadastrUA_map.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Visicom_UK" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Visicom](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Visicom.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастр Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-CadastrUA_sat.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Genshtab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастр Генштаб 1км](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-CadastrUA_genshtab.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Ukraine - Кадастровые границы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-CadastrUA_overlay.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастр Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-CadastrUA_map.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь LatLon.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Belarus_LatLon.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастр Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-CadastrUA_sat.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Historic_Belarus_Genstab" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь Генштаб](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастровые границы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Eastern-CadastrUA_overlay.sqlitedb "Скачать эту карту")
 
 
 
@@ -556,6 +556,10 @@ layout: default
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex_proxy.sqlitedb "Скачать эту карту")
 
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Интенсивность](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex_intensity.sqlitedb "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Направления](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex_direcions.sqlitedb "Скачать эту карту")
+
 
 
 ### Overlay - GPS треки
@@ -582,10 +586,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Winter_HD.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт (сине-красный)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Winter_Bluered_SD.sqlitedb "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Интенсивность](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Yandex_intensity.sqlitedb "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Направления](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Yandex_direcions.sqlitedb "Скачать эту карту")
 
 
 
