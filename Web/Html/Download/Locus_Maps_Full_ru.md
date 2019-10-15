@@ -17,7 +17,7 @@ layout: default
 ### [Глобальные - Городские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-City.xml "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Other_Ru_2gis" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [2Gis](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-2gis.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Bing_map_for_locus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Bing_map.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Bing_map_for_locus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Bing_map.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Bike_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Bike RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Google_bike_ru.xml "Скачать эту карту")
 
@@ -29,7 +29,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Transit_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Транзит RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Google_transit_ru.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Here_map.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Here_map.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_ter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Ландшафт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Here_terrain.xml "Скачать эту карту")
 
@@ -39,9 +39,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Ночь](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-TomTom_base_night.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map_proxy.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Карта (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map_proxy.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map.xml "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Народная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_narodnaya.xml "Скачать эту карту")
 
@@ -54,41 +54,41 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Bing_sat_for_locus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Bird's Eye](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Bing_birds_eye.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI World Imagenary](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-ESRI_Imagenary.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-ESRI_Imagenary.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Google.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Google.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник (гибрид) RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Google_with_labels_ru.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google (гибрид) RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Google_with_labels_ru.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Here.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Here.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Mapbox.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Mapbox.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium Imagery](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Maxar_Premium_Imagery.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Maxar_Premium_Imagery.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard Imagery](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Maxar_Standard_Imagery.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Maxar_Standard_Imagery.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Agriculture](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_Agriculture.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_Geology.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Bathimetric](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_Bathimetric.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_Urban.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Geology](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_Geology.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_Moisture.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Moisture index](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_Moisture.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_SWIR.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel NDVI](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_NDVI.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета (Natural color)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_True_color.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_SWIR.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_NDVI.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_True_color.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_Bathimetric.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_Urban.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel_Agriculture.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Спутник (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_proxy.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_proxy.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Спутник (гибрид)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (гибрид)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Kosmosnimki.xml "Скачать эту карту")
 
@@ -117,13 +117,13 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Osmand_Mapnik.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info Горные приюты](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Refuges.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info - Горные приюты](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Refuges.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Sputnik.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Thunderforest_Transport.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport (день)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Thunderforest_Transport.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport Dark](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Thunderforest_Transport_Dark.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport (ночь)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Thunderforest_Transport_Dark.xml "Скачать эту карту")
 
 
 
@@ -138,17 +138,17 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-OpenSnowMap.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_All.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Run.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Ride.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег и Велоспорт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_RideAndRun.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride + Run](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_RideAndRun.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Ride.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Run.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Water.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Water.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_All.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Winter.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Winter.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Cycle](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Thunderforest_Cycle.xml "Скачать эту карту")
 
@@ -343,21 +343,21 @@ layout: default
 ### [Евразия - Справочные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Info.xml "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Navizor" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navizor - Оценка качества дорог](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Navizor.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Tele2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Tele2.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Tele2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Tele2.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yota](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Yota.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Yota](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Yota.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Билайн](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Beeline.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Билайн](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Beeline.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [МТС](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-MTS.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия МТС](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-MTS.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Мегафон](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Megafon.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Мегафон](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Megafon.xml "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Ростелком](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Rostelcom.xml "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Тинькофф](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Tinkoff.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Rosreestr_kadaster" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [РосРеестр - Кадастровые границы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-RosReestr.xml "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Ростелком](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Rostelcom.xml "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Тинькофф](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Tinkoff.xml "Скачать эту карту")
 
 
 
@@ -455,7 +455,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Eniro_satellite.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Nautical" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Sjökort (Nautical)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Eniro_Nautical.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Nautical" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Sjökort - Морская](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Eniro_Nautical.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro labels layer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Eniro_labels.xml "Скачать эту карту")
 
@@ -481,17 +481,17 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norway_topo_UT.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Summer_Trails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no Summer trails](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norway_topo_UT_summertrails.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Winter_Trails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no - Зимние тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norway_topo_UT_wintertrails.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Winter_Trails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no Winter trails](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norway_topo_UT_wintertrails.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Summer_Trails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no - Летние тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norway_topo_UT_summertrails.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Skoterleder" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Skoterleder](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Skoterleder.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norgeskart" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norgeskart.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 Hybrid](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norgeskart_Hybrid.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Гибрид](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norgeskart_Hybrid.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norgeskart_Satellite.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norgeskart_Satellite.xml "Скачать эту карту")
 
 
 
@@ -519,11 +519,11 @@ layout: default
 
 
 ### [США](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_USA.xml "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__USA-USGS_Sat.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__USA-USGS_Sat.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat_plus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Satellite Plus](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__USA-USGS_Sat_plus.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat_plus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Спутник Плюс](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__USA-USGS_Sat_plus.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Topo](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__USA-USGS_Topo.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Топокарта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__USA-USGS_Topo.xml "Скачать эту карту")
 
 
 
@@ -537,31 +537,37 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Гибрид](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Google.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Гибрид](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Mapbox.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox - Гибрид](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Mapbox.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_admin_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer Административные границы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Mapsurfer_admin_labels.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer Гибрид](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Mapsurfer_hybrid.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Public_Transport_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Общественный транспорт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Public_Transport.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Public_Transport_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM - Общественный транспорт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Public_Transport.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/OpenFireMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenFireMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-OpenFireMap.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Railway" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay Инфраструктура](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-OpenRailWay.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Railway" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay - Инфраструктура](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-OpenRailWay.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Railway_signals" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay Сигнализация](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-OpenRailWay_signals.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Railway_signals" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay - Сигнализация](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-OpenRailWay_signals.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Railway_speed" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay Скоростной режим](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-OpenRailWay_speed.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Railway_speed" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay - Скоростной режим](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-OpenRailWay_speed.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Traffic" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap Морской траффик](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Nautical-OpenSeaMap_traffic.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap Лыжные трассы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-OpenSnowMap_pistes.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TILE_GRID_BLACK" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Tile Grid (black)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Tile_grid_black.xml "Скачать эту карту")
+### [Overlay - Морские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Overlay_Nautical.xml "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Traffic" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap - Морской траффик](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Nautical-OpenSeaMap_traffic.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Tile Grid (gray)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Tile_grid_gray.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TILE_GRID_WHITE" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Tile Grid (white)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Tile_grid_white.xml "Скачать эту карту")
+
+### [Overlay - Надписи и дороги](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Overlay_Hybrid.xml "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap - Лыжные трассы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-OpenSnowMap_pistes.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID_WHITE" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TMS Тайловая сетка - Белая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Tile_grid_white.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TMS Тайловая сетка - Серая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Tile_grid_gray.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID_BLACK" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TMS Тайловая сетка - Черная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Tile_grid_black.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_labels_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Гибрид (день)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-TomTom_labels_day.xml "Скачать эту карту")
 
@@ -579,7 +585,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Пешие прогулки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-WayMarkedTrails_Hiking.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Wiggle_wifi.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net - Точки Wi-fi](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Wiggle_wifi.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Wikimapia.xml "Скачать эту карту")
 
@@ -592,48 +598,48 @@ layout: default
 
 
 ### [Overlay - Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Overlay_Traffic.xml "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Bing_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Bing.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Bing_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Bing.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Google.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Google.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Here.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Here.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Пробки (Поток)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Here.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here (Поток)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Here.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-TomTom.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Дорожная обстановка](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-TomTom_incidents.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Yandex.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Yandex.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Yandex_proxy.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Yandex_proxy.xml "Скачать эту карту")
 
 
 
 ### [Overlay - GPS треки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Overlay_GPS_tracks.xml "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-OpenSreetMaps.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenStreetMap - GPS Треки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-OpenSreetMaps.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_All_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap -  Велоспорт и Бег (beta)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_RunAndRide_HD.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_All_Bluered_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Run_HD.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Ride_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег (сине-красный)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Run_Bluered_HD.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Ride_Bluered_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Ride_HD.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Run_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт (сине-красный)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Ride_Bluered_HD.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Run_Bluered_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Water_HD.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run and Ride (beta)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_RunAndRide_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт (сине-красный)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Water_Bluered_HD.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Water_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_All_HD.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Water_Bluered_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои (сине-красный)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_All_Bluered_HD.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Winter_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Winter_HD.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Winter_Bluered_HD.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт (сине-красный)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Strava_Winter_Bluered_HD.xml "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Интенсивность](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_GPS_tracks-Yandex_intensity.xml "Скачать эту карту")
 
@@ -657,7 +663,7 @@ layout: default
 
 
 ### [Overlay - Морские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Overlay_Nautical.xml "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Garmin_MarineImages" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Garmin MarineImages (Снимки сонара)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Nautical-Garmin_MarineImages.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Garmin_MarineImages" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Garmin MarineImages - Снимки сонара](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Nautical-Garmin_MarineImages.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Marine Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Nautical-Navionics_Marine_Charts.xml "Скачать эту карту")
 
@@ -665,14 +671,14 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Nautical-OpenSeaMap_seamark.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap Карта глубин](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Nautical-OpenSeaMap_deep.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap - Карта глубин](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Nautical-OpenSeaMap_deep.xml "Скачать эту карту")
 
 
 
 ### [Overpass](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Overpass.xml "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Гравийные дорожки для бега](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-GravelRunTrails.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Гравийные дорожки для бега](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-GravelRunTrails.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_Waste" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Мусорные баки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-Waste.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_Waste" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Мусорные баки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-Waste.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_Water" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Питьевая вода](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-Drinking_Water.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_Water" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Питьевая вода](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-Drinking_Water.xml "Скачать эту карту")
 

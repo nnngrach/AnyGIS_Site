@@ -22,7 +22,7 @@ layout: default
 
 
 ### [Глобальные - Спутниковые](https://anygis.ru/api/v1/download/alpine_ru/_Global-Satellites.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник (гибрид) RU](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google_with_labels_ru.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google (гибрид) RU](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google_with_labels_ru.AQX "Скачать эту карту")
 
 
 
@@ -64,7 +64,7 @@ layout: default
 
 
 ### [Overlay - Надписи и дороги](https://anygis.ru/api/v1/download/alpine_ru/_Overlay_Hybrid.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Гибрид](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Mapbox.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox - Гибрид](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Mapbox.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Велоспорт](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-WayMarkedTrails_Cycling.AQX "Скачать эту карту")
 
@@ -81,15 +81,15 @@ layout: default
 
 
 ### [Overlay - GPS треки](https://anygis.ru/api/v1/download/alpine_ru/_Overlay_GPS_tracks.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_All_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Run_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Ride_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Ride_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Run_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Water_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Water_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_All_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Winter_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Winter_SD.AQX "Скачать эту карту")
 
 
 

@@ -17,7 +17,7 @@ layout: default
 ### Глобальные - Городские
 <a href="https://anygis.ru/api/v1/preview/Other_Ru_2gis" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [2Gis](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-2gis.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Bing_map_for_guru" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Bing_map.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Bing_map_for_guru" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Bing_map.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Bike_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Bike RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Google_bike_ru.ms "Скачать эту карту")
 
@@ -29,7 +29,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Transit_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Транзит RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Google_transit_ru.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Here_map.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Here_map.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_ter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Ландшафт](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Here_terrain.ms "Скачать эту карту")
 
@@ -39,7 +39,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Ночь](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-TomTom_base_night.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Yandex_map.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Yandex_map.ms "Скачать эту карту")
 
 
 
@@ -48,37 +48,37 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Bing_sat_for_guru" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Bird's Eye](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Bing_birds_eye.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI World Imagenary](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-ESRI_Imagenary.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-ESRI_Imagenary.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Google.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Google.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник (гибрид) RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels_ru.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google (гибрид) RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels_ru.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Here.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Here.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Mapbox.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Mapbox.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium Imagery](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Maxar_Premium_Imagery.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Maxar_Premium_Imagery.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard Imagery](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Agriculture](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Agriculture.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Geology.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Bathimetric](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Bathimetric.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Urban.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Geology](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Geology.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Moisture.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Moisture index](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Moisture.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_SWIR.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel NDVI](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_NDVI.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета (Natural color)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_True_color.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_SWIR.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_NDVI.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_True_color.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Bathimetric.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Urban.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Agriculture.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
 
@@ -107,13 +107,13 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Osmand_Mapnik.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info Горные приюты](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Refuges.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info - Горные приюты](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Refuges.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Sputnik.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport (день)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport Dark](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport_Dark.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport (ночь)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport_Dark.ms "Скачать эту карту")
 
 
 
@@ -128,17 +128,17 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-OpenSnowMap.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_All.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Run.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Ride.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег и Велоспорт](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_RideAndRun.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride + Run](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_RideAndRun.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Ride.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Run.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Water.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Water.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_All.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Winter.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Winter.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Cycle](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Cycle.ms "Скачать эту карту")
 
@@ -329,23 +329,23 @@ layout: default
 
 
 ### Евразия - Справочные
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Tele2](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Tele2.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Tele2](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Tele2.ms "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yota](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Yota.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Yota](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Yota.ms "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Билайн](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Beeline.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Билайн](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Beeline.ms "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [МТС](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-MTS.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия МТС](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-MTS.ms "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Мегафон](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Megafon.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Мегафон](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Megafon.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Ростелком](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Rostelcom.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Тинькофф](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Tinkoff.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Hillshade_VotEtoVid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Рельеф Карта уклонов](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Slopemap.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Rosreestr_kadaster" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [РосРеестр - Кадастровые границы](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-RosReestr.ms "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Ростелком](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Rostelcom.ms "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Тинькофф](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Tinkoff.ms "Скачать эту карту")
 
 
 
@@ -437,7 +437,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Hybrid](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Eniro_hybrid.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Nautical" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Sjökort (Nautical)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Eniro_Nautical.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Nautical" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Sjökort - Морская](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Eniro_Nautical.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_finnkart" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [FINN Kart Norge](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-FINN_Kart_Norge.ms "Скачать эту карту")
 
@@ -465,9 +465,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norgeskart" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Norgeskart.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 Hybrid](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Norgeskart_Hybrid.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Гибрид](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Norgeskart_Hybrid.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Norgeskart_Satellite.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Norgeskart_Satellite.ms "Скачать эту карту")
 
 
 
@@ -495,11 +495,11 @@ layout: default
 
 
 ### США
-<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/USA-USGS_Sat.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/USA-USGS_Sat.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat_plus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Satellite Plus](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/USA-USGS_Sat_plus.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat_plus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Спутник Плюс](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/USA-USGS_Sat_plus.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Topo](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/USA-USGS_Topo.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Топокарта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/USA-USGS_Topo.ms "Скачать эту карту")
 
 
 
@@ -509,14 +509,14 @@ layout: default
 
 
 ### Overlay - Надписи и дороги
-<a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Tile Grid (gray)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay_Hybrid-Tile_grid_gray.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TMS Тайловая сетка - Серая](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay_Hybrid-Tile_grid_gray.ms "Скачать эту карту")
 
 
 
 ### Overpass
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Гравийные дорожки для бега](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-GravelRunTrails.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Гравийные дорожки для бега](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-GravelRunTrails.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_Waste" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Мусорные баки](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-Waste.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_Waste" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Мусорные баки](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-Waste.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_Water" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Питьевая вода](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-Drinking_Water.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_Water" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Питьевая вода](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-Drinking_Water.ms "Скачать эту карту")
 

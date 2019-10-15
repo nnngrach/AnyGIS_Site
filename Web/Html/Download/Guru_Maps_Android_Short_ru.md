@@ -21,14 +21,14 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Ландшафт RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_terrain_ru.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Карта](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Yandex_map.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Yandex_map.ms "Скачать эту карту")
 
 
 
 ### Глобальные - Спутниковые
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник (гибрид) RU](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Google_with_labels_ru.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google (гибрид) RU](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Google_with_labels_ru.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Спутник](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
 
 
 
@@ -48,11 +48,11 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-OpenSnowMap.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_Ride.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_Run.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride + Run](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_RideAndRun.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег и Велоспорт](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_RideAndRun.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_Run.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_Ride.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Cycle](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Thunderforest_Cycle.ms "Скачать эту карту")
 

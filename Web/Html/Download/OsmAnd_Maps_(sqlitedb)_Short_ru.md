@@ -26,9 +26,9 @@ layout: default
 
 
 ### Глобальные - Спутниковые
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник (гибрид) RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google (гибрид) RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
 
 
 
@@ -87,9 +87,9 @@ layout: default
 
 
 ### Overlay - Надписи и дороги
-<a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Гибрид](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Mapbox.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox - Гибрид](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Mapbox.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap Лыжные трассы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenSnowMap_pistes.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap - Лыжные трассы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenSnowMap_pistes.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Велоспорт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-WayMarkedTrails_Cycling.sqlitedb "Скачать эту карту")
 
@@ -110,14 +110,14 @@ layout: default
 
 
 ### Overlay - Пробки
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex.sqlitedb "Скачать эту карту")
 
 
 
 ### Overlay - GPS треки
-<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenStreetMap GPS Tracks](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-OpenSreetMaps.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenStreetMap - GPS Треки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-OpenSreetMaps.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run and Ride (beta)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_RunAndRide_SD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт и Бег (beta)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_RunAndRide_SD.sqlitedb "Скачать эту карту")
 
 
 

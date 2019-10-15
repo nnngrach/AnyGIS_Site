@@ -25,7 +25,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Transit_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Транзит RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Google_transit_ru.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Here_map.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Here_map.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_ter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Ландшафт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Here_terrain.sqlitedb "Скачать эту карту")
 
@@ -33,9 +33,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Ночь](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-TomTom_base_night.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map_proxy.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Карта (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map_proxy.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map.sqlitedb "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Народная](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_narodnaya.sqlitedb "Скачать эту карту")
 
@@ -44,39 +44,39 @@ layout: default
 ### Глобальные - Спутниковые
 <a href="https://anygis.ru/api/v1/preview/Combo_All_Satellites" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [AnyGIS Спутниковый сборник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-All.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI World Imagenary](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-ESRI_Imagenary.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-ESRI_Imagenary.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Google.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Google.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник (гибрид) RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google (гибрид) RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Here.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Here.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Mapbox.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Mapbox.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium Imagery](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Maxar_Premium_Imagery.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Maxar_Premium_Imagery.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard Imagery](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Agriculture](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_Agriculture.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_Geology.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Bathimetric](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_Bathimetric.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_Urban.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Geology](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_Geology.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_Moisture.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Moisture index](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_Moisture.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_SWIR.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel NDVI](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_NDVI.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета (Natural color)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_True_color.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_SWIR.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_NDVI.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_True_color.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_Bathimetric.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_Urban.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Sentinel_Agriculture.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Спутник (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex_proxy.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex_proxy.sqlitedb "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Kosmosnimki.sqlitedb "Скачать эту карту")
 
@@ -109,13 +109,13 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Osmand_Mapnik.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info Горные приюты](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Refuges.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info - Горные приюты](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Refuges.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Sputnik.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Thunderforest_Transport.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport (день)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Thunderforest_Transport.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport Dark](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Thunderforest_Transport_Dark.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Transport (ночь)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Thunderforest_Transport_Dark.sqlitedb "Скачать эту карту")
 
 
 
@@ -309,19 +309,19 @@ layout: default
 ### Евразия - Справочные
 <a href="https://anygis.ru/api/v1/preview/Navizor" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navizor - Оценка качества дорог](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Navizor.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Tele2](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Tele2.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Tele2](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Tele2.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yota](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Yota.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Yota](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Yota.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Билайн](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Beeline.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Билайн](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Beeline.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [МТС](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-MTS.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия МТС](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-MTS.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Мегафон](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Megafon.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Мегафон](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Megafon.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Ростелком](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Rostelcom.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Ростелком](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Rostelcom.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Тинькофф](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Tinkoff.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Тинькофф](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Eurasia-Info-Tinkoff.sqlitedb "Скачать эту карту")
 
 
 
@@ -413,7 +413,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Eniro_satellite.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Nautical" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Sjökort (Nautical)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Eniro_Nautical.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Nautical" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Sjökort - Морская](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Eniro_Nautical.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro labels layer](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Eniro_labels.sqlitedb "Скачать эту карту")
 
@@ -433,17 +433,17 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norway_topo_UT.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Summer_Trails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no Summer trails](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norway_topo_UT_summertrails.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Winter_Trails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no - Зимние тропы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norway_topo_UT_wintertrails.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Winter_Trails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no Winter trails](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norway_topo_UT_wintertrails.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Summer_Trails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no - Летние тропы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norway_topo_UT_summertrails.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Skoterleder" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Skoterleder](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Skoterleder.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norgeskart" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norgeskart.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 Hybrid](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norgeskart_Hybrid.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Гибрид](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norgeskart_Hybrid.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norgeskart_Satellite.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norgeskart_Satellite.sqlitedb "Скачать эту карту")
 
 
 
@@ -469,11 +469,11 @@ layout: default
 
 
 ### США
-<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/USA-USGS_Sat.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/USA-USGS_Sat.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat_plus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Satellite Plus](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/USA-USGS_Sat_plus.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat_plus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Спутник Плюс](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/USA-USGS_Sat_plus.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Topo](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/USA-USGS_Topo.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_US_USGS_Topo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [USGS National Map - Топокарта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/USA-USGS_Topo.sqlitedb "Скачать эту карту")
 
 
 
@@ -487,27 +487,33 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Гибрид](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Google.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Гибрид](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Mapbox.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox - Гибрид](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Mapbox.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_admin_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer Административные границы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Mapsurfer_admin_labels.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer Гибрид](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Mapsurfer_hybrid.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Public_Transport_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM Общественный транспорт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Public_Transport.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Public_Transport_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM - Общественный транспорт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Public_Transport.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/OpenFireMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenFireMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenFireMap.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Railway" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay Инфраструктура](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenRailWay.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Railway" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay - Инфраструктура](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenRailWay.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Railway_signals" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay Сигнализация](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenRailWay_signals.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Railway_signals" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay - Сигнализация](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenRailWay_signals.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Railway_speed" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay Скоростной режим](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenRailWay_speed.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Railway_speed" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenRailWay - Скоростной режим](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenRailWay_speed.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Traffic" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap Морской траффик](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Nautical-OpenSeaMap_traffic.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap Лыжные трассы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenSnowMap_pistes.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Tile Grid (gray)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Tile_grid_gray.sqlitedb "Скачать эту карту")
+### Overlay - Морские
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Traffic" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap - Морской траффик](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Nautical-OpenSeaMap_traffic.sqlitedb "Скачать эту карту")
+
+
+
+### Overlay - Надписи и дороги
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap - Лыжные трассы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-OpenSnowMap_pistes.sqlitedb "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TMS Тайловая сетка - Серая](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Tile_grid_gray.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_labels_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Гибрид (день)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-TomTom_labels_day.sqlitedb "Скачать эту карту")
 
@@ -525,7 +531,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Пешие прогулки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-WayMarkedTrails_Hiking.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Wiggle_wifi.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net - Точки Wi-fi](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Wiggle_wifi.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Wiggle_wifi_proxy.sqlitedb "Скачать эту карту")
 
@@ -540,50 +546,50 @@ layout: default
 
 
 ### Overlay - Пробки
-<a href="https://anygis.ru/api/v1/preview/Bing_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Bing.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Bing_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Bing.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Google.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Google.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Google_proxy.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Google_proxy.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Here.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Here.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Пробки (Поток)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Here.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here (Поток)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Here.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-TomTom.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Дорожная обстановка](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-TomTom_incidents.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex_proxy.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex_proxy.sqlitedb "Скачать эту карту")
 
 
 
 ### Overlay - GPS треки
-<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenStreetMap GPS Tracks](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-OpenSreetMaps.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenStreetMap - GPS Треки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-OpenSreetMaps.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_All_HD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Run_HD.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_All_Bluered_SD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег (сине-красный)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Run_Bluered_SD.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Ride_HD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Ride_HD.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Ride_Bluered_SD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт (сине-красный)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Ride_Bluered_SD.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Run_HD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт и Бег (beta)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_RunAndRide_SD.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Run_Bluered_SD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Water_HD.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run and Ride (beta)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_RunAndRide_SD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт (сине-красный)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Water_Bluered_SD.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Water_HD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_All_HD.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Water_Bluered_SD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои (сине-красный)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_All_Bluered_SD.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Winter_HD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Winter_HD.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Winter_Bluered_SD.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт (сине-красный)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Strava_Winter_Bluered_SD.sqlitedb "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Интенсивность](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_GPS_tracks-Yandex_intensity.sqlitedb "Скачать эту карту")
 
@@ -607,7 +613,7 @@ layout: default
 
 
 ### Overlay - Морские
-<a href="https://anygis.ru/api/v1/preview/Garmin_MarineImages" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Garmin MarineImages (Снимки сонара)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Nautical-Garmin_MarineImages.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Garmin_MarineImages" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Garmin MarineImages - Снимки сонара](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Nautical-Garmin_MarineImages.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Marine Charts](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Nautical-Navionics_Marine_Charts.sqlitedb "Скачать эту карту")
 
@@ -615,14 +621,14 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Nautical-OpenSeaMap_seamark.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap Карта глубин](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Nautical-OpenSeaMap_deep.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSeaMap - Карта глубин](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Nautical-OpenSeaMap_deep.sqlitedb "Скачать эту карту")
 
 
 
 ### Overpass
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Гравийные дорожки для бега](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overpass-GravelRunTrails.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Гравийные дорожки для бега](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overpass-GravelRunTrails.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_Waste" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Мусорные баки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overpass-Waste.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_Waste" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Мусорные баки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overpass-Waste.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_Water" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Питьевая вода](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overpass-Drinking_Water.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_Water" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Питьевая вода](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overpass-Drinking_Water.sqlitedb "Скачать эту карту")
 

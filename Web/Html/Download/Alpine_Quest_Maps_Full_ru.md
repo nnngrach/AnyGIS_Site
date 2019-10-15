@@ -32,31 +32,31 @@ layout: default
 
 
 ### [Глобальные - Спутниковые](https://anygis.ru/api/v1/download/alpine_ru/_Global-Satellites.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Спутник (гибрид) RU](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google_with_labels_ru.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google (гибрид) RU](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google_with_labels_ru.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Спутник](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Mapbox.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Mapbox.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium Imagery](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Maxar_Premium_Imagery.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Maxar_Premium_Imagery.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Agriculture](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Agriculture.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Геологический (Geology)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Geology.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Bathimetric](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Bathimetric.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Городской (False color - Urban)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Urban.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Geology](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Geology.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Индекс влажности (Moisture)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Moisture.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Moisture index](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Moisture.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Инфракрасный индекс (SWIR)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_SWIR.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel NDVI](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_NDVI.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_True_color.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel SWIR](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_SWIR.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Плотность растительности (NDVI)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_NDVI.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_True_color.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Подводный (Bathimetric)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Bathimetric.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Urban](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Urban.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Сельскохозяйственный (Agriculture)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Agriculture.AQX "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Kosmosnimki.AQX "Скачать эту карту")
 
@@ -75,7 +75,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Osmand_Mapnik.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info Горные приюты](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Refuges.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Refuges" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Refuges.info - Горные приюты](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Refuges.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Sputnik.AQX "Скачать эту карту")
 
@@ -257,19 +257,19 @@ layout: default
 ### [Евразия - Справочные](https://anygis.ru/api/v1/download/alpine_ru/_Eurasia-Info.AQX "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Navizor" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navizor - Оценка качества дорог](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Navizor.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Tele2](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Tele2.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Tele2](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Tele2.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yota](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Yota.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Yota](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Yota.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Билайн](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Beeline.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Билайн](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Beeline.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [МТС](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-MTS.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия МТС](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-MTS.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Мегафон](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Megafon.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Мегафон](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Megafon.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Ростелком](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Rostelcom.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Ростелком](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Rostelcom.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Тинькофф](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Tinkoff.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Тинькофф](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Tinkoff.AQX "Скачать эту карту")
 
 
 
@@ -369,9 +369,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norgeskart" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Norgeskart.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 Hybrid](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Norgeskart_Hybrid.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Гибрид](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Norgeskart_Hybrid.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 Satellite](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Norgeskart_Satellite.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Спутник](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Norgeskart_Satellite.AQX "Скачать эту карту")
 
 
 
@@ -385,11 +385,11 @@ layout: default
 ### [Overlay - Надписи и дороги](https://anygis.ru/api/v1/download/alpine_ru/_Overlay_Hybrid.AQX "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Google_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Гибрид](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Google.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Гибрид](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Mapbox.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox - Гибрид](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Mapbox.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/OpenFireMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenFireMap](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-OpenFireMap.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TILE_GRID_WHITE" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Tile Grid (white)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Tile_grid_white.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TILE_GRID_WHITE" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TMS Тайловая сетка - Белая](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Tile_grid_white.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_labels_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Гибрид (день)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-TomTom_labels_day.AQX "Скачать эту карту")
 
@@ -414,15 +414,15 @@ layout: default
 
 
 ### [Overlay - Пробки](https://anygis.ru/api/v1/download/alpine_ru/_Overlay_Traffic.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Bing_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Пробки](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Bing.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Bing_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Bing.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Пробки](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Google.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Google.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Пробки](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Google_proxy.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Google_proxy.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Пробки](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Here.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Here.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Пробки (Поток)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Here.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here (Поток)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Here.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-TomTom.AQX "Скачать эту карту")
 
@@ -431,15 +431,15 @@ layout: default
 
 
 ### [Overlay - GPS треки](https://anygis.ru/api/v1/download/alpine_ru/_Overlay_GPS_tracks.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_All_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Run_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Ride_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Ride_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Run_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Water_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Water_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_All_SD.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Winter_SD.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт](https://anygis.ru/api/v1/download/alpine_ru/Overlay_GPS_tracks-Strava_Winter_SD.AQX "Скачать эту карту")
 
 
 
@@ -459,7 +459,7 @@ layout: default
 
 
 ### [Overlay - Морские](https://anygis.ru/api/v1/download/alpine_ru/_Overlay_Nautical.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Garmin_MarineImages" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Garmin MarineImages (Снимки сонара)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Nautical-Garmin_MarineImages.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Garmin_MarineImages" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Garmin MarineImages - Снимки сонара](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Nautical-Garmin_MarineImages.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Marine Charts](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Nautical-Navionics_Marine_Charts.AQX "Скачать эту карту")
 
@@ -468,9 +468,9 @@ layout: default
 
 
 ### [Overpass](https://anygis.ru/api/v1/download/alpine_ru/_Overpass.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Гравийные дорожки для бега](https://anygis.ru/api/v1/download/alpine_ru/Overpass-GravelRunTrails.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Гравийные дорожки для бега](https://anygis.ru/api/v1/download/alpine_ru/Overpass-GravelRunTrails.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_Waste" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Мусорные баки](https://anygis.ru/api/v1/download/alpine_ru/Overpass-Waste.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_Waste" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Мусорные баки](https://anygis.ru/api/v1/download/alpine_ru/Overpass-Waste.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mapshooter_Water" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo: Питьевая вода](https://anygis.ru/api/v1/download/alpine_ru/Overpass-Drinking_Water.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mapshooter_Water" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OverpassTurbo - Питьевая вода](https://anygis.ru/api/v1/download/alpine_ru/Overpass-Drinking_Water.AQX "Скачать эту карту")
 
