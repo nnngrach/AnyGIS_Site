@@ -15,9 +15,9 @@ layout: default
 
 
 ### [Глобальные - Городские](https://anygis.ru/api/v1/download/alpine_ru/_Global-City.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Google_Bike_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Bike RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_bike_ru.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Велодорожки RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_map_ru.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Карта RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_map_ru.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Bike_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Велодорожки RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_bike_ru.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Ландшафт RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_terrain_ru.AQX "Скачать эту карту")
 
@@ -383,7 +383,7 @@ layout: default
 
 
 ### [Overlay - Надписи и дороги](https://anygis.ru/api/v1/download/alpine_ru/_Overlay_Hybrid.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Google_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Гибрид](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Google.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Гибрид](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Google.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox - Гибрид](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Mapbox.AQX "Скачать эту карту")
 
@@ -391,9 +391,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TILE_GRID_WHITE" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TMS Тайловая сетка - Белая](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Tile_grid_white.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TomTom_labels_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Гибрид (день)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-TomTom_labels_day.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TomTom_labels_day" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom - Гибрид (день)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-TomTom_labels_day.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TomTom_labels_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Гибрид (ночь)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-TomTom_labels_night.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TomTom_labels_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom - Гибрид (ночь)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-TomTom_labels_night.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Велоспорт](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-WayMarkedTrails_Cycling.AQX "Скачать эту карту")
 
@@ -409,7 +409,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Wiggle_wifi_proxy.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс Гибрид Народная](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Yandex_narod.AQX "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид Народная](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Yandex_narod.AQX "Скачать эту карту")
 
 
 
@@ -422,11 +422,11 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Here.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here (Поток)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Here.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here - Поток](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Here.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-TomTom.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Дорожная обстановка](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-TomTom_incidents.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom - Дорожная обстановка](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-TomTom_incidents.AQX "Скачать эту карту")
 
 
 

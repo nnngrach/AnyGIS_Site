@@ -19,9 +19,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Bing_map_for_guru" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Bing_map.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Bike_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Bike RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_bike_ru.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Велодорожки RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_map_ru.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Карта RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_map_ru.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Bike_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Велодорожки RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_bike_ru.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Ландшафт RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_terrain_ru.ms "Скачать эту карту")
 
@@ -97,7 +97,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapnik.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik (PROXY)](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik (proxy)](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapsurfer.ms "Скачать эту карту")
 
@@ -120,13 +120,13 @@ layout: default
 ### Глобальные - OSM - Ways
 <a href="https://anygis.ru/api/v1/preview/Osm_Cyclosm" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Cycleosm](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Cyclosm.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik + GPS треки](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Mapnik_GPS_Tracks.ms "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapy_Winter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapy Winter](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Mapy_Winter.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenBusMap (Opnvkarte.de)](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Opnvkarte.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-OpenSnowMap.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenStreetMap - GPS Треки](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Mapnik_GPS_Tracks.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Ways-Strava_Run.ms "Скачать эту карту")
 

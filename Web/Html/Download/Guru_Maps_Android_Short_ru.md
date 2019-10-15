@@ -17,7 +17,7 @@ layout: default
 ### Глобальные - Городские
 <a href="https://anygis.ru/api/v1/preview/Other_Ru_2gis" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [2Gis](https://anygis.ru/api/v1/download/galileo_ru/Global-City-2gis.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Карта RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_map_ru.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Велодорожки RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_map_ru.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Ландшафт RU](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Google_terrain_ru.ms "Скачать эту карту")
 
@@ -35,7 +35,7 @@ layout: default
 ### Глобальные - OSM
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapnik.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik (PROXY)](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik (proxy)](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Mapsurfer.ms "Скачать эту карту")
 

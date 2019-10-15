@@ -15,7 +15,7 @@ layout: default
 
 
 ### [Глобальные - Городские](https://anygis.ru/api/v1/download/alpine_ru/_Global-City.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Карта RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_map_ru.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Велодорожки RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_map_ru.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Ландшафт RU](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Google_terrain_ru.AQX "Скачать эту карту")
 
