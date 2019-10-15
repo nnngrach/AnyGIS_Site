@@ -21,14 +21,14 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Ландшафт RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Google_terrain_ru.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map.sqlitedb "Скачать эту карту")
 
 
 
 ### Глобальные - Спутниковые
 <a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Гибрид RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
 
 
 
@@ -105,12 +105,12 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Wikimapia.sqlitedb "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Гибрид](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Yandex.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Hybrid-Yandex.sqlitedb "Скачать эту карту")
 
 
 
 ### Overlay - Пробки
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex.sqlitedb "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay_Traffic-Yandex.sqlitedb "Скачать эту карту")
 
 
 

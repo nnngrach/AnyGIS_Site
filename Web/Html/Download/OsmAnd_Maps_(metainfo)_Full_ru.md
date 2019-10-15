@@ -33,11 +33,11 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (ночь)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-TomTom_base_night.zip "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Yandex_map.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Yandex_map.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Yandex_map_proxy.zip "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Yandex_map_proxy.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Народная](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Yandex_narodnaya.zip "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс Народная](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Yandex_narodnaya.zip "Скачать эту карту")
 
 
 
@@ -74,11 +74,11 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Sentinel_Agriculture.zip "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex.zip "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex_proxy.zip "Скачать эту карту")
-
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Kosmosnimki.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex_proxy.zip "Скачать эту карту")
 
 
 
@@ -523,9 +523,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Hybrid-Wikimapia.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Гибрид](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Hybrid-Yandex.zip "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Rosreestr_kadaster" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [РосРеестр - Кадастровые границы](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Hybrid-RosReestr.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Hybrid-Yandex.zip "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид Народная](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Hybrid-Yandex_narod.zip "Скачать эту карту")
 
@@ -544,13 +544,13 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom - Дорожная обстановка](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-TomTom_incidents.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex.zip "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex_proxy.zip "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex_proxy.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Интенсивность](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex_intensity.zip "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Интенсивность](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex_intensity.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Направления](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex_direcions.zip "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Направления](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex_direcions.zip "Скачать эту карту")
 
 
 

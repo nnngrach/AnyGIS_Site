@@ -21,18 +21,18 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Ландшафт RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Google_terrain_ru.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_traffic.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_traffic.xml "Скачать эту карту")
 
 
 
 ### [Глобальные - Спутниковые](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-Satellites.xml "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Гибрид RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Google_with_labels_ru.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Гибрид](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")
 
 
 
@@ -121,12 +121,12 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Wikimapia.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Гибрид](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Yandex.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Hybrid-Yandex.xml "Скачать эту карту")
 
 
 
 ### [Overlay - Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Overlay_Traffic.xml "Скачать всю группу")
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Yandex.xml "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Yandex.xml "Скачать эту карту")
 
 
 
