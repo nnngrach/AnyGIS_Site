@@ -56,9 +56,13 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Hiking](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-WayMarkedTrails_Hiking.AQX "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_MTB" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - MTB](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-WayMarkedTrails_MTB.AQX "Download this map")
+
 
 
 ### [Overlay - Traffic](https://anygis.ru/api/v1/download/alpine_en/_Overlay_Traffic.AQX "Download all group files")
+<a href="https://anygis.ru/api/v1/preview/Bing_traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Traffic](https://anygis.ru/api/v1/download/alpine_en/Overlay_Traffic-Bing.AQX "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Traffic](https://anygis.ru/api/v1/download/alpine_en/Overlay_Traffic-Google.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Traffic](https://anygis.ru/api/v1/download/alpine_en/Overlay_Traffic-Here.AQX "Download this map")

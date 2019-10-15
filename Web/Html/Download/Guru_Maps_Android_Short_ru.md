@@ -100,6 +100,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Combo_RusOutdoor_lite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [RusOutdoor maps (lite)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.ms "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Combo_Marshruty.ru" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Маршруты.ru](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Hiking-Multylayer-MarshrutiRU.ms "Скачать эту карту")
+
 
 
 ### Европа - OSM

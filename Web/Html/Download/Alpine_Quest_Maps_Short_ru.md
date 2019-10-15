@@ -70,6 +70,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Combo_RusOutdoor_lite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [RusOutdoor maps (lite)](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.AQX "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Combo_Marshruty.ru" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Маршруты.ru](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Multylayer-MarshrutiRU.AQX "Скачать эту карту")
+
 
 
 ### [Европа - OSM](https://anygis.ru/api/v1/download/alpine_ru/_Europe-OSM.AQX "Скачать всю группу")
@@ -84,11 +86,15 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Велоспорт](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-WayMarkedTrails_Cycling.AQX "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_MTB" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Горный велосипед MTB](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-WayMarkedTrails_MTB.AQX "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waymarkedtrails.org - Пешие прогулки](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-WayMarkedTrails_Hiking.AQX "Скачать эту карту")
 
 
 
 ### [Overlay - Пробки](https://anygis.ru/api/v1/download/alpine_ru/_Overlay_Traffic.AQX "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Bing_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Bing.AQX "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Google.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Here.AQX "Скачать эту карту")
