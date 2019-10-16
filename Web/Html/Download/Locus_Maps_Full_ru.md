@@ -39,6 +39,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (ночь)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-TomTom_base_night.xml "Скачать эту карту")
 
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Waze.xml "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map.xml "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map_proxy.xml "Скачать эту карту")

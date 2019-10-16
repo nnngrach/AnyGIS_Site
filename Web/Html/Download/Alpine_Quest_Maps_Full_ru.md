@@ -29,6 +29,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (ночь)](https://anygis.ru/api/v1/download/alpine_ru/Global-City-TomTom_base_night.AQX "Скачать эту карту")
 
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Пробки](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Waze.AQX "Скачать эту карту")
+
 
 
 ### [Глобальные - Спутниковые](https://anygis.ru/api/v1/download/alpine_ru/_Global-Satellites.AQX "Скачать всю группу")

@@ -35,6 +35,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Night](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-TomTom_base_night.zip "Download this map")
 
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Waze.zip "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Map](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_map.zip "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Map (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_map_proxy.zip "Download this map")

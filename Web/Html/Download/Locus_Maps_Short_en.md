@@ -108,8 +108,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay_Hybrid-Wikimapia.xml "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay_Hybrid-Yandex.xml "Download this map")
-
 
 
 ### [Overlay - Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Overlay_Traffic.xml "Download all group files")

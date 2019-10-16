@@ -89,8 +89,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_Hybrid-Wikimapia.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Labels](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay_Hybrid-Yandex.zip "Download this map")
-
 
 
 ### Overlay - Traffic

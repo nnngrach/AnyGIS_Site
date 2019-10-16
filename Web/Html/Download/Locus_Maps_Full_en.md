@@ -41,6 +41,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Night](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-TomTom_base_night.xml "Download this map")
 
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Waze.xml "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_map.xml "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Map (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_map_proxy.xml "Download this map")
