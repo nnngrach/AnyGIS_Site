@@ -15,28 +15,28 @@ layout: default
 
 
 ### Global - City
-<a href="https://anygis.ru/api/v1/preview/Bing_map_for_guru" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Map](https://anygis.ru/api/v1/download/galileo_en/Global-City-Bing_map.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Bing_map_for_guru" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing](https://anygis.ru/api/v1/download/galileo_en/Global-City-Bing_map.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Map](https://anygis.ru/api/v1/download/galileo_en/Global-City-Google_map.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://anygis.ru/api/v1/download/galileo_en/Global-City-Google_map.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Ter_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Terrain](https://anygis.ru/api/v1/download/galileo_en/Global-City-Google_terrain.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Here_map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Map](https://anygis.ru/api/v1/download/galileo_en/Global-City-Here_map.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Here_map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://anygis.ru/api/v1/download/galileo_en/Global-City-Here_map.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom Day](https://anygis.ru/api/v1/download/galileo_en/Global-City-TomTom_base_day.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (day)](https://anygis.ru/api/v1/download/galileo_en/Global-City-TomTom_base_day.ms "Download this map")
 
 
 
 ### Global - Satellites
 <a href="https://anygis.ru/api/v1/preview/Bing_sat_for_guru" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Bird's Eye](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Bing_birds_eye.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Satellite + labels](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Google_with_labels.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Hybrid](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Google_with_labels.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here Satellite](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Here.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Here.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium Imagery](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Maxar_Premium_Imagery.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Maxar_Premium_Imagery.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Satellite](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Yandex.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Yandex.ms "Download this map")
 
 
 
