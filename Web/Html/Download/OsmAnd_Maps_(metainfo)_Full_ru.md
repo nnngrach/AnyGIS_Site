@@ -69,31 +69,31 @@ layout: default
 
 
 ### Глобальные - Спутниковые специальные
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Август](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_August.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 00 Актуальная дата](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color.zip "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - Актуальная дата (Natural color)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_January" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 01 Январь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_January.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Апрель](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_April.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_February" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 02 Февраль](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_February.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Декабрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_December.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_March" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 03 Март](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_March.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Июль](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_July.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_April" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 04 Апрель](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_April.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Июнь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_June.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_May" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 05 Май](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_May.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Май](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_May.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_June" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 06 Июнь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_June.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Март](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_March.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_July" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 07 Июль](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_July.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Ноябрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_November.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_August" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 08 Август](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_August.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Октябрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_October.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_September" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 09 Сентябрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_September.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Сентябрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_September.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_October" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 10 Октябрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_October.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Февраль](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_February.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_November" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 11 Ноябрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_November.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Январь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_January.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_December" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 12 Декабрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_December.zip "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_Geology.zip "Скачать эту карту")
 

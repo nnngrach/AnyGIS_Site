@@ -83,31 +83,31 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_SWIR.zip "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 00 Last version](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - April](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_April.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_January" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 01 January](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_January.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - August](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_August.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_February" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 02 February](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_February.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - December](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_December.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_March" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 03 March](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_March.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - February](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_February.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_April" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 04 April](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_April.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - January](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_January.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_May" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 05 May](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_May.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - July](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_July.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_June" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 06 June](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_June.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - June](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_June.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_July" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 07 July](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_July.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - March](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_March.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_August" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 08 August](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_August.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - May](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_May.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_September" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 09 September](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_September.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - November](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_November.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_October" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 10 October](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_October.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - October](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_October.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_November" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 11 November](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_November.zip "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - September](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_September.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_December" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 12 December](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_December.zip "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites_Special-Sentinel_Urban.zip "Download this map")
 

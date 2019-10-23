@@ -85,31 +85,31 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_SWIR.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 00 Last version](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - April](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_April.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_January" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 01 January](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_January.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - August](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_August.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_February" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 02 February](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_February.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - December](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_December.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_March" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 03 March](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_March.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - February](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_February.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_April" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 04 April](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_April.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - January](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_January.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_May" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 05 May](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_May.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - July](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_July.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_June" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 06 June](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_June.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - June](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_June.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_July" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 07 July](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_July.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - March](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_March.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_August" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 08 August](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_August.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - May](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_May.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_September" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 09 September](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_September.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - November](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_November.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_October" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 10 October](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_October.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - October](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_October.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_November" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 11 November](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_November.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - September](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_September.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_December" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color - 12 December](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_True_color_December.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites_Special-Sentinel_Urban.ms "Download this map")
 
