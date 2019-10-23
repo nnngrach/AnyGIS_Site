@@ -68,23 +68,50 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Maxar_Standard_Imagery.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Agriculture](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Sentinel_Agriculture.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Bathimetric](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Sentinel_Bathimetric.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Geology](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Sentinel_Geology.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Moisture index](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Sentinel_Moisture.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel NDVI](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Sentinel_NDVI.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Sentinel_SWIR.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Sentinel_True_color.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Sentinel_Urban.ms "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Yandex.ms "Download this map")
+
+
+
+### Global - Satellites special
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Agriculture](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_Agriculture.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Bathimetric](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_Bathimetric.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Geology](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_Geology.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Moisture index](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_Moisture.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel NDVI](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_NDVI.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_SWIR.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - April](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_April.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - August](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_August.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - December](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_December.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - February](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_February.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - January](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_January.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - July](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_July.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - June](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_June.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - March](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_March.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - May](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_May.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - November](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_November.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - October](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_October.ms "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel True Color - September](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_September.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_Urban.ms "Download this map")
 
 
 

@@ -42,25 +42,28 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Maxar_Premium_Imagery.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel.AQX "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Геологический (Geology)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Geology.AQX "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Городской (False color - Urban)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Urban.AQX "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Индекс влажности (Moisture)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Moisture.AQX "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Инфракрасный индекс (SWIR)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_SWIR.AQX "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_True_color.AQX "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Плотность растительности (NDVI)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_NDVI.AQX "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Подводный (Bathimetric)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Bathimetric.AQX "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Сельскохозяйственный (Agriculture)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Sentinel_Agriculture.AQX "Скачать эту карту")
-
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Kosmosnimki.AQX "Скачать эту карту")
+
+
+
+### [Глобальные - Спутниковые специальные](https://anygis.ru/api/v1/download/alpine_ru/_Global-Satellites_Special.AQX "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Геологический (Geology)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Geology.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Городской (False color - Urban)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Urban.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Индекс влажности (Moisture)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Moisture.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Инфракрасный индекс (SWIR)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_SWIR.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_True_color.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Плотность растительности (NDVI)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_NDVI.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Подводный (Bathimetric)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Bathimetric.AQX "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Сельскохозяйственный (Agriculture)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Agriculture.AQX "Скачать эту карту")
 
 
 

@@ -64,25 +64,52 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Geology.ms "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Urban.ms "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Moisture.ms "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_SWIR.ms "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета (Natural color)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_True_color.ms "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_NDVI.ms "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Bathimetric.ms "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Agriculture.ms "Скачать эту карту")
-
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
+
+
+
+### Глобальные - Спутниковые специальные
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Август](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_August.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - Актуальная дата (Natural color)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Апрель](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_April.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Декабрь](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_December.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Июль](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_July.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Июнь](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_June.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Май](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_May.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Март](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_March.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Ноябрь](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_November.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Октябрь](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_October.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Сентябрь](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_September.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Февраль](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_February.ms "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Январь](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_January.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_Geology.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_Urban.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_Moisture.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_SWIR.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_NDVI.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_Bathimetric.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_Agriculture.ms "Скачать эту карту")
 
 
 

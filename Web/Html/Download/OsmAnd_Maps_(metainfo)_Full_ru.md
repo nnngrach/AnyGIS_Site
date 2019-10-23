@@ -60,27 +60,54 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery.zip "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Sentinel_Geology.zip "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Sentinel_Urban.zip "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Sentinel_Moisture.zip "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Sentinel_SWIR.zip "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета (Natural color)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Sentinel_True_color.zip "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Sentinel_NDVI.zip "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Sentinel_Bathimetric.zip "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Sentinel_Agriculture.zip "Скачать эту карту")
-
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Kosmosnimki.zip "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex.zip "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex_proxy.zip "Скачать эту карту")
+
+
+
+### Глобальные - Спутниковые специальные
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Август](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_August.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - Актуальная дата (Natural color)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Апрель](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_April.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Декабрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_December.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Июль](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_July.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Июнь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_June.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Май](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_May.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Март](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_March.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Ноябрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_November.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Октябрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_October.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Сентябрь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_September.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Февраль](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_February.zip "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Без обратоток - Январь](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_January.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_Geology.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_Urban.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_Moisture.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_SWIR.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_NDVI.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_Bathimetric.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites_Special-Sentinel_Agriculture.zip "Скачать эту карту")
 
 
 

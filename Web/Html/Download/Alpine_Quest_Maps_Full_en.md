@@ -46,23 +46,26 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Maxar_Premium_Imagery.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Sentinel.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Agriculture](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Sentinel_Agriculture.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Bathimetric](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Sentinel_Bathimetric.AQX "Download this map")
+### [Global - Satellites special](https://anygis.ru/api/v1/download/alpine_en/_Global-Satellites_Special.AQX "Download all group files")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Geology](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Sentinel_Geology.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Agriculture](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Agriculture.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Moisture index](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Sentinel_Moisture.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Bathimetric](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Bathimetric.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel NDVI](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Sentinel_NDVI.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Geology](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Geology.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel SWIR](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Sentinel_SWIR.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Moisture index](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Moisture.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Sentinel_True_color.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel NDVI](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_NDVI.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Urban](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Sentinel_Urban.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel SWIR](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_SWIR.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_True_color.AQX "Download this map")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Urban](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Urban.AQX "Download this map")
 
 
 
