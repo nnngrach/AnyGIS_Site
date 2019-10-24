@@ -334,19 +334,19 @@ layout: default
 ### Евразия - Справочные
 <a href="https://anygis.ru/api/v1/preview/Navizor" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navizor - Оценка качества дорог](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Navizor.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Tele2](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Tele2.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Tele2](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Tele2.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Yota](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Yota.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Yota](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Yota.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Билайн](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Beeline.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Билайн](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Beeline.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия МТС](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-MTS.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия МТС](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-MTS.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Мегафон](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Megafon.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Мегафон](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Megafon.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Ростелком](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Rostelcom.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Ростелком](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Rostelcom.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Тинькофф](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Tinkoff.zip "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Тинькофф](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Info-Tinkoff.zip "Скачать эту карту")
 
 
 

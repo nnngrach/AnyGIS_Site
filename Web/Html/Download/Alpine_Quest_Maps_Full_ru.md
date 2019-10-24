@@ -262,19 +262,19 @@ layout: default
 ### [Евразия - Справочные](https://anygis.ru/api/v1/download/alpine_ru/_Eurasia-Info.AQX "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Navizor" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navizor - Оценка качества дорог](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Navizor.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Tele2](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Tele2.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Tele2](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Tele2.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Yota](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Yota.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Yota](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Yota.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Билайн](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Beeline.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Билайн](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Beeline.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия МТС](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-MTS.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия МТС](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-MTS.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Мегафон](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Megafon.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Мегафон](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Megafon.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Ростелком](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Rostelcom.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Ростелком](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Rostelcom.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Тинькофф](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Tinkoff.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Тинькофф](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Info-Tinkoff.AQX "Скачать эту карту")
 
 
 

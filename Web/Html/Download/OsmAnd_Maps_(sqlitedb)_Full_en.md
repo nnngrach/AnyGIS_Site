@@ -446,19 +446,19 @@ layout: default
 
 
 ### Eurasia - Info
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Beeline](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Beeline.sqlitedb "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Beeline](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Beeline.sqlitedb "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile MTS](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-MTS.sqlitedb "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile MTS](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-MTS.sqlitedb "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Megaphone](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Megafon.sqlitedb "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Megaphone](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Megafon.sqlitedb "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Rostelcom](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Rostelcom.sqlitedb "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Rostelcom](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Rostelcom.sqlitedb "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Tele2](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Tele2.sqlitedb "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tele2](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Tele2.sqlitedb "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Tinkoff](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Tinkoff.sqlitedb "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tinkoff](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Tinkoff.sqlitedb "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Yota](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Yota.sqlitedb "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Yota](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Yota.sqlitedb "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Navizor" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navizor - Roads quality](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Eurasia-Info-Navizor.sqlitedb "Download this map")
 

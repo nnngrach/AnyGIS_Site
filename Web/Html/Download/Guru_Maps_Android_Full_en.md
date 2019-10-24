@@ -476,19 +476,19 @@ layout: default
 
 
 ### Eurasia - Info
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Beeline](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Beeline.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Beeline](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Beeline.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile MTS](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-MTS.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile MTS](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-MTS.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Megaphone](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Megafon.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Megaphone](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Megafon.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Rostelcom](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Rostelcom.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Rostelcom](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Rostelcom.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Tele2](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Tele2.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tele2](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Tele2.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Tinkoff](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Tinkoff.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tinkoff](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Tinkoff.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Yota](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Yota.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Yota](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-Yota.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Rosreestr_kadaster" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [RosReestr](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Info-RosReestr.ms "Download this map")
 

@@ -372,19 +372,19 @@ layout: default
 ### [Евразия - Справочные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Info.xml "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Navizor" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navizor - Оценка качества дорог](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Navizor.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Tele2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Tele2.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Tele2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Tele2.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Yota](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Yota.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Yota](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Yota.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Билайн](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Beeline.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Билайн](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Beeline.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия МТС](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-MTS.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия МТС](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-MTS.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Мегафон](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Megafon.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Мегафон](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Megafon.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Ростелком](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Rostelcom.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Ростелком](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Rostelcom.xml "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Зоны покрытия Тинькофф](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Tinkoff.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Тинькофф](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-Tinkoff.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Rosreestr_kadaster" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [РосРеестр - Кадастровые границы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Info-RosReestr.xml "Скачать эту карту")
 

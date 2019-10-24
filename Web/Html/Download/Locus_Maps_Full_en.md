@@ -501,19 +501,19 @@ layout: default
 
 
 ### [Eurasia - Info](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Info.xml "Download all group files")
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Beeline](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Beeline.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Beeline](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Beeline.xml "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile MTS](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-MTS.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile MTS](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-MTS.xml "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Megaphone](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Megafon.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Megaphone](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Megafon.xml "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Rostelcom](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Rostelcom.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Rostelcom](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Rostelcom.xml "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Tele2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Tele2.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tele2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Tele2.xml "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Tinkoff](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Tinkoff.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tinkoff](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Tinkoff.xml "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Yota](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Yota.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Yota](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Yota.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Navizor" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navizor - Roads quality](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Navizor.xml "Download this map")
 

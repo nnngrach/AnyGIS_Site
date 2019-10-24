@@ -318,19 +318,19 @@ layout: default
 
 
 ### [Eurasia - Info](https://anygis.ru/api/v1/download/alpine_en/_Eurasia-Info.AQX "Download all group files")
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Beeline](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Beeline.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Beeline](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Beeline.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile MTS](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-MTS.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile MTS](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-MTS.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Megaphone](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Megafon.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Megaphone](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Megafon.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Rostelcom](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Rostelcom.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Rostelcom](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Rostelcom.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Tele2](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Tele2.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tele2](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Tele2.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Tinkoff](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Tinkoff.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tinkoff](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Tinkoff.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Yota](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Yota.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Yota](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Yota.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Navizor" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navizor - Roads quality](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Info-Navizor.AQX "Download this map")
 
