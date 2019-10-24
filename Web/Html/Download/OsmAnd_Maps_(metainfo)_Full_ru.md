@@ -575,8 +575,6 @@ layout: default
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex.zip "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex_proxy.zip "Скачать эту карту")
-
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Интенсивность](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex_intensity.zip "Скачать эту карту")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Направления](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Yandex_direcions.zip "Скачать эту карту")

@@ -591,8 +591,6 @@ layout: default
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_Traffic-Yandex.sqlitedb "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_Traffic-Yandex_proxy.sqlitedb "Download this map")
-
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Directions](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_Traffic-Yandex_direcions.sqlitedb "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Intensity](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay_Traffic-Yandex_intensity.sqlitedb "Download this map")

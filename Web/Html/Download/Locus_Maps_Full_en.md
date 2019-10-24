@@ -650,8 +650,6 @@ layout: default
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay_Traffic-Yandex.xml "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay_Traffic-Yandex_proxy.xml "Download this map")
-
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Directions](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay_Traffic-Yandex_direcions.xml "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Intensity](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay_Traffic-Yandex_intensity.xml "Download this map")
