@@ -474,6 +474,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Norgeskart_Satellite.sqlitedb "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Geoportal_Lt.sqlitedb "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Northern-Geoportal_Lt.sqlitedb "Скачать эту карту")
+
 
 
 ### Европа - Западная
@@ -494,6 +498,16 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Зимние тропы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_winter.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Тропы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_tourist.sqlitedb "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Лыжные трассы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-SwissSkiRoutes.sqlitedb "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSlope30" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Склоны 30°](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-SwissSlopes.sqlitedb "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-SwissImage.sqlitedb "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Топокарта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-SwissTopo.sqlitedb "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTrailsLayer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Тропы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-SwissTrails.sqlitedb "Скачать эту карту")
 
 
 

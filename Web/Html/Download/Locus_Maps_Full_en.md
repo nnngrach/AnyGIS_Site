@@ -263,6 +263,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Topografisk](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Lantmateriet_Topowebb.xml "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Geoportal_Lt.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Geoportal_Lt.xml "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Norway_topo_UT.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Summer_Trails" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no - Summer trails](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Norway_topo_UT_summertrails.xml "Download this map")
@@ -299,6 +303,19 @@ layout: default
 
 ### [Europe - Southeast](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Southeast.xml "Download all group files")
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Montenecro 250](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Southeast-Montenegro.xml "Download this map")
+
+
+
+### [Europe - Central](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Central.xml "Download all group files")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Image](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-SwissImage.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Ski Routes](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-SwissSkiRoutes.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSlope30" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Slope 30°](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-SwissSlopes.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTrailsLayer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Tails Layer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-SwissTrails.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Topo](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-SwissTopo.xml "Download this map")
 
 
 

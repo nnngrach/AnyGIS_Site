@@ -133,6 +133,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Topografisk](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Lantmateriet_Topowebb.AQX "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Geoportal_Lt.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Geoportal_Lt.AQX "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Skoterleder" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Skoterleder](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Skoterleder.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norgeskart" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Norgeskart.AQX "Download this map")

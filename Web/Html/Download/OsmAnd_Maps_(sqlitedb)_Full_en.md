@@ -215,6 +215,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Topografisk](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Northern-Lantmateriet_Topowebb.sqlitedb "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Northern-Geoportal_Lt.sqlitedb "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Northern-Geoportal_Lt.sqlitedb "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Northern-Norway_topo_UT.sqlitedb "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Summer_Trails" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no - Summer trails](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Northern-Norway_topo_UT_summertrails.sqlitedb "Download this map")
@@ -249,6 +253,19 @@ layout: default
 
 ### Europe - Southeast
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Montenecro 250](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Southeast-Montenegro.sqlitedb "Download this map")
+
+
+
+### Europe - Central
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Image](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Central-SwissImage.sqlitedb "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Ski Routes](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Central-SwissSkiRoutes.sqlitedb "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSlope30" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Slope 30°](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Central-SwissSlopes.sqlitedb "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTrailsLayer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Tails Layer](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Central-SwissTrails.sqlitedb "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Topo](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Central-SwissTopo.sqlitedb "Download this map")
 
 
 

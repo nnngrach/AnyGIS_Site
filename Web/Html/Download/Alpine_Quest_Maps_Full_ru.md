@@ -378,6 +378,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Спутник](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Norgeskart_Satellite.AQX "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Geoportal_Lt.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Geoportal_Lt.AQX "Скачать эту карту")
+
 
 
 ### [Европа - Западная](https://anygis.ru/api/v1/download/alpine_ru/_Europe-Western.AQX "Скачать всю группу")

@@ -522,6 +522,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Topografisk Norgeskart 4 - Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Norgeskart_Satellite.xml "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Geoportal_Lt.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Geoportal_Lt.xml "Скачать эту карту")
+
 
 
 ### [Европа - Западная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Europe-Western.xml "Скачать всю группу")
@@ -544,6 +548,16 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Зимние тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-Czech_winter.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-Czech_tourist.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Лыжные трассы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-SwissSkiRoutes.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSlope30" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Склоны 30°](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-SwissSlopes.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-SwissImage.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Топокарта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-SwissTopo.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTrailsLayer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-SwissTrails.xml "Скачать эту карту")
 
 
 

@@ -249,6 +249,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Topografisk](https://anygis.ru/api/v1/download/galileo_en/Europe-Northern-Lantmateriet_Topowebb.ms "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](https://anygis.ru/api/v1/download/galileo_en/Europe-Northern-Geoportal_Lt.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](https://anygis.ru/api/v1/download/galileo_en/Europe-Northern-Geoportal_Lt.ms "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Norway topomap UT.no](https://anygis.ru/api/v1/download/galileo_en/Europe-Northern-Norway_topo_UT.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Skoterleder" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Skoterleder](https://anygis.ru/api/v1/download/galileo_en/Europe-Northern-Skoterleder.ms "Download this map")
@@ -281,6 +285,19 @@ layout: default
 
 ### Europe - Southeast
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Montenecro 250](https://anygis.ru/api/v1/download/galileo_en/Europe-Southeast-Montenegro.ms "Download this map")
+
+
+
+### Europe - Central
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Image](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-SwissImage.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Ski Routes](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-SwissSkiRoutes.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSlope30" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Slope 30°](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-SwissSlopes.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTrailsLayer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Tails Layer](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-SwissTrails.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Topo](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-SwissTopo.ms "Download this map")
 
 
 
