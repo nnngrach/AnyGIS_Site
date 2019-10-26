@@ -93,7 +93,7 @@ www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 Стоит заметить, что в целях ускорения быстродействия эта подгонка происходит по упрощенной схеме. А именно, с помощью обычного смещения карты. Технически, это происходит следующим образом. Допустим, требуется получить кусок карты для этого места. (На изображении - эталон - кусок карты в стандартной проекции).
 
 <p align="center">
-<img src="https://github.com/nnngrach/AnyGIS_maps/raw/master/Web/Img/osm.jpg"/>
+<img src="https://github.com/nnngrach/AnyGIS_Site/raw/master/Web/Img/osm.jpg"/>
 </p>
 
 
