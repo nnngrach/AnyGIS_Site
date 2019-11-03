@@ -162,8 +162,6 @@ layout: default
 
 
 ### Глобальные - Водные
-<a href="https://anygis.ru/api/v1/preview/Water_CMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [C-Map](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Water-CMap.zip "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Ersi_Ocean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI Ocean](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Water-ERSI_ocean.zip "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Marine Charts](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Water-Navionics_Marine_Charts.zip "Скачать эту карту")
@@ -237,6 +235,8 @@ layout: default
 
 
 ### Евразия - Туристические - Московская область
+<a href="https://anygis.ru/api/v1/preview/Local_MoscowMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [MoscowMap.ru](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Hiking-Moscow-MoscowMap.zip "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Local_ArbaletMO" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Атлас издательства "Арбалет"](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Hiking-Moscow-Arbalet.zip "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Local_Slazav_Nakarte" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Карты Завьялова "ММБ"](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Hiking-Moscow-Slazav.zip "Скачать эту карту")
@@ -361,6 +361,12 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Shubert" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Европейская Россия Шуберт 3-х верстовая](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Hystoric-Eur_Russia_Shubert.zip "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1986_1km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Иркутск и окрестноски 1км 1986](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Hystoric-Irkutsk_1km_1986.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1988_2km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Иркутск и окрестноски 2км 1988](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Hystoric-Irkutsk_2km_1988.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1980_5km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Иркутск и окрестноски 5км 1980](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Hystoric-Irkutsk_5km_1980.zip "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1877" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Кавказ 1877 5-верстовая](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Hystoric-Kavkaz_1877.zip "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1926" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Кавказ 1926 5-верстовая](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Hystoric-Kavkaz_1926.zip "Скачать эту карту")
@@ -472,8 +478,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Europe-Northern-Geoportal_Lt.zip "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Europe-Northern-Geoportal_Lt.zip "Скачать эту карту")
-
 
 
 ### Европа - Западная
@@ -582,6 +586,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Here.zip "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here - Поток](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-Here_flow.zip "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/NavitelSu_Traffic" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navitel.su](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-NavitelSu_Traffic.zip "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay_Traffic-TomTom.zip "Скачать эту карту")
 

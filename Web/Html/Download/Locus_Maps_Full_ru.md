@@ -186,8 +186,6 @@ layout: default
 
 
 ### [Глобальные - Водные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-Water.xml "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Water_CMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [C-Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Water-CMap.xml "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Ersi_Ocean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI Ocean](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Water-ERSI_ocean.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics + OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Water-Navionics_OSM.xml "Скачать эту карту")
@@ -275,6 +273,8 @@ layout: default
 
 
 ### [Евразия - Туристические - Московская область](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Hiking-Moscow.xml "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Local_MoscowMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [MoscowMap.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Hiking-Moscow-MoscowMap.xml "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Local_ArbaletMO" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Атлас издательства "Арбалет"](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Hiking-Moscow-Arbalet.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Local_Slazav_Nakarte" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Карты Завьялова "ММБ"](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Hiking-Moscow-Slazav.xml "Скачать эту карту")
@@ -401,6 +401,12 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Shubert" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Европейская Россия Шуберт 3-х верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Hystoric-Eur_Russia_Shubert.xml "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1986_1km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Иркутск и окрестноски 1км 1986](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Hystoric-Irkutsk_1km_1986.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1988_2km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Иркутск и окрестноски 2км 1988](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Hystoric-Irkutsk_2km_1988.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1980_5km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Иркутск и окрестноски 5км 1980](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Hystoric-Irkutsk_5km_1980.xml "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1877" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Кавказ 1877 5-верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Hystoric-Kavkaz_1877.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1926" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Кавказ 1926 5-верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Hystoric-Kavkaz_1926.xml "Скачать эту карту")
@@ -524,8 +530,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Geoportal_Lt.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Geoportal_Lt.xml "Скачать эту карту")
-
 
 
 ### [Европа - Западная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Europe-Western.xml "Скачать всю группу")
@@ -640,6 +644,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Here.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here - Поток](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-Here_flow.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/NavitelSu_Traffic" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navitel.su](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-NavitelSu_Traffic.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay_Traffic-TomTom.xml "Скачать эту карту")
 

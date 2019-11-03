@@ -96,8 +96,6 @@ layout: default
 
 
 ### [Global - Nautical](https://anygis.ru/api/v1/download/alpine_en/_Global-Water.AQX "Download all group files")
-<a href="https://anygis.ru/api/v1/preview/Water_CMap" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [C-Map](https://anygis.ru/api/v1/download/alpine_en/Global-Water-CMap.AQX "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Marine Charts](https://anygis.ru/api/v1/download/alpine_en/Global-Water-Navionics_Marine_Charts.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Sonar_Charts" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics SonarCharts](https://anygis.ru/api/v1/download/alpine_en/Global-Water-Navionics_Sonar_Charts.AQX "Download this map")
@@ -119,6 +117,16 @@ layout: default
 
 
 ### [Europe - Northern](https://anygis.ru/api/v1/download/alpine_en/_Europe-Northern.AQX "Download all group files")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Eniro.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_labels" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Hybrid](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Eniro_hybrid.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Satellite](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Eniro_satellite.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Nautical" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Sjökort - Nautical](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Eniro_Nautical.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_labels" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro labels layer](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Eniro_labels.AQX "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_FinnTopo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Finland Topo Retkikartta.fi](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Finland_topo.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Fonecta_map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Fonecta.fi](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Fonecta.AQX "Download this map")
@@ -132,8 +140,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_Fjallkarta" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Fjällkarta](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Lantmateriet_Fjallkarta.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Topografisk](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Lantmateriet_Topowebb.AQX "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Geoportal_Lt.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](https://anygis.ru/api/v1/download/alpine_en/Europe-Northern-Geoportal_Lt.AQX "Download this map")
 
@@ -151,6 +157,19 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_FranceTopo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [France Topo IGN.fr](https://anygis.ru/api/v1/download/alpine_en/Europe-Western-France_topo.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_GB_Topo_locus" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Great Britain Topo](https://anygis.ru/api/v1/download/alpine_en/Europe-Western-GB_topo.AQX "Download this map")
+
+
+
+### [Europe - Central](https://anygis.ru/api/v1/download/alpine_en/_Europe-Central.AQX "Download all group files")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Image](https://anygis.ru/api/v1/download/alpine_en/Europe-Central-SwissImage.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Ski Routes](https://anygis.ru/api/v1/download/alpine_en/Europe-Central-SwissSkiRoutes.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSlope30" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Slope 30°](https://anygis.ru/api/v1/download/alpine_en/Europe-Central-SwissSlopes.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTrailsLayer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Tails Layer](https://anygis.ru/api/v1/download/alpine_en/Europe-Central-SwissTrails.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Topo](https://anygis.ru/api/v1/download/alpine_en/Europe-Central-SwissTopo.AQX "Download this map")
 
 
 
@@ -227,6 +246,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Local_Adraces" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Adraces](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Hiking-Moscow-Adraces.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Local_ArbaletMO" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Arbalet](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Hiking-Moscow-Arbalet.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Local_MoscowMap" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [MoscowMap.ru](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Hiking-Moscow-MoscowMap.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Local_Osport" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [O-Sport](https://anygis.ru/api/v1/download/alpine_en/Eurasia-Hiking-Moscow-OSport.AQX "Download this map")
 
@@ -365,6 +386,12 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Aero_Krasnodar" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military avia photo](https://anygis.ru/api/v1/download/alpine_en/Hystoric-German_Aero_Krasnodar.AQX "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1986_1km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Irkutsk 1km 1986](https://anygis.ru/api/v1/download/alpine_en/Hystoric-Irkutsk_1km_1986.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1988_2km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Irkutsk 2km 1988](https://anygis.ru/api/v1/download/alpine_en/Hystoric-Irkutsk_2km_1988.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1980_5km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Irkutsk 5km 1980](https://anygis.ru/api/v1/download/alpine_en/Hystoric-Irkutsk_5km_1980.AQX "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Historic_Kuban_1902" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kuban 1902](https://anygis.ru/api/v1/download/alpine_en/Hystoric-Kuban_1902.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Kuban_1918" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kuban Stralbitsky 1918](https://anygis.ru/api/v1/download/alpine_en/Hystoric-Kuban_1918.AQX "Download this map")
@@ -440,6 +467,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://anygis.ru/api/v1/download/alpine_en/Overlay_Traffic-Here.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here - Flow](https://anygis.ru/api/v1/download/alpine_en/Overlay_Traffic-Here_flow.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/NavitelSu_Traffic" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navitel.su](https://anygis.ru/api/v1/download/alpine_en/Overlay_Traffic-NavitelSu_Traffic.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom](https://anygis.ru/api/v1/download/alpine_en/Overlay_Traffic-TomTom.AQX "Download this map")
 

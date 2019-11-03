@@ -194,8 +194,6 @@ layout: default
 
 
 ### [Global - Nautical](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Water.xml "Download all group files")
-<a href="https://anygis.ru/api/v1/preview/Water_CMap" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [C-Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Water-CMap.xml "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Ersi_Ocean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI Ocean](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Water-ERSI_ocean.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics + OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Water-Navionics_OSM.xml "Download this map")
@@ -262,8 +260,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_Fjallkarta" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Fjällkarta](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Lantmateriet_Fjallkarta.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Topografisk](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Lantmateriet_Topowebb.xml "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Geoportal_Lt.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Geoportal_Lt.xml "Download this map")
 
@@ -422,6 +418,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Local_ArbaletMO" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Arbalet](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Moscow-Arbalet.xml "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Local_MoscowMap" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [MoscowMap.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Moscow-MoscowMap.xml "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Local_Osport" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [O-Sport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Moscow-OSport.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Local_Slazav_Nakarte" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Slazav](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Moscow-Slazav.xml "Download this map")
@@ -561,6 +559,12 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_3km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military 1942 3km](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Hystoric-German_Genshtab_3km.xml "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1986_1km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Irkutsk 1km 1986](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Hystoric-Irkutsk_1km_1986.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1988_2km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Irkutsk 2km 1988](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Hystoric-Irkutsk_2km_1988.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1980_5km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Irkutsk 5km 1980](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Hystoric-Irkutsk_5km_1980.xml "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Historic_Kuban_1902" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kuban 1902](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Hystoric-Kuban_1902.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Kuban_1918" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kuban Stralbitsky 1918](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Hystoric-Kuban_1918.xml "Download this map")
@@ -660,6 +664,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay_Traffic-Here.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here - Flow](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay_Traffic-Here_flow.xml "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/NavitelSu_Traffic" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navitel.su](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay_Traffic-NavitelSu_Traffic.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay_Traffic-TomTom.xml "Download this map")
 

@@ -184,8 +184,6 @@ layout: default
 
 
 ### Global - Nautical
-<a href="https://anygis.ru/api/v1/preview/Water_CMap" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [C-Map](https://anygis.ru/api/v1/download/galileo_en/Global-Water-CMap.ms "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Ersi_Ocean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI Ocean](https://anygis.ru/api/v1/download/galileo_en/Global-Water-ERSI_ocean.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics + OSM](https://anygis.ru/api/v1/download/galileo_en/Global-Water-Navionics_OSM.ms "Download this map")
@@ -248,8 +246,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_Fjallkarta" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Fjällkarta](https://anygis.ru/api/v1/download/galileo_en/Europe-Northern-Lantmateriet_Fjallkarta.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Topografisk](https://anygis.ru/api/v1/download/galileo_en/Europe-Northern-Lantmateriet_Topowebb.ms "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](https://anygis.ru/api/v1/download/galileo_en/Europe-Northern-Geoportal_Lt.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lithuania - Geoportal.lt](https://anygis.ru/api/v1/download/galileo_en/Europe-Northern-Geoportal_Lt.ms "Download this map")
 
@@ -397,6 +393,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Local_ArbaletMO" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Arbalet](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Moscow-Arbalet.ms "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Local_MoscowMap" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [MoscowMap.ru](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Moscow-MoscowMap.ms "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Local_Osport" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [O-Sport](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Moscow-OSport.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Local_Slazav_Nakarte" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Slazav](https://anygis.ru/api/v1/download/galileo_en/Eurasia-Hiking-Moscow-Slazav.ms "Download this map")
@@ -533,6 +531,12 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_2km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military 1941 2km](https://anygis.ru/api/v1/download/galileo_en/Hystoric-German_Genshtab_3km.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_3km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military 1942 3km](https://anygis.ru/api/v1/download/galileo_en/Hystoric-German_Genshtab_3km.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1986_1km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Irkutsk 1km 1986](https://anygis.ru/api/v1/download/galileo_en/Hystoric-Irkutsk_1km_1986.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1988_2km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Irkutsk 2km 1988](https://anygis.ru/api/v1/download/galileo_en/Hystoric-Irkutsk_2km_1988.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1980_5km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Irkutsk 5km 1980](https://anygis.ru/api/v1/download/galileo_en/Hystoric-Irkutsk_5km_1980.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Kuban_1902" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kuban 1902](https://anygis.ru/api/v1/download/galileo_en/Hystoric-Kuban_1902.ms "Download this map")
 

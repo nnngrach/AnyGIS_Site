@@ -94,8 +94,6 @@ layout: default
 
 
 ### [Глобальные - Водные](https://anygis.ru/api/v1/download/alpine_ru/_Global-Water.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Water_CMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [C-Map](https://anygis.ru/api/v1/download/alpine_ru/Global-Water-CMap.AQX "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Marine Charts](https://anygis.ru/api/v1/download/alpine_ru/Global-Water-Navionics_Marine_Charts.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Navionics_Sonar_Charts" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navionics Sonar Charts](https://anygis.ru/api/v1/download/alpine_ru/Global-Water-Navionics_Sonar_Charts.AQX "Скачать эту карту")
@@ -167,6 +165,8 @@ layout: default
 
 
 ### [Евразия - Туристические - Московская область](https://anygis.ru/api/v1/download/alpine_ru/_Eurasia-Hiking-Moscow.AQX "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Local_MoscowMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [MoscowMap.ru](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Moscow-MoscowMap.AQX "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Local_ArbaletMO" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Атлас издательства "Арбалет"](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Moscow-Arbalet.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Local_Slazav_Nakarte" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Карты Завьялова "ММБ"](https://anygis.ru/api/v1/download/alpine_ru/Eurasia-Hiking-Moscow-Slazav.AQX "Скачать эту карту")
@@ -289,6 +289,12 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Shubert" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Европейская Россия Шуберт 3-х верстовая](https://anygis.ru/api/v1/download/alpine_ru/Hystoric-Eur_Russia_Shubert.AQX "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1986_1km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Иркутск и окрестноски 1км 1986](https://anygis.ru/api/v1/download/alpine_ru/Hystoric-Irkutsk_1km_1986.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1988_2km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Иркутск и окрестноски 2км 1988](https://anygis.ru/api/v1/download/alpine_ru/Hystoric-Irkutsk_2km_1988.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1980_5km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Иркутск и окрестноски 5км 1980](https://anygis.ru/api/v1/download/alpine_ru/Hystoric-Irkutsk_5km_1980.AQX "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1877" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Кавказ 1877 5-верстовая](https://anygis.ru/api/v1/download/alpine_ru/Hystoric-Kavkaz_1877.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1926" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Кавказ 1926 5-верстовая](https://anygis.ru/api/v1/download/alpine_ru/Hystoric-Kavkaz_1926.AQX "Скачать эту карту")
@@ -356,6 +362,16 @@ layout: default
 
 
 ### [Европа - Северная](https://anygis.ru/api/v1/download/alpine_ru/_Europe-Northern.AQX "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Eniro.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Hybrid](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Eniro_hybrid.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Satellite](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Eniro_satellite.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Nautical" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro Sjökort - Морская](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Eniro_Nautical.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_labels" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro labels layer](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Eniro_labels.AQX "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_FinnTopo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Finland Topo Retkikartta.fi](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Finland_topo.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Fonecta_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Fonecta.fi](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Fonecta.AQX "Скачать эту карту")
@@ -380,14 +396,25 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Geoportal_Lt.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_GeoportalLt" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Литва - Geoportal.lt](https://anygis.ru/api/v1/download/alpine_ru/Europe-Northern-Geoportal_Lt.AQX "Скачать эту карту")
-
 
 
 ### [Европа - Западная](https://anygis.ru/api/v1/download/alpine_ru/_Europe-Western.AQX "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_FranceTopo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [France Topo IGN.fr](https://anygis.ru/api/v1/download/alpine_ru/Europe-Western-France_topo.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_GB_Topo_locus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Great Britain Topo](https://anygis.ru/api/v1/download/alpine_ru/Europe-Western-GB_topo.AQX "Скачать эту карту")
+
+
+
+### [Европа - Центральная](https://anygis.ru/api/v1/download/alpine_ru/_Europe-Central.AQX "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Лыжные трассы](https://anygis.ru/api/v1/download/alpine_ru/Europe-Central-SwissSkiRoutes.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSlope30" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Склоны 30°](https://anygis.ru/api/v1/download/alpine_ru/Europe-Central-SwissSlopes.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Спутник](https://anygis.ru/api/v1/download/alpine_ru/Europe-Central-SwissImage.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Топокарта](https://anygis.ru/api/v1/download/alpine_ru/Europe-Central-SwissTopo.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTrailsLayer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Тропы](https://anygis.ru/api/v1/download/alpine_ru/Europe-Central-SwissTrails.AQX "Скачать эту карту")
 
 
 
@@ -432,6 +459,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Here.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here - Поток](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-Here_flow.AQX "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/NavitelSu_Traffic" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navitel.su](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-NavitelSu_Traffic.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Traffic-TomTom.AQX "Скачать эту карту")
 
