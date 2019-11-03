@@ -206,7 +206,7 @@ layout: default
 
 [15]: http://4pda.ru/forum/index.php?showtopic=210573&st=7740
 
-[16]: t.me/locus_rus
+[16]: https://t.me/locus_rus
 
 [17]: https://melda.ru/locus/quick-www-bookmarks/
 

@@ -235,7 +235,7 @@ Osmand позволяет показывать и скрывать дополн�
 
 [17]: http://4pda.ru/forum/index.php?showtopic=181125&st=10780
 
-[18]: t.me/ruosmand
+[18]: https://t.me/ruosmand
 
 
 
