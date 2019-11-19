@@ -93,7 +93,7 @@ In addition, AnyGIS is able to make simple [transformations][2] maps in differen
 It is worth noting that in order to speed up the performance of this adjustment occurs in a simplified way. Namely, using the usual map offset. Here's how it works. Let's say we need to get a piece of map for this place. (The image shows a reference sample - a tile in the standard projection).
 
 <p align="center">
-<img src="https://github.com/nnngrach/AnyGIS_maps/raw/master/Web/Img/osm.jpg"/>
+<img src="https://github.com/nnngrach/AnyGIS_Site/raw/master/Web/Img/osm.jpg"/>
 </p>
 
 

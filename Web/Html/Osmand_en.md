@@ -30,9 +30,6 @@ It's no secret that the basic set of cards with which the application is supplie
 ### Basic set
 A great option for beginners. If you still not sure what cards you should upload in the navigation app, you'll start with this collection. Here is a minimum set of the most necessary, in my opinion, cards.  This set is suitable not only to get acquainted with the different types of maps that can be installed in the application, but also quite cope with most everyday tasks.
 
-[Download all maps (sqlitedb)][1]
-
-[Download all maps (metainfo)][2]
 
 [Download maps by one file (sqlitedb)][3]
 
@@ -43,7 +40,7 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Zip/Maps_short_en.zip
 
-[3]: https://anygis.ru/Web/Html/Download/OsmAnd_Maps_Short_en
+[3]: https://anygis.ru/Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Short_en
 
 [4]: https://anygis.ru/Web/Html/Download/OsmAnd_Maps_(metainfo)_Short_en
 
@@ -57,10 +54,6 @@ If you already know what kind of maps you need, then this set is for you. Note t
 - OSM-based maps (Mapnik, Cyclemap, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap)
 - Digitized raster topomaps (Soviet military maps, GGC, Hiking maps with local coverage)
 - Information maps (Wikimapia)
-
-[Download all maps (sqlitedb)][11]
-
-[Download all maps (metainfo)][12]
 
 [Download maps by one file (sqlitedb)][13]
 
@@ -79,7 +72,7 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [12]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Zip/Maps_full_en.zip
 
-[13]: https://anygis.ru/Web/Html/Download/OsmAnd_Maps_Full_en
+[13]: https://anygis.ru/Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Full_en
 
 [14]: https://anygis.ru/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_en
 
