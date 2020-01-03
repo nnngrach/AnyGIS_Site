@@ -60,6 +60,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Mapbox.ms "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook)](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Maxar_Facebook_Imagery.ms "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Maxar_Premium_Imagery.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Maxar_Standard_Imagery.ms "Скачать эту карту")
@@ -133,6 +135,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Osm_Michelin" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Michelin transport](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Michelin.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap_RU](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-OpenTopoMap_RU.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](https://anygis.ru/api/v1/download/galileo_ru/Global-OSM-Osmand_Mapnik.ms "Скачать эту карту")
 
