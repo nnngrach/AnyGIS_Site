@@ -11,6 +11,13 @@ layout: default
 [04]: https://anygis.ru/Web/Html/DownloadPage_ru
 [05]: https://anygis.ru/Web/Html/Api_ru
 
+### Январь 2020
+
+Карты для Osmand в формате sqlitedb теперь гененируются в новом формате.
+
+Добавил кары OpentopomapRU, Maxar via Facebook. 
+
+Скрыл Maxar премиум, которые стали закрытыми.
 
 
 ### Ноябрь 2019
