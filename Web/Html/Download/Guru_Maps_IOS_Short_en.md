@@ -36,8 +36,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Maxar_Facebook_Imagery.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Maxar_Premium_Imagery.ms "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Yandex.ms "Download this map")
 
 
@@ -47,7 +45,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Mapsurfer.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap.ORG](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.ms "Download this map")
 
 
 

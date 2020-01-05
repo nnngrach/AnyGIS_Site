@@ -34,8 +34,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Maxar_Facebook_Imagery.zip "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Maxar_Premium_Imagery.zip "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex.zip "Download this map")
 
 
@@ -45,7 +43,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-OSM-Mapsurfer.zip "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-OSM-OpenTopoMap.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap.ORG](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-OSM-OpenTopoMap.zip "Download this map")
 
 
 

@@ -24,12 +24,10 @@ layout: default
 ### [Глобальные - Спутниковые](https://anygis.ru/api/v1/download/alpine_ru/_Global-Satellites.AQX "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Гибрид](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Google_with_labels_ru.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Maxar_Premium_Imagery.AQX "Скачать эту карту")
-
 
 
 ### [Глобальные - OSM](https://anygis.ru/api/v1/download/alpine_ru/_Global-OSM.AQX "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap_RU](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-OpenTopoMap_RU.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap.RU](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-OpenTopoMap_RU.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Sputnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sputnik.ru](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Sputnik.AQX "Скачать эту карту")
 

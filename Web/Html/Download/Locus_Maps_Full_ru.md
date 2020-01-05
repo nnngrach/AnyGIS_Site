@@ -68,10 +68,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Maxar_Facebook_Imagery.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Maxar_Premium_Imagery.xml "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Standard](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Maxar_Standard_Imagery.xml "Скачать эту карту")
-
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Kosmosnimki.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex.xml "Скачать эту карту")
@@ -144,9 +140,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Michelin" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Michelin transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Michelin.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-OpenTopoMap.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap.ORG](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-OpenTopoMap.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap_RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-OpenTopoMap_RU.xml "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_RU" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap.RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-OpenTopoMap_RU.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Osmand_Mapnik.xml "Скачать эту карту")
 

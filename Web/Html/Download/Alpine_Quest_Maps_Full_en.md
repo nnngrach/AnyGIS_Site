@@ -44,8 +44,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Mapbox.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar Premium](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Maxar_Premium_Imagery.AQX "Download this map")
-
 
 
 ### [Global - Satellites special](https://anygis.ru/api/v1/download/alpine_en/_Global-Satellites_Special.AQX "Download all group files")
@@ -80,7 +78,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Michelin" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Michelin transport](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Michelin.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_RU" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap_RU](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-OpenTopoMap_RU.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_RU" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap.RU](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-OpenTopoMap_RU.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Osmand Mapnik](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Osmand_Mapnik.AQX "Download this map")
 
