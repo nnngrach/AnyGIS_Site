@@ -43,7 +43,7 @@ layout: default
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze](https://anygis.ru/api/v1/download/galileo_en/Global-City-Waze.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://anygis.ru/api/v1/download/galileo_en/Global-City-Yandex_map.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://anygis.ru/api/v1/download/galileo_en/Global-City-Yandex_map_converted.ms "Download this map")
 
 
 
@@ -66,7 +66,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook)](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Maxar_Facebook_Imagery.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Yandex.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Yandex_converted.ms "Download this map")
 
 
 

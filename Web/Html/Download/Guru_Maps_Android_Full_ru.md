@@ -41,7 +41,7 @@ layout: default
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Пробки](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Waze.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Yandex_map.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Yandex_map_converted.ms "Скачать эту карту")
 
 
 
@@ -64,7 +64,7 @@ layout: default
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Yandex_converted.ms "Скачать эту карту")
 
 
 
