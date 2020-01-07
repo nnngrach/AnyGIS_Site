@@ -87,27 +87,46 @@ layout: default
 
 * Скачайте карту в формате sqlitedb.
 
-![](https://anygis.ru/Web/Img/Osmand_ios_1.jpg)
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_1.jpg" width="200"/>
+</p>
 
 * Найдите скачанный файл в списке загрузок браузера. 
 
-![](https://anygis.ru/Web/Img/Osmand_ios_2.jpg)
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_2.jpg" width="200"/>
+</p>
 
 * Откройте файл с помощью Osmand.
 
-![](https://anygis.ru/Web/Img/Osmand_ios_3.jpg)
-![](https://anygis.ru/Web/Img/Osmand_ios_4.jpg)
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_3.jpg" width="200"/>
+</p>
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_4.jpg" width="200"/>
+</p>
 
 * Карта должна появиться в меню Настройки карты -> Карты покрытия.
 
-![](https://anygis.ru/Web/Img/Osmand_ios_5.jpg)
-![](https://anygis.ru/Web/Img/Osmand_ios_6.jpg)
-![](https://anygis.ru/Web/Img/Osmand_ios_7.jpg)
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_5.jpg" width="200"/>
+</p>
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_6.jpg" width="200"/>
+</p>
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_7.jpg" width="200"/>
+</p>
 
 
 * Если вам потребуется удалить установленные карты, то это можно сделать из меню Карты и Ресурсы -> Установлено -> Создать карту
 
-![](https://anygis.ru/Web/Img/Osmand_ios_8.jpg)
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_8.jpg" width="200"/>
+</p>
 
 > Внимание! На текущий момент подключение дополнительных онлайн-карт доступно только в версии Osmand для бета-тестирования. И в ней пока что не поддерживаются карты в эллипсоидной проекции (например, карты Яндекса).
 
