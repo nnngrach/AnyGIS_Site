@@ -36,6 +36,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Yandex.sqlitedb "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Yandex.sqlitedb "Download this map")
+
 
 
 ### Global - OSM

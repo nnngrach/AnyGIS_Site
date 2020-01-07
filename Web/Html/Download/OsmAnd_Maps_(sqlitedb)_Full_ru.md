@@ -66,6 +66,10 @@ layout: default
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex_proxy.sqlitedb "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
+
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид (с конвертацией)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Satellites-Yandex_with_labels.sqlitedb "Скачать эту карту")
+
 
 
 ### Глобальные - Спутниковые специальные
