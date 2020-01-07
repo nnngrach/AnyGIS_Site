@@ -77,6 +77,24 @@ If you already know what kind of maps you need, then this set is for you. Note t
 [14]: https://anygis.ru/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_en
 
 
+
+### How to install maps (Android)
+
+Maps are presented in two formats. Theoretically, the maps are in the `sqlitedb` format should be loaded faster. On the other hand, you can easily delete the cache for `metainfo` maps. (Directly from the map folder). Anyway, you can download anything. But the Strava maps I recommend to download in the `metainfo` format.
+
+* If you have downloaded the zip archive you need to unpack it first.
+* If you have downloaded map file in `.sqlitedb` format, then copy this file to the folder on smatphone  `Android\data\net.osmand\files\tiles` 
+* If you want to download map in `.metainfo` format, then you'll get zip archive. Unpack it. Copy unpacked folder to the `Android\data\net.osmand\files\tiles` 
+* If for some reason you do not have such a folder (for example, Osmand is installed on the SD-card), then you need to know in which directory it is located. To do this, launch the application, open `Settings`, select `Basic settings` and scroll down to `Storage Directory`. Here you will find the address. Card you want to copy to the subfolder `tiles`
+
+![](https://anygis.ru/Web/Img/Osmand_patch.png)
+
+* New maps should appear in the application in the tabs `map Source`, `Coverage maps`, `substrate Map`
+* If you need to remove any map from this list, you need to remove it from the storage of your phone using the File Manager app.
+
+![](https://anygis.ru/Web/Img/Osmand_maplist.png)
+
+
 ### How to install maps (IOS)
 
 * Download map in sqlitedb format.
@@ -126,29 +144,6 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 
 
-
-### How to install maps (Android)
-
-Maps are presented in two formats. Theoretically, the maps are in the `sqlitedb` format should be loaded faster. On the other hand, you can easily delete the cache for `metainfo` maps. (Directly from the map folder). Anyway, you can download anything. But the Strava maps I recommend to download in the `metainfo` format.
-
-* If you have downloaded the zip archive you need to unpack it first.
-* If you have downloaded map file in `.sqlitedb` format, then copy this file to the folder on smatphone  `Android\data\net.osmand\files\tiles` 
-* If you want to download map in `.metainfo` format, then you'll get zip archive. Unpack it. Copy unpacked folder to the `Android\data\net.osmand\files\tiles` 
-* If for some reason you do not have such a folder (for example, Osmand is installed on the SD-card), then you need to know in which directory it is located. To do this, launch the application, open `Settings`, select `Basic settings` and scroll down to `Storage Directory`. Here you will find the address. Card you want to copy to the subfolder `tiles`
-
-![](https://anygis.ru/Web/Img/Osmand_patch.png)
-
-* New maps should appear in the application in the tabs `map Source`, `Coverage maps`, `substrate Map`
-* If you need to remove any map from this list, you need to remove it from the storage of your phone using the File Manager app.
-
-![](https://anygis.ru/Web/Img/Osmand_maplist.png)
-
-
-### How to install maps (IOS)
-
-At the moment I have not been able to connect any external online map to the IOS version of OsmAnd. If you know how to do this, please contact me.
-
-> Attention! Some servers with maps sometimes slow down. Alas, in such cases, Osmand can force the connection to be disconnected to save power, thus preventing the cards from loading. This often happens with OpenTopoMaps, OpenStreetMaps, 4Umaps, RusOutdoorMaps and YandexTraffic maps. Note that after a while the server can recover and the cards can start downloading normally again.
 
 ### How to set up the traffic layer?
 
