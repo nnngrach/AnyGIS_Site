@@ -77,6 +77,55 @@ If you already know what kind of maps you need, then this set is for you. Note t
 [14]: https://anygis.ru/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_en
 
 
+### How to install maps (IOS)
+
+* Download map in sqlitedb format.
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_1.jpg" width="200"/>
+</p>
+
+* Find the downloaded file in the browser downloads list. 
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_2.jpg" width="200"/>
+</p>
+
+* Open the file using Osmand.
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_3.jpg" width="200"/>
+</p>
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_4.jpg" width="200"/>
+</p>
+
+* The map should appear in the menu Map -> Overlay.
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_5.jpg" width="200"/>
+</p>
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_6.jpg" width="200"/>
+</p>
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_7.jpg" width="200"/>
+</p>
+
+
+* If you need to delete the installed maps, you can do it from the menu Map & Resources -> Installed -> Map Creator.
+
+<p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_8.jpg" width="200"/>
+</p>
+
+> Attention! At the moment, working with additional online maps is only available in the Osmand version for beta testing.
+
+
+
 
 ### How to install maps (Android)
 
