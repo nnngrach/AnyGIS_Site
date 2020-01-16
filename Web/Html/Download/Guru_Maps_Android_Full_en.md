@@ -54,7 +54,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-ESRI_Imagenary.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Google.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD_only" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Google.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Hybrid](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Google_with_labels.ms "Download this map")
 
@@ -64,7 +64,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Satellite](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Mapbox.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook)](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Maxar_Facebook_Imagery.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook) zoom 11-18](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Maxar_Facebook_Imagery.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Yandex_converted.ms "Download this map")
 
@@ -119,6 +119,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Osm_Hike_Bike" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hike and bike](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-HikeBike.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Komoot.ms "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Kompass_De.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki](https://anygis.ru/api/v1/download/galileo_en/Global-OSM-Kosmosnimki.ms "Download this map")
 

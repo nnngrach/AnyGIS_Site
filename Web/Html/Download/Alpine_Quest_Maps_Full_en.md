@@ -36,13 +36,15 @@ layout: default
 
 
 ### [Global - Satellites](https://anygis.ru/api/v1/download/alpine_en/_Global-Satellites.AQX "Download all group files")
-<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Google.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD_only" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Google.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Hybrid](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Google_with_labels.AQX "Download this map")
 
 ![](https://anygis.ru/Web/Img/eyeNo.png)  [Kosmosnimki.ru](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Kosmosnimki.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Mapbox.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook) zoom 11-18](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Maxar_Facebook_Imagery.AQX "Download this map")
 
 
 
@@ -71,6 +73,8 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Osm_Geofabrik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Geofabrik](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Geofabrik.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Komoot.AQX "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Kompass_De.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Kosmosnimki.AQX "Download this map")
 

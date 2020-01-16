@@ -26,6 +26,8 @@ layout: default
 ### [Global - Satellites](https://anygis.ru/api/v1/download/alpine_en/_Global-Satellites.AQX "Download all group files")
 <a href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Hybrid](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Google_with_labels.AQX "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook) zoom 11-18](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Maxar_Facebook_Imagery.AQX "Download this map")
+
 
 
 ### [Global - OSM - Ways](https://anygis.ru/api/v1/download/alpine_en/_Global-OSM-Ways.AQX "Download all group files")
