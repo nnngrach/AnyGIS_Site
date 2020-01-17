@@ -17,8 +17,6 @@ layout: default
 ### Глобальные - Городские
 <a href="https://anygis.ru/api/v1/preview/Other_Ru_2gis" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [2Gis](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-2gis.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Bing_map_for_guru" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Bing_map.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Bing_map_for_locus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Bing_map.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Google_map_ru.txt "Скачать эту карту")
@@ -53,20 +51,12 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_narod" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс Народная (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_narodnaya_converted.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс Пробки](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_traffic.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_map_converted.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Yandex_traffic" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс Пробки (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_traffic_converted.txt "Скачать эту карту")
-
 
 
 ### Глобальные - Спутниковые
 <a href="https://anygis.ru/api/v1/preview/Combo_All_Satellites" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [AnyGIS Спутниковый сборник](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-All.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Bing_sat_for_guru" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Bird's Eye](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Bing_birds_eye.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Bing_sat_for_locus" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing Bird's Eye](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Bing_birds_eye.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Ersi_Satellite" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [ESRI](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-ESRI_Imagenary.txt "Скачать эту карту")
 
@@ -99,8 +89,6 @@ layout: default
 ### Глобальные - Спутниковые специальные
 <a href="https://anygis.ru/api/v1/preview/Sentinel" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Sentinel_True_color" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 00 Актуальная дата](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_True_color.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_January" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Без обратоток - 01 Январь](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_True_color_January.txt "Скачать эту карту")
@@ -129,33 +117,17 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Geology.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Geology.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Urban.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Urban.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Moisture.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Moisture.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_SWIR.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_SWIR.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_True_color.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_NDVI.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_NDVI.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Bathimetric.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Bathimetric.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Agriculture.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Agriculture.txt "Скачать эту карту")
 
 
 
@@ -177,10 +149,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Mapnik.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_Nolabel" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik (no labels)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Mapnik_No_labels.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapnik (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Mapnik_Proxy.txt "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Mapnik + Рельеф](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Mapnik_Hillshade.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Mapsurfer.txt "Скачать эту карту")
 
@@ -215,25 +183,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenSnowMap](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-OpenSnowMap.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenStreetMap - GPS Треки](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-Mapnik_GPS_Tracks.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-Strava_Run.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег и Велоспорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-Strava_RideAndRun.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-Strava_Ride.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-Strava_Water.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-Strava_All.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-Strava_Winter.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Cycle](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-Thunderforest_Cycle.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Outdoors" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Thunderforest Outdoor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-Thunderforest_Outdoor.txt "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Перевалы Вестра](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-OSM-Ways-Westra_Passes.txt "Скачать эту карту")
 
 
 
@@ -440,43 +392,29 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Tele2](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Tele2.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Tele2](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Tele2.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Tele2 (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Tele2_(converted).txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Yota](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Yota.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Yota](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Yota.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Yota (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Yota_(converted).txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Билайн](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Beeline.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Билайн](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Beeline.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Билайн (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Beeline_(converted).txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия МТС](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-MTS.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия МТС](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-MTS.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия МТС (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-MTS_(converted).txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Мегафон](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Megafon.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Мегафон](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Megafon.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Мегафон (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Megafon_(converted).txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Ростелком](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Rostelcom.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Ростелком](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Rostelcom.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Ростелком (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Rostelcom_(converted).txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Тинькофф](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Tinkoff.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Тинькофф](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Tinkoff.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Тинькофф (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Eurasia-Info-Tinkoff_(converted).txt "Скачать эту карту")
 
@@ -576,8 +514,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастр Карта](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Europe-Eastern-CadastrUA_map.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастр Спутник](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Europe-Eastern-CadastrUA_sat.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастровые границы](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Europe-Eastern-CadastrUA_overlay.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Украина - Кадастровые границы](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Europe-Eastern-CadastrUA_overlay.txt "Скачать эту карту")
 
@@ -694,8 +630,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapsurfer - Гибрид](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-Mapsurfer_hybrid.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Nakarte.me - Перевалы Вестра](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-Westra_Passes.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Osm_Public_Transport_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OSM - Общественный транспорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-Public_Transport.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/OpenFireMap" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenFireMap](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-OpenFireMap.txt "Скачать эту карту")
@@ -732,8 +666,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net - Точки Wi-fi](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-Wiggle_wifi.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-Wiggle_wifi_proxy.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-Wikimapia.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Rosreestr_kadaster" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [РосРеестр - Кадастровые границы](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-RosReestr.txt "Скачать эту карту")
@@ -749,8 +681,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Google.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Google_proxy.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Here.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here - Поток](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Here_flow.txt "Скачать эту карту")
@@ -758,8 +688,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/NavitelSu_Traffic" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Navitel.su](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-NavitelSu_Traffic.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-TomTom.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom - Дорожная обстановка](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-TomTom_incidents.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Yandex_proxy.txt "Скачать эту карту")
 
@@ -780,8 +708,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Run_HD.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Run_SD.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег (сине-красный)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Run_Bluered_SD.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Бег (сине-красный)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Run_Bluered_HD.txt "Скачать эту карту")
@@ -789,8 +715,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Ride_SD.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Ride_HD.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Ride_SD.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Велоспорт (сине-красный)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Ride_Bluered_SD.txt "Скачать эту карту")
 
@@ -802,8 +726,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Water_HD.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Water_SD.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт (сине-красный)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Water_Bluered_SD.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Водный спорт (сине-красный)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Water_Bluered_HD.txt "Скачать эту карту")
@@ -811,8 +733,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_All_SD.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_All_HD.txt "Скачать эту карту")
-
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_All_SD.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои (сине-красный)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_All_Bluered_SD.txt "Скачать эту карту")
 
@@ -822,8 +742,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Winter_HD.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Winter_SD.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт (сине-красный)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Winter_Bluered_SD.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Зимний спорт (сине-красный)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_Winter_Bluered_HD.txt "Скачать эту карту")
@@ -832,8 +750,6 @@ layout: default
 
 ### Overlay - Рельеф
 <a href="https://anygis.ru/api/v1/preview/Hillshade_Mapbox_Contour_Lines" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Контурные линии Mapbox ](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Relief-Mapbox_Contour_Lines.txt "Скачать эту карту")
-
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Рельеф Mapbox](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Relief-Mapbox.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Hillshade_Mapsurfer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Рельеф Openmapsurfer](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Relief-Mapsurfer.txt "Скачать эту карту")
 
