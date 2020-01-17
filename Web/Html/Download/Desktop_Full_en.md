@@ -43,13 +43,13 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Waze" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waze Traffic (not finished)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Waze.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_map.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_map.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_map_converted.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_map_proxy.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_map_proxy.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_narod_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex MapEditor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_narodnaya.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex MapEditor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_narodnaya.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_narod" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex MapEditor (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_narodnaya_converted.txt "Download this map")
 
@@ -68,21 +68,21 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Here.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Kosmosnimki" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki.ru](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Kosmosnimki.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Kosmosnimki.ru](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Kosmosnimki.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Kosmosnimki_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki.ru](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Kosmosnimki.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Kosmosnimki" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki.ru (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Kosmosnimki_converted.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Satellite](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Mapbox.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook) zoom 11-18](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Maxar_Facebook_Imagery.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_converted.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_proxy.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_proxy.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Hybrid](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_with_labels.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Hybrid](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_with_labels.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_hybrid" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Hybrid (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_with_labels_converted.txt "Download this map")
 
@@ -157,8 +157,6 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapy_Tourists" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapy Tourists](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapy_Tourists.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Michelin" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Michelin transport](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Michelin.txt "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap.ORG](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-OpenTopoMap.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Topo_Map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenTopoMap.ORG](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-OpenTopoMap.txt "Download this map")
 
@@ -532,31 +530,31 @@ layout: default
 
 
 ### Eurasia - Info
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Beeline](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Beeline.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Beeline](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Beeline.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Beeline (with convertation)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Beeline_(converted).txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile MTS](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-MTS.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile MTS](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-MTS.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile MTS (with convertation)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-MTS_(converted).txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Megaphone](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Megafon.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Megaphone](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Megafon.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Megaphone (with convertation)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Megafon_(converted).txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Rostelcom](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Rostelcom.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Rostelcom](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Rostelcom.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Rostelcom (with convertation)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Rostelcom_(converted).txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tele2](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Tele2.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Tele2](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Tele2.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tele2 (with convertation)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Tele2_(converted).txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tinkoff](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Tinkoff.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Tinkoff](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Tinkoff.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Tinkoff (with convertation)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Tinkoff_(converted).txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Yota](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Yota.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Mobile Yota](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Yota.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mobile Yota (with convertation)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Eurasia-Info-Yota_(converted).txt "Download this map")
 
@@ -684,9 +682,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Hybrid-Wikimapia.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Hybrid](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Hybrid-Yandex.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Hybrid](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Hybrid-Yandex.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_narod_layer_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Map Editor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Hybrid-Yandex_narod.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Map Editor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Hybrid-Yandex_narod.txt "Download this map")
 
 
 
@@ -705,11 +703,11 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_proxy_converted.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_proxy.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_proxy.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_direction_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Directions](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_direcions.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Directions](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_direcions.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Yandex_intensity_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Intensity](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_intensity.txt "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Intensity](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_intensity.txt "Download this map")
 
 
 
@@ -722,43 +720,43 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_All_Bluered_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_All_Bluered_HD.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All HD (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_All_Bluered_HD.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Ride_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Ride_HD.txt "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_Bluered" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Ride_Bluered_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Ride_Bluered_HD.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride HD](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Ride_HD.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Ride HD (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Ride_Bluered_HD.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Run_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Run_HD.txt "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_Bluered" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Run_Bluered_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Run_Bluered_HD.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run HD](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Run_HD.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run HD (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Run_Bluered_HD.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run and Ride (beta)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_RunAndRide_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run and Ride (beta)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_RunAndRide_HD.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Run and Ride HD (beta)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_RunAndRide_HD.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Water_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Water_HD.txt "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_Bluered" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Water_Bluered_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Water_Bluered_HD.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water (HD Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Water_Bluered_HD.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Water HD](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Water_HD.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Winter_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Winter_HD.txt "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Winter_Bluered_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Winter_Bluered_HD.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter HD](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Winter_HD.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Winter HD (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_Winter_Bluered_HD.txt "Download this map")
 
 
 
