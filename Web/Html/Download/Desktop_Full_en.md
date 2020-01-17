@@ -43,21 +43,23 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (day)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-TomTom_base_day.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Traffic (not finished)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Waze.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Waze" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waze Traffic (not finished)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Waze.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_map.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_map_converted.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_map_proxy.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_map_proxy.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex MapEditor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_narodnaya.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_narod_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex MapEditor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_narodnaya.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex MapEditor (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_narodnaya_converted.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_narod" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex MapEditor (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_narodnaya_converted.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_traffic.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Traffic](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_traffic.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex Traffic (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_traffic_converted.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_map_converted.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Yandex_traffic" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Traffic (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-City-Yandex_traffic_converted.txt "Download this map")
 
 
 
@@ -76,9 +78,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Here.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Kosmosnimki.ru](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Kosmosnimki.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Kosmosnimki" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki.ru](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Kosmosnimki.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Kosmosnimki.ru](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Kosmosnimki.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Kosmosnimki_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki.ru](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Kosmosnimki.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Satellite](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Mapbox.txt "Download this map")
 
@@ -88,11 +90,11 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_converted.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_proxy.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_proxy.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Hybrid](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_with_labels.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Hybrid](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_with_labels.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Hybrid (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_with_labels_converted.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_hybrid" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Hybrid (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites-Yandex_with_labels_converted.txt "Download this map")
 
 
 
@@ -103,27 +105,27 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Agriculture](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Agriculture.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Agriculture](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Agriculture.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Agriculture](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Agriculture.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Bathimetric](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Bathimetric.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Bathimetric](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Bathimetric.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Bathimetric](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Bathimetric.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Geology](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Geology.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Geology](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Geology.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Geology](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Geology.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Moisture index](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Moisture.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Moisture index](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Moisture.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Moisture index](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Moisture.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel NDVI](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_NDVI.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel NDVI](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_NDVI.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel NDVI](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_NDVI.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_SWIR.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel SWIR](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_SWIR.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_SWIR.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_True_color.txt "Download this map")
 
@@ -155,7 +157,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Urban.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Urban](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Urban.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Satellites_Special-Sentinel_Urban.txt "Download this map")
 
 
 
@@ -254,9 +256,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Water-OpenSeaMap.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Deep Map](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Water-OpenSeaMap_deep.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark_No_Preview" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map + Deep Map](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Water-OpenSeaMap_deep.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Traffic](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Water-OpenSeaMap_traffic.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark_No_Preview" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map + Traffic](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-Water-OpenSeaMap_traffic.txt "Download this map")
 
 
 
@@ -372,7 +374,7 @@ layout: default
 
 
 ### Europe - Eastern
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Belarus - DZZ.by (need a proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Belarus_DDZ" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Belarus - DZZ.by (need a proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.txt "Download this map")
 
 
 
@@ -754,9 +756,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Wikimapia_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Hybrid-Wikimapia.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Hybrid](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Hybrid-Yandex.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Hybrid](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Hybrid-Yandex.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Map Editor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Hybrid-Yandex_narod.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_narod_layer_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Map Editor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Hybrid-Yandex_narod.txt "Download this map")
 
 
 
@@ -777,13 +779,13 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom - Incidents](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-TomTom_incidents.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_proxy.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_proxy_converted.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_proxy.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_proxy.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Directions](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_direcions.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_direction_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Directions](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_direcions.txt "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Intensity](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_intensity.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_intensity_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Intensity](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_Traffic-Yandex_intensity.txt "Download this map")
 
 
 

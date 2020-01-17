@@ -41,7 +41,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (day)](https://anygis.ru/api/v1/download/galileo_en/Global-City-TomTom_base_day.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Traffic (not finished)](https://anygis.ru/api/v1/download/galileo_en/Global-City-Waze.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Waze" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waze Traffic (not finished)](https://anygis.ru/api/v1/download/galileo_en/Global-City-Waze.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex (converted)](https://anygis.ru/api/v1/download/galileo_en/Global-City-Yandex_map_converted.ms "Download this map")
 
@@ -60,7 +60,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Here_sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Here](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Here.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Kosmosnimki.ru](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Kosmosnimki.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Kosmosnimki" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki.ru](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Kosmosnimki.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Satellite](https://anygis.ru/api/v1/download/galileo_en/Global-Satellites-Mapbox.ms "Download this map")
 
@@ -196,9 +196,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map](https://anygis.ru/api/v1/download/galileo_en/Global-Water-OpenSeaMap.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Deep Map](https://anygis.ru/api/v1/download/galileo_en/Global-Water-OpenSeaMap_deep.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark_No_Preview" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map + Deep Map](https://anygis.ru/api/v1/download/galileo_en/Global-Water-OpenSeaMap_deep.ms "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Traffic](https://anygis.ru/api/v1/download/galileo_en/Global-Water-OpenSeaMap_traffic.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark_No_Preview" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map + Traffic](https://anygis.ru/api/v1/download/galileo_en/Global-Water-OpenSeaMap_traffic.ms "Download this map")
 
 
 

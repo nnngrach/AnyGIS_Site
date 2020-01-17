@@ -29,7 +29,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (ночь)](https://anygis.ru/api/v1/download/alpine_ru/Global-City-TomTom_base_night.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Пробки (в разработке)](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Waze.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Waze" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waze Пробки (в разработке)](https://anygis.ru/api/v1/download/alpine_ru/Global-City-Waze.AQX "Скачать эту карту")
 
 
 
@@ -42,28 +42,28 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook) zoom 11-18](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Maxar_Facebook_Imagery.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Kosmosnimki.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Kosmosnimki_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Космоснимки.ру](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites-Kosmosnimki.AQX "Скачать эту карту")
 
 
 
 ### [Глобальные - Спутниковые специальные](https://anygis.ru/api/v1/download/alpine_ru/_Global-Satellites_Special.AQX "Скачать всю группу")
 <a href="https://anygis.ru/api/v1/preview/Sentinel_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Геологический (Geology)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Geology.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Geology.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Городской (False color - Urban)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Urban.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Urban.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Индекс влажности (Moisture)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Moisture.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Moisture.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Инфракрасный индекс (SWIR)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_SWIR.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_SWIR.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_True_color.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Плотность растительности (NDVI)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_NDVI.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_NDVI.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Подводный (Bathimetric)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Bathimetric.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Bathimetric.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Сельскохозяйственный (Agriculture)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Agriculture.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](https://anygis.ru/api/v1/download/alpine_ru/Global-Satellites_Special-Sentinel_Agriculture.AQX "Скачать эту карту")
 
 
 
@@ -449,7 +449,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location (proxy)](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Wiggle_wifi_proxy.AQX "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид Народная](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Yandex_narod.AQX "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_narod_layer_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс - Гибрид Народная](https://anygis.ru/api/v1/download/alpine_ru/Overlay_Hybrid-Yandex_narod.AQX "Скачать эту карту")
 
 
 

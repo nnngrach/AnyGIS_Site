@@ -31,7 +31,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (day)](https://anygis.ru/api/v1/download/alpine_en/Global-City-TomTom_base_day.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Traffic (not finished)](https://anygis.ru/api/v1/download/alpine_en/Global-City-Waze.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Waze" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waze Traffic (not finished)](https://anygis.ru/api/v1/download/alpine_en/Global-City-Waze.AQX "Download this map")
 
 
 
@@ -40,7 +40,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google - Hybrid](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Google_with_labels.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Kosmosnimki.ru](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Kosmosnimki.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Kosmosnimki_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki.ru](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Kosmosnimki.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Mapbox_Sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Satellite](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites-Mapbox.AQX "Download this map")
 
@@ -51,21 +51,21 @@ layout: default
 ### [Global - Satellites special](https://anygis.ru/api/v1/download/alpine_en/_Global-Satellites_Special.AQX "Download all group files")
 <a href="https://anygis.ru/api/v1/preview/Sentinel_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Agriculture](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Agriculture.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Agriculture](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Agriculture.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Bathimetric](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Bathimetric.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Bathimetric](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Bathimetric.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Geology](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Geology.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Geology](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Geology.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Moisture index](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Moisture.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Moisture index](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Moisture.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel NDVI](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_NDVI.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel NDVI](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_NDVI.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel SWIR](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_SWIR.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel SWIR](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_SWIR.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel True Color ](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_True_color.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel Urban](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Urban.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel Urban](https://anygis.ru/api/v1/download/alpine_en/Global-Satellites_Special-Sentinel_Urban.AQX "Download this map")
 
 
 
@@ -457,7 +457,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi_proxy" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location (proxy)](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-Wiggle_wifi_proxy.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Yandex - Map Editor](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-Yandex_narod.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Yandex_narod_layer_WGS84" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex - Map Editor](https://anygis.ru/api/v1/download/alpine_en/Overlay_Hybrid-Yandex_narod.AQX "Download this map")
 
 
 

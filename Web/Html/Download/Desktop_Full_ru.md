@@ -41,21 +41,23 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (ночь)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-TomTom_base_night.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Пробки (в разработке)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Waze.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Waze" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waze Пробки (в разработке)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Waze.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_map.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_map_proxy.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_map_proxy.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_map_converted.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс Народная](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_narodnaya.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_narod_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс Народная](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_narodnaya.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс Народная (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_narodnaya_converted.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_narod" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс Народная (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_narodnaya_converted.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс Пробки](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_traffic.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс Пробки](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_traffic.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс Пробки (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_traffic_converted.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_map_converted.txt "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Yandex_traffic" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс Пробки (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-City-Yandex_traffic_converted.txt "Скачать эту карту")
 
 
 
@@ -78,19 +80,19 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook) zoom 11-18](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Maxar_Facebook_Imagery.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Kosmosnimki.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Kosmosnimki" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Космоснимки.ру](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Kosmosnimki.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Kosmosnimki.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Kosmosnimki_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Космоснимки.ру](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Kosmosnimki.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Yandex.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Yandex_proxy.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Yandex_proxy.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Yandex_converted.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Yandex_with_labels.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс - Гибрид](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Yandex_with_labels.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Yandex_with_labels_converted.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_hybrid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс - Гибрид (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites-Yandex_with_labels_converted.txt "Скачать эту карту")
 
 
 
@@ -127,33 +129,33 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Geology" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Geology.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Геологический (Geology)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Geology.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Geology_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Геологический (Geology)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Geology.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Urban" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Urban.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Городской (False color - Urban)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Urban.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Urban_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Городской (False color - Urban)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Urban.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Moisture.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Индекс влажности (Moisture)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Moisture.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Moisture_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Индекс влажности (Moisture)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Moisture.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_SWIR.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Инфракрасный индекс (SWIR)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_SWIR.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_SWIR_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Инфракрасный индекс (SWIR)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_SWIR.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_True_color_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Натуральные цвета](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_True_color.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_NDVI.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Плотность растительности (NDVI)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_NDVI.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_NDVI_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Плотность растительности (NDVI)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_NDVI.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Bathimetric.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Подводный (Bathimetric)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Bathimetric.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Bathimetric_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Подводный (Bathimetric)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Bathimetric.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Agriculture.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Sentinel - Сельскохозяйственный (Agriculture)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Agriculture.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Sentinel_Agriculture_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Sentinel - Сельскохозяйственный (Agriculture)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Satellites_Special-Sentinel_Agriculture.txt "Скачать эту карту")
 
 
 
@@ -248,9 +250,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Water-OpenSeaMap.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Карта глубин](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Water-OpenSeaMap_deep.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark_No_Preview" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map + Карта глубин](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Water-OpenSeaMap_deep.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Морской траффик](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Water-OpenSeaMap_traffic.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark_No_Preview" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map + Морской траффик](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Water-OpenSeaMap_traffic.txt "Скачать эту карту")
 
 
 
@@ -557,7 +559,7 @@ layout: default
 
 
 ### Европа - Восточная
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Беларусь - DZZ.by (требуется прокси)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Belarus_DDZ" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь - DZZ.by (требуется прокси)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Беларусь - LatLon.org](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Europe-Eastern-Belarus_LatLon.txt "Скачать эту карту")
 
@@ -736,9 +738,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Rosreestr_kadaster" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [РосРеестр - Кадастровые границы](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-RosReestr.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-Yandex.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_sat_labels_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс - Гибрид](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-Yandex.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Гибрид Народная](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-Yandex_narod.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_narod_layer_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс - Гибрид Народная](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Hybrid-Yandex_narod.txt "Скачать эту карту")
 
 
 
@@ -759,13 +761,13 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom - Дорожная обстановка](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-TomTom_incidents.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Yandex_proxy.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer_WGS84_proxy" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Yandex_proxy.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Yandex_proxy.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Yandex_proxy_converted.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Интенсивность](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Yandex_intensity.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_intensity_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс - Интенсивность](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Yandex_intensity.txt "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Яндекс - Направления](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Yandex_direcions.txt "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Yandex_direction_WGS84" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс - Направления](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_Traffic-Yandex_direcions.txt "Скачать эту карту")
 
 
 

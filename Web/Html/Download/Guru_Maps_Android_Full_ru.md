@@ -39,7 +39,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (ночь)](https://anygis.ru/api/v1/download/galileo_ru/Global-City-TomTom_base_night.ms "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Пробки (в разработке)](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Waze.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Waze" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Waze Пробки (в разработке)](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Waze.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Yandex_map_converted.ms "Скачать эту карту")
 
@@ -62,7 +62,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Maxar_Facebook" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Maxar (via Facebook) zoom 11-18](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Maxar_Facebook_Imagery.ms "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Космоснимки.ру](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Kosmosnimki" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Космоснимки.ру](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_sat_clean" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Global-Satellites-Yandex_converted.ms "Скачать эту карту")
 
@@ -188,9 +188,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-OpenSeaMap.ms "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Карта глубин](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-OpenSeaMap_deep.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark_No_Preview" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map + Карта глубин](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-OpenSeaMap_deep.ms "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Open Sea Map + Морской траффик](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark_No_Preview" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Open Sea Map + Морской траффик](https://anygis.ru/api/v1/download/galileo_ru/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
 
 
 
