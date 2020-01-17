@@ -730,9 +730,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_All_SD.txt "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_All_HD.txt "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои (сине-красный)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_All_Bluered_SD.txt "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои HD](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_All_HD.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered_HD" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - Все слои HD (сине-красный)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Overlay_GPS_tracks-Strava_All_Bluered_HD.txt "Скачать эту карту")
 

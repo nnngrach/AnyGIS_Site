@@ -716,9 +716,9 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_All_SD.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_All_HD.txt "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_All_Bluered_SD.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All HD](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_All_HD.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered_HD" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Strava Heatmap - All HD (Bluered)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Overlay_GPS_tracks-Strava_All_Bluered_HD.txt "Download this map")
 
