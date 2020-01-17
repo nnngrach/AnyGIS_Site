@@ -31,13 +31,12 @@ layout: default
 
 
 
-
 [11]: https://anygis.ru/Web/Html/Locus_ru
 [12]: https://anygis.ru/Web/Html/Galileo_ru
 [13]: https://anygis.ru/Web/Html/Orux_ru
 [14]: https://anygis.ru/Web/Html/Osmand_ru
 [15]: https://anygis.ru/Web/Html/Alpine_ru
-[15]: https://anygis.ru/Web/Html/Desktop_ru
+[16]: https://anygis.ru/Web/Html/Desktop_ru
 
 
 
