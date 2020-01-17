@@ -512,6 +512,10 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Hitta_sat" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hitta Satellit](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Hitta_Satellit.xml "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_karjalankartat_fi_1km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Karjalankartat.fi - Карельский перешеек 1км (1930-е)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Karjalankartat_fi_1km.xml "Скачать эту карту")
+
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_karjalankartat_fi_200m" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Karjalankartat.fi - Карельский перешеек 200м (1930-е)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Karjalankartat_fi_200m.xml "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_Fjallkarta" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Fjällkarta](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Lantmateriet_Fjallkarta.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Topografisk](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Lantmateriet_Topowebb.xml "Скачать эту карту")
