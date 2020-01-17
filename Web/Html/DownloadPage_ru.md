@@ -26,6 +26,8 @@ layout: default
 
 | <img src="https://anygis.ru/Web/Img/icon_alpine.png" width="100"/> | **[Скачать карты для Alpine Quest][15]** |
 
+| <img src="https://anygis.ru/Web/Img/icon_desktop.png" width="100"/> | **[Скачать карты для десктопных редакторов][16]** |
+
 
 
 
@@ -35,6 +37,7 @@ layout: default
 [13]: https://anygis.ru/Web/Html/Orux_ru
 [14]: https://anygis.ru/Web/Html/Osmand_ru
 [15]: https://anygis.ru/Web/Html/Alpine_ru
+[15]: https://anygis.ru/Web/Html/Desktop_ru
 
 
 
