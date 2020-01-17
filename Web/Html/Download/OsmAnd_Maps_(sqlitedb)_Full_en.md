@@ -215,10 +215,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Hitta_sat" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Hitta Satellit](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Northern-Hitta_Satellit.sqlitedb "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_karjalankartat_fi_1km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Karjalankartat.fi Topo 1km (1930)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Northern-Karjalankartat_fi_1km.sqlitedb "Download this map")
-
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_karjalankartat_fi_200m" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Karjalankartat.fi Topo 200m (1930)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Northern-Karjalankartat_fi_200m.sqlitedb "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_Fjallkarta" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Fjällkarta](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Northern-Lantmateriet_Fjallkarta.sqlitedb "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Lantmäteriets Topografisk](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Europe-Northern-Lantmateriet_Topowebb.sqlitedb "Download this map")
