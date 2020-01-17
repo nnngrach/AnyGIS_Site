@@ -39,7 +39,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_night" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (ночь)](https://anygis.ru/api/v1/download/galileo_ru/Global-City-TomTom_base_night.ms "Скачать эту карту")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Пробки](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Waze.ms "Скачать эту карту")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Пробки (в разработке)](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Waze.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Yandex_map" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Яндекс (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Global-City-Yandex_map_converted.ms "Скачать эту карту")
 
@@ -360,19 +360,19 @@ layout: default
 
 
 ### Евразия - Справочные
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Tele2](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Tele2.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tele2" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Tele2 (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Tele2_(converted).ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Yota](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Yota.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Yota" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Yota (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Yota_(converted).ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Билайн](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Beeline.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Beeline" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Билайн (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Beeline_(converted).ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия МТС](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-MTS.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_MTS" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия МТС (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-MTS_(converted).ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Мегафон](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Megafon.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Megafon" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Мегафон (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Megafon_(converted).ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Ростелком](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Rostelcom.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Rostelcom" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Ростелком (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Rostelcom_(converted).ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Тинькофф](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Tinkoff.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Mobile_Coverage_Tinkoff" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Зоны покрытия Тинькофф (с конвертацией)](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Tinkoff_(converted).ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Hillshade_VotEtoVid" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Рельеф Карта уклонов](https://anygis.ru/api/v1/download/galileo_ru/Eurasia-Info-Slopemap.ms "Скачать эту карту")
 

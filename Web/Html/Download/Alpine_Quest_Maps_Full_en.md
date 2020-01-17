@@ -31,7 +31,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/TomTom_base_day" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [TomTom (day)](https://anygis.ru/api/v1/download/alpine_en/Global-City-TomTom_base_day.AQX "Download this map")
 
-![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze](https://anygis.ru/api/v1/download/alpine_en/Global-City-Waze.AQX "Download this map")
+![](https://anygis.ru/Web/Img/eyeNo.png)  [Waze Traffic (not finished)](https://anygis.ru/api/v1/download/alpine_en/Global-City-Waze.AQX "Download this map")
 
 
 

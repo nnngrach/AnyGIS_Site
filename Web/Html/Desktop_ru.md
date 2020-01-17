@@ -43,7 +43,7 @@ layout: default
 
 [Скачать][11]
 
-[11]: https://anygis.ru/Web/Html/Changelog_ru
+[11]: https://anygis.ru/Web/Html/Download/Desktop_Full_ru
 
 
 
