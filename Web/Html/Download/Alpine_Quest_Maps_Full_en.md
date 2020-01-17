@@ -386,7 +386,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_2km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military 1941 2km](https://anygis.ru/api/v1/download/alpine_en/Hystoric-German_Genshtab_3km.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_3km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military 1942 3km](https://anygis.ru/api/v1/download/alpine_en/Hystoric-German_Genshtab_3km.AQX "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_3km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military 1942 2km](https://anygis.ru/api/v1/download/alpine_en/Hystoric-German_Genshtab_3km.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Aero_Krasnodar" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military avia photo](https://anygis.ru/api/v1/download/alpine_en/Hystoric-German_Aero_Krasnodar.AQX "Download this map")
 

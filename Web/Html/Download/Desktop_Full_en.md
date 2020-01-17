@@ -587,7 +587,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_2km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military 1941 2km](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Hystoric-German_Genshtab_3km.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_3km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military 1942 3km](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Hystoric-German_Genshtab_3km.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_3km" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military 1942 2km](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Hystoric-German_Genshtab_3km.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Aero_Krasnodar" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [German military avia photo](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Hystoric-German_Aero_Krasnodar.txt "Download this map")
 

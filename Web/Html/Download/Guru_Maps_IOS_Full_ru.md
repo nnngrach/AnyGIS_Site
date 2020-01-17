@@ -417,7 +417,7 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_2km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Немецкий Генштаб 1941 2км](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_3km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Немецкий Генштаб 1942 3км](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_3km" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Немецкий Генштаб 1942 2км](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Historic_SPB_1917" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Петроград 1917](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Hystoric-SPB_1917.ms "Скачать эту карту")
 
