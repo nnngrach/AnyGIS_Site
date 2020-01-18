@@ -72,8 +72,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Komoot.AQX "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Kompass_De.AQX "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Kosmosnimki.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Terrain](https://anygis.ru/api/v1/download/alpine_ru/Global-OSM-Mapbox_Terrain.AQX "Скачать эту карту")
@@ -410,6 +408,8 @@ layout: default
 
 
 ### [Европа - Центральная](https://anygis.ru/api/v1/download/alpine_ru/_Europe-Central.AQX "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://anygis.ru/api/v1/download/alpine_ru/Europe-Central-Kompass_De.AQX "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Лыжные трассы](https://anygis.ru/api/v1/download/alpine_ru/Europe-Central-SwissSkiRoutes.AQX "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSlope30" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Склоны 30°](https://anygis.ru/api/v1/download/alpine_ru/Europe-Central-SwissSlopes.AQX "Скачать эту карту")

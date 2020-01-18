@@ -128,8 +128,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Komoot.xml "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Kompass_De.xml "Скачать эту карту")
-
 <a href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Kosmosnimki.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Terrain](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Mapbox_Terrain.xml "Скачать эту карту")
@@ -541,12 +539,9 @@ layout: default
 
 
 
-### [Европа - Юго-восточная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Europe-Southeast.xml "Скачать всю группу")
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Черногория 250м 1970-72](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Southeast-Montenegro.xml "Скачать эту карту")
-
-
-
 ### [Европа - Центральная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Europe-Central.xml "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-Kompass_De.xml "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия ](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-Czech_base.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Географическая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-Czech_geo.xml "Скачать эту карту")
@@ -564,6 +559,11 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Топокарта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-SwissTopo.xml "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTrailsLayer" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-SwissTrails.xml "Скачать эту карту")
+
+
+
+### [Европа - Юго-восточная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Europe-Southeast.xml "Скачать всю группу")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Черногория 250м 1970-72](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Southeast-Montenegro.xml "Скачать эту карту")
 
 
 

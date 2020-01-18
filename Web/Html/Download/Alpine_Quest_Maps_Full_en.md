@@ -74,8 +74,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Komoot.AQX "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Kompass_De.AQX "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Kosmosnimki.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Terrain](https://anygis.ru/api/v1/download/alpine_en/Global-OSM-Mapbox_Terrain.AQX "Download this map")
@@ -165,6 +163,8 @@ layout: default
 
 
 ### [Europe - Central](https://anygis.ru/api/v1/download/alpine_en/_Europe-Central.AQX "Download all group files")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://anygis.ru/api/v1/download/alpine_en/Europe-Central-Kompass_De.AQX "Download this map")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Image](https://anygis.ru/api/v1/download/alpine_en/Europe-Central-SwissImage.AQX "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Ski Routes](https://anygis.ru/api/v1/download/alpine_en/Europe-Central-SwissSkiRoutes.AQX "Download this map")

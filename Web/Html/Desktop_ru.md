@@ -36,7 +36,7 @@ layout: default
 
 [01]: https://anygis.ru/Web/Html/Vektor_and_raster_ru
 [02]: https://nakarte.me
-[03]: http://brouter.de/
+[03]: https://brouter.de/brouter-web/
 
 [11]: https://anygis.ru/Web/Html/Download/Desktop_Full_ru
 

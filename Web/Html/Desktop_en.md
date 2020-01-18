@@ -33,7 +33,7 @@ So in this section, I just provided a list of prepared URL templates. You can ju
 
 [01]: https://anygis.ru/Web/Html/Vektor_and_raster_en
 [02]: https://nakarte.me
-[03]: http://brouter.de/
+[03]: https://brouter.de/brouter-web/
 
 [11]: https://anygis.ru/Web/Html/Download/Desktop_Full_en
 

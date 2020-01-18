@@ -142,8 +142,6 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Komoot" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Komoot](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Komoot.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Kompass_De.txt "Download this map")
-
 <a href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kosmosnimki](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Kosmosnimki.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Mapbox Terrain](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapbox_Terrain.txt "Download this map")
@@ -299,14 +297,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech winter](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Czech_winter.txt "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Kompass_De.txt "Download this map")
 
-
-### Europe - Southeast
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Montenecro 250](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Southeast-Montenegro.txt "Download this map")
-
-
-
-### Europe - Central
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Image](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-SwissImage.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Ski Routes](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-SwissSkiRoutes.txt "Download this map")
@@ -316,6 +308,11 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTrailsLayer" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Tails Layer](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-SwissTrails.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Swiss Topo](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-SwissTopo.txt "Download this map")
+
+
+
+### Europe - Southeast
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Montenecro 250](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Southeast-Montenegro.txt "Download this map")
 
 
 
