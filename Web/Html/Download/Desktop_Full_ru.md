@@ -211,6 +211,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/OpenWeatherMap_Precipit" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenWeatherMap - Осадки сейчас](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Info-OpenWeatherMap_Precipit.txt "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/RainWiewer_Precipit" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [RainWiewer - Осадки сейчас](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Info-RainWiewer_Precipit.txt "Скачать эту карту")
+
 <a href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi_overlay" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wigle.net Wi-fi location (proxy)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Info-Wigle_wifi.txt "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Wikimapia" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Wikimapia.org](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_ru/Global-Info-Wikimapia.txt "Скачать эту карту")

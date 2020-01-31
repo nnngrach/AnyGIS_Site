@@ -111,6 +111,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/OpenWeatherMap_Precipit" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenWeatherMap - Precipitation](https://anygis.ru/api/v1/download/alpine_en/Global-Info-OpenWeatherMap_Precipit.AQX "Download this map")
 
+<a href="https://anygis.ru/api/v1/preview/RainWiewer_Precipit" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [RainWiewer - Precipitation](https://anygis.ru/api/v1/download/alpine_en/Global-Info-RainWiewer_Precipit.AQX "Download this map")
+
 
 
 ### [Europe - OSM](https://anygis.ru/api/v1/download/alpine_en/_Europe-OSM.AQX "Download all group files")

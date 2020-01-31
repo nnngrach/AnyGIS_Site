@@ -109,6 +109,8 @@ layout: default
 
 <a href="https://anygis.ru/api/v1/preview/OpenWeatherMap_Precipit" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [OpenWeatherMap - Осадки сейчас](https://anygis.ru/api/v1/download/alpine_ru/Global-Info-OpenWeatherMap_Precipit.AQX "Скачать эту карту")
 
+<a href="https://anygis.ru/api/v1/preview/RainWiewer_Precipit" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [RainWiewer - Осадки сейчас](https://anygis.ru/api/v1/download/alpine_ru/Global-Info-RainWiewer_Precipit.AQX "Скачать эту карту")
+
 
 
 ### [Евразия - OSM](https://anygis.ru/api/v1/download/alpine_ru/_Eurasia-OSM.AQX "Скачать всю группу")
