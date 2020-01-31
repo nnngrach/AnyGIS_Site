@@ -269,13 +269,13 @@ layout: default
 
 
 ### Europe - Central
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech base](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-Czech_base.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Base](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-Czech_base.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech geographical](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-Czech_geo.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Geography](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-Czech_geo.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech tourist](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-Czech_tourist.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Outdoor](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-Czech_outdoor.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech winter](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-Czech_winter.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Winter](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-Czech_winter.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://anygis.ru/api/v1/download/galileo_en/Europe-Central-Kompass_De.ms "Download this map")
 

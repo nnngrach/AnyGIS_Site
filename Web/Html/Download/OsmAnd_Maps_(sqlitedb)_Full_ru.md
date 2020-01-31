@@ -496,13 +496,13 @@ layout: default
 ### Европа - Центральная
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Kompass_De.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия ](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_base.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Mapy.cz Base](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_base.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Географическая](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_geo.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Mapy.cz Geography](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_geo.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Зимние тропы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_winter.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Mapy.cz Outdoor](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_outdoor.sqlitedb "Скачать эту карту")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Тропы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_tourist.sqlitedb "Скачать эту карту")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Чехия - Mapy.cz Winter](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_winter.sqlitedb "Скачать эту карту")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes" target="_blank" title="Предпросмотр карты" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Швейцария - Лыжные трассы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-SwissSkiRoutes.sqlitedb "Скачать эту карту")
 

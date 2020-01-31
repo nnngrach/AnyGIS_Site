@@ -237,13 +237,13 @@ layout: default
 
 
 ### Europe - Central
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech base](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Europe-Central-Czech_base.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Base](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Europe-Central-Czech_base.zip "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech geographical](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Europe-Central-Czech_geo.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Geography](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Europe-Central-Czech_geo.zip "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech tourist](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Europe-Central-Czech_tourist.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Outdoor](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Europe-Central-Czech_outdoor.zip "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech winter](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Europe-Central-Czech_winter.zip "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Winter](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Europe-Central-Czech_winter.zip "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/Europe-Central-Kompass_De.zip "Download this map")
 

@@ -269,13 +269,13 @@ layout: default
 
 
 ### Europe - Central
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech base](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Central-Czech_base.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Base](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Central-Czech_base.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech geographical](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Central-Czech_geo.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Geography](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Central-Czech_geo.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech tourist](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Central-Czech_tourist.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Central-Czech_outdoor.ms "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech winter](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Central-Czech_winter.ms "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Winter](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Central-Czech_winter.ms "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Central-Kompass_De.ms "Download this map")
 

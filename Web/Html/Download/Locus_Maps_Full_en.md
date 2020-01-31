@@ -287,13 +287,13 @@ layout: default
 
 
 ### [Europe - Central](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Central.xml "Download all group files")
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech base](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Czech_base.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Base](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Czech_base.xml "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech geographical](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Czech_geo.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Geography](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Czech_geo.xml "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech tourist](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Czech_tourist.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Outdoor](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Czech_outdoor.xml "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Czech_winter.xml "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Czech_winter.xml "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Kompass_De.xml "Download this map")
 

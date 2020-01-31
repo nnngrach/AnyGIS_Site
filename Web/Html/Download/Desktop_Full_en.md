@@ -289,13 +289,13 @@ layout: default
 
 
 ### Europe - Central
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech base](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Czech_base.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Base](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Czech_base.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech geographical](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Czech_geo.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_geo" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Geography](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Czech_geo.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech tourist](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Czech_tourist.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Outdoor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Czech_outdoor.txt "Download this map")
 
-<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech winter](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Czech_winter.txt "Download this map")
+<a href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Czech - Mapy.cz Winter](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Czech_winter.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Kompass.de](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Europe-Central-Kompass_De.txt "Download this map")
 
@@ -810,4 +810,39 @@ layout: default
 <a href="https://anygis.ru/api/v1/preview/Print_Toner_lite" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Stamen Toner light](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Print-Stamen_Toner_light.txt "Download this map")
 
 <a href="https://anygis.ru/api/v1/preview/Print_Watercolor" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Stamen Watercolor](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Print-Stamen_Watercolor.txt "Download this map")
+
+
+
+### Satellite
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google Sat (Test)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapnik.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex Sat (Test)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapnik.txt "Download this map")
+
+
+
+### City
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Bing map (Test)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapnik.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Google map (Test)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapnik.txt "Download this map")
+
+
+
+### City/Rus
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [2Gis (Test)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapnik.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Yandex map (Test)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapnik.txt "Download this map")
+
+
+
+### City/Eu
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Eniro (Test)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapnik.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Fonecta (Test)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapnik.txt "Download this map")
+
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [Rectikarta (Test)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapnik.txt "Download this map")
+
+
+
+### City/Eu/Fr
+<a href="https://anygis.ru/api/v1/preview/Osm_Mapnik" target="_blank" title="Preview map" > <img src="https://anygis.ru/Web/Img/eye.png" /> </a>  [CycloOsm (Test)](https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_en/Global-OSM-Mapnik.txt "Download this map")
 
