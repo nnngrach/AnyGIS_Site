@@ -2,15 +2,13 @@
 layout: default
 ---
 
-| [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
+| [Main page][01] | [Articles][02] | [Download maps][03] | [Donate][04] |
 
 
-[01]: https://anygis.ru/index_en
-[02]: https://anygis.ru/Web/Html/Description_en
-[03]: https://anygis.ru/Web/Html/RusOutdoor_en
-[04]: https://anygis.ru/Web/Html/DownloadPage_en
-[05]: https://anygis.ru/Web/Html/Api_en
-[07]: https://anygis.ru/Web/Html/Vektor_and_raster_en
+[01]: /index_en
+[02]: /Web/Html/Articles_en
+[03]: /Web/Html/DownloadPage_en
+[04]: https://www.donationalerts.com/r/nnngrach
 
 
 
@@ -19,9 +17,9 @@ layout: default
 
 [Changelog][0]
 
-[0]: https://anygis.ru/Web/Html/Changelog_en
+[0]: /Web/Html/Changelog_en
 
-![](https://anygis.ru/Web/Img/4mapsOrux.png)
+![](/Web/Img/4mapsOrux.png)
 
 
 
@@ -35,9 +33,9 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: https://anygis.ru/api/v1/download/orux_short_en/onlinemapsources.xml
+[2]: /api/v1/download/orux_short_en/onlinemapsources.xml
 
-
+[07]: /Web/Html/Vektor_and_raster_en
 
 
 ### Full set
@@ -60,7 +58,7 @@ If you already know what kind of maps you need, then this set is for you. Note t
 [9]: https://custom-map-source.appspot.com/
 [10]: https://www.sasgis.org/
 
-[11]: https://anygis.ru/api/v1/download/orux_full_en/onlinemapsources.xml
+[11]: /api/v1/download/orux_full_en/onlinemapsources.xml
 
 
 
@@ -72,17 +70,17 @@ If you already know what kind of maps you need, then this set is for you. Note t
 * Open Map list and press Refresh button. 
 * New maps should appear in the application in the section `Online` of the folder `Layers`
 
-![](https://anygis.ru/Web/Img/oruxMapUpdater.png)
+![](/Web/Img/oruxMapUpdater.png)
 
 * If any of the cards seem superfluous to you, you can remove them from the list. To do this, simply click and hold on the name of the card. After a while, it will disappear from the list.
 
-![](https://anygis.ru/Web/Img/oruxMapDeleter.png)
+![](/Web/Img/oruxMapDeleter.png)
 
 
 That's all. If you have any suggestions what other sources of maps should be added to the collection (and what to remove), then send me an e-mail. It is desirable to attach a link to the page with the map of interest to the letter. And, of course, report bugs and inaccuracies on the site.
 
 
 <p align="center">
-<a href="mailto:anygis@bk.ru">anygis@bk.ru</a> 
+<a href="/Web/Html/Contacts_en">Send message</a> 
 </p>
 

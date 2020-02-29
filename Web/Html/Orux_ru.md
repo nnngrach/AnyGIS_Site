@@ -2,15 +2,13 @@
 layout: default
 ---
 
-| [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
+| [На главную][01] | [Полезные статьи][02] | [Скачать карты][03] | [Поддержать проект][04] |
 
 
-[01]: https://anygis.ru/index
-[02]: https://anygis.ru/Web/Html/Description_ru
-[03]: https://anygis.ru/Web/Html/RusOutdoor_ru
-[04]: https://anygis.ru/Web/Html/DownloadPage_ru
-[05]: https://anygis.ru/Web/Html/Api_ru
-[07]: https://anygis.ru/Web/Html/Vektor_and_raster_ru
+[01]: /index
+[02]: /Web/Html/Articles_ru
+[03]: /Web/Html/DownloadPage_ru
+[04]: https://www.donationalerts.com/r/nnngrach
 
 
 
@@ -18,9 +16,9 @@ layout: default
 
 [Список изменений][0]
 
-[0]: https://anygis.ru/Web/Html/Changelog_ru
+[0]: /Web/Html/Changelog_ru
 
-![](https://anygis.ru/Web/Img/4mapsOrux.png)
+![](/Web/Img/4mapsOrux.png)
 
 
 
@@ -31,10 +29,11 @@ layout: default
 
 [Скачать карты][2]
 
+[07]: /Web/Html/Vektor_and_raster_ru
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: https://anygis.ru/api/v1/download/orux_short_ru/onlinemapsources.xml
+[2]: /api/v1/download/orux_short_ru/onlinemapsources.xml
 
 
 
@@ -61,7 +60,7 @@ layout: default
 [9]: https://custom-map-source.appspot.com/
 [10]: https://www.sasgis.org/
 
-[11]: https://anygis.ru/api/v1/download/orux_full_ru/onlinemapsources.xml
+[11]: /api/v1/download/orux_full_ru/onlinemapsources.xml
 
 
 
@@ -72,17 +71,19 @@ layout: default
 * Перезапустите Orux или нажмите на кнопку Обновить. 
 * Новые карты должны появиться в разделе `Online` в папке `Layers`
 
-![](https://anygis.ru/Web/Img/oruxMapUpdater.png)
+![](/Web/Img/oruxMapUpdater.png)
 
 * Если какие-то из карт покажутся вам лишними, то вы можете удалить их из списка. Для этого нужно просто нажать и удерживать на названии карты. Через некоторое время она исчезнет из списка.
 
-![](https://anygis.ru/Web/Img/oruxMapDeleter.png)
+![](/Web/Img/oruxMapDeleter.png)
 
 
-На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.
+На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку, то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте. 
+
+Если же вы являетесь правообладателем какой-либо из карт, присутствующих в данной подборке и считаете, что эту карту из этой подборки нужно убрать, то пишите мне. Я с готовностью пойду вам навстречу.
 
 
 <p align="center">
-<a href="mailto:anygis@bk.ru">anygis@bk.ru</a> 
+<a href="/Web/Html/Contacts_ru">Отправить сообщение</a> 
 </p>
 

@@ -1,0 +1,103 @@
+/*
+body{
+  margin: 0;
+  padding: 0;
+  font: 1em/1.4em sans-serif;
+}
+*/
+
+/*
+a{text-decoration: none;}
+*/
+
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+/*Внеший вид меню*/
+
+.side{
+  width: 200px;
+  margin: 20px;
+}
+
+.menu a{
+  /*background: #37393f;
+  color: #fff;*/
+  /*background: #dcdcdc; a5a5a5 #b0b0b0*/
+  background: #b4b4b4;
+  color: #494949;
+  padding: 10px;
+  display: block;
+  border-bottom: 1px solid #666;
+  -webkit-transition: 0.5s all;
+  transition: 0.5s all;
+  font: 1em/1.4em sans-serif;
+}
+
+
+.menu a:hover{
+  background: #666;
+  padding: 10px 0 10px 20px;
+}
+
+.menu li:first-child a, 
+.menu li .menu__drop li:first-child a{
+  border-radius: 3px 3px 0 0;
+}
+
+.menu li:last-child a, 
+.menu li .menu__drop li:last-child a{
+  border-radius:0 0 3px 3px;
+  border-bottom: 0;
+}
+
+.menu li .menu__drop li a{
+  border-radius: 0;
+  border-bottom: 1px solid #666;
+}
+
+/*Всплывающие меню*/
+
+.menu__list{
+  position: relative;
+}
+
+.menu__drop{
+  position: absolute;
+  width: 100%;
+  left: 100%;
+  top:-9999em;
+  opacity: 0;
+  border-left: 10px solid transparent;
+  -webkit-transition: 0.5s opacity;
+  transition: 0.5s opacity;
+}
+
+.menu__list:hover .menu__drop{
+  opacity: 1;
+  top: 0;
+}
+
+/*Иконки для всплывающих менюшек*/
+
+.menu__list::after{
+  content: " ";
+  position: absolute;
+  border: 5px solid;
+  border-color: transparent transparent transparent #494949;
+  top: 1em;
+  right: 0.7em;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.menu__list:hover::after{
+  -webkit-transform: scaleX(-1);
+  -ms-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+

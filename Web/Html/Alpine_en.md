@@ -2,15 +2,13 @@
 layout: default
 ---
 
-| [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
+| [Main page][01] | [Articles][02] | [Download maps][03] | [Donate][04] |
 
 
 [01]: https://anygis.ru/index_en
-[02]: https://anygis.ru/Web/Html/Description_en
-[03]: https://anygis.ru/Web/Html/RusOutdoor_en
-[04]: https://anygis.ru/Web/Html/DownloadPage_en
-[05]: https://anygis.ru/Web/Html/Api_en
-[07]: https://anygis.ru/Web/Html/Vektor_and_raster_en
+[02]: https://anygis.ru/Web/Html/Articles_en
+[03]: https://anygis.ru/Web/Html/DownloadPage_en
+[04]: https://www.donationalerts.com/r/nnngrach
 
 
 
@@ -37,10 +35,11 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_en.zip
+[2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_folders_en.zip
 
 [3]: https://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Short_en
 
+[07]: /Web/Html/Vektor_and_raster_en
 
 
 ### Full set
@@ -64,7 +63,7 @@ If you already know what kind of maps you need, then this set is for you. Note t
 [9]: https://custom-map-source.appspot.com/
 [10]: https://www.sasgis.org/
 
-[11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_full_en.zip
+[11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_full_folders_en.zip
 
 [12]: https://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Full_ru
 
@@ -86,6 +85,6 @@ That's all. If you have any suggestions what other sources of maps should be add
 
 
 <p align="center">
-<a href="mailto:anygis@bk.ru">anygis@bk.ru</a> 
+<a href="/Web/Html/Contacts_en">Send message</a> 
 </p>
 

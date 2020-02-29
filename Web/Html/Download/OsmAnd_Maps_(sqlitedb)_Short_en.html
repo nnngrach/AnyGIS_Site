@@ -1,0 +1,964 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Yandex.Webmaster counter -->
+    <meta name="yandex-verification" content="5482503e5aa9170b" />
+    <!-- Yandex.Webmaster counter -->
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+       m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+       ym(53095543, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+       });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/53095543" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+
+    
+
+    
+    <link rel="stylesheet" href="/Web/Css/accordeonMenu.css">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <script src="/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://anygis.ru/Web/Img/favicon.ico">
+
+    <script> 
+      function redirectToIndexPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "/index";
+          } else {
+            url = "/index_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToContactsPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "/Web/Html/Contacts_ru";
+          } else {
+            url = "/Web/Html/Contacts_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToPageWithAnotherLanguage() {
+          var url = String(location);
+
+          if (url.indexOf("index_en") != -1) {
+            url = url.replace("index_en", "index");
+          } else if (url.indexOf("index") != -1) {
+            url = url.replace("index", "index_en");
+          } else if (url.indexOf("_ru") == -1) {
+            url = url.replace("_en", "_ru");
+          } else {
+            url = url.replace("_ru", "_en");
+          }
+
+          window.location.replace(url);
+      }
+    </script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header >
+
+        <a href="javascript:redirectToIndexPage()"><img src="/Web/Img/AnyGIS_logo_50.png" style="float:left;width:45px;height:45px;"></a>
+        <a href="javascript:redirectToPageWithAnotherLanguage()"><img src="/Web/Img/changeLanguage.png" style="float:right;height:25px;padding-top:10px;"></a>
+
+        <h1>AnyGIS</h1>
+        
+          <p>Online maps pack</p>
+        
+      </header>
+      <section>
+
+      <table>
+  <tbody>
+    <tr>
+      <td><a href="/index_en">Main page</a></td>
+      <td><a href="/Web/Html/Articles_en">Articles</a></td>
+      <td><a href="/Web/Html/DownloadPage_en">Download maps</a></td>
+      <td><a href="https://www.donationalerts.com/r/nnngrach">Donate</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1>Download maps for OsmAnd Maps (sqlitedb)</h1><div class="nav">
+  <div class="parent-groups">
+<div class="nav">
+  <div class="parent-groups">
+<div class="item">
+  <input type="checkbox" id="Satellites"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Satellites" class="accordeon">
+    <img src="/Web/Img/Icons_en/Satellites.png" class="menu_icon"/>
+    
+    Satellites
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Bing_sat_for_guru"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Satellites=Bing_birds_eye.sqlitedb"
+    title="Download this map">
+    Bing Bird's Eye
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Satellites=Google_Hybrid.sqlitedb"
+    title="Download this map">
+    Google - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Satellites=Here.sqlitedb"
+    title="Download this map">
+    Here
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Satellites=Maxar_Premium_Imagery.sqlitedb"
+    title="Download this map">
+    Maxar Premium
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Satellites=Eurasia=Yandex.sqlitedb"
+    title="Download this map">
+    Yandex
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="City"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="City" class="accordeon">
+    <img src="/Web/Img/Icons_en/City.png" class="menu_icon"/>
+    
+    City
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=City=Google_map.sqlitedb"
+    title="Download this map">
+    Google
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Ter_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=City=Google_Terrain.sqlitedb"
+    title="Download this map">
+    Google - Terrain
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=City=Here_Map.sqlitedb"
+    title="Download this map">
+    Here
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=City=Mapnik_from_Osmand.sqlitedb"
+    title="Download this map">
+    OSM Mapnik HD (from OsmAnd)
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ru_2gis"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=City=RU=2gis.sqlitedb"
+    title="Download this map">
+    2Gis
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Sputnik"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=City=RU=Sputnik.sqlitedb"
+    title="Download this map">
+    OSM Sputnik.ru
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=City=RU=Yandex_Map.sqlitedb"
+    title="Download this map">
+    Yandex
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Road"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Road" class="accordeon">
+    <img src="/Web/Img/Icons_en/Road.png" class="menu_icon"/>
+    
+    Road
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Transport_Map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Road=Thunderforest_Transport.sqlitedb"
+    title="Download this map">
+    OSM Thunderforest Transport Day
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_base_day"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Road=TomTom_Base_day.sqlitedb"
+    title="Download this map">
+    TomTom Day
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Bike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Bike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Bike.png" class="menu_icon"/>
+    
+    Bike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Cyclosm"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Bike=Cyclosm.sqlitedb"
+    title="Download this map">
+    OSM Cyclosm
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Bike=Thunderforest_Cycle.sqlitedb"
+    title="Download this map">
+    OSM Thunderforest Cycle
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Bike - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Bike - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Bike=Europe=MTB_Map_CZ.sqlitedb"
+    title="Download this map">
+    OSM Mtbmap.cz
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Hike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Hike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Hike.png" class="menu_icon"/>
+    
+    Hike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_4umaps"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Hike=4umaps.sqlitedb"
+    title="Download this map">
+    OSM 4U maps
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Hike=Mapsurfer.sqlitedb"
+    title="Download this map">
+    OSM Mapsurfer
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Topo_Map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Hike=OpenTopoMap_ORG.sqlitedb"
+    title="Download this map">
+    OSM OpenTopoMap.ORG
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Outdoors"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Hike=Thunderforest_Outdoor.sqlitedb"
+    title="Download this map">
+    OSM Thunderforest Outdoor
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Water"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Water" class="accordeon">
+    <img src="/Web/Img/Icons_en/Water.png" class="menu_icon"/>
+    
+    Water
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Water=Navionics_Marine_Charts.sqlitedb"
+    title="Download this map">
+    Navionics Marine Charts
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Infrastructure"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Infrastructure" class="accordeon">
+    <img src="/Web/Img/Icons_en/Infrastructure.png" class="menu_icon"/>
+    
+    Infrastructure
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Transit_EN"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Infrastructure=Google_Transit.sqlitedb"
+    title="Download this map">
+    Google Transit EN
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Infrastructure=Opnvkarte.sqlitedb"
+    title="Download this map">
+    OSM OpenBusMap (Opnvkarte.de)
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Relief"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Relief" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Relief.png" class="menu_icon"/>
+    
+    Overlay - Relief
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Hillshade_Mapsurfer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Relief=Mapsurfer.sqlitedb"
+    title="Download this map">
+    Openmapsurfer
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Labels"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Labels" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Labels.png" class="menu_icon"/>
+    
+    Overlay - Labels
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Hybrid=Google.sqlitedb"
+    title="Download this map">
+    Google - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapbox_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Hybrid=Mapbox.sqlitedb"
+    title="Download this map">
+    OSM Mapbox - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_hybrid"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Hybrid=Mapsurfer_hybrid.sqlitedb"
+    title="Download this map">
+    OSM Mapsurfer - Hybrid
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Road"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Road" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Road.png" class="menu_icon"/>
+    
+    Overlay - Road
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Bing_traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Road=Bing_Traffic.sqlitedb"
+    title="Download this map">
+    Bing - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Road=Google_Traffic.sqlitedb"
+    title="Download this map">
+    Google - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Road=Here_Traffic.sqlitedb"
+    title="Download this map">
+    Here - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Road=TomTom_Traffic.sqlitedb"
+    title="Download this map">
+    TomTom - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Road=Yandex_Traffic_proxy.sqlitedb"
+    title="Download this map">
+    Yandex (proxy)
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Bike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Bike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Bike.png" class="menu_icon"/>
+    
+    Overlay - Bike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Bike=WayMarkedTrails_Cycling.sqlitedb"
+    title="Download this map">
+    OSM Waymarkedtrails.org - Cycling
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_MTB"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Bike=WayMarkedTrails_MTB.sqlitedb"
+    title="Download this map">
+    OSM Waymarkedtrails.org - MTB
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Bike=Strava_Ride_HD.sqlitedb"
+    title="Download this map">
+    Strava Heatmap - Ride HD
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Hike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Hike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Hike.png" class="menu_icon"/>
+    
+    Overlay - Hike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Hike=OpenSreetMaps_GPS_Tracks.sqlitedb"
+    title="Download this map">
+    OSM OpenStreetMap - GPS Tracks
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Hike=WayMarkedTrails_Hiking.sqlitedb"
+    title="Download this map">
+    OSM Waymarkedtrails.org - Hiking
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Hike=Strava_All_HD.sqlitedb"
+    title="Download this map">
+    Strava Heatmap - All HD
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Hike=Strava_Run_HD.sqlitedb"
+    title="Download this map">
+    Strava Heatmap - Run HD
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Hike=Strava_RunAndRide_HD.sqlitedb"
+    title="Download this map">
+    Strava Heatmap - Run and Ride HD (beta)
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Winter"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Winter" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Winter.png" class="menu_icon"/>
+    
+    Overlay - Winter
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Winter=OpenSnowMap_pistes.sqlitedb"
+    title="Download this map">
+    OSM OpenSnowMap - Pistes
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Winter=Strava_Winter_HD.sqlitedb"
+    title="Download this map">
+    Strava Heatmap - Winter HD
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Water"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Water" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Water.png" class="menu_icon"/>
+    
+    Overlay - Water
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Water=Navionics_Marine_Charts.sqlitedb"
+    title="Download this map">
+    Navionics Marine Charts
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Water=OpenSeaMap_seamark.sqlitedb"
+    title="Download this map">
+    OSM OpenSeaMap
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Water=Strava_Water_HD.sqlitedb"
+    title="Download this map">
+    Strava Heatmap - Water HD
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Info"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Info" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Info.png" class="menu_icon"/>
+    
+    Overlay - Info
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Wikimapia_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Info=Wikimapia.sqlitedb"
+    title="Download this map">
+    Wikimapia.org
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Infrastructure"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Infrastructure" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Infrastructure.png" class="menu_icon"/>
+    
+    Overlay - Infrastructure
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Public_Transport_Layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Infrastructure=Public_Transport.sqlitedb"
+    title="Download this map">
+    OSM OpenPTMap  - Public Transport
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Railway"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/=Overlay=Infrastructure=OpenRailWay.sqlitedb"
+    title="Download this map">
+    OSM OpenRailWay - Infrastructure
+  </a>
+</li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+      </section>
+    </div>
+    <footer>
+      <p><b>Contacts</b> - project maintained by <a href="javascript:redirectToContactsPage()">nnngrach</a></p>
+
+      <p>Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    <!--
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+    -->
+  </body>
+</html>

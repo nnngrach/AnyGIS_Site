@@ -2,15 +2,13 @@
 layout: default
 ---
 
-| [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
+| [На главную][01] | [Полезные статьи][02] | [Скачать карты][03] | [Поддержать проект][04] |
 
 
-[01]: https://anygis.ru/index
-[02]: https://anygis.ru/Web/Html/Description_ru
-[03]: https://anygis.ru/Web/Html/RusOutdoor_ru
-[04]: https://anygis.ru/Web/Html/DownloadPage_ru
-[05]: https://anygis.ru/Web/Html/Api_ru
-[07]: https://anygis.ru/Web/Html/Vektor_and_raster_ru
+[01]: /index
+[02]: /Web/Html/Articles_ru
+[03]: /Web/Html/DownloadPage_ru
+[04]: https://www.donationalerts.com/r/nnngrach
 
 
 
@@ -34,13 +32,16 @@ layout: default
 [Скачать выборочно][3]
 
 
+[07]: /Web/Html/Vektor_and_raster_ru
+
 [1]: https://shuriktravel.ru/maps/
 
-[2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_ru.zip
+[2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_folders_ru.zip
 
-[3]: https://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Short_ru
+[3]: /Web/Html/Download/Alpine_Quest_Maps_Short_ru
 
 
+---
 
 ### Полный набор
 Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] и некоторых других. А так же тут есть множество карт из программы [SAS.Planet][10]. Всего в комплекте около сотни карт. Вот некоторые из них:
@@ -65,52 +66,74 @@ layout: default
 [9]: https://custom-map-source.appspot.com/
 [10]: https://www.sasgis.org/
 
-[11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_full_ru.zip
+[11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_full_folders_ru.zip
 
-[12]: https://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Full_ru
+[12]: /Web/Html/Download/Alpine_Quest_Maps_Full_ru
 
 
 
-### Инструкция по выборочной установке 
 
-![](https://anygis.ru/Web/Img/Alpine6.png)
+
+---
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="01"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler">
+  <h3><label class="spoiler_label" for="01">
+  Инструкция по выборочной установке
+  </label></h3>
+  <div class="spoiler" markdown="1">
+
+
+![](/Web/Img/Alpine6.png)
 
 * Перейдите по ссылке "Скачать выборочно" на страницу для загрузки карт из базового или полного набора. Вы увидите список, разделенный на категории.
-* Если хотите скачать какую-либо категорию целиком (например, все спутниковые снимки), то просто нажмите на название этой категории (1).
-* Если же вы хотите скачать только какую-то конкретную карту, то нажмите на название этой карты (2). Обратите внимание, что в если вы скачаете несколько отдельных карт из одной категории, то приложение не станет объединять их в одну общую папку. (Как на риснунке ниже). Так что для удобства я рекомендую скачивать всю категорию целиком. То есть воспользоваться первым способом.
+* Если хотите скачать какую-либо категорию целиком (например, все спутниковые снимки), то просто нажмите иконку "Загрузить папку" рядом с названием этой категории (1).
+* Если же вы хотите скачать только какую-то конкретную карту, то нажмите на само название этой карты (2). Обратите внимание, что в если вы скачаете несколько отдельных карт из одной категории, то приложение не станет объединять их в одну общую папку. (Как на риснунке ниже). Так что для удобства я рекомендую скачивать всю категорию целиком. То есть воспользоваться первым способом.
 
-![](https://anygis.ru/Web/Img/Alpine7.png)
+![](/Web/Img/Alpine7.png)
 
 * Скачайте любым удобным способом все карты, которые вам требуются. 
 * Поместите скачанные файлы с следующую папку на своем сматрфоне: `\alpinequest\maps`.
 * Если этой папки еще нет, то создайте ее.
 * Когда файлы будут скопированы, откройте приложение и перейдите в раздел "Доступные карты".
 
-![](https://anygis.ru/Web/Img/Alpine0.png) 
+![](/Web/Img/Alpine0.png) 
 
 * Откройте боковое меню.
 
-![](https://anygis.ru/Web/Img/Alpine1.png) 
+![](/Web/Img/Alpine1.png) 
 
 * Перейдите в папку, в которую вы добавляли файлы карт.
 
-![](https://anygis.ru/Web/Img/Alpine2.png)
+![](/Web/Img/Alpine2.png)
 
 * Кликните на файл карты, который нужно импортировать в приложение.
 
-![](https://anygis.ru/Web/Img/Alpine3.png)
+![](/Web/Img/Alpine3.png)
 
 * Вас перекинет обратно на экран со списком доступных карт, только теперь на нем должна появиться та, которую вы только что добавили. Нажмите на нее.
 
-![](https://anygis.ru/Web/Img/Alpine4.png)
+![](/Web/Img/Alpine4.png)
 
 * Если все прошло успешно, то на экране появится добавленная вами карта.
 
-![](https://anygis.ru/Web/Img/Alpine5.png)
+![](/Web/Img/Alpine5.png)
+
+
+</div></div></div>
 
 
 
-### Инструкция по установке всех карт
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="02"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler">
+  <h3><label class="spoiler_label" for="02">
+  Инструкция по установке всех карт
+  </label></h3>
+  <div class="spoiler" markdown="1">
+
 
 * Перейдите по ссылке "Скачать целиком". 
 * Скачается zip-архив. Извлеките из него файлы.
@@ -118,11 +141,20 @@ layout: default
 * Скачайте все файлы-категории с следующую папку на своем сматрфоне: `\alpinequest\maps`.
 * После этого действуете, согласно инструкции для выборочной установки.
 
-![](https://anygis.ru/Web/Img/Alpine8.png)
+![](/Web/Img/Alpine8.png)
+
+</div></div></div>
 
 
 
-### Дополнительные карты
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="03"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler">
+  <h3><label class="spoiler_label" for="03">
+  Дополнительные карты
+  </label></h3>
+  <div class="spoiler" markdown="1">
 
 Некоторые карты по тем или иным причинам не вошли в основную подборку. Для некоторых не удалось подобрать скрипт для автоматической файлогенерации. Некоторые используют функции, которые есть только в AlpineQuest и, поэтому, во всех остальных навигаторах работать не будут. Некоторые же дублируют уже присутствующие в подборке карты, хотя и с некоторыми отличиями. Чтобы не терять подобные карты, я буду просто добавлять ссылки на их скачивание в этот раздел. 
 
@@ -142,10 +174,18 @@ layout: default
 
 [19]: http://4pda.ru/forum/index.php?s=&showtopic=737975&view=findpost&p=58999650
 
+</div></div></div>
 
 
 
-### Ссылки
+<div class="nav"><div class="item">
+  <input type="checkbox" id="04"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler">
+  <h3><label class="spoiler_label" for="04">
+  Ссылки
+  </label></h3>
+  <div class="spoiler" markdown="1">
+
 
 Напоследок хочу порекомендовать несколько полезных ссылок:
 
@@ -157,12 +197,18 @@ layout: default
 
 > Внимание! Для просмотра форума 4PDA нужно на нем зарегистрироваться. Иначе будет показано сообщение "Страница не найдена".
 
+</div></div></div>
+
+
+
 ---
 
-На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.
+На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку, то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте. 
+
+Если же вы являетесь правообладателем какой-либо из карт, присутствующих в данной подборке и считаете, что эту карту из этой подборки нужно убрать, то пишите мне. Я с готовностью пойду вам навстречу.
 
 
 <p align="center">
-<a href="mailto:anygis@bk.ru">anygis@bk.ru</a> 
+<a href="/Web/Html/Contacts_ru">Отправить сообщение</a> 
 </p>
 

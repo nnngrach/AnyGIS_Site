@@ -2,14 +2,13 @@
 layout: default
 ---
 
-| [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
+| [Main page][01] | [Articles][02] | [Download maps][03] | [Donate][04] |
 
 
 [01]: https://anygis.ru/index_en
-[02]: https://anygis.ru/Web/Html/Description_en
-[03]: https://anygis.ru/Web/Html/RusOutdoor_en
-[04]: https://anygis.ru/Web/Html/DownloadPage_en
-[05]: https://anygis.ru/Web/Html/Api_en
+[02]: https://anygis.ru/Web/Html/Articles_en
+[03]: https://anygis.ru/Web/Html/DownloadPage_en
+[04]: https://www.donationalerts.com/r/nnngrach
 
 
 
@@ -17,13 +16,15 @@ layout: default
 
 | <img src="https://anygis.ru/Web/Img/icon_tm.png" width="60"/> | **[T.me/anygis][14]** |
 
-| <img src="https://anygis.ru/Web/Img/icon_fb.png" width="60"/> | **[Fb.com/anygismaps][10]** |
 
 | <img src="https://anygis.ru/Web/Img/icon_vk.png" width="60"/> | **[Vk.com/anygis][11]** |
 
+| <img src="https://anygis.ru/Web/Img/icon_fb.png" width="60"/> | **[Fb.com/anygismaps][10]** |
+
 | <img src="https://anygis.ru/Web/Img/icon_email.png" width="60"/> | **[Anygis@bk.ru][12]** |
 
-| <img src="https://anygis.ru/Web/Img/icon_git.png" width="60"/> | **[Fork on GitHub][13]** |
+| <img src="https://anygis.ru/Web/Img/icon_git.png" width="60"/> | **[GitHub.com][13]** |
+
 
 
 

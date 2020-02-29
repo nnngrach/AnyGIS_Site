@@ -1,0 +1,192 @@
+I"P;<table>
+  <tbody>
+    <tr>
+      <td><a href="/index">На главную</a></td>
+      <td><a href="/Web/Html/Articles_ru">Полезные статьи</a></td>
+      <td><a href="/Web/Html/DownloadPage_ru">Скачать карты</a></td>
+      <td><a href="https://www.donationalerts.com/r/nnngrach">Поддержать проект</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="карты-для-locus">Карты для Locus</h1>
+
+<p><a href="/Web/Html/Changelog_ru">Список изменений</a></p>
+
+<p><img src="/Web/Img/4mapsLocus.png" alt="" /></p>
+
+<p>Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора <a href="/Web/Html/Vektor_and_raster_ru">растровых</a> онлайн-карт:</p>
+
+<h3 id="базовый-набор">Базовый набор</h3>
+<p>Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту <a href="https://shuriktravel.ru/maps/">статью</a>.</p>
+
+<p><a href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_short_ru.zip">Скачать с компьютера (целиком)</a></p>
+
+<p><a href="locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/AnyGIS_short_set.xml">Скачать со смартфона (целиком)</a></p>
+
+<p><a href="/Web/Html/Download/Locus_Maps_Short_ru">Скачать со смартфона (выборочно)</a></p>
+
+<hr />
+
+<h3 id="полный-набор">Полный набор</h3>
+<p>Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: <a href="https://melda.ru/locus/maps/">Erelen</a>, <a href="https://4pda.ru/forum/index.php?showtopic=210573&amp;st=3060#entry52768866">Dreame</a>, <a href="https://ms.galileo-app.com/">ms.Galileo-app</a>, <a href="https://custom-map-source.appspot.com/">Custom-maps-sourse</a> и некоторых других. А так же тут есть множество карт из программы <a href="https://www.sasgis.org/">SAS.Planet</a>. Всего в комплекте около сотни карт. Вот некоторые из них:</p>
+
+<ul>
+  <li>Карты для города (Яндекс, Google, Here, Bing, 2gis)</li>
+  <li>Спутниковые снимки (Яндекс, Google, ERSI, Here, Mapbox)</li>
+  <li>Карты на основе OSM (Mapnik, Cycle, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap и др.)</li>
+  <li>Растровые топографические (Генштаб, ГГЦ, Маршруты.ру)</li>
+  <li>Растровые туристические (карты Завьялова ММБ; атласы и хребтовки Кавказа, Карелии, Крыма, Алтая и др.)</li>
+  <li>Сборник карт для пешего и горного туризма (<a href="/Web/Html/RusOutdoor_ru">RusOutdoor Set</a>)</li>
+  <li>Карты со справочной информацией (Wikimapia)</li>
+</ul>
+
+<p><a href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_full_ru.zip">Скачать с компьютера (целиком)</a></p>
+
+<p><a href="locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/AnyGIS_full_set.xml">Скачать со смартфона (целиком)</a></p>
+
+<p><a href="/Web/Html/Download/Locus_Maps_Full_ru">Скачать со смартфона (выборочно)</a></p>
+
+<blockquote>
+  <p>Внимание! Данная подборка протестирована только для актуальной версии приложения. Совместимость с предыдущими версиями не гарантируется.</p>
+</blockquote>
+
+<hr />
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="01" />
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+  <h3><label class="spoiler_label" for="01">
+  Подготовка к установке
+  </label></h3>
+  <div class="spoiler">
+
+      <p>Перед первой установкой карт рекомендую скрыть все стандартные карты Locus’a: многие из них будут заменены на версию без ограничений на скачивание карты. Для этого:</p>
+
+      <ul>
+        <li>Откройте меню со списком карт.</li>
+        <li>В правом-верхнем углу нажмите на кнопку с тремя точками.</li>
+        <li>Выберите пункт <code class="highlighter-rouge">"Доступные карты"</code>.</li>
+        <li>В правом-верхнем углу нажмите на кнопку с гаечным ключом.</li>
+        <li>Выберите пункт <code class="highlighter-rouge">"Снять выделение со всего"</code>.</li>
+      </ul>
+
+      <p>При всех последующих установках карт из сторонних наборов подобную операцию больше проводить не нужно. Если же вы захотите вернуть какую-либо из карт Locus’а, то снова зайдите в это меню и поставьте галочку возле нужной вам карты.</p>
+
+      <p align="center">
+<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager2.png" />
+</p>
+
+      <p align="center">
+<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager9.png" />
+</p>
+
+      <p align="center">
+<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager10.png" />
+</p>
+
+    </div></div></div>
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="02" />
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+  <h3><label class="spoiler_label" for="02">
+  Инструкция по установке со смартфона
+  </label></h3>
+  <div class="spoiler">
+
+      <ul>
+        <li>Если вы хотите установить сразу все карты, то просто перейдите по ссылке <code class="highlighter-rouge">"Скачать со смартфона (целиком)"</code>.</li>
+        <li>Если же вы хотите установить только некоторые из карт данной подборки, то перейдите на страницу со списком карт, пройдя по ссылке <code class="highlighter-rouge">"Скачать со смартфона (выборочно)"</code>. На этой странице можете скачать как отдельную карту, так и любую группу карт целиком.</li>
+        <li>На смартфоне запустится Locus. В левом-верхнем углу появится иконка со статусом установки. Подождите некоторое время, пока индикатор не сообщит о завершении установки. (Операция может занять пару минут). Когда операция завершится, перезапустите приложение. Если все прошло успешно, то в списке карт появятся только что добавленные карты.</li>
+        <li>При желании, скройте не нужные для вас карты из моего набора.</li>
+      </ul>
+
+      <blockquote>
+        <p>Внимание! Данная функция поддерживается не всеми браузерами. Протестировано и работает в приложениях: Google Chrome, Firefox, Opera, Dolphin. Не работает в приложениях: UC.</p>
+      </blockquote>
+
+    </div></div></div>
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="03" />
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+  <h3><label class="spoiler_label" for="03">
+  Инструкция по установке с компьютера
+  </label></h3>
+  <div class="spoiler">
+
+      <ul>
+        <li>Перейдите по ссылке <code class="highlighter-rouge">"Скачать с компьютера (целиком)"</code>.</li>
+        <li>Когда файл загрузится, разархивируйте его.</li>
+        <li>Подключите к компьютеру смартфон или карту памяти.</li>
+        <li>Откройте папку, в которой установлен Locus.</li>
+        <li>Откройте папку с картами: <code class="highlighter-rouge">Locus/mapsOnline/custom</code>.</li>
+        <li>Скопируйте в эту папку все интересующие вас карты и иконки.</li>
+        <li>Перезапустите приложение, чтобы в нем отобразились добавленные карты.</li>
+        <li>При желании, скройте не нужные для вас карты из моего набора.</li>
+      </ul>
+
+      <blockquote>
+        <p>Внимание! Приложение не увидит карты, которые будут лежать в подпапках. Нужно чтобы все файлы лежали в одной папке.</p>
+      </blockquote>
+
+      <p>По идее, после этого все должно заработать. Однако иногда, если Locus уже порядком захламлен и вы устанавливаете новые версии карт поверх старых, то некоторые из файлов могут не замениться на новые версии. В таких случаях помогает удаление Локуса, удаление его папки со всеми файлами и повторная установка. Перед подобной процедурой не забудьте сохранить свои точки, gps-треки и выкачанные оффлайн-карты.</p>
+
+    </div></div></div>
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="04" />
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+  <h3><label class="spoiler_label" for="04">
+  Деинсталляция
+  </label></h3>
+  <div class="spoiler">
+
+      <p>Если вам потребуется удалить все карты из этой подборки, то вы можете перейти со смартфона по указанной ниже ссылке. После этого будет запущен скрипт и карты пропадут из списка карт Локуса. (Операция может занять пару минут)</p>
+
+      <p><a href="https://melda.ru/locus/quick-www-bookmarks/">Удалить все карты из подборки</a></p>
+
+      <blockquote>
+        <p>Внимание! Этот скрипт не умеет удалять файлы с устройства. Все файлы карт останутся в папке “custom”, просто будут заменены пустыми и будут игнорироваться Локусом. Это никак не помешает работе программы. Но если хотите, можете удалить эти файлы вручную.</p>
+      </blockquote>
+
+    </div></div></div>
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="06" />
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+  <h3><label class="spoiler_label" for="06">
+  Ссылки
+  </label></h3>
+  <div class="spoiler">
+
+      <h3 id="section">Ссылки</h3>
+
+      <p>Напоследок хочу порекомендовать несколько полезных ссылок:</p>
+
+      <p>[Подборка карт от дружественного проекта Melda.ru][]</p>
+
+      <p><a href="https://shuriktravel.ru/locusmap_firststep/">Руководство по настройке Locus. Советы и лайфхаки</a></p>
+
+      <p><a href="http://4pda.ru/forum/index.php?showtopic=210573&amp;st=7740">Русскоязычный форум Locus на 4PDA и множество полезных файлов для него</a></p>
+
+      <p><a href="https://t.me/locus_rus">Русскоязычный telegram-чат навигатора Locus. Можно задавать там вопросы об использовании приложения</a></p>
+
+      <p><a href="https://melda.ru/locus/quick-www-bookmarks/">Как настроить “дополнительные скрипты” для Locus</a></p>
+
+      <blockquote>
+        <p>Внимание! Для просмотра форума 4PDA нужно на нем зарегистрироваться. Иначе будет показано сообщение “Страница не найдена”.</p>
+      </blockquote>
+
+    </div></div></div>
+
+<hr />
+
+<p>На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.</p>
+
+<p align="center">
+<a href="/Web/Html/Contacts_ru">Отправить сообщение</a> 
+</p>
+
+:ET

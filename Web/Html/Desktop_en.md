@@ -2,15 +2,13 @@
 layout: default
 ---
 
-| [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
+| [Main page][01] | [Articles][02] | [Download maps][03] | [Donate][04] |
 
 
-[01]: https://anygis.ru/index_en
-[02]: https://anygis.ru/Web/Html/Description_en
-[03]: https://anygis.ru/Web/Html/RusOutdoor_en
-[04]: https://anygis.ru/Web/Html/DownloadPage_en
-[05]: https://anygis.ru/Web/Html/Api_en
-[07]: https://anygis.ru/Web/Html/Vektor_and_raster_en
+[01]: /index_en
+[02]: /Web/Html/Articles_en
+[03]: /Web/Html/DownloadPage_en
+[04]: https://www.donationalerts.com/r/nnngrach
 
 
 
@@ -19,11 +17,11 @@ layout: default
 
 [Changelog][00]
 
-[00]: https://anygis.ru/Web/Html/Changelog_en
+[00]: /Web/Html/Changelog_en
 
-![](https://anygis.ru/Web/Img/4mapsDesktop.png)
+![](/Web/Img/4mapsDesktop.png)
 
-There are numerous computer programs that allow you to add additional sources of [raster][01] online maps. For example, QGIS or JOSM. Also, some map viewing sites allow you to change the background layer. For example, [Nakarte][02] or [BRouter][03].
+There are numerous computer programs that allow you to add additional sources of [raster][001] online maps. For example, QGIS or JOSM. Also, some map viewing sites allow you to change the background layer. For example, [Nakarte][002] or [BRouter][003].
 
 However, there are too many such programs (and their configuration file formats) to generate them automatically. In addition, some programs allow you to add new layers only manually, through the application's graphical interface.
 
@@ -31,11 +29,11 @@ So in this section, I just provided a list of prepared URL templates. You can ju
 
 [Download maps configurations][11]
 
-[01]: https://anygis.ru/Web/Html/Vektor_and_raster_en
-[02]: https://nakarte.me
-[03]: https://brouter.de/brouter-web/
+[001]: /Web/Html/Vektor_and_raster_en
+[002]: https://nakarte.me
+[003]: https://brouter.de/brouter-web/
 
-[11]: https://anygis.ru/Web/Html/Download/Desktop_Full_en
+[11]: /Web/Html/Download/Desktop_Full_en
 
 
 
@@ -66,7 +64,7 @@ The parameters list of many maps contains two types of links:
 
 This site has some semblance of a preview function that is implemented using the Nakarte site. To use this feature, simply open the map list and click on the eye icon to the left of the map name. This will open the Nakarte website where the map you selected will be automatically loaded as the background.
 
-![](https://anygis.ru/Web/Img/desktop_eye_icon.png)
+![](/Web/Img/desktop_eye_icon.png)
 
 
 
@@ -78,7 +76,7 @@ The easiest way is to use only those layers that are added to OSM editing applic
 
 The link for connecting a new layer to JOSM looks like the one shown below. The numbers 3 and 16 are values from the MinZoom and MaxZoom fields.
 
-> tms[3,16]:https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}
+> tms[3,16]:/api/v1/Tracks_Strava_All/{x}/{y}/{z}
 
 
 [21]: https://t.me/OpenStreetMapOrg
@@ -90,6 +88,6 @@ That's all. If you have any suggestions what other sources of maps should be add
 
 
 <p align="center">
-<a href="mailto:anygis@bk.ru">anygis@bk.ru</a> 
+<a href="/Web/Html/Contacts_en">Send message</a> 
 </p>
 

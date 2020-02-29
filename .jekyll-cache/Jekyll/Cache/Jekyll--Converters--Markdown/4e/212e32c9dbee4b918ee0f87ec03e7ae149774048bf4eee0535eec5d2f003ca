@@ -1,0 +1,59 @@
+I"?<table>
+  <tbody>
+    <tr>
+      <td><a href="https://anygis.ru/index">На главную</a></td>
+      <td><a href="https://anygis.ru/Web/Html/Articles_ru">Полезные статьи</a></td>
+      <td><a href="https://anygis.ru/Web/Html/DownloadPage_ru">Скачать карты</a></td>
+      <td><a href="https://www.donationalerts.com/r/nnngrach">Поддержать проект</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="контакты">Контакты</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://anygis.ru/Web/Img/icon_tm.png" width="60" /></td>
+      <td><strong><a href="https://t.me/anygis">T.me/anygis</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://anygis.ru/Web/Img/icon_vk.png" width="60" /></td>
+      <td><strong><a href="https://vk.com/anygis">Vk.com/anygis</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://anygis.ru/Web/Img/icon_fb.png" width="60" /></td>
+      <td><strong><a href="https://www.facebook.com/anygismaps">Fb.com/anygismaps</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://anygis.ru/Web/Img/icon_email.png" width="60" /></td>
+      <td><strong><a href="mailto:anygis@bk.ru">Anygis@bk.ru</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://anygis.ru/Web/Img/icon_git.png" width="60" /></td>
+      <td><strong><a href="https://github.com/nnngrach/AnyGIS_server">GitHub</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

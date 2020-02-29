@@ -2,14 +2,13 @@
 layout: default
 ---
 
-| [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
+| [Main page][01] | [Articles][02] | [Download maps][03] | [Donate][04] |
 
 
 [01]: https://anygis.ru/index_en
-[02]: https://anygis.ru/Web/Html/Description_en
-[03]: https://anygis.ru/Web/Html/RusOutdoor_en
-[04]: https://anygis.ru/Web/Html/DownloadPage_en
-[05]: https://anygis.ru/Web/Html/Api_en
+[02]: https://anygis.ru/Web/Html/Articles_en
+[03]: https://anygis.ru/Web/Html/DownloadPage_en
+[04]: https://www.donationalerts.com/r/nnngrach
 
 
 ### September 2019

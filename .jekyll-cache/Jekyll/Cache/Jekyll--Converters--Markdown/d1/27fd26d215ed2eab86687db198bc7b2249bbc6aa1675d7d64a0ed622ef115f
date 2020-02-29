@@ -1,0 +1,68 @@
+I"M<table>
+  <tbody>
+    <tr>
+      <td><a href="/index">На главную</a></td>
+      <td><a href="/Web/Html/Articles_ru">Полезные статьи</a></td>
+      <td><a href="/Web/Html/DownloadPage_ru">Скачать карты</a></td>
+      <td><a href="https://www.donationalerts.com/r/nnngrach">Поддержать проект</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="скачать-карты">Скачать карты</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/Web/Img/icon_locus.png" width="100" /></td>
+      <td><strong><a href="/Web/Html/Locus_ru">Скачать карты для Locus</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/Web/Img/icon_guru.png" width="100" /></td>
+      <td><strong><a href="/Web/Html/Galileo_ru">Скачать карты для Guru Maps</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/Web/Img/icon_osmand.png" width="100" /></td>
+      <td><strong><a href="/Web/Html/Osmand_ru">Скачать карты для OsmAnd</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/Web/Img/icon_orux.png" width="100" /></td>
+      <td><strong><a href="/Web/Html/Orux_ru">Скачать карты для Orux Maps</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/Web/Img/icon_alpine.png" width="100" /></td>
+      <td><strong><a href="/Web/Html/Alpine_ru">Скачать карты для Alpine Quest</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/Web/Img/icon_desktop.png" width="100" /></td>
+      <td><strong><a href="/Web/Html/Desktop_ru">Скачать карты для десктопных редакторов</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

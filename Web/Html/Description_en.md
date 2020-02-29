@@ -2,19 +2,18 @@
 layout: default
 ---
 
-| [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
+| [Main page][01] | [Articles][02] | [Download maps][03] | [Donate][04] |
 
 
-[01]: https://anygis.ru/index_en
-[02]: https://anygis.ru/Web/Html/Description_en
-[03]: https://anygis.ru/Web/Html/RusOutdoor_en
-[04]: https://anygis.ru/Web/Html/DownloadPage_en
-[05]: https://anygis.ru/Web/Html/Api_en
+[01]: /index_en
+[02]: /Web/Html/Articles_en
+[03]: /Web/Html/DownloadPage_en
+[04]: https://www.donationalerts.com/r/nnngrach
 
 
 # How it works?
 
-![](https://anygis.ru/Web/Img/Tiles.png)
+![](/Web/Img/Tiles.png)
 
 ### Let's talk about mobile navigators
 
@@ -99,15 +98,15 @@ It is worth noting that in order to speed up the performance of this adjustment 
 
 First, we need to calculate the coordinates of the four closest tiles in the WGS84 projection to the desired location. All four tiles are loaded and "glued" into one large square.
 
-![](https://anygis.ru/Web/Img/wgs4.jpg)
+![](/Web/Img/wgs4.jpg)
 
 Next, we need to calculate the distance required to "shift" the new map. From a large square cut a piece of standard size, taking into account the calculated offset distance.
 
-![](https://anygis.ru/Web/Img/wgs_offset.jpg)
+![](/Web/Img/wgs_offset.jpg)
 
 We get a pretty similar piece of the map to what is required. In principle, for most tasks such a rough fit will be enough. However, it is worth noting that small differences will still be present. They will be especially noticeable closer to the North and South poles.
 
-![](https://anygis.ru/Web/Img/wgs_osm.jpg)
+![](/Web/Img/wgs_osm.jpg)
 
 In addition, it will take some time to "photoshoping" the map on the fly. That is, a map with such transformations will not load as fast as other maps without any processing. 
 
@@ -118,7 +117,7 @@ Well, the last mode in which anygis can work is to search for the best existing 
 
 To do this, a list of cards is created, sorted in order of their priority. And AnyGIS checks the first map: is there a file on the server with it with a piece of terrain we are interested in? If not, the second card is checked and so on in the list.
 
-![](https://anygis.ru/Web/Img/slazav.png)
+![](/Web/Img/slazav.png)
 
 This mode allows you to collect small pieces of disparate from different servers in a single continuous map, which is relatively convenient to use. You do not need to manually switch between a dozen different maps until you find at least one that will be suitable for this area.
 

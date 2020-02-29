@@ -2,15 +2,13 @@
 layout: default
 ---
 
-| [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
+| [На главную][01] | [Полезные статьи][02] | [Скачать карты][03] | [Поддержать проект][04] |
 
 
-[01]: https://anygis.ru/index
-[02]: https://anygis.ru/Web/Html/Description_ru
-[03]: https://anygis.ru/Web/Html/RusOutdoor_ru
-[04]: https://anygis.ru/Web/Html/DownloadPage_ru
-[05]: https://anygis.ru/Web/Html/Api_ru
-[07]: https://anygis.ru/Web/Html/Vektor_and_raster_ru
+[01]: /index
+[02]: /Web/Html/Articles_ru
+[03]: /Web/Html/DownloadPage_ru
+[04]: https://www.donationalerts.com/r/nnngrach
 
 
 
@@ -20,12 +18,13 @@ layout: default
 
 [Список изменений][0]
 
-[0]: https://anygis.ru/Web/Html/Changelog_ru
+[0]: /Web/Html/Changelog_ru
 
-![](https://anygis.ru/Web/Img/4mapsGuru.png)
+![](/Web/Img/4mapsGuru.png)
 
 
 Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора [растровых][07] онлайн-карт:
+
 
 ### Базовый набор
 Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту [статью][1].
@@ -36,11 +35,15 @@ layout: default
 
 [Скачать со смартфона Android (выборочно)][4]
 
+
+[07]: /Web/Html/Vektor_and_raster_ru
 [1]: https://shuriktravel.ru/maps/
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_short_ru.zip
-[3]: https://anygis.ru/Web/Html/Download/Guru_Maps_IOS_Short_ru
-[4]: https://anygis.ru/Web/Html/Download/Guru_Maps_Android_Short_ru
+[3]: /Web/Html/Download/Guru_Maps_IOS_Short_ru
+[4]: /Web/Html/Download/Guru_Maps_Android_Short_ru
 
+
+---
 
 ### Полный набор
 Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] и некоторых других. А так же тут есть множество карт из программы [SAS.Planet][10]. Всего в комплекте около сотни карт. Вот некоторые из них:
@@ -62,19 +65,26 @@ layout: default
 
 > Внимание! Карты на основе Яндекса составлены в нестандартной проекции. Чтобы Guru Maps смог их показывать без искажений, их приходится [преобразовывать][02] (грубо говоря, "фотошопить") на лету. Так что будьте готовы к тому, что эти карты будут загружаться сравнительно медленно.
 
-[5]: https://github.com/nnngrach/AnyGIS_maps/tree/master/Experimantal_area
+[5]: /Web/Html/RusOutdoor_ru
 [6]: https://melda.ru/locus/maps/
 [7]: https://4pda.ru/forum/index.php?showtopic=210573&st=3060#entry52768866
 [8]: https://ms.galileo-app.com/
 [9]: https://custom-map-source.appspot.com/
 [10]: https://www.sasgis.org/
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_full_ru.zip
-[12]: https://anygis.ru/Web/Html/Download/Guru_Maps_IOS_Full_ru
-[13]: https://anygis.ru/Web/Html/Download/Guru_Maps_Android_Full_ru
+[12]: /Web/Html/Download/Guru_Maps_IOS_Full_ru
+[13]: /Web/Html/Download/Guru_Maps_Android_Full_ru
 
 ---
 
-### Инструкция по установке со смартфона (Android)
+<div class="nav"><div class="item">
+  <input type="checkbox" id="01"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler">
+  <h3><label class="spoiler_label" for="01">
+  Инструкция по установке со смартфона (Android)
+  </label></h3>
+  <div class="spoiler" markdown="1">
+
 * Перейдите по ссылке `Скачать со смартфона`. Вы окажетесь на страничке со списком карт. 
 * Кликните на интересующую вас карту.  
 * Сохраните файл  в папку  `Android\data\com.bodunov.GalileoPro\files\Imported`
@@ -89,9 +99,19 @@ layout: default
 * Вернитесь в браузер и повторите эти действия со всеми остальными интересующими вас картами из списка.  
 * Когда закончите, удалите скачанные карты из папки  `Downloads`.
 
+</div></div></div>
 
 
-### Инструкция по установке со смартфона (IOS)
+
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="02"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler">
+  <h3><label class="spoiler_label" for="02">
+  Инструкция по установке со смартфона (IOS)
+  </label></h3>
+  <div class="spoiler" markdown="1">
+
 * Перейдите по ссылке `Скачать со смартфона`. Вы окажетесь на страничке со списком карт. 
 * Кликните на интересующую вас карту. Появится окно для выбора действий с файлом.
 * Выберите `Открыть в программе Guru Maps`. На смартфоне запустится навигатор и откроется меню со списком установленных карт. Если все прошло успешно, то в конце этого списка появится только что установленная карта.
@@ -103,21 +123,37 @@ layout: default
 
 > Внимание! Этот способ загрузки карт напрямую со смартфона может не сработать в старых версиях GuruMaps (4.0.5 и ниже), выдавая ошибку "адрес не действителен". Если же у Вас нет возможности обновить приложение, но вы хотите скачать карту именно со смартфона, то попробуйте перейти на страницу для Android-устройств и скачать карту оттуда при помощи браузера Safari. Если же не сработает и этот способ, то остается только добавлять карту через компьютер или же обновить приложение GuruMaps.
 
+</div></div></div>
 
 
 
 
----
+<div class="nav"><div class="item">
+  <input type="checkbox" id="03"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler">
+  <h3><label class="spoiler_label" for="03">
+  Инструкция по установке с компьютера (Android)
+  </label></h3>
+  <div class="spoiler" markdown="1">
 
-### Инструкция по установке с компьютера (Android)
 * Перейдите по ссылке `Скачать с компьютера` и скачайте zip архив с полным или базовым набором карт.
 * Когда архив загрузится, разархивируйте его. 
 * Подключите смартфон к компьютеру.
 * Скопируйте файлы  карты в папку  `Android\data\com.bodunov.GalileoPro\files\Imported`
 
+</div></div></div>
 
 
-### Инструкция по установке с компьютера (IOS)
+
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="04"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler">
+  <h3><label class="spoiler_label" for="04">
+  Инструкция по установке с компьютера (IOS)
+  </label></h3>
+  <div class="spoiler" markdown="1">
+
 * Перейдите по ссылке `Скачать с компьютера` и скачайте zip архив с полным или базовым набором карт.
 * Разархивируйте скачанный архив. 
 * Запустите на компьютере программу iTunes.
@@ -133,11 +169,21 @@ layout: default
 
 ![](https://gurumaps.app/manuals/ios/assets/file_sharing_itunes.png)
 
-![](https://anygis.ru/Web/Img/guru_itunes.png)
+![](/Web/Img/guru_itunes.png)
 
----
+</div></div></div>
 
-### Как настроить слой с пробками?
+
+
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="05"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler">
+  <h3><label class="spoiler_label" for="05">
+  Как настроить слой с пробками?
+  </label></h3>
+  <div class="spoiler" markdown="1">
+
 Замечу, что среди карт этой подборки есть несколько динамических. Я имею ввиду все карты со слоем пробок: Яндекс Пробки, Google и Here Traffic. Туда же стоит отнести и слой с движущимися кораблями OpenSeaMaps. Стоит отметить, что приложение не рассчитывалось на подобные карты, так что для того, чтобы с ними можно было работать потребуются каждый раз проделывать дополнительные настройки.
 
 ##### Вариант первый - автоочистка кэша:
@@ -160,13 +206,16 @@ layout: default
 
 В результате удалится кэш и произойдет повторная загрузка для всей карты, кроме области на экране. Чтобы обновилась и она, перед удалением кэша нужно переключиться на любую другую карту.
 
+</div></div></div>
+
 ---
 
-На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.
+На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку, то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте. 
 
+Если же вы являетесь правообладателем какой-либо из карт, присутствующих в данной подборке и считаете, что эту карту из этой подборки нужно убрать, то пишите мне. Я с готовностью пойду вам навстречу.
 
 
 <p align="center">
-<a href="mailto:anygis@bk.ru">anygis@bk.ru</a> 
+<a href="/Web/Html/Contacts_ru">Отправить сообщение</a> 
 </p>
 

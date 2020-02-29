@@ -1,0 +1,229 @@
+/* Вся область меню*/
+.nav {
+	width: 100%;
+	overflow-x: hidden;
+	/*background-color: white;*/
+
+
+	/*переносы слов*/
+	-ms-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+
+	/* legacy properties */
+	-webkit-hyphenate-limit-before: 3;
+	-webkit-hyphenate-limit-after: 2;
+
+	/* current proposal */
+	-moz-hyphenate-limit-chars: 6 3 2; /* not yet supported */
+	-webkit-hyphenate-limit-chars: 6 3 2; /* not yet supported */
+	-ms-hyphenate-limit-chars: 6 3 2;
+	hyphenate-limit-chars: 6 3 2;
+}
+
+/* Скрыть все чекбоксы */
+.nav input[type="checkbox"] {
+	display: none;
+}
+
+/* сделать ссылки интерактивными при наведении */
+label:hover {
+	cursor: pounter;
+}
+
+label {
+	width: 100%;
+	display: block;
+	z-index: 3;
+	position: relative;
+}
+
+
+
+
+/* Иконка группы карт первого уровня*/
+.menu_icon {
+	width: 34px;
+	height: 34px;
+	vertical-align: middle;
+	padding-right: 0.5em;
+}
+
+.download_folder_icon {
+	width: 24px;
+	height: 20px;
+	vertical-align: middle;
+	padding-left: 0.5em;
+	padding-right: 0.4em;
+	margin-top: -0.2em;
+}
+
+/* Иконка предпросмотра карты*/
+.eye_icon {
+	vertical-align: middle;
+	margin-top: -3px;
+	/*padding-left: 2em;*/
+}
+
+
+
+
+
+/* Стиль всех пунктов меню*/
+.nav ul[class="accordeon"], .nav li[class="accordeon"], label[class="accordeon"] {
+	list-style: none;
+	text-decoration: none;
+	line-height: 52px;
+	margin: 0;
+	padding: 0 1em;
+	font-weight: bold;
+	color: #494949;
+	width: 95%;
+}
+
+
+
+/* Стиль пунктов меню c ссылками */
+.nav li[class="accordeon"] a {
+	list-style: none;
+	text-decoration: none;
+	/*line-height: 50px;*/
+	line-height: 20px;
+	margin: 0;
+	/*padding: 0 4em;*/
+	font-weight: bold;
+	color: #494949;
+}
+
+
+
+
+.item ul[class="accordeon"] {
+	padding: 0 0.25em;
+}
+
+
+
+/* Отмена некоторых стилей для элементов внутри скрывающегося меню*/
+label[class="spoiler_label"] {
+	line-height: 34px;
+	margin: 0;
+	padding: 0 1.5em;
+}
+
+.spoiler {
+	padding: 0 2em;
+	list-style: disc;
+	margin: 0;
+	max-height: 100em;
+}
+
+.item .spoiler ul {
+	max-height: 1000px;
+	overflow: visible;
+}
+
+.spoiler li {
+	padding: 0;
+}
+
+
+.map_line {
+	line-height: 20px;
+	padding-left: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 1em;
+	font-weight: bold;
+	color: #494949;
+	list-style: none;
+	text-decoration: none;
+}
+
+.map_line a {
+	font-weight: bold;
+	color: #494949;
+	list-style: none;
+	text-decoration: none;
+}
+
+
+
+/* Меню первого уровня: показывать всегда */
+.parent-groups {
+	display: block;
+}
+
+/* Пункты подменю: скрыть */
+.item ul[class="accordeon"], .spoiler {
+	/*display: none;*/
+	overflow: auto;
+	max-height: 0;
+
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+/* Пункты подменю: показать */
+.item input:checked ~ ul[class="accordeon"] {
+	/*display: block;*/
+	overflow: auto;
+	max-height: 20000px;
+
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.item input:checked ~ .spoiler {
+	/*display: block;*/
+	overflow: auto;
+	max-height: 4000px;
+
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+
+
+/* Иконка стрелки до клика */
+.arrow {
+	width: 12px;
+	height: 12px;
+	float: left;
+	vertical-align: middle;
+	margin: 20px 1em 0 0em;
+	z-index: 0;
+}
+
+.arrow_in_spoiler {
+	width: 12px;
+	height: 12px;
+	float: left;
+	vertical-align: middle;
+	margin: 11px 0em 0 0em;
+	z-index: 0;
+}
+
+.item input + .arrow, .item input + .arrow_in_spoiler {
+	transform: rotate(0deg);
+	transition: 0.1s;
+	
+}
+
+
+/* Иконка стрелки после клика */
+.item input:checked + .arrow, .item input:checked + .arrow_in_spoiler {
+	transform: rotate(90deg);
+	transition: 0.1s;
+}
+
+
+

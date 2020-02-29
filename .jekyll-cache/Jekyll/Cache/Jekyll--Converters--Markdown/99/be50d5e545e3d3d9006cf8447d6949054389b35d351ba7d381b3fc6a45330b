@@ -1,0 +1,373 @@
+I"Tb<table>
+  <tbody>
+    <tr>
+      <td><a href="/index">На главную</a></td>
+      <td><a href="/Web/Html/Articles_ru">Полезные статьи</a></td>
+      <td><a href="/Web/Html/DownloadPage_ru">Скачать карты</a></td>
+      <td><a href="https://www.donationalerts.com/r/nnngrach">Поддержать проект</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="полезные-статьи">Полезные статьи</h1>
+
+<hr />
+
+<p><a href="/Web/Html/Vektor_and_raster_ru"><img src="/Web/Img/rastr_vector_img.png" alt="" title="Читать статью" /></a></p>
+
+<h3 id="векторные-и-растровые-карты---в-чем-отличия"><a href="/Web/Html/Vektor_and_raster_ru">Векторные и растровые карты - в чем отличия?</a></h3>
+
+<hr />
+
+<p><a href="/Web/Html/RusOutdoor_ru"><img src="/Web/Img/nnngrach_zagedan.jpg" alt="" title="Читать статью" /></a></p>
+
+<h3 id="rusoutdoor-maps---многослойная-подборка-карт"><a href="/Web/Html/RusOutdoor_ru">RusOutdoor maps - Многослойная подборка карт</a></h3>
+
+<hr />
+
+<p><a href="/Web/Html/Description_ru"><img src="/Web/Img/Tiles.png" alt="" title="Читать статью" /></a></p>
+
+<h3 id="как-работает-anygis"><a href="/Web/Html/Description_ru">Как работает AnyGIS?</a></h3>
+
+<hr />
+
+<p><a href="/Web/Html/Api_ru"><img src="/Web/Img/api_preview.jpg" alt="" title="Читать статью" /></a></p>
+
+<h3 id="api-и-документация"><a href="/Web/Html/Api_ru">API и документация</a></h3>
+
+<hr />
+
+<h1 id="карты-для-osmand-test2">Карты для OsmAnd (test2)</h1>
+
+<p><a href="https://anygis.ru/Web/Html/Changelog_ru">Список изменений</a></p>
+
+<p><img src="https://anygis.ru/Web/Img/4mapsOsmand.png" alt="" /></p>
+
+<p>Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора [растровых][07] онлайн-карт:</p>
+
+<h3 id="базовый-набор">Базовый набор</h3>
+<p>Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту <a href="https://shuriktravel.ru/maps/">статью</a>.</p>
+
+<p><a href="https://anygis.ru/Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Short_ru">Скачать карты выборочно (sqlitedb)</a></p>
+
+<p><a href="https://anygis.ru/Web/Html/Download/OsmAnd_Maps_(metainfo)_Short_ru">Скачать карты выборочно (metainfo)</a></p>
+
+<h3 id="полный-набор">Полный набор</h3>
+
+<p>Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: <a href="https://melda.ru/locus/maps/">Erelen</a>, <a href="https://4pda.ru/forum/index.php?showtopic=210573&amp;st=3060#entry52768866">Dreame</a>, <a href="https://ms.galileo-app.com/">ms.Galileo-app</a>, <a href="https://custom-map-source.appspot.com/">Custom-maps-source</a> и некоторых других. А так же тут есть множество карт из программы <a href="https://www.sasgis.org/">SAS.Planet</a>. Всего в комплекте около сотни карт. Вот некоторые из них:</p>
+
+<ul>
+  <li>Карты для города (Яндекс, Google, Here, Bing, 2gis)</li>
+  <li>Спутниковые снимки (Яндекс, Google, ERSI, Here, Mapbox)</li>
+  <li>Карты на основе OSM (Mapnik, Cycle, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap и др.)</li>
+  <li>Растровые топографические (Генштаб, ГГЦ, Маршруты.ру)</li>
+  <li>Растровые туристические (карты Завьялова ММБ; атласы и хребтовки Кавказа, Карелии, Крыма, Алтая и др.)</li>
+  <li>Сборник карт для пешего и горного туризма (<a href="https://github.com/nnngrach/AnyGIS_maps/tree/master/Experimantal_area">RusOutdoor Set</a>)</li>
+  <li>Карты со справочной информацией (Wikimapia)</li>
+</ul>
+
+<p><a href="https://anygis.ru/Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Full_ru">Скачать карты выборочно (sqlitedb)</a></p>
+
+<p><a href="https://anygis.ru/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_ru">Скачать карты выборочно (metainfo)</a></p>
+
+<div class="nav">
+<div class="item">
+<input type="checkbox" id="02" />
+<img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+<h3><label class="spoiler_label" for="02">
+Инструкция по установке для Android
+</label></h3>
+<div class="spoiler">
+
+      <ul>
+        <li>Выберите, в каком формате хотите скачать карты. Формат sqlitedb, теоретически, должен немного быстрее загружаться. Зато формат metainfo позволяет вручную удалять кэш (прямо из папки с картой). В принципе, можете выбирать что угодно, но карту Strava я рекомендую скачивать именно в формате metainfo.</li>
+        <li>Итак, если вы выбрали sqlitedb, то скачается один файл. Скопируйте его.</li>
+        <li>Если же формат metainfo, то скачается zip-архив. Распакуйте его. Внутри будет папка. Скопируйте эту папку. (Не ее содержимое, а саму папку)</li>
+        <li>Вставьте скачанный файл (или папку) в следующую директорию на своем смартфоне  <code class="highlighter-rouge">Android\data\net.osmand\files\tiles</code></li>
+        <li>Если по каким-то причинам у вас нет такой папки (например, Osmand установлен на SD-карту), то нужно узнать, в какой именно директория он находится. Для этого запустите приложение, откройте <code class="highlighter-rouge">Настройки</code>, выберите пункт <code class="highlighter-rouge">Основные настройки</code> и промотайте вниз до пункта <code class="highlighter-rouge">Каталог для хранения данных</code>. Здесь будет указан адрес. Карты нужно копировать в подпапку <code class="highlighter-rouge">tiles</code></li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_patch.png" alt="" /></p>
+
+      <ul>
+        <li>Новые карты должны появиться в приложении в разделах <code class="highlighter-rouge">Источник карты</code>, <code class="highlighter-rouge">Карты покрытия</code>, <code class="highlighter-rouge">Карта подложки</code></li>
+        <li>После этого можно устанавливать новые карты как в качестве основного слоя, так и в качестве дополнительного.</li>
+        <li>Если потребуется убрать какую-либо карту из списка, то нужно удалить её из папки с помощью файлового менеджера.</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_maplist.png" alt="" /></p>
+    </div></div></div>
+
+<div class="nav">
+<div class="item">
+<input type="checkbox" id="03" />
+<img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+<h3><label class="spoiler_label" for="03">
+Инструкция по установке для  IOS
+</label></h3>
+<div class="spoiler">
+
+      <ul>
+        <li>Скачайте карту в формате sqlitedb.</li>
+      </ul>
+
+      <p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_1.jpg" width="200" />
+</p>
+
+      <ul>
+        <li>Найдите скачанный файл в списке загрузок браузера.</li>
+      </ul>
+
+      <p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_2.jpg" width="200" />
+</p>
+
+      <ul>
+        <li>Откройте файл с помощью Osmand.</li>
+      </ul>
+
+      <p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_3.jpg" width="200" />
+</p>
+
+      <p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_4.jpg" width="200" />
+</p>
+
+      <ul>
+        <li>Карта должна появиться в меню Настройки карты -&gt; Карты покрытия.</li>
+      </ul>
+
+      <p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_5.jpg" width="200" />
+</p>
+
+      <p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_6.jpg" width="200" />
+</p>
+
+      <p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_7.jpg" width="200" />
+</p>
+
+      <ul>
+        <li>Если вам потребуется удалить установленные карты, то это можно сделать из меню Карты и Ресурсы -&gt; Установлено -&gt; Создать карту</li>
+      </ul>
+
+      <p align="center">
+<img src="https://anygis.ru/Web/Img/Osmand_ios_8.jpg" width="200" />
+</p>
+
+      <blockquote>
+        <p>Внимание! На текущий момент подключение дополнительных онлайн-карт доступно только в версии Osmand для бета-тестирования. И в ней пока что не поддерживаются карты в эллипсоидной проекции (например, карты Яндекса).</p>
+      </blockquote>
+
+    </div></div></div>
+
+<div class="nav">
+<div class="item">
+<input type="checkbox" id="04" />
+<img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+<h3><label class="spoiler_label" for="04">
+Инструкция по работе с дополнительными слоями
+</label></h3>
+<div class="spoiler">
+
+      <p>Osmand позволяет показывать и скрывать дополнительные слои, отображая их поверх основной карты. Для этого:</p>
+
+      <ul>
+        <li>Откройте меню <code class="highlighter-rouge">Настроить карту</code></li>
+        <li>Выберите пункт <code class="highlighter-rouge">Карта покрытия</code></li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_100.png" alt="" /></p>
+
+      <ul>
+        <li>В появившемся списке выберите интересующий вас слой</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_101.png" alt="" /></p>
+
+      <ul>
+        <li>Откроется меню в котором можно настроить прозрачность слоя с помощью горизонтального ползунка. Чтобы скрыть это меню и начать пользоваться картой достаточно кликнуть на любое место карты.</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_102.png" alt="" /></p>
+
+      <ul>
+        <li>Если потребуется скрыть этот дополнительный слой, то достаточно вернуться в меню <code class="highlighter-rouge">Настроить карту</code> и просто кликнуть на тумблер справа от пункта <code class="highlighter-rouge">Карта покрытия</code></li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_103.png" alt="" /></p>
+
+    </div></div></div>
+
+<div class="nav">
+<div class="item">
+<input type="checkbox" id="05" />
+<img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+<h3><label class="spoiler_label" for="05">
+Инструкция по настройке кнопки Быстрых действий
+</label></h3>
+<div class="spoiler">
+
+      <p>Однако существует еще один способ, который многим может показаться более удобным: можно добавить скрытие/отображение дополнительного слоя на кнопку быстрого действия.</p>
+
+      <ul>
+        <li>Откройте меню <code class="highlighter-rouge">Настроить экран</code></li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_104.png" alt="" /></p>
+
+      <ul>
+        <li>С помощью иконок в верху меню переключитесь на интересующий вас режим отображения. (На картинке выбран пешеходный режим)</li>
+        <li>Кликните на тумблер справа от кнопки <code class="highlighter-rouge">Быстрое действие</code>, чтобы на экране устройства отображалась эта кнопка.</li>
+        <li>После этого нажмите на саму надпись <code class="highlighter-rouge">Быстрое действие</code>, чтобы внести необходимые настройки.</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_105.png" alt="" /></p>
+
+      <ul>
+        <li>Нажмите на кнопку с синим плюсиком, чтобы добавить новое действие.</li>
+        <li>В открывшемся окне выберите <code class="highlighter-rouge">Сменить карту покрытия</code></li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_106.png" alt="" /></p>
+
+      <ul>
+        <li>Нажмите на кнопку <code class="highlighter-rouge">Добавить карту покрытия</code></li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_107.png" alt="" /></p>
+
+      <ul>
+        <li>В открывшемся окне выберите карту, которую вы хотите добавить. В моем случае это - Overlay_Strava.</li>
+        <li>После этого еще раз нажмите <code class="highlighter-rouge">Добавить карту покрытия</code>.</li>
+        <li>На этот раз выберите пункт <code class="highlighter-rouge">Нет покрытия</code>.</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_107.png" alt="" /></p>
+
+      <ul>
+        <li>В результате, меню должно выглядеть примерно так. Теперь, при каждом новом нажатии на кнопку быстрого действия эти пункты будут сменять друг друга, тем самым то включая, то отключая показ дополнительного слоя.</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_109.png" alt="" /></p>
+
+      <ul>
+        <li>Настало время проверить, как это работает. Выйдите из всех меню, чтобы оказаться на экране с показом карты.</li>
+        <li>На экране появится новая кнопка для запуска быстрых действий. Кликните на нее.</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_110.png" alt="" /></p>
+
+      <ul>
+        <li>Откроется меню с только что добавленной нами кнопкой Overlay_Strava. Нажмите на нее, чтобы включить или выключить этот дополнительный слой. Теперь это действительно можно делать довольно быстро.</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_111.png" alt="" /></p>
+
+      <blockquote>
+        <p>На момент написания статьи эта функция действовала только в Android-версии OsmAnd.</p>
+      </blockquote>
+
+    </div></div></div>
+
+<div class="nav">
+<div class="item">
+<input type="checkbox" id="06" />
+<img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+<h3><label class="spoiler_label" for="06">
+Инструкция по сохранению карты в кэш
+</label></h3>
+<div class="spoiler">
+
+      <p>Если вам нужно просматривать карту без интернета, то ее можно выделить какой-либо участок местности и скачать его в кэш. Замечу, что [растровые][07] онлайн-карты имеют довольно большой объем и могут скачиваться сравнительно долго. Поэтому рекомендую выкачивать только небольшие участки местности: например, не всю Алтайскую область целиком, а только тот участок леса, в который вы планируете посетить. А теперь перейдем к инструкции:</p>
+
+      <ul>
+        <li>Откройте Османд и выберите интересующую карту.</li>
+        <li>Подгоните масштаб карты, чтобы на экране отображалась та область, которую вы хотите выкачать. Скачается только то, что в данный момент на экране!</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_112.png" alt="" /></p>
+
+      <ul>
+        <li>Нажмите и удерживайте на любое место на экране. Появится всплывающее меню.</li>
+        <li>Выберите пункт <code class="highlighter-rouge">Действия</code>. Затем  <code class="highlighter-rouge">Загрузить карту</code>.</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_113.png" alt="" /></p>
+
+      <ul>
+        <li>Появится меню с ползунком. Выберите до какого уровня приближения нужно скачивать карту. Индикатор покажет, какой объем, примерно, будет скачанный фрагмент. Нажмите ОК.</li>
+      </ul>
+
+      <p><img src="https://anygis.ru/Web/Img/Osmand_pic_114.png" alt="" /></p>
+
+      <p>После этого область на экране будет скачана в кэш выбранной карты и будет доступна без интернета. Кстати, если скачиваемая область имеет сложную форму и плохо укладывается в прямоугольник экрана, то можно выкачивать ее в несколько этапов.</p>
+
+      <blockquote>
+        <p>На момент написания статьи эта функция действовала только в Android-версии OsmAnd.</p>
+      </blockquote>
+
+    </div></div></div>
+
+<div class="nav">
+<div class="item">
+<input type="checkbox" id="07" />
+<img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+<h3><label class="spoiler_label" for="07">
+Инструкция по работе с динамическими картами
+</label></h3>
+<div class="spoiler">
+
+      <p>Замечу, что среди карт этой подборки есть несколько динамических. Я имею ввиду все карты с пробками: Яндекс Пробки, Google и Here Traffic. Туда же стоит отнести и слой с движущимися кораблями OpenSeaMaps. Стоит отметить, что приложение не рассчитывалось на подобные карты, так что для того, чтобы с ними можно было работать потребуются каждый раз проделывать дополнительные операции.</p>
+
+      <p>Допустим, у вас на экране уже отображается динамическая карта. Например, Яндекс пробки. Прошло некоторое время и вам хочется узнать, не изменилось ли состояние на дорогах. Для этого нужно сделать следующее:</p>
+
+      <ul>
+        <li>Нужно сделать так, чтобы обновляемая карта не отображалась на экране. Если карта выбрана в качестве базового слоя, то переключите её на другую. Если она выбрана в качестве подложки, то просто отключите отображение подложки.</li>
+        <li>Выключите OsmAnd, чтобы сбросить кэш.</li>
+        <li>Включите OsmaAnd.</li>
+        <li>Снова включите карту, которую требовалось обновить.</li>
+      </ul>
+
+      <p>После этих действий карта будет загружена заново. И если состояние пробок изменилось, то вы это увидите.</p>
+
+    </div></div></div>
+
+<div class="nav">
+<div class="item">
+<input type="checkbox" id="08" />
+<img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler" />
+<h3><label class="spoiler_label" for="08">
+Ссылки
+</label></h3>
+<div class="spoiler">
+
+      <p>Напоследок хочу порекомендовать несколько полезных ссылок:</p>
+
+      <p><a href="https://www.drive2.ru/l/533880791202005393/">Подробная инструкция Osmand - Часть 1</a></p>
+
+      <p><a href="https://www.drive2.ru/l/533949785556648406/">Подробная инструкция Osmand - Часть 2</a></p>
+
+      <p><a href="http://4pda.ru/forum/index.php?showtopic=181125&amp;st=10780">Русскоязычный форум Osmand на 4PDA и множество полезных файлов для него</a></p>
+
+      <p><a href="https://t.me/ruosmand">Русскоязычный telegram-чат навигатора Osmand. Можно задавать там вопросы об использовании приложения</a></p>
+
+      <blockquote>
+        <p>Внимание! Для просмотра форума 4PDA нужно на нем зарегистрироваться. Иначе будет показано сообщение “Страница не найдена”.</p>
+      </blockquote>
+
+    </div></div></div>
+
+<hr />
+
+<p>На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.</p>
+
+<p align="center">
+<a href="mailto:anygis@bk.ru">anygis@bk.ru</a> 
+</p>
+
+:ET

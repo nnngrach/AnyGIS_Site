@@ -2,14 +2,13 @@
 layout: default
 ---
 
-| [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
+| [Main page][01] | [Articles][02] | [Download maps][03] | [Donate][04] |
 
 
-[01]: https://anygis.ru/index_en
-[02]: https://anygis.ru/Web/Html/Description_en
-[03]: https://anygis.ru/Web/Html/RusOutdoor_en
-[04]: https://anygis.ru/Web/Html/DownloadPage_en
-[05]: https://anygis.ru/Web/Html/Api_en
+[01]: /index_en
+[02]: /Web/Html/Articles_en
+[03]: /Web/Html/DownloadPage_en
+[04]: https://www.donationalerts.com/r/nnngrach
 
 
 
@@ -20,7 +19,7 @@ layout: default
 
 *last update: 1.09.19*
 
-![](https://anygis.ru/Web/Img/nnngrach_zagedan.jpg)
+![](/Web/Img/nnngrach_zagedan.jpg)
 
 Despite the fact that I have already written that there is no ideal and universal map and can not be, I still tried to do it. As a model, I chose a map from the site [Matshruty.ru][1] - when changing the scale it changing the displayed map.
 
@@ -40,7 +39,7 @@ Google Terrain
 
 This group of layers should be used to select the desired continent, country, and region of interest in this country. For convenience, the map is marked relief, so find the mountain areas will be relatively easy.
 
-![](https://anygis.ru/Web/Img/google_terrain.png)
+![](/Web/Img/google_terrain.png)
 
 
 ***
@@ -54,7 +53,7 @@ OSM Sputnik.ru
 
 This and the next layer should be used to find the region of interest, focusing on city names and highway lines. Plus maps from the site Sputnik that it loads quickly and that it displays the terrain. Minus - not the most visual drawing of roads.
 
-![](https://anygis.ru/Web/Img/sputnik_ru.png)
+![](/Web/Img/sputnik_ru.png)
 
 
 
@@ -83,7 +82,7 @@ Zoom: 12
 
 Maps with local coverage, Genshtab 1km, Genshtab 2km, OSM Outdoors
 
-![](https://anygis.ru/Web/Img/genshtab.png)
+![](/Web/Img/genshtab.png)
 
 
 
@@ -93,7 +92,7 @@ Zoom: 13
 
 Maps with local coverage, GGC 1km, Genshtab 500m
 
-![](https://anygis.ru/Web/Img/kavkaz_1000.png)
+![](/Web/Img/kavkaz_1000.png)
 
 
 
@@ -103,7 +102,7 @@ Zoom: 14
 
 Maps with local coverage, GGC 500m, OSM Outdoors
 
-![](https://anygis.ru/Web/Img/ggc.png)
+![](/Web/Img/ggc.png)
 
 
 ***
@@ -112,7 +111,7 @@ About Thunderforest Outdoors
 
 Thunderforest Outdoors is OSM-based map. There is quite a clear drawing of the terrain and well-marked lines of trails.
 
-![](https://anygis.ru/Web/Img/osm_outdoors.png)
+![](/Web/Img/osm_outdoors.png)
 
 ***
 
@@ -128,7 +127,7 @@ Of the minuses, it is worth noting that this is a public map it can be changed b
 
 For this layer I chose map Chepetsk.net. This is cycle map with hight contrast level to make it easier to see the map on the phone screen in the bright sun. Also here POI ponits drawings from 15 zoom level. This is very usefull with planning. Of the minuses - it does not display the terrain.
 
-![](https://anygis.ru/Web/Img/chepeck.png)
+![](/Web/Img/chepeck.png)
 
 
 
@@ -141,7 +140,7 @@ OpenStreetMaps Mapnik
 This is the basic version of OSM maps. It has the same pros and cons as all OSM maps. In my opinion, this version is the most versatile and has the largest number of POI icons and signed objects. Of the minuses - it does not display the terrain.
 
 
-![](https://anygis.ru/Web/Img/mapnik.png)
+![](/Web/Img/mapnik.png)
 
 ***
 
@@ -162,7 +161,7 @@ OpenStreetMaps Mapnik
 
 Wikimapia layer
 
-![](https://anygis.ru/Web/Img/wiki_mapnik.png)
+![](/Web/Img/wiki_mapnik.png)
 
 
 
@@ -175,7 +174,7 @@ Google Satellite
 
 Wikimapia layer
 
-![](https://anygis.ru/Web/Img/wiki_google.png)
+![](/Web/Img/wiki_google.png)
 
 
 
@@ -188,7 +187,7 @@ Yandex Satellite
 
 Wikimapia layer
 
-![](https://anygis.ru/Web/Img/wiki_ya.png)
+![](/Web/Img/wiki_ya.png)
 
 
 

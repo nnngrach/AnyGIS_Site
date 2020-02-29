@@ -1,0 +1,819 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Yandex.Webmaster counter -->
+    <meta name="yandex-verification" content="5482503e5aa9170b" />
+    <!-- Yandex.Webmaster counter -->
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+       m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+       ym(53095543, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+       });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/53095543" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+
+    
+
+    
+    <link rel="stylesheet" href="/Web/Css/accordeonMenu.css">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <script src="/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://anygis.ru/Web/Img/favicon.ico">
+
+    <script> 
+      function redirectToIndexPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "/index";
+          } else {
+            url = "/index_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToContactsPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "/Web/Html/Contacts_ru";
+          } else {
+            url = "/Web/Html/Contacts_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToPageWithAnotherLanguage() {
+          var url = String(location);
+
+          if (url.indexOf("index_en") != -1) {
+            url = url.replace("index_en", "index");
+          } else if (url.indexOf("index") != -1) {
+            url = url.replace("index", "index_en");
+          } else if (url.indexOf("_ru") == -1) {
+            url = url.replace("_en", "_ru");
+          } else {
+            url = url.replace("_ru", "_en");
+          }
+
+          window.location.replace(url);
+      }
+    </script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header >
+
+        <a href="javascript:redirectToIndexPage()"><img src="/Web/Img/AnyGIS_logo_50.png" style="float:left;width:45px;height:45px;"></a>
+        <a href="javascript:redirectToPageWithAnotherLanguage()"><img src="/Web/Img/changeLanguage.png" style="float:right;height:25px;padding-top:10px;"></a>
+
+        <h1>AnyGIS</h1>
+        
+          <p>Online maps pack</p>
+        
+      </header>
+      <section>
+
+      <table>
+  <tbody>
+    <tr>
+      <td><a href="/index">На главную</a></td>
+      <td><a href="/Web/Html/Articles_ru">Полезные статьи</a></td>
+      <td><a href="/Web/Html/DownloadPage_ru">Скачать карты</a></td>
+      <td><a href="https://www.donationalerts.com/r/nnngrach">Поддержать проект</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h1>Скачать карты для Guru Maps Android</h1><div class="nav">
+  <div class="parent-groups">
+<div class="nav">
+  <div class="parent-groups">
+<div class="item">
+  <input type="checkbox" id="Satellites"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Satellites" class="accordeon">
+    <img src="/Web/Img/Icons_en/Satellites.png" class="menu_icon"/>
+    
+    Спутниковые
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Bing_sat_for_guru"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Satellites=Bing_birds_eye.ms"
+    title="Скачать эту карту">
+    Bing Bird's Eye
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Sat_RU_SD"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Satellites=Google_Hybrid_RU.ms"
+    title="Скачать эту карту">
+    Google - Гибрид
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Satellites=Maxar_Premium_Imagery.ms"
+    title="Скачать эту карту">
+    Maxar Premium
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Eurasia">
+        
+        Евразия
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Yandex_sat_clean"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Satellites=Eurasia=Yandex_converted.ms"
+    title="Скачать эту карту">
+    Яндекс (с конвертацией)
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="City"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="City" class="accordeon">
+    <img src="/Web/Img/Icons_en/City.png" class="menu_icon"/>
+    
+    Городские
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Map_RU_SD"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=City=Google_Map_RU.ms"
+    title="Скачать эту карту">
+    Google
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Ter_RU_SD"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=City=Google_Terrain_RU.ms"
+    title="Скачать эту карту">
+    Google - Ландшафт
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=City=Mapnik_from_Osmand.ms"
+    title="Скачать эту карту">
+    OSM Mapnik HD (from OsmAnd)
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Eurasia">
+        
+        Евразия
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ru_2gis"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=City=RU=2gis.ms"
+    title="Скачать эту карту">
+    2Gis
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Sputnik"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=City=RU=Sputnik.ms"
+    title="Скачать эту карту">
+    OSM Sputnik.ru
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Yandex_map"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=City=RU=Yandex_Map_converted.ms"
+    title="Скачать эту карту">
+    Яндекс (с конвертацией)
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Road"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Road" class="accordeon">
+    <img src="/Web/Img/Icons_en/Road.png" class="menu_icon"/>
+    
+    Авто
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Road=Google_Traffic.ms"
+    title="Скачать эту карту">
+    Google Пробки
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Transport_Map"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Road=Thunderforest_Transport.ms"
+    title="Скачать эту карту">
+    OSM Thunderforest Transport День
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_base_day"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Road=TomTom_Base_day.ms"
+    title="Скачать эту карту">
+    TomTom День
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Road=Yandex_Traffic_converted.ms"
+    title="Скачать эту карту">
+    Яндекс Пробки (с конвертацией)
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Bike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Bike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Bike.png" class="menu_icon"/>
+    
+    Вело
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Cyclosm"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Bike=Cyclosm.ms"
+    title="Скачать эту карту">
+    OSM Cyclosm
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Bike=Thunderforest_Cycle.ms"
+    title="Скачать эту карту">
+    OSM Thunderforest Cycle
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Bike=Strava_Ride.ms"
+    title="Скачать эту карту">
+    Strava Heatmap Вело
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Bike - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Bike - Europe">
+        
+        Европа
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Bike=Europe=MTB_Map_CZ.ms"
+    title="Скачать эту карту">
+    OSM Mtbmap.cz
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Hike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Hike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Hike.png" class="menu_icon"/>
+    
+    Туризм
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Nakarte_Westra"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=Westra_Passes.ms"
+    title="Скачать эту карту">
+    Nakarte.me - Перевалы Вестра
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_4umaps"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=4umaps.ms"
+    title="Скачать эту карту">
+    OSM 4U maps
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=Mapsurfer.ms"
+    title="Скачать эту карту">
+    OSM Mapsurfer
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Topo_Map"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=OpenTopoMap_ORG.ms"
+    title="Скачать эту карту">
+    OSM OpenTopoMap.ORG
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Outdoors"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=Thunderforest_Outdoor.ms"
+    title="Скачать эту карту">
+    OSM Thunderforest Outdoor
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=Strava_Run.ms"
+    title="Скачать эту карту">
+    Strava Heatmap - Бег
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia">
+        
+        Евразия
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_RU"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=Eurasia=OpenTopoMap_RU.ms"
+    title="Скачать эту карту">
+    OSM OpenTopoMap.RU
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All">
+        
+        Вся
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All - Multylayer"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All - Multylayer">
+        
+        Многослойные
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_RusOutdoor"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=Eurasia=All=Combo=RusOutdoorMaps.ms"
+    title="Скачать эту карту">
+    RusOutdoor maps
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_RusOutdoor_lite"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=Eurasia=All=Combo=RusOutdoorMaps_lite.ms"
+    title="Скачать эту карту">
+    RusOutdoor maps (lite)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_Marshruty.ru"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=Eurasia=All=Combo=MarshrutiRU.ms"
+    title="Скачать эту карту">
+    Маршруты.ru
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All - GGC"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All - GGC">
+        
+        ГГЦ
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_Best_GGC"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=Eurasia=All=GGC=All.ms"
+    title="Скачать эту карту">
+    ГосГисЦентр (Все масштабы)
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All - Soviet Military Map"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All - Soviet Military Map">
+        
+        Генштаб
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_Best_Genshtab"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Hike=Eurasia=All=Genshtab=All.ms"
+    title="Скачать эту карту">
+    Генштаб (Все масштабы)
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Winter"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Winter" class="accordeon">
+    <img src="/Web/Img/Icons_en/Winter.png" class="menu_icon"/>
+    
+    Зимние
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Winter=OpenSnowMap.ms"
+    title="Скачать эту карту">
+    OSM OpenSnowMap
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Winter=Strava_Winter.ms"
+    title="Скачать эту карту">
+    Strava Heatmap - Зимние
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Water"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Water" class="accordeon">
+    <img src="/Web/Img/Icons_en/Water.png" class="menu_icon"/>
+    
+    Водные
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Water=Navionics_Marine_Charts.ms"
+    title="Скачать эту карту">
+    Navionics Marine Charts
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Water=OpenSeaMap.ms"
+    title="Скачать эту карту">
+    OSM Open Sea Map
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Water=Strava_Water.ms"
+    title="Скачать эту карту">
+    Strava Heatmap - Водные
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Info"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Info" class="accordeon">
+    <img src="/Web/Img/Icons_en/Info.png" class="menu_icon"/>
+    
+    Справочные
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Wikimapia_layer"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Info=Wikimapia_Sat.ms"
+    title="Скачать эту карту">
+    Wikimapia.org + Спутник
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Infrastructure"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Infrastructure" class="accordeon">
+    <img src="/Web/Img/Icons_en/Infrastructure.png" class="menu_icon"/>
+    
+    Инфраструктура
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Transit_RU"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Infrastructure=Google_Transit_RU.ms"
+    title="Скачать эту карту">
+    Google Транзит
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte"
+  target="_blank" title="Предпросмотр карты">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/galileo_ru/=Infrastructure=Opnvkarte.ms"
+    title="Скачать эту карту">
+    OSM OpenBusMap (Opnvkarte.de)
+  </a>
+</li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+      </section>
+    </div>
+    <footer>
+      <p><b>Contacts</b> - project maintained by <a href="javascript:redirectToContactsPage()">nnngrach</a></p>
+
+      <p>Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    <!--
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+    -->
+  </body>
+</html>

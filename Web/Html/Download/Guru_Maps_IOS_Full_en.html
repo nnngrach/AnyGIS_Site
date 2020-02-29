@@ -1,0 +1,3276 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Yandex.Webmaster counter -->
+    <meta name="yandex-verification" content="5482503e5aa9170b" />
+    <!-- Yandex.Webmaster counter -->
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+       m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+       ym(53095543, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+       });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/53095543" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+
+    
+
+    
+    <link rel="stylesheet" href="/Web/Css/accordeonMenu.css">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <script src="/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://anygis.ru/Web/Img/favicon.ico">
+
+    <script> 
+      function redirectToIndexPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "/index";
+          } else {
+            url = "/index_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToContactsPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "/Web/Html/Contacts_ru";
+          } else {
+            url = "/Web/Html/Contacts_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToPageWithAnotherLanguage() {
+          var url = String(location);
+
+          if (url.indexOf("index_en") != -1) {
+            url = url.replace("index_en", "index");
+          } else if (url.indexOf("index") != -1) {
+            url = url.replace("index", "index_en");
+          } else if (url.indexOf("_ru") == -1) {
+            url = url.replace("_en", "_ru");
+          } else {
+            url = url.replace("_ru", "_en");
+          }
+
+          window.location.replace(url);
+      }
+    </script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header >
+
+        <a href="javascript:redirectToIndexPage()"><img src="/Web/Img/AnyGIS_logo_50.png" style="float:left;width:45px;height:45px;"></a>
+        <a href="javascript:redirectToPageWithAnotherLanguage()"><img src="/Web/Img/changeLanguage.png" style="float:right;height:25px;padding-top:10px;"></a>
+
+        <h1>AnyGIS</h1>
+        
+          <p>Online maps pack</p>
+        
+      </header>
+      <section>
+
+      <table>
+  <tbody>
+    <tr>
+      <td><a href="/index_en">Main page</a></td>
+      <td><a href="/Web/Html/Articles_en">Articles</a></td>
+      <td><a href="/Web/Html/DownloadPage_en">Download maps</a></td>
+      <td><a href="https://www.donationalerts.com/r/nnngrach">Donate</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1>Download maps for Guru Maps IOS</h1><div class="nav">
+  <div class="parent-groups">
+<div class="nav">
+  <div class="parent-groups">
+<div class="item">
+  <input type="checkbox" id="Satellites"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Satellites" class="accordeon">
+    <img src="/Web/Img/Icons_en/Satellites.png" class="menu_icon"/>
+    
+    Satellites
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_All_Satellites"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Anygis_Compilation.ms"
+    title="Download this map">
+    AnyGIS Satellites compilation
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Bing_sat_for_guru"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Bing_birds_eye.ms"
+    title="Download this map">
+    Bing Bird's Eye
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Ersi_Satellite"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=ESRI.ms"
+    title="Download this map">
+    ESRI
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Ersi_Satellite_Clarity"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=ESRI_Clarity.ms"
+    title="Download this map">
+    ESRI Clarity
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD_only"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Google.ms"
+    title="Download this map">
+    Google
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Google_Hybrid.ms"
+    title="Download this map">
+    Google - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Here.ms"
+    title="Download this map">
+    Here
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapbox_Sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Mapbox.ms"
+    title="Download this map">
+    Mapbox Satellite
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Maxar_Premium_Imagery.ms"
+    title="Download this map">
+    Maxar Premium
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Maxar_Standard_Imagery.ms"
+    title="Download this map">
+    Maxar Standard
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Kosmosnimki"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Eurasia=Kosmosnimki_converted.ms"
+    title="Download this map">
+    Kosmosnimki.ru (converted)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Yandex_sat_clean"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Eurasia=Yandex_converted.ms"
+    title="Download this map">
+    Yandex (converted)
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Europe - Eastern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Europe - Eastern">
+        
+        Eastern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=EU=East=CadastrUA_sat.ms"
+    title="Download this map">
+    Ukraine - Cadaster Orthophoto
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=EU=North=Eniro_Hybrid.ms"
+    title="Download this map">
+    Eniro Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Hitta_sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=EU=North=Hitta_Sat.ms"
+    title="Download this map">
+    Hitta
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=EU=North=Norgeskart_Sat.ms"
+    title="Download this map">
+    Topografisk Norgeskart 
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=EU=North=Norgeskart_Hybrid.ms"
+    title="Download this map">
+    Topografisk Norgeskart Hybrid
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Europe - Central"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Europe - Central">
+        
+        Central
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=Eu=Central=SwissTopo_Sat.ms"
+    title="Download this map">
+    SwissTopo
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - America"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - America">
+        
+        America
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=US=USGS_Sat.ms"
+    title="Download this map">
+    USGS National Map - Satellite
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat_plus"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Satellites=US=USGS_Sat_plus.ms"
+    title="Download this map">
+    USGS National Map - Satellite Plus
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="City"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="City" class="accordeon">
+    <img src="/Web/Img/Icons_en/City.png" class="menu_icon"/>
+    
+    City
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Bing_map_for_guru"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=Bing_Map.ms"
+    title="Download this map">
+    Bing
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=Google_map.ms"
+    title="Download this map">
+    Google
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Ter_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=Google_Terrain.ms"
+    title="Download this map">
+    Google - Terrain
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=Here_Map.ms"
+    title="Download this map">
+    Here
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_ter"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=Here_Terrain.ms"
+    title="Download this map">
+    Here - Terrain
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=MapyCZ_Base.ms"
+    title="Download this map">
+    Mapy.cz - Base
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=Kosmosnimki.ms"
+    title="Download this map">
+    OSM Kosmosnimki
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapnik"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=Mapnik.ms"
+    title="Download this map">
+    OSM Mapnik (OpenStreetMap.org)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=Mapnik_from_Osmand.ms"
+    title="Download this map">
+    OSM Mapnik HD (from OsmAnd)
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ru_2gis"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=RU=2gis.ms"
+    title="Download this map">
+    2Gis
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Sputnik"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=RU=Sputnik.ms"
+    title="Download this map">
+    OSM Sputnik.ru
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Yandex_map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=RU=Yandex_Map_converted.ms"
+    title="Download this map">
+    Yandex (converted)
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Europe - Eastern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Europe - Eastern">
+        
+        Eastern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ukr_Meta"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=EU=East=MetaUA.ms"
+    title="Download this map">
+    Ukraine - Meta.ua
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ukr_Visicom_UK"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=EU=East=Visicom.ms"
+    title="Download this map">
+    Ukraine - Visicom
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=EU=North=Eniro.ms"
+    title="Download this map">
+    Eniro
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Fonecta_map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=EU=North=Fonecta.ms"
+    title="Download this map">
+    Fonecta.fi
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Hitta"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=City=EU=North=Hitta.ms"
+    title="Download this map">
+    Hitta
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Road"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Road" class="accordeon">
+    <img src="/Web/Img/Icons_en/Road.png" class="menu_icon"/>
+    
+    Road
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Garmin_navicom"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Road=Garmin_RU.ms"
+    title="Download this map">
+    Garmin.ru (navicom)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Road=Google_Traffic.ms"
+    title="Download this map">
+    Google Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Road=Here_Traffic.ms"
+    title="Download this map">
+    Here Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Michelin"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Road=Michelin.ms"
+    title="Download this map">
+    OSM Michelin transport
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Transport_Map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Road=Thunderforest_Transport.ms"
+    title="Download this map">
+    OSM Thunderforest Transport Day
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Road=Thunderforest_Transport_Dark.ms"
+    title="Download this map">
+    OSM Thunderforest Transport Night
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_base_day"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Road=TomTom_Base_day.ms"
+    title="Download this map">
+    TomTom Day
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_base_night"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Road=TomTom_Base_night.ms"
+    title="Download this map">
+    TomTom Night
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Yandex_traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Road=Yandex_Traffic_converted.ms"
+    title="Download this map">
+    Yandex Traffic (converted)
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Bike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Bike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Bike.png" class="menu_icon"/>
+    
+    Bike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Cyclosm"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Bike=Cyclosm.ms"
+    title="Download this map">
+    OSM Cyclosm
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Hike_Bike"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Bike=HikeBike.ms"
+    title="Download this map">
+    OSM Hike and bike
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Bike=Thunderforest_Cycle.ms"
+    title="Download this map">
+    OSM Thunderforest Cycle
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Bike=Strava_Ride.ms"
+    title="Download this map">
+    Strava Heatmap - Ride
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Bike - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Bike - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Bike_EN"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Bike=Europe=Google_Bike.ms"
+    title="Download this map">
+    Google Bike EN
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Bike=Europe=MTB_Map_CZ.ms"
+    title="Download this map">
+    OSM Mtbmap.cz
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Hike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Hike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Hike.png" class="menu_icon"/>
+    
+    Hike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Nakarte_Geocashing"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Geocashing.ms"
+    title="Download this map">
+    Nakarte - Geocashing
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Nakarte_Westra"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Westra_Passes.ms"
+    title="Download this map">
+    Nakarte - Westra mountain passes
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_4umaps"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=4umaps.ms"
+    title="Download this map">
+    OSM 4U maps
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Komoot"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Komoot.ms"
+    title="Download this map">
+    OSM Komoot
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Mapbox_Terrain.ms"
+    title="Download this map">
+    OSM Mapbox Terrain
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Mapsurfer.ms"
+    title="Download this map">
+    OSM Mapsurfer
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=MapyCZ_outdoor.ms"
+    title="Download this map">
+    OSM Mapy.cz Outdoor
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=OSM_GPS_Tracks.ms"
+    title="Download this map">
+    OSM OpenStreetMap - GPS Tracks
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Topo_Map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=OpenTopoMap_ORG.ms"
+    title="Download this map">
+    OSM OpenTopoMap.ORG
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Refuges"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Refuges.ms"
+    title="Download this map">
+    OSM Refuges - Mountain Shelters
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Outdoors"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Thunderforest_Outdoor.ms"
+    title="Download this map">
+    OSM Thunderforest Outdoor
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Strava_All.ms"
+    title="Download this map">
+    Strava Heatmap - All
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Strava_RideAndRun.ms"
+    title="Download this map">
+    Strava Heatmap - Ride + Run (beta)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Strava_Run.ms"
+    title="Download this map">
+    Strava Heatmap - Run
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ru_Topomapper"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Topomapper_1km.ms"
+    title="Download this map">
+    Topomapper - Soviet military map 1km (planet)
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_RU"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=OpenTopoMap_RU.ms"
+    title="Download this map">
+    OSM OpenTopoMap.RU
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All">
+        
+        All
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All - Multylayer"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All - Multylayer">
+        
+        Multylayer
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_Marshruty.ru"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Combo=MarshrutiRU.ms"
+    title="Download this map">
+    Marshruty.ru
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_RusOutdoor"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Combo=RusOutdoorMaps.ms"
+    title="Download this map">
+    RusOutdoor maps
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_RusOutdoor_lite"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Combo=RusOutdoorMaps_lite.ms"
+    title="Download this map">
+    RusOutdoor maps (lite)
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All - GGC"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All - GGC">
+        
+        GGC
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Ggc_01000"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=GGC=1000.ms"
+    title="Download this map">
+    GGC 1000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Ggc_02000"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=GGC=2000.ms"
+    title="Download this map">
+    GGC 2000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Ggc_00250"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=GGC=0250.ms"
+    title="Download this map">
+    GGC 250m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Ggc_00500"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=GGC=0500.ms"
+    title="Download this map">
+    GGC 500m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_Best_GGC"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=GGC=All.ms"
+    title="Download this map">
+    GGC Compilation
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All - Soviet Military Map"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All - Soviet Military Map">
+        
+        Soviet Military Map
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Genshtab_10000"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Genshtab=10000.ms"
+    title="Download this map">
+    Genshtab 10 000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Genshtab_20000"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Genshtab=20000.ms"
+    title="Download this map">
+    Genshtab 20 000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Genshtab_02000"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Genshtab=02000.ms"
+    title="Download this map">
+    Genshtab 2000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Genshtab_01000"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Genshtab=01000.ms"
+    title="Download this map">
+    Genshtab 2000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Genshtab_02000_new"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Genshtab=02000_new.ms"
+    title="Download this map">
+    Genshtab 2000m new
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Genshtab_00250"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Genshtab=00250.ms"
+    title="Download this map">
+    Genshtab 250m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Genshtab_05000"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Genshtab=05000.ms"
+    title="Download this map">
+    Genshtab 5000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Genshtab_00500"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Genshtab=00500.ms"
+    title="Download this map">
+    Genshtab 500m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Genshtab_00500_new"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Genshtab=00500_new.ms"
+    title="Download this map">
+    Genshtab 500m new
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_Best_Genshtab"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Genshtab=All.ms"
+    title="Download this map">
+    Genshtab Compilation
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All - Other"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All - Other">
+        
+        Other
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_Best_Topo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=All=Other=All.ms"
+    title="Download this map">
+    Topomaps Compilation
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - Moscow Region"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - Moscow Region">
+        
+        Moscow Region
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Adraces"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Moscow=Adraces.ms"
+    title="Download this map">
+    Adraces
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_ArbaletMO"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Moscow=Arbalet.ms"
+    title="Download this map">
+    Arbalet
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_MoscowMap"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Moscow=MoscowMap.ms"
+    title="Download this map">
+    MoscowMap.ru
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Osport"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Moscow=OSport.ms"
+    title="Download this map">
+    O-Sport
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Slazav_Nakarte"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Moscow=Slazav.ms"
+    title="Download this map">
+    Slazav MMB
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - Caucasus"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - Caucasus">
+        
+        Caucasus
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_09"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=Abshira_Ahuba.ms"
+    title="Download this map">
+    Abishira Akhuba
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_10"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=Svodnaya_1000.ms"
+    title="Download this map">
+    Caucasus 1000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_11"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=Svodnaya_0500.ms"
+    title="Download this map">
+    Caucasus 500m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_07"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=Perevaly_Center.ms"
+    title="Download this map">
+    Caucasus Central Passes 2014
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_01"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=FGU.ms"
+    title="Download this map">
+    Caucasus FGU SK AGP
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_06"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=Kazbek.ms"
+    title="Download this map">
+    Caucasus Kazbek
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_02"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=Perevaly_South.ms"
+    title="Download this map">
+    Caucasus Southern 2014
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_05"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=West_Kot.ms"
+    title="Download this map">
+    Caucasus West
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_04"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=Perevaly_West.ms"
+    title="Download this map">
+    Caucasus West Passes 2014
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_08"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=Prielbusye.ms"
+    title="Download this map">
+    Elbrus Region
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_03"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Caucasus=Gosgeodesiya.ms"
+    title="Download this map">
+    GosGeodesya 1991
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - Crimea"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - Crimea">
+        
+        Crimea
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Krim2"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Crimea=Kartografiya.ms"
+    title="Download this map">
+    Crimea Kartagrafiya 2010
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Krim1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Crimea=SoyusKarta.ms"
+    title="Download this map">
+    Crimea Souskarta 2011
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - Khibiny"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - Khibiny">
+        
+        Khibiny
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Karelia3"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Khibiny=Hills.ms"
+    title="Download this map">
+    Khibiny's Mountains
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Karelia1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Khibiny=Tundra_Aerogeodesiya.ms"
+    title="Download this map">
+    Khibiny's Tundra (2008)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Karelia2"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Khibiny=Tundra_Old.ms"
+    title="Download this map">
+    Khibiny's Tundra (Old)
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - Other"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - Other">
+        
+        Other
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Altay1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Other=Altay.ms"
+    title="Download this map">
+    Altai Katun Ridge
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Sayany1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Other=Sayani.ms"
+    title="Download this map">
+    Ergaki - Ardan
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Slazav_hrebtovki_nakarte_direct"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Other=Slazav_hrebtovki.ms"
+    title="Download this map">
+    Slazav Mountains
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Taganay"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Other=Taganay.ms"
+    title="Download this map">
+    Taganay Park
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Terskey_Alatau"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Eurasia=Other=Terskey_Alatau.ms"
+    title="Download this map">
+    Terskey Alatau
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe - Eastern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe - Eastern">
+        
+        Eastern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=East=Belarus_LatLon.ms"
+    title="Download this map">
+    Belarus LatLon.org
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Karpaty"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=East=Karpaty.ms"
+    title="Download this map">
+    Carpathians
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_finnkart"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=North=FINN_Kart_Norge.ms"
+    title="Download this map">
+    FINN Kart Norge
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_FinnTopo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=North=Finland_topo.ms"
+    title="Download this map">
+    Finland Topo Retkikartta.fi
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Hitta_Frilufts"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=North=Hitta_Frilufts.ms"
+    title="Download this map">
+    Hitta Frilufts
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_Fjallkarta"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=North=Lantmateriet_Fjallkarta.ms"
+    title="Download this map">
+    Lantmäteriets Fjällkarta
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=North=Lantmateriet_Topowebb.ms"
+    title="Download this map">
+    Lantmäteriets Topografisk
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Papirkart"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=North=Norway_UtNo_Papirkart.ms"
+    title="Download this map">
+    Norway UT.no - Papirkart
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Topokart"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=North=Norway_UtNo_Topokart.ms"
+    title="Download this map">
+    Norway UT.no - Topolart
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norgeskart"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=North=Norgeskart.ms"
+    title="Download this map">
+    Topografisk Norgeskart
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe - Central"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe - Central">
+        
+        Central
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=Central=Kompass_De.ms"
+    title="Download this map">
+    Kompass.de
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=Central=SwissTopo.ms"
+    title="Download this map">
+    Swiss Topo
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe - Western"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe - Western">
+        
+        Western
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_FranceTopo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=West=France_topo.ms"
+    title="Download this map">
+    France Topo IGN.fr
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_GB_Topo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=West=GB_topo.ms"
+    title="Download this map">
+    Great Britain Topo
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe - Southeast"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe - Southeast">
+        
+        Southeast
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=EU=Southeast=Montenegro.ms"
+    title="Download this map">
+    Montenecro 250m
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Asia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Asia">
+        
+        Asia
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Asia - Western"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Asia - Western">
+        
+        Western
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Turk1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Asia=West=Alagadar.ms"
+    title="Download this map">
+    Aladaglar
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Asia - Central"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Asia - Central">
+        
+        Central
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kyrgiz1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Asia=Central=Kyrgizskiy_hrebet.ms"
+    title="Download this map">
+    Kyrgyz Ala-Too Range
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Tyan_shan1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=Asia=Central=TianShan_and_Pamir.ms"
+    title="Download this map">
+    Tien Shan and Pamirs
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - America"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - America">
+        
+        America
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_US_USGS_Topo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hike=US=USGS_Topo.ms"
+    title="Download this map">
+    USGS National Map - Topo
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Winter"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Winter" class="accordeon">
+    <img src="/Web/Img/Icons_en/Winter.png" class="menu_icon"/>
+    
+    Winter
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Winter=MapyCZ_winter.ms"
+    title="Download this map">
+    OSM Czech - Mapy.cz Winter
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Winter=OpenSnowMap.ms"
+    title="Download this map">
+    OSM OpenSnowMap
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Winter=Strava_Winter.ms"
+    title="Download this map">
+    Strava Heatmap - Winter
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Winter - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Winter - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Winter - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Winter - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Skoterleder"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Winter=EU=North=Skoterleder.ms"
+    title="Download this map">
+    Skoterleder
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Water"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Water" class="accordeon">
+    <img src="/Web/Img/Icons_en/Water.png" class="menu_icon"/>
+    
+    Water
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Ersi_Ocean"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=ERSI_ocean.ms"
+    title="Download this map">
+    ESRI Ocean
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=Navionics_OSM.ms"
+    title="Download this map">
+    Navionics + OSM
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=Navionics_Marine_Charts.ms"
+    title="Download this map">
+    Navionics Marine Charts
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Sonar_Charts"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=Navionics_Sonar_Charts.ms"
+    title="Download this map">
+    Navionics SonarCharts
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=OpenSeaMap.ms"
+    title="Download this map">
+    OSM Open Sea Map
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark_No_Preview"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=OpenSeaMap_deep.ms"
+    title="Download this map">
+    OSM Open Sea Map + Deep Map
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark_No_Preview"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=OpenSeaMap_traffic.ms"
+    title="Download this map">
+    OSM Open Sea Map + Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=Strava_Water.ms"
+    title="Download this map">
+    Strava Heatmap - Water
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Water - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Water - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_River_Chusovaya"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=RU=Chusovaya_Novoutkinsk.ms"
+    title="Download this map">
+    Chusovaya river
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_River_Kuban"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=RU=Kuban.ms"
+    title="Download this map">
+    Kuban river
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_River_Volga"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=RU=Volga_kama.ms"
+    title="Download this map">
+    Volga and Kama rivers location
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Water - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Water - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Water - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Water - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=EU=North=Eniro_Navionics.ms"
+    title="Download this map">
+    Eniro + Navionics
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Nautical"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Water=EU=North=Eniro_Nautical.ms"
+    title="Download this map">
+    Eniro Sjökort Nautical
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Aviation"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Aviation" class="accordeon">
+    <img src="/Web/Img/Icons_en/Aviation.png" class="menu_icon"/>
+    
+    Aviation
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Ersi_Avia"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Aviation=ERSI_Navigation_Charts.ms"
+    title="Download this map">
+    ERSI World Navigation Charts
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Aviation - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Aviation - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Avia_Baionline"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Aviation=RU=Baionline.ms"
+    title="Download this map">
+    Avia Baionline
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Avia_Mvl"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Aviation=RU=MVL.ms"
+    title="Download this map">
+    Avia MVL
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Avia_Rnk"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Aviation=RU=RNK_2016.ms"
+    title="Download this map">
+    Avia RNK 2016
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Avia_Rnk2019"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Aviation=RU=RNK_2019.ms"
+    title="Download this map">
+    Avia RNK 2019
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Info"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Info" class="accordeon">
+    <img src="/Web/Img/Icons_en/Info.png" class="menu_icon"/>
+    
+    Info
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Wikimapia"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Info=Wikimapia.ms"
+    title="Download this map">
+    Wikimapia.org
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Wikimapia_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Info=Wikimapia_Sat.ms"
+    title="Download this map">
+    Wikimapia.org + Satellite
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Info - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Info - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Rosreestr_kadaster"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Info=RU=RosReestr.ms"
+    title="Download this map">
+    RosReest.ru - Cadaster
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Infrastructure"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Infrastructure" class="accordeon">
+    <img src="/Web/Img/Icons_en/Infrastructure.png" class="menu_icon"/>
+    
+    Infrastructure
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Transit_EN"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Infrastructure=Google_Transit.ms"
+    title="Download this map">
+    Google Transit EN
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Infrastructure=Opnvkarte.ms"
+    title="Download this map">
+    OSM OpenBusMap (Opnvkarte.de)
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Hystoric"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Hystoric" class="accordeon">
+    <img src="/Web/Img/Icons_en/Hystoric.png" class="menu_icon"/>
+    
+    Hystoric
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Strelbitsky_1882"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Strelbitsky_1882.ms"
+    title="Download this map">
+    Strelbitsky 1882
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Strelbitsky_1919"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Strelbitsky_1919.ms"
+    title="Download this map">
+    Strelbitsky 1919
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - Central"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - Central">
+        
+        Central
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_MSK_1852"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Central=MSK_1852.ms"
+    title="Download this map">
+    Moscow 1852
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Tver_Mende"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Central=Tver_Mende.ms"
+    title="Download this map">
+    Tver Mende
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - Northwestern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - Northwestern">
+        
+        Northwestern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_SPB_1917"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Northwestern=SPB_1917.ms"
+    title="Download this map">
+    Petrograd 1917
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_SPB_1705"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Northwestern=SPB_1705.ms"
+    title="Download this map">
+    Saint Petersburg 1705
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_SPB_1725"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Northwestern=SPB_1725.ms"
+    title="Download this map">
+    Saint Petersburg 1725
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_SPB_1883"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Northwestern=SPB_1883.ms"
+    title="Download this map">
+    Saint Petersburg 1883
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_SPB_1894"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Northwestern=SPB_1894.ms"
+    title="Download this map">
+    Saint Petersburg 1894
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - Crimean"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - Crimean">
+        
+        Crimean
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Krim_1v"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Crimean=Krim_1v.ms"
+    title="Download this map">
+    Crimea 1880
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - Southern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - Southern">
+        
+        Southern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_2km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=German_Genshtab_3km.ms"
+    title="Download this map">
+    German military 1941 2km
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_German_Genshtab_3km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=German_Genshtab_3km.ms"
+    title="Download this map">
+    German military 1942 2km
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kuban_1902"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1902.ms"
+    title="Download this map">
+    Kuban 1902
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kuban_1918"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1918.ms"
+    title="Download this map">
+    Kuban Stralbitsky 1918
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kuban_1930"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1930.ms"
+    title="Download this map">
+    Kuban district 1930
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kuban_1916"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1916.ms"
+    title="Download this map">
+    Kuban district geologic1908-16
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_RKKA_2km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=RKKA_2km.ms"
+    title="Download this map">
+    RKKA 1932-42 2km
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_RKKA_1km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=RKKA_1km.ms"
+    title="Download this map">
+    RKKA 1940 1km
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - North Caucasian"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - North Caucasian">
+        
+        North Caucasian
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1877"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Caucasian=Kavkaz_1877.ms"
+    title="Download this map">
+    Caucasus 1877
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1926"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Caucasian=Kavkaz_1926.ms"
+    title="Download this map">
+    Caucasus 1926
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1948_eng"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Caucasian=Kavkaz_1948_eng.ms"
+    title="Download this map">
+    Caucasus 1941
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Maykop_1925"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Caucasian=Maykop_1925.ms"
+    title="Download this map">
+    Maykop 1925
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - Siberian"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - Siberian">
+        
+        Siberian
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1986_1km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Siberian=Irkutsk_1km_1986.ms"
+    title="Download this map">
+    Irkutsk 1km 1986
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1988_2km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Siberian=Irkutsk_2km_1988.ms"
+    title="Download this map">
+    Irkutsk 2km 1988
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1980_5km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Eurasia=Siberian=Irkutsk_5km_1980.ms"
+    title="Download this map">
+    Irkutsk 5km 1980
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Europe - Eastern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Europe - Eastern">
+        
+        Eastern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Belarus_3v"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_3v.ms"
+    title="Download this map">
+    Belarus 3 verstovaya
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Belarus_3v_plus"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_3v_plus.ms"
+    title="Download this map">
+    Belarus 3 verstovaya+
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Belarus_RKKA_plus"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_RKKA_plus.ms"
+    title="Download this map">
+    Belarus RKKA 500m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Belarus_WIG_plus"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_WIG_plus.ms"
+    title="Download this map">
+    Belarus WIG 1km
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Geology"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Geology" class="accordeon">
+    <img src="/Web/Img/Icons_en/Geology.png" class="menu_icon"/>
+    
+    Geology
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Geology - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Geology - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ru_Vsegei_Geology"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Geology=Eurasia=VsegeiRu_Geology.ms"
+    title="Download this map">
+    Vsegei.ru
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Other"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Other" class="accordeon">
+    <img src="/Web/Img/Icons_en/Other.png" class="menu_icon"/>
+    
+    Other
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_NZ_NewZeland_Topo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Other=NewZeland_Topo.ms"
+    title="Download this map">
+    New-Zealand Topomaps
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Other - Overpass Turbo"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Other - Overpass Turbo">
+        
+        Overpass Turbo
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapshooter_Water"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Other=Overpass=Drinking_Water.ms"
+    title="Download this map">
+    Drinking Water
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Other=Overpass=GravelRunTrails.ms"
+    title="Download this map">
+    Gravel Running Trails
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapshooter_Waste"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/=Other=Overpass=Waste.ms"
+    title="Download this map">
+    Waste Baskets
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+      </section>
+    </div>
+    <footer>
+      <p><b>Contacts</b> - project maintained by <a href="javascript:redirectToContactsPage()">nnngrach</a></p>
+
+      <p>Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    <!--
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+    -->
+  </body>
+</html>
