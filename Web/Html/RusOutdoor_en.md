@@ -69,7 +69,7 @@ First of all, the program checks whether there are local raster maps for this ar
 
 In the second place (if local maps were not found), topographic maps with a wider coverage area, but a slightly lower level of detail will be loaded. Namely, the modern Russian topographic map GGC (made in 2000s).
 
-In the third place, if the card GHZ not found, load the Genshtab (Soviet military) topographic map (drawn up in the 1980s). These maps are the most outdated. Especially, near settlements, and many marked on them forest trails could have time to grow.
+<noindex>In the third place, if the card GHZ not found, load the Genshtab (Soviet military) topographic map (drawn up in the 1980s). These maps are the most outdated. Especially, near settlements, and many marked on them forest trails could have time to grow. </noindex>
 
 And last of all, if there are no maps of the General staff for this territory, a map based on OSM is loaded. Namely - Thunderforest Outdoors.
 
@@ -80,9 +80,9 @@ And last of all, if there are no maps of the General staff for this territory, a
 
 Zoom: 12
 
-Maps with local coverage, Genshtab 1km, Genshtab 2km, OSM Outdoors
+<noindex>Maps with local coverage, Genshtab 1km, Genshtab 2km, OSM Outdoors </noindex>
 
-![](/Web/Img/genshtab.png)
+![](/Web/Img/gtb.png)
 
 
 
@@ -90,7 +90,7 @@ Maps with local coverage, Genshtab 1km, Genshtab 2km, OSM Outdoors
 
 Zoom: 13
 
-Maps with local coverage, GGC 1km, Genshtab 500m
+<noindex>Maps with local coverage, GGC 1km, Genshtab 500m </noindex>
 
 ![](/Web/Img/kavkaz_1000.png)
 

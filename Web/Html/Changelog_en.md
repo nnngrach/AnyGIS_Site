@@ -68,7 +68,7 @@ Added maps of Central and Western Europe.
 
 Added mapsurfer, Bing Satellite maps.
 
-Added a new set with the Soviet topographic maps of the 1970-90s (not the Genshtab)
+<noindex>Added a new set with the Soviet topographic maps of the 1970-90s (not the Genshtab) </noindex>
 
 Added a new set with historical maps.
 
@@ -94,7 +94,7 @@ Made a website for easy loading maps.
 
 Added a mode for downloading images via the direct proxy. (For Mapnik)
 
-Added a mode to select the best available maps for the area. (Checked if there is а piece of map for required coordinates on all servers, in order of their priority). In this mode is based on a set of maps RusOutdoorMaps, which included a selection of optimal raster maps from the Genshtab, GGC, and maps from the tourist section of the Sas.planet programm.
+<noindex>Added a mode to select the best available maps for the area. (Checked if there is а piece of map for required coordinates on all servers, in order of their priority). In this mode is based on a set of maps RusOutdoorMaps, which included a selection of optimal raster maps from the Genshtab, GGC, and maps from the tourist section of the Sas.planet programm. </noindex>
 
 Added map selection mode from multiple mirrors.
 
@@ -120,6 +120,6 @@ Added mode to download images spoofing the Referer and UserAgent.
 
 Added the function of image processing. Implemented a Converter maps from elliptic projection in WGS84 standard spherical projection WebMerkatror.
 
-Implemented link generation for Wikimapia and SAS.planet maps (from the Tourist and the Genshtab sections).
+<noindex>Implemented link generation for Wikimapia and SAS.planet maps (from the Tourist and the Genshtab sections). </noindex>
 
 Work on the project has begun. (PHP)

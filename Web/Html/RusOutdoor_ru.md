@@ -91,7 +91,7 @@ OSM Спутник.ру
 
 <noindex>Локальные карты, Генштаб 1км, Генштаб 2км, OSM Outdoors</noindex>
 
-![](/Web/Img/genshtab.png)
+![](/Web/Img/gtb.png)
 
 
 
