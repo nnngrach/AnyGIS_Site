@@ -6,19 +6,19 @@
 
 
 	/*переносы слов*/
-	-ms-hyphens: auto;
+	/*-ms-hyphens: auto;
 	-webkit-hyphens: auto;
-	hyphens: auto;
+	hyphens: auto;*/
 
 	/* legacy properties */
-	-webkit-hyphenate-limit-before: 3;
-	-webkit-hyphenate-limit-after: 2;
+	/*-webkit-hyphenate-limit-before: 3;
+	-webkit-hyphenate-limit-after: 2;*/
 
 	/* current proposal */
-	-moz-hyphenate-limit-chars: 6 3 2; /* not yet supported */
-	-webkit-hyphenate-limit-chars: 6 3 2; /* not yet supported */
-	-ms-hyphenate-limit-chars: 6 3 2;
-	hyphenate-limit-chars: 6 3 2;
+	/*-moz-hyphenate-limit-chars: 6 3 2;*/ /* not yet supported */
+	/*-webkit-hyphenate-limit-chars: 6 3 2;*/ /* not yet supported */
+	/*-ms-hyphenate-limit-chars: 6 3 2;
+	hyphenate-limit-chars: 6 3 2;*/
 }
 
 /* Скрыть все чекбоксы */
