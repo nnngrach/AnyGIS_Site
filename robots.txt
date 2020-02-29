@@ -3,3 +3,8 @@ Allow: /
 Disallow: /assets
 Disallow: /docs
 Disallow: /script
+Disallow: /Web/Css
+Disallow: /Web/Img
+Disallow: /Web/Html/Download
+Disallow: /Web/Html/RusOutdoor_ru.html
+Disallow: /Web/Html/RusOutdoor_en.html

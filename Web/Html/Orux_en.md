@@ -44,7 +44,7 @@ If you already know what kind of maps you need, then this set is for you. Note t
 - Maps for city (Google, Here, Bing, Yandex, 2gis)
 - Satellites (Google, ERSI, Here, Mapbox, Yandex) 
 - OSM-based maps (Mapnik, Cyclemap, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap)
-- Digitized raster topomaps (Soviet military maps, GGC, Hiking maps with local coverage)
+- Digitized raster topomaps (GGC, Hiking maps with local coverage)
 - Information maps (Wikimapia)
 
 [Download maps][11]
