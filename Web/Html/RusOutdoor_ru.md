@@ -11,7 +11,7 @@ layout: default
 [04]: https://www.donationalerts.com/r/nnngrach
 
 
-<noindex>
+
 
 # RusOutdoor maps
 
@@ -245,5 +245,3 @@ Google Спутник
 [7]: /Web/Html/Vektor_and_raster_ru
 
 [8]: https://forum.openstreetmap.org/viewtopic.php?id=68308
-
-</noindex>
