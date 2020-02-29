@@ -60,6 +60,10 @@ layout: default
 - Карты со справочной информацией (Wikimapia)
 
 
+[Скачать весь архив карт (sqlitedb)][20]
+
+[Скачать весь архив карт (metainfo)][21]
+
 [Скачать карты выборочно (sqlitedb)][13]
 
 [Скачать карты выборочно (metainfo)][14]
@@ -80,6 +84,10 @@ layout: default
 [13]: /Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Full_ru
 
 [14]: /Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_ru
+
+[20]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Sqlitedb/Zip/Maps_full_ru.zip
+
+[21]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Zip/Maps_full_ru.zip
 
 
 
