@@ -1,6 +1,6 @@
 /* Вся область меню*/
 .nav {
-	width: 100%;
+	width: 95%;
 	overflow-x: hidden;
 	/*background-color: white;*/
 
@@ -32,7 +32,7 @@ label:hover {
 }
 
 label {
-	width: 100%;
+	width: 95%;
 	display: block;
 	z-index: 3;
 	position: relative;
