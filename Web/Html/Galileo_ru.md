@@ -51,7 +51,7 @@ layout: default
 - Карты для города (Яндекс, Google, Here, Bing, 2gis)
 - Спутниковые снимки (Яндекс, Google, ERSI, Here, Mapbox) 
 - Карты на основе OSM (Mapnik, Cycle, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap и др.)
-- Растровые топографические (ГГЦ, Маршруты.ру)
+- Растровые топографические (ГГЦ. Карты Генштаба в подборке [отсутствуют][22])
 - Растровые туристические (карты Завьялова ММБ; атласы и хребтовки Кавказа, Карелии, Крыма, Алтая и др.)
 - Сборник карт для пешего и горного туризма ([RusOutdoor Set][5])
 - Карты со справочной информацией (Wikimapia)
@@ -74,6 +74,7 @@ layout: default
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_full_ru.zip
 [12]: /Web/Html/Download/Guru_Maps_IOS_Full_ru
 [13]: /Web/Html/Download/Guru_Maps_Android_Full_ru
+[22]: /Web/Html/ForbiddenMaps_ru
 
 ---
 

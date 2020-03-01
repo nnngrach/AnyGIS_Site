@@ -54,10 +54,11 @@ layout: default
 - Карты для города (Яндекс, Google, Here, Bing, 2gis)
 - Спутниковые снимки (Яндекс, Google, ERSI, Here, Mapbox) 
 - Карты на основе OSM (Mapnik, Cycle, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap и др.)
-- Растровые топографические (ГГЦ, Маршруты.ру)
+- Растровые топографические (ГГЦ. Карты Генштаба в подборке [отсутствуют][22])
 - Растровые туристические (карты Завьялова ММБ; атласы и хребтовки Кавказа, Карелии, Крыма, Алтая и др.)
 - Сборник карт для пешего и горного туризма ([RusOutdoor Set][5])
 - Карты со справочной информацией (Wikimapia)
+
 
 [Скачать с компьютера (целиком)][11]
 
@@ -78,6 +79,8 @@ layout: default
 [12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/AnyGIS_full_set.xml
 
 [13]: /Web/Html/Download/Locus_Maps_Full_ru
+
+[22]: /Web/Html/ForbiddenMaps_ru
 
 > Внимание! Данная подборка протестирована только для актуальной версии приложения. Совместимость с предыдущими версиями не гарантируется.
 

@@ -21,12 +21,6 @@ layout: default
 
 ---
 
-[![](/Web/Img/nnngrach_zagedan.jpg "Read article")](/Web/Html/RusOutdoor_en)
-
-### [RusOutdoor maps pack](/Web/Html/RusOutdoor_en)
-
----
-
 [![](/Web/Img/Tiles.png "Read article")](/Web/Html/Description_en)
 
 ### [How AnyGIS works?](/Web/Html/Description_en)

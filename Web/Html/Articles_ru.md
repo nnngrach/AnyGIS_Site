@@ -19,11 +19,6 @@ layout: default
 
 ### [Векторные и растровые карты - в чем отличия?](/Web/Html/Vektor_and_raster_ru)
 
----
-
-[![](/Web/Img/nnngrach_zagedan.jpg "Читать статью")](/Web/Html/RusOutdoor_ru)
-
-### [RusOutdoor maps - Многослойная подборка карт](/Web/Html/RusOutdoor_ru)
 
 ---
 
