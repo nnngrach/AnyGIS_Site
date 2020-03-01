@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>http://anygis.ru/</loc>
+	<lastmod>2020-03-01T21:41:50+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://anygis.ru/index</loc>
+	<lastmod>2020-03-01T21:41:50+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://anygis.ru/Web/Html/Locus_ru</loc>
+	<lastmod>2020-03-01T21:41:53+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://anygis.ru/Web/Html/Osmand_ru</loc>
+	<lastmod>2020-03-01T21:41:54+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://anygis.ru/Web/Html/Galileo_ru</loc>
+	<lastmod>2020-03-01T21:41:53+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://anygis.ru/Web/Html/Alpine_ru</loc>
+	<lastmod>2020-03-01T21:41:53+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://anygis.ru/Web/Html/Orux_ru</loc>
+	<lastmod>2020-03-01T21:41:53+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+</urlset>

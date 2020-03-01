@@ -13,7 +13,7 @@ layout: default
 
 ### Февраль 2020
 
-<noindex>Удалены карты Генштаба.</noindex>
+<noindex>Удалены карты Генштаба. <a href="/Web/Html/ForbiddenMaps_ru">Подробнее.</a></noindex>
 
 Новая система рубрикации и именования карт.
 

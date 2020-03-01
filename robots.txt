@@ -8,3 +8,14 @@ Disallow: /Web/Img
 Disallow: /Web/Html/Download
 Disallow: /Web/Html/RusOutdoor_ru.html
 Disallow: /Web/Html/RusOutdoor_en.html
+Disallow: /Web/Html/Changelog_ru
+Disallow: /Web/Html/Changelog_en
+Disallow: /Web/Html/Contacts_ru
+Disallow: /Web/Html/Contacts_en
+Disallow: /Web/Html/Articles_ru
+Disallow: /Web/Html/Articles_en
+Disallow: /Web/Html/Description_ru
+Disallow: /Web/Html/Description_en
+Disallow: /Web/Html/ForbiddenMaps_ru
+Disallow: /Web/Html/ForbiddenMaps_ru
+Sitemap: https://anygis.ru/sitemap.xml
