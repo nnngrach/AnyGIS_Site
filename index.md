@@ -43,6 +43,7 @@ AnyGIS - это бесплатная коллекция ссылок на раз
 [4]: https://nakarte.me
 [5]: https://melda.ru/2017/07/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-%D0%BF%D0%BE%D1%85%D0%BE%D0%B4%D0%B5-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD-vs-garmin/
 [6]: https://osmand.net/
+[07]: /Web/Html/Vektor_and_raster_ru
 [10]: /Web/Html/Locus_ru
 [11]: /Web/Html/Osmand_ru
 [12]: /Web/Html/Galileo_ru
