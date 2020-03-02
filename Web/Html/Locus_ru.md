@@ -177,9 +177,9 @@ layout: default
 
 Если вам потребуется удалить все карты из этой подборки, то вы можете перейти со смартфона по указанной ниже ссылке. После этого будет запущен скрипт и карты пропадут из списка карт Локуса. (Операция может занять пару минут)
 
-[Удалить все карты из подборки][17]
+[Удалить все карты из подборки][117]
 
-[17]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/Uninstaller_AnyGIS_full_set.xml
+[117]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/Uninstaller_AnyGIS_full_set.xml
 
 > Внимание! Этот скрипт не умеет удалять файлы с устройства. Все файлы карт останутся в папке "custom", просто будут заменены пустыми и будут игнорироваться Локусом. Это никак не помешает работе программы. Но если хотите, можете удалить эти файлы вручную.
  
