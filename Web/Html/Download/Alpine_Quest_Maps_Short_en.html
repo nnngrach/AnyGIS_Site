@@ -1,0 +1,720 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Yandex.Webmaster counter -->
+    <meta name="robots" content="noindex" />
+    <!-- Yandex.Webmaster counter -->
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+       m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+       ym(53095543, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+       });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/53095543" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+
+    
+
+    
+    <link rel="stylesheet" href="/Web/Css/accordeonMenu.css">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <script src="/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://anygis.ru/Web/Img/favicon.ico">
+
+    <script> 
+      function redirectToIndexPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "/index";
+          } else {
+            url = "/index_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToContactsPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "/Web/Html/Contacts_ru";
+          } else {
+            url = "/Web/Html/Contacts_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToPageWithAnotherLanguage() {
+          var url = String(location);
+
+          if (url.indexOf("index_en") != -1) {
+            url = url.replace("index_en", "index");
+          } else if (url.indexOf("index") != -1) {
+            url = url.replace("index", "index_en");
+          } else if (url.indexOf("_ru") == -1) {
+            url = url.replace("_en", "_ru");
+          } else {
+            url = url.replace("_ru", "_en");
+          }
+
+          window.location.replace(url);
+      }
+    </script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header >
+
+        <a href="javascript:redirectToIndexPage()"><img src="/Web/Img/AnyGIS_logo_50.png" style="float:left;width:45px;height:45px;"></a>
+        <a href="javascript:redirectToPageWithAnotherLanguage()"><img src="/Web/Img/changeLanguage.png" style="float:right;height:25px;padding-top:10px;"></a>
+
+        <h1>AnyGIS</h1>
+        
+          <p>Online maps pack</p>
+        
+      </header>
+      <section>
+
+      <table>
+  <tbody>
+    <tr>
+      <td><a href="/index_en">Main page</a></td>
+      <td><a href="/Web/Html/Articles_en">Articles</a></td>
+      <td><a href="/Web/Html/DownloadPage_en">Download maps</a></td>
+      <td><a href="https://www.donationalerts.com/r/nnngrach">Donate</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1>Download maps for Alpine Quest Maps</h1><div class="nav">
+  <div class="parent-groups">
+<div class="nav">
+  <div class="parent-groups">
+<div class="item">
+  <input type="checkbox" id="Satellites"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Satellites" class="accordeon">
+    <img src="/Web/Img/Icons_en/Satellites.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Satellites.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Satellites
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Satellites=Google_Hybrid.AQX"
+    title="Download this map">
+    Google - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery_proxy"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Satellites=Maxar_Premium_Imagery.AQX"
+    title="Download this map">
+    Maxar Premium
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="City"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="City" class="accordeon">
+    <img src="/Web/Img/Icons_en/City.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=City.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    City
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=City=Google_map.AQX"
+    title="Download this map">
+    Google
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Ter_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=City=Google_Terrain.AQX"
+    title="Download this map">
+    Google - Terrain
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=City=Mapnik_from_Osmand.AQX"
+    title="Download this map">
+    OSM Mapnik HD (from OsmAnd)
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Eurasia">
+        <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=City=RU.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Sputnik"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=City=RU=Sputnik.AQX"
+    title="Download this map">
+    OSM Sputnik.ru
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Road"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Road" class="accordeon">
+    <img src="/Web/Img/Icons_en/Road.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Road.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Road
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_base_day"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Road=TomTom_Base_day.AQX"
+    title="Download this map">
+    TomTom Day
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Bike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Bike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Bike.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Bike.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Bike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Cyclosm"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Bike=Cyclosm.AQX"
+    title="Download this map">
+    OSM Cyclosm
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Bike - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Bike - Europe">
+        <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Bike=Europe.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Bike=Europe=MTB_Map_CZ.AQX"
+    title="Download this map">
+    OSM Mtbmap.cz
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Water"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Water" class="accordeon">
+    <img src="/Web/Img/Icons_en/Water.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Water.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Water
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Water=Navionics_Marine_Charts.AQX"
+    title="Download this map">
+    Navionics Marine Charts
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Infrastructure"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Infrastructure" class="accordeon">
+    <img src="/Web/Img/Icons_en/Infrastructure.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Infrastructure.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Infrastructure
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Transit_EN"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Infrastructure=Google_Transit.AQX"
+    title="Download this map">
+    Google Transit EN
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Relief"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Relief" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Relief.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Relief.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Overlay - Relief
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Hillshade_Mapsurfer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Relief=Mapsurfer.AQX"
+    title="Download this map">
+    Openmapsurfer
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Labels"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Labels" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Labels.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Hybrid.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Overlay - Labels
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Hybrid=Google.AQX"
+    title="Download this map">
+    Google - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapbox_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Hybrid=Mapbox.AQX"
+    title="Download this map">
+    OSM Mapbox - Hybrid
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Road"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Road" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Road.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Road.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Overlay - Road
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Bing_traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Road=Bing_Traffic.AQX"
+    title="Download this map">
+    Bing - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Road=Google_Traffic.AQX"
+    title="Download this map">
+    Google - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Road=Here_Traffic.AQX"
+    title="Download this map">
+    Here - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Road=TomTom_Traffic.AQX"
+    title="Download this map">
+    TomTom - Traffic
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Bike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Bike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Bike.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Bike.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Overlay - Bike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Bike=WayMarkedTrails_Cycling.AQX"
+    title="Download this map">
+    OSM Waymarkedtrails.org - Cycling
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_MTB"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Bike=WayMarkedTrails_MTB.AQX"
+    title="Download this map">
+    OSM Waymarkedtrails.org - MTB
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_proxy"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Bike=Strava_Ride_SD.AQX"
+    title="Download this map">
+    Strava Heatmap - Ride
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Hike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Hike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Hike.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Hike.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Overlay - Hike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Hike=WayMarkedTrails_Hiking.AQX"
+    title="Download this map">
+    OSM Waymarkedtrails.org - Hiking
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_proxy"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Hike=Strava_All_SD.AQX"
+    title="Download this map">
+    Strava Heatmap - All
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_proxy"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Hike=Strava_Run_SD.AQX"
+    title="Download this map">
+    Strava Heatmap - Run
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Winter"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Winter" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Winter.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Winter.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Overlay - Winter
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_proxy"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Winter=Strava_Winter_SD.AQX"
+    title="Download this map">
+    Strava Heatmap - Winter
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Water"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Water" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Water.png" class="menu_icon"/>
+    <a
+  href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Water.AQX"
+  target="_blank" title="Download folder">
+  <img src="/Web/Img/folder_download_gray.png" class="download_folder_icon"/>
+</a>
+    Overlay - Water
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Water=Navionics_Marine_Charts.AQX"
+    title="Download this map">
+    Navionics Marine Charts
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_proxy"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://anygis.ru/api/v1/download/alpine_en/=Overlay=Water=Strava_Water_SD.AQX"
+    title="Download this map">
+    Strava Heatmap - Water
+  </a>
+</li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+      </section>
+    </div>
+    <footer>
+      <p><b>Contacts</b> - project maintained by <a href="javascript:redirectToContactsPage()">nnngrach</a></p>
+
+      <p>Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    <!--
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+    -->
+  </body>
+</html>

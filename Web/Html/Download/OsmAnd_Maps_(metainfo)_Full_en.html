@@ -1,0 +1,4176 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Yandex.Webmaster counter -->
+    <meta name="robots" content="noindex" />
+    <!-- Yandex.Webmaster counter -->
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+       m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+       ym(53095543, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+       });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/53095543" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+
+    
+
+    
+    <link rel="stylesheet" href="/Web/Css/accordeonMenu.css">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <script src="/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://anygis.ru/Web/Img/favicon.ico">
+
+    <script> 
+      function redirectToIndexPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "/index";
+          } else {
+            url = "/index_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToContactsPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "/Web/Html/Contacts_ru";
+          } else {
+            url = "/Web/Html/Contacts_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToPageWithAnotherLanguage() {
+          var url = String(location);
+
+          if (url.indexOf("index_en") != -1) {
+            url = url.replace("index_en", "index");
+          } else if (url.indexOf("index") != -1) {
+            url = url.replace("index", "index_en");
+          } else if (url.indexOf("_ru") == -1) {
+            url = url.replace("_en", "_ru");
+          } else {
+            url = url.replace("_ru", "_en");
+          }
+
+          window.location.replace(url);
+      }
+    </script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header >
+
+        <a href="javascript:redirectToIndexPage()"><img src="/Web/Img/AnyGIS_logo_50.png" style="float:left;width:45px;height:45px;"></a>
+        <a href="javascript:redirectToPageWithAnotherLanguage()"><img src="/Web/Img/changeLanguage.png" style="float:right;height:25px;padding-top:10px;"></a>
+
+        <h1>AnyGIS</h1>
+        
+          <p>Online maps pack</p>
+        
+      </header>
+      <section>
+
+      <table>
+  <tbody>
+    <tr>
+      <td><a href="/index_en">Main page</a></td>
+      <td><a href="/Web/Html/Articles_en">Articles</a></td>
+      <td><a href="/Web/Html/DownloadPage_en">Download maps</a></td>
+      <td><a href="https://www.donationalerts.com/r/nnngrach">Donate</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1>Download maps for OsmAnd Maps (metainfo)</h1><div class="nav">
+  <div class="parent-groups">
+<div class="nav">
+  <div class="parent-groups">
+<div class="item">
+  <input type="checkbox" id="Satellites"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Satellites" class="accordeon">
+    <img src="/Web/Img/Icons_en/Satellites.png" class="menu_icon"/>
+    
+    Satellites
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_All_Satellites"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Anygis_Compilation.zip"
+    title="Download this map">
+    AnyGIS Satellites compilation
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Bing_sat_for_guru"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Bing_birds_eye.zip"
+    title="Download this map">
+    Bing Bird's Eye
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Ersi_Satellite"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=ESRI.zip"
+    title="Download this map">
+    ESRI
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Ersi_Satellite_Clarity"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=ESRI_Clarity.zip"
+    title="Download this map">
+    ESRI Clarity
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Sat_clean_SD_only"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Google.zip"
+    title="Download this map">
+    Google
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Sat_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Google_Hybrid.zip"
+    title="Download this map">
+    Google - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Here.zip"
+    title="Download this map">
+    Here
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapbox_Sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Mapbox.zip"
+    title="Download this map">
+    Mapbox Satellite
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Maxar_Premium_Imagery"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Maxar_Premium_Imagery.zip"
+    title="Download this map">
+    Maxar Premium
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Maxar_Standard_Imagery"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Maxar_Standard_Imagery.zip"
+    title="Download this map">
+    Maxar Standard
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Eurasia=Kosmosnimki.zip"
+    title="Download this map">
+    Kosmosnimki.ru
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Eurasia=Yandex.zip"
+    title="Download this map">
+    Yandex
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Eurasia=Yandex_proxy.zip"
+    title="Download this map">
+    Yandex (proxy)
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Europe - Eastern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Europe - Eastern">
+        
+        Eastern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_Sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=EU=East=CadastrUA_sat.zip"
+    title="Download this map">
+    Ukraine - Cadaster Orthophoto
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_clean"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=EU=North=Eniro_Sat.zip"
+    title="Download this map">
+    Eniro
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Hitta_sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=EU=North=Hitta_Sat.zip"
+    title="Download this map">
+    Hitta
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Satellite"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=EU=North=Norgeskart_Sat.zip"
+    title="Download this map">
+    Topografisk Norgeskart 
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_Hybrid"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=EU=North=Norgeskart_Hybrid.zip"
+    title="Download this map">
+    Topografisk Norgeskart Hybrid
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - Europe - Central"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - Europe - Central">
+        
+        Central
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissImage"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=Eu=Central=SwissTopo_Sat.zip"
+    title="Download this map">
+    SwissTopo
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Satellites - America"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Satellites - America">
+        
+        America
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=US=USGS_Sat.zip"
+    title="Download this map">
+    USGS National Map - Satellite
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_US_USGS_Sat_plus"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Satellites=US=USGS_Sat_plus.zip"
+    title="Download this map">
+    USGS National Map - Satellite Plus
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="City"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="City" class="accordeon">
+    <img src="/Web/Img/Icons_en/City.png" class="menu_icon"/>
+    
+    City
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Map_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=Google_map.zip"
+    title="Download this map">
+    Google
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Ter_EN_SD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=Google_Terrain.zip"
+    title="Download this map">
+    Google - Terrain
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=Here_Map.zip"
+    title="Download this map">
+    Here
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_ter"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=Here_Terrain.zip"
+    title="Download this map">
+    Here - Terrain
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_base"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=MapyCZ_Base.zip"
+    title="Download this map">
+    Mapy.cz - Base
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Kosmosnimki"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=Kosmosnimki.zip"
+    title="Download this map">
+    OSM Kosmosnimki
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapnik"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=Mapnik.zip"
+    title="Download this map">
+    OSM Mapnik (OpenStreetMap.org)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Osmand_Mapnik"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=Mapnik_from_Osmand.zip"
+    title="Download this map">
+    OSM Mapnik HD (from OsmAnd)
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ru_2gis"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=RU=2gis.zip"
+    title="Download this map">
+    2Gis
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Sputnik"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=RU=Sputnik.zip"
+    title="Download this map">
+    OSM Sputnik.ru
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=RU=Yandex_Map.zip"
+    title="Download this map">
+    Yandex
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=RU=Yandex_Map_proxy.zip"
+    title="Download this map">
+    Yandex (proxy)
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=RU=Yandex_Narod.zip"
+    title="Download this map">
+    Yandex MapEditor
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Europe - Eastern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Europe - Eastern">
+        
+        Eastern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ukr_Meta"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=EU=East=MetaUA.zip"
+    title="Download this map">
+    Ukraine - Meta.ua
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ukr_Luxena"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=EU=East=Navlux.zip"
+    title="Download this map">
+    Ukraine - Navlux
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ukr_Visicom_UK"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=EU=East=Visicom.zip"
+    title="Download this map">
+    Ukraine - Visicom
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="City - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="City - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=EU=North=Eniro.zip"
+    title="Download this map">
+    Eniro
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Fonecta_map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=EU=North=Fonecta.zip"
+    title="Download this map">
+    Fonecta.fi
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Hitta"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=City=EU=North=Hitta.zip"
+    title="Download this map">
+    Hitta
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Road"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Road" class="accordeon">
+    <img src="/Web/Img/Icons_en/Road.png" class="menu_icon"/>
+    
+    Road
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Garmin_navicom"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Road=Garmin_RU.zip"
+    title="Download this map">
+    Garmin.ru (navicom)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Michelin"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Road=Michelin.zip"
+    title="Download this map">
+    OSM Michelin transport
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Transport_Map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Road=Thunderforest_Transport.zip"
+    title="Download this map">
+    OSM Thunderforest Transport Day
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Transport_Map_dark"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Road=Thunderforest_Transport_Dark.zip"
+    title="Download this map">
+    OSM Thunderforest Transport Night
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_base_day"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Road=TomTom_Base_day.zip"
+    title="Download this map">
+    TomTom Day
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_base_night"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Road=TomTom_Base_night.zip"
+    title="Download this map">
+    TomTom Night
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Bike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Bike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Bike.png" class="menu_icon"/>
+    
+    Bike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Cyclosm"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Bike=Cyclosm.zip"
+    title="Download this map">
+    OSM Cyclosm
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Hike_Bike"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Bike=HikeBike.zip"
+    title="Download this map">
+    OSM Hike and bike
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Cycle_Map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Bike=Thunderforest_Cycle.zip"
+    title="Download this map">
+    OSM Thunderforest Cycle
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Bike - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Bike - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Bike_EN"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Bike=Europe=Google_Bike.zip"
+    title="Download this map">
+    Google Bike EN
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_MTB_Map_Europe"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Bike=Europe=MTB_Map_CZ.zip"
+    title="Download this map">
+    OSM Mtbmap.cz
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Hike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Hike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Hike.png" class="menu_icon"/>
+    
+    Hike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Nakarte_Geocashing"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Geocashing.zip"
+    title="Download this map">
+    Nakarte - Geocashing
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Nakarte_Westra"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Westra_Passes.zip"
+    title="Download this map">
+    Nakarte - Westra mountain passes
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_4umaps"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=4umaps.zip"
+    title="Download this map">
+    OSM 4U maps
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Komoot"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Komoot.zip"
+    title="Download this map">
+    OSM Komoot
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapbox_Terrain"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Mapbox_Terrain.zip"
+    title="Download this map">
+    OSM Mapbox Terrain
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_roads"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Mapsurfer.zip"
+    title="Download this map">
+    OSM Mapsurfer
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_tourist"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=MapyCZ_outdoor.zip"
+    title="Download this map">
+    OSM Mapy.cz Outdoor
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Topo_Map"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=OpenTopoMap_ORG.zip"
+    title="Download this map">
+    OSM OpenTopoMap.ORG
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Refuges"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Refuges.zip"
+    title="Download this map">
+    OSM Refuges - Mountain Shelters
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Outdoors"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Thunderforest_Outdoor.zip"
+    title="Download this map">
+    OSM Thunderforest Outdoor
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All">
+        
+        All
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Topo_Map_RU"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=All=OpenTopoMap_RU.zip"
+    title="Download this map">
+    OSM OpenTopoMap.RU
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All - GGC"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All - GGC">
+        
+        GGC
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Ggc_01000"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=All=GGC=1000.zip"
+    title="Download this map">
+    GGC 1000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Ggc_02000"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=All=GGC=2000.zip"
+    title="Download this map">
+    GGC 2000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Ggc_00250"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=All=GGC=0250.zip"
+    title="Download this map">
+    GGC 250m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Locals_Ggc_00500"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=All=GGC=0500.zip"
+    title="Download this map">
+    GGC 500m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_Best_GGC"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=All=GGC=All.zip"
+    title="Download this map">
+    GGC Compilation
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - All - Other"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - All - Other">
+        
+        Other
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Combo_Best_Topo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=All=Other=All.zip"
+    title="Download this map">
+    Topomaps Compilation
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - Moscow Region"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - Moscow Region">
+        
+        Moscow Region
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Adraces"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Moscow=Adraces.zip"
+    title="Download this map">
+    Adraces
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_ArbaletMO"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Moscow=Arbalet.zip"
+    title="Download this map">
+    Arbalet
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_MoscowMap"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Moscow=MoscowMap.zip"
+    title="Download this map">
+    MoscowMap.ru
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Osport"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Moscow=OSport.zip"
+    title="Download this map">
+    O-Sport
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Slazav_Nakarte"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Moscow=Slazav.zip"
+    title="Download this map">
+    Slazav MMB
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - Caucasus"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - Caucasus">
+        
+        Caucasus
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_09"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=Abshira_Ahuba.zip"
+    title="Download this map">
+    Abishira Akhuba
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_10"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=Svodnaya_1000.zip"
+    title="Download this map">
+    Caucasus 1000m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_11"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=Svodnaya_0500.zip"
+    title="Download this map">
+    Caucasus 500m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_07"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=Perevaly_Center.zip"
+    title="Download this map">
+    Caucasus Central Passes 2014
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_01"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=FGU.zip"
+    title="Download this map">
+    Caucasus FGU SK AGP
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_06"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=Kazbek.zip"
+    title="Download this map">
+    Caucasus Kazbek
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_02"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=Perevaly_South.zip"
+    title="Download this map">
+    Caucasus Southern 2014
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_05"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=West_Kot.zip"
+    title="Download this map">
+    Caucasus West
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_04"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=Perevaly_West.zip"
+    title="Download this map">
+    Caucasus West Passes 2014
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_08"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=Prielbusye.zip"
+    title="Download this map">
+    Elbrus Region
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kavkaz_03"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Caucasus=Gosgeodesiya.zip"
+    title="Download this map">
+    GosGeodesya 1991
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - Crimea"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - Crimea">
+        
+        Crimea
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Krim2"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Crimea=Kartografiya.zip"
+    title="Download this map">
+    Crimea Kartagrafiya 2010
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Krim1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Crimea=SoyusKarta.zip"
+    title="Download this map">
+    Crimea Souskarta 2011
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - Khibiny"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - Khibiny">
+        
+        Khibiny
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Karelia3"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Khibiny=Hills.zip"
+    title="Download this map">
+    Khibiny's Mountains
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Karelia1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Khibiny=Tundra_Aerogeodesiya.zip"
+    title="Download this map">
+    Khibiny's Tundra (2008)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Karelia2"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Khibiny=Tundra_Old.zip"
+    title="Download this map">
+    Khibiny's Tundra (Old)
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Eurasia - Other"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Eurasia - Other">
+        
+        Other
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Altay1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Other=Altay.zip"
+    title="Download this map">
+    Altai Katun Ridge
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Sayany1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Other=Sayani.zip"
+    title="Download this map">
+    Ergaki - Ardan
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Slazav_hrebtovki_nakarte_direct"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Other=Slazav_hrebtovki.zip"
+    title="Download this map">
+    Slazav Mountains
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Taganay"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Other=Taganay.zip"
+    title="Download this map">
+    Taganay Park
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Terskey_Alatau"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Eurasia=Other=Terskey_Alatau.zip"
+    title="Download this map">
+    Terskey Alatau
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe - Eastern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe - Eastern">
+        
+        Eastern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Belarus_LatLon"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=East=Belarus_LatLon.zip"
+    title="Download this map">
+    Belarus LatLon.org
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Karpaty"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=East=Karpaty.zip"
+    title="Download this map">
+    Carpathians
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norge_finnkart"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=North=FINN_Kart_Norge.zip"
+    title="Download this map">
+    FINN Kart Norge
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Hitta_Frilufts"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=North=Hitta_Frilufts.zip"
+    title="Download this map">
+    Hitta Frilufts
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_Fjallkarta"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=North=Lantmateriet_Fjallkarta.zip"
+    title="Download this map">
+    Lantmäteriets Fjällkarta
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Lantmateriet_topowebb"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=North=Lantmateriet_Topowebb.zip"
+    title="Download this map">
+    Lantmäteriets Topografisk
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Papirkart"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=North=Norway_UtNo_Papirkart.zip"
+    title="Download this map">
+    Norway UT.no - Papirkart
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Topokart"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=North=Norway_UtNo_Topokart.zip"
+    title="Download this map">
+    Norway UT.no - Topolart
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norgeskart"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=North=Norgeskart.zip"
+    title="Download this map">
+    Topografisk Norgeskart
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe - Central"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe - Central">
+        
+        Central
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Kompass_De"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=Central=Kompass_De.zip"
+    title="Download this map">
+    Kompass.de
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTopo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=Central=SwissTopo.zip"
+    title="Download this map">
+    Swiss Topo
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe - Western"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe - Western">
+        
+        Western
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_FranceTopo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=West=France_topo.zip"
+    title="Download this map">
+    France Topo IGN.fr
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Europe - Southeast"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Europe - Southeast">
+        
+        Southeast
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Montenegro"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=EU=Southeast=Montenegro.zip"
+    title="Download this map">
+    Montenecro 250m
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Asia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Asia">
+        
+        Asia
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Asia - Western"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Asia - Western">
+        
+        Western
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Turk1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Asia=West=Alagadar.zip"
+    title="Download this map">
+    Aladaglar
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - Asia - Central"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - Asia - Central">
+        
+        Central
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Kyrgiz1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Asia=Central=Kyrgizskiy_hrebet.zip"
+    title="Download this map">
+    Kyrgyz Ala-Too Range
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Tyan_shan1"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=Asia=Central=TianShan_and_Pamir.zip"
+    title="Download this map">
+    Tien Shan and Pamirs
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hike - America"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hike - America">
+        
+        America
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_US_USGS_Topo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hike=US=USGS_Topo.zip"
+    title="Download this map">
+    USGS National Map - Topo
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Winter"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Winter" class="accordeon">
+    <img src="/Web/Img/Icons_en/Winter.png" class="menu_icon"/>
+    
+    Winter
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Czech_winter"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Winter=MapyCZ_winter.zip"
+    title="Download this map">
+    OSM Czech - Mapy.cz Winter
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Winter - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Winter - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Winter - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Winter - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Skoterleder"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Winter=EU=North=Skoterleder.zip"
+    title="Download this map">
+    Skoterleder
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Water"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Water" class="accordeon">
+    <img src="/Web/Img/Icons_en/Water.png" class="menu_icon"/>
+    
+    Water
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Ersi_Ocean"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Water=ERSI_ocean.zip"
+    title="Download this map">
+    ESRI Ocean
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Water=Navionics_Marine_Charts.zip"
+    title="Download this map">
+    Navionics Marine Charts
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Sonar_Charts"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Water=Navionics_Sonar_Charts.zip"
+    title="Download this map">
+    Navionics SonarCharts
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Water - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Water - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_River_Chusovaya"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Water=RU=Chusovaya_Novoutkinsk.zip"
+    title="Download this map">
+    Chusovaya river
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_River_Kuban"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Water=RU=Kuban.zip"
+    title="Download this map">
+    Kuban river
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_River_Volga"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Water=RU=Volga_kama.zip"
+    title="Download this map">
+    Volga and Kama rivers location
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Water - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Water - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Water - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Water - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Nautical"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Water=EU=North=Eniro_Nautical.zip"
+    title="Download this map">
+    Eniro Sjökort Nautical
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Aviation"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Aviation" class="accordeon">
+    <img src="/Web/Img/Icons_en/Aviation.png" class="menu_icon"/>
+    
+    Aviation
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Ersi_Avia"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Aviation=ERSI_Navigation_Charts.zip"
+    title="Download this map">
+    ERSI World Navigation Charts
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Aviation - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Aviation - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Avia_Baionline"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Aviation=RU=Baionline.zip"
+    title="Download this map">
+    Avia Baionline
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Avia_Mvl"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Aviation=RU=MVL.zip"
+    title="Download this map">
+    Avia MVL
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Avia_Rnk"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Aviation=RU=RNK_2016.zip"
+    title="Download this map">
+    Avia RNK 2016
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Local_Avia_Rnk2019"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Aviation=RU=RNK_2019.zip"
+    title="Download this map">
+    Avia RNK 2019
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Info"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Info" class="accordeon">
+    <img src="/Web/Img/Icons_en/Info.png" class="menu_icon"/>
+    
+    Info
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Wikimapia"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Info=Wikimapia.zip"
+    title="Download this map">
+    Wikimapia.org
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Infrastructure"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Infrastructure" class="accordeon">
+    <img src="/Web/Img/Icons_en/Infrastructure.png" class="menu_icon"/>
+    
+    Infrastructure
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Transit_EN"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Infrastructure=Google_Transit.zip"
+    title="Download this map">
+    Google Transit EN
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Opnvkarte"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Infrastructure=Opnvkarte.zip"
+    title="Download this map">
+    OSM OpenBusMap (Opnvkarte.de)
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Hystoric"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Hystoric" class="accordeon">
+    <img src="/Web/Img/Icons_en/Hystoric.png" class="menu_icon"/>
+    
+    Hystoric
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Shubert"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Eur_Russia_Shubert.zip"
+    title="Download this map">
+    European Russia - Shubert
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Strelbitsky_1882"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Strelbitsky_1882.zip"
+    title="Download this map">
+    Strelbitsky 1882
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Strelbitsky_1919"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Strelbitsky_1919.zip"
+    title="Download this map">
+    Strelbitsky 1919
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - Central"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - Central">
+        
+        Central
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_MSK_1852"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Central=MSK_1852.zip"
+    title="Download this map">
+    Moscow 1852
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Tver_Mende"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Central=Tver_Mende.zip"
+    title="Download this map">
+    Tver Mende
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - Northwestern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - Northwestern">
+        
+        Northwestern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_SPB_1917"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Northwestern=SPB_1917.zip"
+    title="Download this map">
+    Petrograd 1917
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_SPB_1705"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Northwestern=SPB_1705.zip"
+    title="Download this map">
+    Saint Petersburg 1705
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_SPB_1725"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Northwestern=SPB_1725.zip"
+    title="Download this map">
+    Saint Petersburg 1725
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_SPB_1883"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Northwestern=SPB_1883.zip"
+    title="Download this map">
+    Saint Petersburg 1883
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_SPB_1894"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Northwestern=SPB_1894.zip"
+    title="Download this map">
+    Saint Petersburg 1894
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - Crimean"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - Crimean">
+        
+        Crimean
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Krim_1v"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Crimean=Krim_1v.zip"
+    title="Download this map">
+    Crimea 1880
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - Southern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - Southern">
+        
+        Southern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kuban_1902"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1902.zip"
+    title="Download this map">
+    Kuban 1902
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kuban_1918"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1918.zip"
+    title="Download this map">
+    Kuban Stralbitsky 1918
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kuban_1930"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1930.zip"
+    title="Download this map">
+    Kuban district 1930
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kuban_1916"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1916.zip"
+    title="Download this map">
+    Kuban district geologic1908-16
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_RKKA_2km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Southern=RKKA_2km.zip"
+    title="Download this map">
+    RKKA 1932-42 2km
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_RKKA_1km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Southern=RKKA_1km.zip"
+    title="Download this map">
+    RKKA 1940 1km
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - North Caucasian"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - North Caucasian">
+        
+        North Caucasian
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1877"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Caucasian=Kavkaz_1877.zip"
+    title="Download this map">
+    Caucasus 1877
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1926"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Caucasian=Kavkaz_1926.zip"
+    title="Download this map">
+    Caucasus 1926
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Kavkaz_1948_eng"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Caucasian=Kavkaz_1948_eng.zip"
+    title="Download this map">
+    Caucasus 1941
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Maykop_1925"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Caucasian=Maykop_1925.zip"
+    title="Download this map">
+    Maykop 1925
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Eurasia - Siberian"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Eurasia - Siberian">
+        
+        Siberian
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1986_1km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Siberian=Irkutsk_1km_1986.zip"
+    title="Download this map">
+    Irkutsk 1km 1986
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1988_2km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Siberian=Irkutsk_2km_1988.zip"
+    title="Download this map">
+    Irkutsk 2km 1988
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Irkutsk_1980_5km"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Eurasia=Siberian=Irkutsk_5km_1980.zip"
+    title="Download this map">
+    Irkutsk 5km 1980
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Hystoric - Europe - Eastern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Hystoric - Europe - Eastern">
+        
+        Eastern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Belarus_3v"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_3v.zip"
+    title="Download this map">
+    Belarus 3 verstovaya
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Belarus_3v_plus"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_3v_plus.zip"
+    title="Download this map">
+    Belarus 3 verstovaya+
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Belarus_RKKA_plus"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_RKKA_plus.zip"
+    title="Download this map">
+    Belarus RKKA 500m
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Historic_Belarus_WIG_plus"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_WIG_plus.zip"
+    title="Download this map">
+    Belarus WIG 1km
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Geology"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Geology" class="accordeon">
+    <img src="/Web/Img/Icons_en/Geology.png" class="menu_icon"/>
+    
+    Geology
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Geology - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Geology - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ru_Vsegei_Geology"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Geology=Eurasia=VsegeiRu_Geology.zip"
+    title="Download this map">
+    Vsegei.ru
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Other"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Other" class="accordeon">
+    <img src="/Web/Img/Icons_en/Other.png" class="menu_icon"/>
+    
+    Other
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_NZ_NewZeland_Topo"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Other=NewZeland_Topo.zip"
+    title="Download this map">
+    New-Zealand Topomaps
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Other - Overpass Turbo"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Other - Overpass Turbo">
+        
+        Overpass Turbo
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapshooter_Water"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Other=Overpass=Drinking_Water.zip"
+    title="Download this map">
+    Drinking Water
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapshooter_GravelRunTrails"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Other=Overpass=GravelRunTrails.zip"
+    title="Download this map">
+    Gravel Running Trails
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapshooter_Waste"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Other=Overpass=Waste.zip"
+    title="Download this map">
+    Waste Baskets
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Relief"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Relief" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Relief.png" class="menu_icon"/>
+    
+    Overlay - Relief
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Hillshade_Mapsurfer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Relief=Mapsurfer.zip"
+    title="Download this map">
+    Openmapsurfer
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Hillshade_Waymarkedtrails"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Relief=Waymarkedtrails.zip"
+    title="Download this map">
+    Waymarkedtrails.org
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Hillshade_Windy"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Relief=Windy.zip"
+    title="Download this map">
+    Windy.com
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Hillshade_Wmflabs"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Relief=WmfLabs.zip"
+    title="Download this map">
+    WmfLabs.org
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Relief - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Relief - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Relief - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Relief - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_SkredSnoAktR"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Relief=EU=Northern=Norway_UtNo_SkredSnoAktR.zip"
+    title="Download this map">
+    Norway UT.no - Aktsomhetskart for snøskred
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Norway_UT_Bratthetskart"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Relief=EU=Northern=Norway_UtNo_Bratthetskart.zip"
+    title="Download this map">
+    Norway UT.no - Bratthetskart
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Labels"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Labels" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Labels.png" class="menu_icon"/>
+    
+    Overlay - Labels
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Ersi_admin_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=Ersi_admin_labels.zip"
+    title="Download this map">
+    ERSI - Admin boundaries
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=Google.zip"
+    title="Download this map">
+    Google - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Mapbox_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=Mapbox.zip"
+    title="Download this map">
+    OSM Mapbox - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_admin_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=Mapsurfer_admin_labels.zip"
+    title="Download this map">
+    OSM Mapsurfer - Admin boundaries
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Mapsurfer_hybrid"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=Mapsurfer_hybrid.zip"
+    title="Download this map">
+    OSM Mapsurfer - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_labels_day"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=TomTom_day.zip"
+    title="Download this map">
+    TomTom - Hybrid (day)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_labels_night"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=TomTom_night.zip"
+    title="Download this map">
+    TomTom - Hybrid (night)
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Labels - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Labels - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Rosreestr_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=RU=Rosreesrt_labels.zip"
+    title="Download this map">
+    Rosreestr.ru - Labels
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=RU=Yandex.zip"
+    title="Download this map">
+    Yandex - Hybrid
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=RU=Yandex_narod.zip"
+    title="Download this map">
+    Yandex - Hybrid Map Editor
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Labels - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Labels - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Labels - Europe - Northern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Labels - Europe - Northern">
+        
+        Northern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Eniro_Sat_labels"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hybrid=EU=North=Eniro.zip"
+    title="Download this map">
+    Eniro - Hybrid
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Road"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Road" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Road.png" class="menu_icon"/>
+    
+    Overlay - Road
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Bing_traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Road=Bing_Traffic.zip"
+    title="Download this map">
+    Bing - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Google_Trafic_Layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Road=Google_Traffic.zip"
+    title="Download this map">
+    Google - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_traffic_flow_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Road=Here_Flow.zip"
+    title="Download this map">
+    Here - Flow
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Here_traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Road=Here_Traffic.zip"
+    title="Download this map">
+    Here - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navizor"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Road=Navizor_Quality.zip"
+    title="Download this map">
+    Navizor - Roads quality
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_Traffic_Incidents_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Road=TomTom_Incidents.zip"
+    title="Download this map">
+    TomTom - Incidents
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TomTom_Traffic_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Road=TomTom_Traffic.zip"
+    title="Download this map">
+    TomTom - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Road=Yandex_Traffic_proxy.zip"
+    title="Download this map">
+    Yandex (proxy)
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Road=Yandex_Direcions.zip"
+    title="Download this map">
+    Yandex - Directions
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Road=Yandex_Intensity.zip"
+    title="Download this map">
+    Yandex - Intensity
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Bike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Bike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Bike.png" class="menu_icon"/>
+    
+    Overlay - Bike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Cycling"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Bike=WayMarkedTrails_Cycling.zip"
+    title="Download this map">
+    OSM Waymarkedtrails.org - Cycling
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_MTB"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Bike=WayMarkedTrails_MTB.zip"
+    title="Download this map">
+    OSM Waymarkedtrails.org - MTB
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Bike=Strava_Ride_HD.zip"
+    title="Download this map">
+    Strava Heatmap - Ride HD
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Ride_Bluered_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Bike=Strava_Ride_Bluered_HD.zip"
+    title="Download this map">
+    Strava Heatmap - Ride HD (Bluered)
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Hike"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Hike" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Hike.png" class="menu_icon"/>
+    
+    Overlay - Hike
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Gps_Tracks_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hike=OpenSreetMaps_GPS_Tracks.zip"
+    title="Download this map">
+    OSM OpenStreetMap - GPS Tracks
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Hiking"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hike=WayMarkedTrails_Hiking.zip"
+    title="Download this map">
+    OSM Waymarkedtrails.org - Hiking
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hike=Strava_All_HD.zip"
+    title="Download this map">
+    Strava Heatmap - All HD
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_All_Bluered_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hike=Strava_All_Bluered_HD.zip"
+    title="Download this map">
+    Strava Heatmap - All HD (Bluered)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hike=Strava_Run_HD.zip"
+    title="Download this map">
+    Strava Heatmap - Run HD
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Run_Bluered_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hike=Strava_Run_Bluered_HD.zip"
+    title="Download this map">
+    Strava Heatmap - Run HD (Bluered)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_RunAndRide_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hike=Strava_RunAndRide_HD.zip"
+    title="Download this map">
+    Strava Heatmap - Run and Ride HD (beta)
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Hike - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Hike - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Hike - Europe - Central"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Hike - Europe - Central">
+        
+        Central
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissTrailsLayer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Hike=EU=Central=SwissTopoTrails.zip"
+    title="Download this map">
+    SwissTopo - Tails
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Winter"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Winter" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Winter.png" class="menu_icon"/>
+    
+    Overlay - Winter
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSnowMap_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Winter=OpenSnowMap_pistes.zip"
+    title="Download this map">
+    OSM OpenSnowMap - Pistes
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Slopes"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Winter=WayMarkedTrails_Slopes.zip"
+    title="Download this map">
+    OSM Waymarkedtrails.org - Slopes
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Winter=Strava_Winter_HD.zip"
+    title="Download this map">
+    Strava Heatmap - Winter HD
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Winter_Bluered_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Winter=Strava_Winter_Bluered_HD.zip"
+    title="Download this map">
+    Strava Heatmap - Winter HD (Bluered)
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Winter - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Winter - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Winter - Europe - Central"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Winter - Europe - Central">
+        
+        Central
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSkiRoutes"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Winter=EU=Central=SwissSkiRoutes.zip"
+    title="Download this map">
+    Swiss Ski Routes
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Eu_Swiss_SwissSlope30"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Winter=EU=Central=SwissSlopes.zip"
+    title="Download this map">
+    Swiss Slope 30°
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Water"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Water" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Water.png" class="menu_icon"/>
+    
+    Overlay - Water
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Garmin_MarineImages"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Water=Garmin_MarineImages.zip"
+    title="Download this map">
+    Garmin Quickdraw - MarineImages
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Marine_Charts_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Water=Navionics_Marine_Charts.zip"
+    title="Download this map">
+    Navionics Marine Charts
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Navionics_Sonar_Charts_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Water=Navionics_Sonar_Charts.zip"
+    title="Download this map">
+    Navionics Sonar Charts
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Seamark"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Water=OpenSeaMap_seamark.zip"
+    title="Download this map">
+    OSM OpenSeaMap
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Depth"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Water=OpenSeaMap_deep.zip"
+    title="Download this map">
+    OSM OpenSeaMap - Deep Map
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_OpenSeaMap_Layer_Traffic"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Water=OpenSeaMap_traffic.zip"
+    title="Download this map">
+    OSM OpenSeaMap - Traffic
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_Bluered_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Water=Strava_Water_Bluered_HD.zip"
+    title="Download this map">
+    Strava Heatmap - Water (HD Bluered)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_Strava_Water_HD"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Water=Strava_Water_HD.zip"
+    title="Download this map">
+    Strava Heatmap - Water HD
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Info"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Info" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Info.png" class="menu_icon"/>
+    
+    Overlay - Info
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/OpenWeatherMap_Precipit"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=OpenWeatherMap_Precipit.zip"
+    title="Download this map">
+    OpenWeatherMap - Precipitation
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/RainWiewer_Precipit"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RainWiewer_Precipit.zip"
+    title="Download this map">
+    RainWiewer - Precipitation
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/TILE_GRID"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=Tile_grid_gray.zip"
+    title="Download this map">
+    TMS Tile Grid - Gray
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Info_Wiggle_wifi_proxy"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=Wiggle_wifi_proxy.zip"
+    title="Download this map">
+    Wigle.net - Wi-fi location (proxy)
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Wikimapia_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=Wikimapia.zip"
+    title="Download this map">
+    Wikimapia.org
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Info - Eurasia"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Info - Eurasia">
+        
+        Eurasia
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Rosreestr_kadaster"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=RosReestr.zip"
+    title="Download this map">
+    RosReest.ru - Cadaster
+  </a>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Info - Eurasia - Mobile"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Info - Eurasia - Mobile">
+        
+        Mobile
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Beeline.zip"
+    title="Download this map">
+    Beeline
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Beeline_2G.zip"
+    title="Download this map">
+    Beeline 2G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Beeline_3G.zip"
+    title="Download this map">
+    Beeline 3G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Beeline_4G.zip"
+    title="Download this map">
+    Beeline 4G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=MTS.zip"
+    title="Download this map">
+    MTS
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=MTS_2G.zip"
+    title="Download this map">
+    MTS 2G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=MTS_3G.zip"
+    title="Download this map">
+    MTS 3G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=MTS_4G.zip"
+    title="Download this map">
+    MTS 4G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=MTS_4G_planned.zip"
+    title="Download this map">
+    MTS 4G Planned
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=MTS_IOT.zip"
+    title="Download this map">
+    MTS IoT
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Megafon.zip"
+    title="Download this map">
+    Megaphone
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Megafon_2G.zip"
+    title="Download this map">
+    Megaphone 2G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Megafon_3G.zip"
+    title="Download this map">
+    Megaphone 3G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Megafon_4G.zip"
+    title="Download this map">
+    Megaphone 4G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Megafon_4Gplus.zip"
+    title="Download this map">
+    Megaphone 4G+
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Rostelcom.zip"
+    title="Download this map">
+    Rostelcom
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Rostelcom_2G.zip"
+    title="Download this map">
+    Rostelcom 2G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Rostelcom_3G.zip"
+    title="Download this map">
+    Rostelcom 3G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Rostelcom_4G.zip"
+    title="Download this map">
+    Rostelcom 4G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Skylink_4G.zip"
+    title="Download this map">
+    Skylink LTE 450
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Tele2.zip"
+    title="Download this map">
+    Tele2
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Tele2_2G.zip"
+    title="Download this map">
+    Tele2 2G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Tele2_3G.zip"
+    title="Download this map">
+    Tele2 3G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Tele2_4G.zip"
+    title="Download this map">
+    Tele2 4G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Tele2_4G_450.zip"
+    title="Download this map">
+    Tele2 LTE 450
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Tinkoff.zip"
+    title="Download this map">
+    Tinkoff
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Tinkoff_2G.zip"
+    title="Download this map">
+    Tinkoff 2G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Tinkoff_3G.zip"
+    title="Download this map">
+    Tinkoff 3G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Tinkoff_4G.zip"
+    title="Download this map">
+    Tinkoff 4G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Yota.zip"
+    title="Download this map">
+    Yota
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Yota_2G.zip"
+    title="Download this map">
+    Yota 2G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Yota_3G.zip"
+    title="Download this map">
+    Yota 3G
+  </a>
+</li>
+<li class="map_line">
+  <img src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=RU=Mobile=Yota_4G.zip"
+    title="Download this map">
+    Yota 4G
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Info - Europe"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Info - Europe">
+        
+        Europe
+    </label>
+
+<ul class="accordeon">
+<li class="accordeon">
+    <div class="item">
+    <input type="checkbox" id="Overlay - Info - Europe - Eastern"/>
+    <img src="/Web/Img/arrow_menu.png" class="arrow">
+    <label for="Overlay - Info - Europe - Eastern">
+        
+        Eastern
+    </label>
+
+<ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Other_Ukr_Kadastr_layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Info=EU=East=CadastrUA_overlay.zip"
+    title="Download this map">
+    Ukraine - Cadaster map borders
+  </a>
+</li>
+    </ul>
+  </div>
+</li>
+    </ul>
+  </div>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Infrastructure"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Infrastructure" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Infrastructure.png" class="menu_icon"/>
+    
+    Overlay - Infrastructure
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/OpenFireMap"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Infrastructure=OpenFireMap.zip"
+    title="Download this map">
+    OSM OpenFireMap
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Public_Transport_Layer"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Infrastructure=Public_Transport.zip"
+    title="Download this map">
+    OSM OpenPTMap  - Public Transport
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Railway_speed"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Infrastructure=OpenRailWay_speed.zip"
+    title="Download this map">
+    OSM OpenRailWay - IMaxspeeds
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Railway"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Infrastructure=OpenRailWay.zip"
+    title="Download this map">
+    OSM OpenRailWay - Infrastructure
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Osm_Railway_signals"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Infrastructure=OpenRailWay_signals.zip"
+    title="Download this map">
+    OSM OpenRailWay - Signalling
+  </a>
+</li>
+  </ul>
+</div>
+<div class="item">
+  <input type="checkbox" id="Overlay - Other"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow">
+  <label for="Overlay - Other" class="accordeon">
+    <img src="/Web/Img/Icons_en/Overlay%20-%20Other.png" class="menu_icon"/>
+    
+    Overlay - Other
+  </label>
+  
+
+  <ul class="accordeon">
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Riding"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Other=WayMarkedTrails_Riding.zip"
+    title="Download this map">
+    OSM Waymarkedtrails.org - Riding
+  </a>
+</li>
+<li class="map_line">
+  <a
+  href="https://anygis.ru/api/v1/preview/Tracks_WayMarkeredTrails_Skating"
+  target="_blank" title="Preview map">
+  <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+</a>
+  <a
+    href="https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_en/=Overlay=Other=WayMarkedTrails_Skating.zip"
+    title="Download this map">
+    OSM Waymarkedtrails.org - Skating
+  </a>
+</li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+      </section>
+    </div>
+    <footer>
+      <p><b>Contacts</b> - project maintained by <a href="javascript:redirectToContactsPage()">nnngrach</a></p>
+
+      <p>Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    <!--
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+    -->
+  </body>
+</html>
