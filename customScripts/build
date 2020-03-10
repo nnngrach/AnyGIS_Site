@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Compile and build all TypeScript files to JavaSctipt format.
+# For launch run this command in terminal:
+# ./build
+
+echo "Compilation..."
+tsc --sourceMap true AGScripts.ts
+# tsc AGScripts.ts

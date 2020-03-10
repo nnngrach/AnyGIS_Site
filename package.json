@@ -1,0 +1,13 @@
+{
+  "name": "customscripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AGScripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --sourceMap true  ./customScripts/AGScripts.ts",
+    "serverStart": "bundle exec jekyll serve",
+    "serverStartLiveReload": "bundle exec jekyll serve --livereload"
+  },
+  "author": "nnngrach"
+}

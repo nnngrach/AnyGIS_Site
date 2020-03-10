@@ -1,0 +1,30 @@
+declare type MapDataLine = {
+    name: string;
+    regions: string;
+    types: string;
+    apps: string;
+};
+declare const russianPagesPostfix: string;
+declare const englishPagesPostfix: string;
+declare const indexPageUrlRu: string;
+declare const indexPageUrlEn: string;
+declare const contactsPageUrlRu: string;
+declare const contactsPageUrlEn: string;
+declare function redirectToIndexPage(): void;
+declare function redirectToContactsPage(): void;
+declare function redirectToPageWithAnotherLanguage(): void;
+declare const defaultValue = "All";
+declare const allCountriesValue = "World";
+declare const replacingDivClass = "replacing_div";
+declare let currentRegion: string;
+declare let currentType: string;
+declare let downloadedMapList: MapDataLine[];
+declare function updateMapList(): void;
+declare function generateMapListHtml(mapListItems: MapDataLine[]): void;
+declare function replaceElementContent(elementClass: string, newContent: string): void;
+declare function downloadMapList(): MapDataLine[];
+declare const pregeneratedMapList: MapDataLine[];
+declare function getCurrentURL(): string;
+declare function redirectTo(url: string): void;
+declare function isContains(sourceText: string, checkingText: string): boolean;
+//# sourceMappingURL=AGScripts.d.ts.map

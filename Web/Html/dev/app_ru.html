@@ -7,7 +7,7 @@
   
   <!-- Hide this page -->
   <meta name="robots" content="noindex" />
-    
+
   <!-- Begin Jekyll SEO tag v2.6.1 -->
   <title>AnyGIS | Online maps pack</title>
   <meta name="generator" content="Jekyll v4.0.0" />
@@ -27,60 +27,15 @@
   <script src="/assets/js/scale.fix.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-  <link rel="shortcut icon" type="image/x-icon" href="https://anygis.ru/Web/Img/favicon.ico">
-  <script src="/assets/js/redirecting.js"></script>
-  <script src="/assets/js/fullMapsList.js"></script>
-  <script src="/assets/js/generateMapList.js"></script>
+
+  <!-- Custom parameters -->
+  <script src="/customScripts/AGScripts.js"></script>
   <link rel="stylesheet" href="/Web/Css/accordeonMenu.css">
+  <link rel="shortcut icon" type="image/x-icon" href="https://anygis.ru/Web/Img/favicon.ico">
 
   <!--[if lt IE 9]>
-  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <script type="module" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-
-
-  <script> 
-
-
-
-
-    var testMapList = {
-      0: {name: "Google Satellite", region: "World", type: "Satellite"},
-      1: {name: "Yandex Satellite", region: "World", type: "Satellite"},
-      2: {name: "Open Street Map", region: "World", type: "City"},
-      3: {name: "2Gis", region: "Russia", type: "City"},
-      4: {name: "Visicom", region: "Ukraine", type: "City"},
-      5: {name: "Open Topo Map", region: "World", type: "Hike"},
-      6: {name: "GGC", region: "Russia", type: "Hike"},
-      7: {name: "Karpaty", region: "Ukraine", type: "Hike"}
-    }
-
-    var currentRegion = "All"
-    var currentType = "All"
-
-
-    function generateMapList() {
-      console.log(currentRegion, currentType)
-      var result = ""
-
-      for (item in testMapList) {
-
-        let regions = testMapList[item].region
-        let types = testMapList[item].type
-
-        if (currentRegion == 'All' || regions.includes(currentRegion) || regions.includes('World')) {
-
-          if (currentType == 'All' || types.includes(currentType)) {
-            console.log(testMapList[item].name)
-            result = result + testMapList[item].name + "<br>"
-          }
-          
-        } 
-      }
-
-      document.getElementsByClassName('replacing_div')[0].innerHTML = result
-    }
-
-  </script>
 </head>
 
 
@@ -98,7 +53,7 @@
       <h1>AnyGIS</h1>
       
       <p>Online maps pack</p>
-      
+
     </header>
 
     <section>
@@ -121,9 +76,10 @@
 
       <h1 id="hh1">Скачать карты</h1>
 
-      <button id="reset" onclick="currentRegion='All';currentType='All';generateMapList()">х</button>
 
-      <select onchange="currentRegion=this.value;generateMapList()">
+      <button id="reset" onclick="currentRegion='All';currentType='All';updateMapList()">х</button>
+
+      <select onchange="currentRegion=this.value;updateMapList()">
         <option value="All">(все страны)</option>
         <option value="World">🌍 Глобальное покрытие</option>
         <option value="Russia">🇷🇺 Россия</option>
@@ -131,7 +87,7 @@
         <option value="Belarus">🇧🇾 Белорусь</option>
       </select>
 
-      <select onchange="currentType=this.value;generateMapList()">
+      <select onchange="currentType=this.value;updateMapList()">
         <option value="All">(все категории)</option>
         <option value="Satellite">🛰 Спутниковые</option>
         <option value="City">🏠 Городские</option>
@@ -145,34 +101,34 @@
       <br>
       <br>
 
-      <button id="AllMaps" onclick="currentRegion='All';generateMapList()">х</button>
-      <button id="World" onclick="currentRegion='World';generateMapList()">Глобальные</button>
-      <button id="Russia" onclick="currentRegion='Russia';generateMapList()">Россия</button>
-      <button id="Ukraine" onclick="currentRegion='Ukraine';generateMapList()">Украина</button>
-      <button id="Belarus" onclick="currentRegion='Belarus';generateMapList()">Беларусь</button>
+      <button id="AllMaps" onclick="currentRegion='All';updateMapList()">х</button>
+      <button id="World" onclick="currentRegion='World';updateMapList()">Глобальные</button>
+      <button id="Russia" onclick="currentRegion='Russia';updateMapList()">Россия</button>
+      <button id="Ukraine" onclick="currentRegion='Ukraine';updateMapList()">Украина</button>
+      <button id="Belarus" onclick="currentRegion='Belarus';updateMapList()">Беларусь</button>
 
       <br>
       <!-- <br> -->
 
-      <button id="AllMaps" onclick="currentType='All';generateMapList()">х</button>
-      <button id="AllMaps" onclick="currentType='Satellite';generateMapList()">Спутниковые</button>
-      <button id="AllMaps" onclick="currentType='City';generateMapList()">Городские</button>
-      <button id="AllMaps" onclick="currentType='Auto';generateMapList()">Авто</button>
+      <button id="AllMaps1" onclick="currentType='All';updateMapList()">х</button>
+      <button id="AllMaps2" onclick="currentType='Satellite';updateMapList()">Спутниковые</button>
+      <button id="AllMaps3" onclick="currentType='City';updateMapList()">Городские</button>
+      <button id="AllMaps4" onclick="currentType='Auto';updateMapList()">Авто</button>
 
-      <button id="AllMaps" onclick="currentType='Cycle';generateMapList()">Вело</button>
-      <button id="AllMaps" onclick="currentType='Hike';generateMapList()">Туризм</button>
-      <button id="AllMaps" onclick="currentType='Winter';generateMapList()">Зимние</button>
-      <button id="AllMaps" onclick="currentType='Water';generateMapList()">Водные</button>
-      <button id="AllMaps" onclick="currentType='Avia';generateMapList()">Авиа</button>
-      <button id="AllMaps" onclick="currentType='Hike';generateMapList()">Туристические</button>
-      <button id="AllMaps" onclick="currentType='Info';generateMapList()">Справочные</button>
-      <button id="AllMaps" onclick="currentType='Infrastuctura';generateMapList()">Инфраструктура</button>
-      <button id="AllMaps" onclick="currentType='Hystoric';generateMapList()">Исторические</button>
-      <button id="AllMaps" onclick="currentType='Geology';generateMapList()">Геологические</button>
-      <button id="AllMaps" onclick="currentType='Print';generateMapList()">Для печати</button>
-      <button id="AllMaps" onclick="currentType='Other';generateMapList()">Разное</button>
-      <button id="AllMaps" onclick="currentType='Relief';generateMapList()">Рельеф</button>
-      <button id="AllMaps" onclick="currentType='Labels';generateMapList()">Подписи</button>
+      <button id="AllMaps5" onclick="currentType='Cycle';updateMapList()">Вело</button>
+      <button id="AllMaps6" onclick="currentType='Hike';updateMapList()">Туризм</button>
+      <button id="AllMaps7" onclick="currentType='Winter';updateMapList()">Зимние</button>
+      <button id="AllMaps8" onclick="currentType='Water';updateMapList()">Водные</button>
+      <button id="AllMaps9" onclick="currentType='Avia';updateMapList()">Авиа</button>
+      <button id="AllMaps10" onclick="currentType='Hike';updateMapList()">Туристические</button>
+      <button id="AllMaps11" onclick="currentType='Info';updateMapList()">Справочные</button>
+      <button id="AllMaps12" onclick="currentType='Infrastuctura';updateMapList()">Инфраструктура</button>
+      <button id="AllMaps13" onclick="currentType='Hystoric';updateMapList()">Исторические</button>
+      <button id="AllMaps14" onclick="currentType='Geology';updateMapList()">Геологические</button>
+      <button id="AllMaps15" onclick="currentType='Print';updateMapList()">Для печати</button>
+      <button id="AllMaps16" onclick="currentType='Other';updateMapList()">Разное</button>
+      <button id="AllMaps17" onclick="currentType='Relief';updateMapList()">Рельеф</button>
+      <button id="AllMaps18" onclick="currentType='Labels';updateMapList()">Подписи</button>
 
       <br>
       <br>
@@ -199,7 +155,8 @@
 </body>
 
   <script>
-    generateMapList()
+    updateMapList();
+    //updateMapList()
   </script>
   
 </html>
