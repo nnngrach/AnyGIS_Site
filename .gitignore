@@ -27,3 +27,7 @@ Gemfile.lock
  pkg/
  test/dest
  tmp/*
+.idea/misc.xml
+.idea/modernist-master.iml
+.idea/modules.xml
+.idea/vcs.xml
