@@ -1,13 +1,14 @@
+"use strict";
 // =======================================================
-// MARK: Types
+// Types
 // =======================================================
 // =======================================================
-// MARK: Redirecting
+// Redirecting
 // =======================================================
-var russianPagesPostfix = "_ru";
-var englishPagesPostfix = "_en";
 var indexPageUrlRu = "index";
 var indexPageUrlEn = "index_en";
+var russianPagesPostfix = "_ru";
+var englishPagesPostfix = "_en";
 var contactsPageUrlRu = "/Web/Html/Contacts_ru";
 var contactsPageUrlEn = "/Web/Html/Contacts_en";
 function redirectToIndexPage() {
@@ -47,23 +48,81 @@ function redirectToPageWithAnotherLanguage() {
     redirectTo(newUrl);
 }
 // =======================================================
-// MARK: Generating html maps list
+// First launch page setup
+// =======================================================
+//showCorrectUiForCurrentMode();
+// =======================================================
+// Downloading menu mode
+// =======================================================
+var isInDownloadingMode = false;
+var regularModeButtonID = "downloadMenuListBtn";
+var downloadingModeButtonID = "downloadMenuBackBtn";
+function changeMenuMode() {
+    isInDownloadingMode = !isInDownloadingMode;
+    showCorrectUiForCurrentMode();
+}
+function showCorrectUiForCurrentMode() {
+    if (isInDownloadingMode) {
+        setDivVisiability(regularModeButtonID, false);
+        setDivVisiability(downloadingModeButtonID, true);
+    }
+    else {
+        setDivVisiability(regularModeButtonID, true);
+        setDivVisiability(downloadingModeButtonID, false);
+        updateMapList();
+    }
+}
+// =======================================================
+// Reset Html elements
+// =======================================================
+var defaultSelectorValue = 0;
+var countrySelectID = "mapCountrySelector";
+var categorySelectID = "mapCategorySelector";
+function resetAllSelectElements() {
+    currentRegion = defaultValue;
+    currentType = defaultValue;
+    resetSelectElement(countrySelectID);
+    resetSelectElement(categorySelectID);
+    updateMapList();
+}
+function resetSelectElement(id) {
+    var element = document.getElementById(id);
+    if (!element)
+        return;
+    element.selectedIndex = defaultSelectorValue;
+}
+// =======================================================
+// Select elements state
 // =======================================================
 var defaultValue = "All";
-var allCountriesValue = "World";
-var replacingDivClass = "replacing_div";
 var currentRegion = defaultValue;
 var currentType = defaultValue;
+var currentApp = defaultValue;
+function changeRegion(newValue) {
+    currentRegion = newValue;
+    updateMapList();
+}
+function changeType(newValue) {
+    currentType = newValue;
+    updateMapList();
+}
+function changeApp(newValue) {
+    currentApp = newValue;
+    updateMapList();
+}
+// =======================================================
+// Generating Html maps list
+// =======================================================
+var allCountriesValue = "World";
+var replacingDivClass = "replacing_div";
 var downloadedMapList = [];
 function updateMapList() {
-    console.log("updateMapList");
     if (downloadedMapList.length === 0) {
         downloadedMapList = downloadMapList();
     }
     generateMapListHtml(downloadedMapList);
 }
 function generateMapListHtml(mapListItems) {
-    console.log("generateMapListHtml");
     var result = "";
     mapListItems.forEach(function (mapItem) {
         if (currentRegion == defaultValue ||
@@ -71,20 +130,42 @@ function generateMapListHtml(mapListItems) {
             isContains(mapItem.regions, allCountriesValue)) {
             if (currentType == defaultValue ||
                 isContains(mapItem.types, currentType)) {
-                result += mapItem.name + "<br>";
+                var preparedMapline = mapLineTemplate.replace("{mapName}", mapItem.name);
+                result += preparedMapline;
             }
         }
     });
     replaceElementContent(replacingDivClass, result);
 }
+var mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    <input type=\"checkbox\" class=\"mapLineCheckbox\">\n\n    <a\n        href=\"https://anygis.ru/api/v1/preview/{anygisMapName}\"\n        target=\"_blank\" title=\"\u041F\u0440\u0435\u0434\u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440 \u043A\u0430\u0440\u0442\u044B\">\n        <img src=\"/Web/Img/eye_gray.png\" class=\"eye_icon\"/>\n    </a>\n    \n    <a\n        href=\"{singleMapDownloadUrl}\"\n        title=\"\u0421\u043A\u0430\u0447\u0430\u0442\u044C \u044D\u0442\u0443 \u043A\u0430\u0440\u0442\u0443\">\n        {mapName}\n    </a>\n</div>\n\n    ";
 function replaceElementContent(elementClass, newContent) {
     document.getElementsByClassName(elementClass)[0].innerHTML = newContent;
 }
 // =======================================================
-// MARK: Download All maps list JSON  (MOCK)
+// Helping functions
+// =======================================================
+function getCurrentURL() {
+    return String(location);
+}
+function redirectTo(url) {
+    window.location.replace(url);
+}
+function isContains(sourceText, checkingText) {
+    // not found = -1
+    return sourceText.indexOf(checkingText) > -1;
+}
+function setDivVisiability(className, isVisible) {
+    var elements = document.getElementsByClassName(className);
+    if (!elements)
+        return;
+    var element = elements[0];
+    //element.style.visibility = isVisible ? "visible" : "hidden";
+    element.style.display = isVisible ? "inline-block" : "none";
+}
+// =======================================================
+// Download All maps list JSON  (just MOCK for now)
 // =======================================================
 function downloadMapList() {
-    console.log("pregeneratedMapList");
     return pregeneratedMapList;
 }
 var pregeneratedMapList = [
@@ -97,18 +178,4 @@ var pregeneratedMapList = [
     { name: "GGC", regions: "Russia", types: "Hike", apps: "Locus, Guru, Osmand" },
     { name: "Karpaty", regions: "Ukraine", types: "Hike", apps: "Locus, Guru, Osmand" }
 ];
-// =======================================================
-// MARK: Helping functions
-// =======================================================
-function getCurrentURL() {
-    return String(location);
-}
-function redirectTo(url) {
-    window.location.replace(url);
-}
-function isContains(sourceText, checkingText) {
-    // not found = -1
-    return sourceText.indexOf(checkingText) > -1;
-}
-console.log("!");
 //# sourceMappingURL=AGScripts.js.map

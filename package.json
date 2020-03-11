@@ -5,7 +5,8 @@
   "main": "AGScripts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc --sourceMap true  ./customScripts/AGScripts.ts",
+    "buildManual": "tsc --sourceMap true  ./customScripts/AGScripts.ts",
+    "build": "tsc --build ./customScripts/tsconfig.json",
     "serverStart": "bundle exec jekyll serve",
     "serverStartLiveReload": "bundle exec jekyll serve --livereload"
   },

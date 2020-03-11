@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <!-- Hide this page -->
+  <meta name="robots" content="noindex" />
+
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+  <title>AnyGIS | Online maps pack</title>
+  <meta name="generator" content="Jekyll v4.0.0" />
+  <meta property="og:title" content="AnyGIS" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description" content="Online maps pack" />
+  <meta property="og:description" content="Online maps pack" />
+  <link rel="canonical" href="http://localhost:4000/Web/Html/ForbiddenMaps_ru.html" />
+  <meta property="og:url" content="http://localhost:4000/Web/Html/ForbiddenMaps_ru.html" />
+  <meta property="og:site_name" content="AnyGIS" />
+  <script type="application/ld+json">
+  {"headline":"AnyGIS","url":"http://localhost:4000/Web/Html/RusOutdoor_ru.html","description":"Online maps pack","@type":"WebPage","@context":"https://schema.org"}</script>
+  <!-- End Jekyll SEO tag -->
+
+    
+  <link rel="stylesheet" href="/assets/css/style.css?v=">
+  <script src="/assets/js/scale.fix.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+
+  <!-- Custom parameters -->
+  <script src="/customScripts/AGScripts.js"></script>
+  <link rel="stylesheet" href="/Web/Css/accordeonMenu.css">
+  <link rel="stylesheet" href="/Web/Css/downloadMenu.css">
+  <link rel="shortcut icon" type="image/x-icon" href="https://anygis.ru/Web/Img/favicon.ico">
+
+  <!--[if lt IE 9]>
+  <script type="module" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+
+
+
+
+<body>
+
+  <div class="wrapper">
+    <header >
+
+      <a href="javascript:redirectToIndexPage()"><img src="/Web/Img/AnyGIS_logo_50.png" style="float:left;width:45px;height:45px;"></a>
+      <a href="javascript:redirectToPageWithAnotherLanguage()"><img src="/Web/Img/changeLanguage.png" style="float:right;height:25px;padding-top:10px;"></a>
+
+      <h1>AnyGIS</h1>
+      
+      <p>Online maps pack</p>
+
+    </header>
+
+    <section>
+
+      <table>
+        <tbody>
+          <tr>
+            <td><a href="/index">На главную</a></td>
+            <td><a href="/Web/Html/Articles_ru">Полезные статьи</a></td>
+            <td><a href="/Web/Html/DownloadPage_ru">Скачать карты</a></td>
+            <td><a href="https://www.donationalerts.com/r/nnngrach">Поддержать проект</a></td>
+          </tr>
+        </tbody>
+      </table>
+
+
+<!--      <h1 id="hh1">Скачать карты</h1>-->
+
+
+      <div class="downloadMenuContainer">
+
+        <div class="downloadMenuResetBtn">
+          <a href="#"
+             title="Очистить список выбранных карт"
+             onclick="">
+            x
+          </a>
+        </div>
+
+
+
+        <div class="downloadMenuListBtn">
+          <a href="#"
+             title="Показать список выбранных карт"
+             onclick="changeMenuMode()">
+            Выбрано карт: 342
+          </a>
+        </div>
+
+
+        <div class="downloadMenuBackBtn">
+          <a href="#"
+             title="Вернуться в меню добавления карт"
+             onclick="changeMenuMode()">
+            Назад к выбору карт
+          </a>
+        </div>
+
+        <div class="downloadMenuDownloadBtn">
+          <a href="#"
+             title="Скачать все выбранные карты"
+             onclick="">
+            Скачать выбранное
+          </a>
+        </div>
+
+      </div>
+
+
+      <div class="rubricator">
+
+        <button id="reset" onclick="resetAllSelectElements()">х</button>
+
+        <select id="mapCountrySelector" onchange="changeRegion(this.value)">
+          <option value="All">(все страны)</option>
+          <option value="World">🌍 Глобальное покрытие</option>
+          <option value="Russia">🇷🇺 Россия</option>
+          <option value="Ukraine">🇺🇦 Украина</option>
+          <option value="Belarus">🇧🇾 Белорусь</option>
+        </select>
+
+        <select id="mapCategorySelector" onchange="changeType(this.value)">
+          <option value="All">(все категории)</option>
+          <option value="Satellite">🛰 Спутниковые</option>
+          <option value="City">🏠 Городские</option>
+          <option value="Auto">🚗 Авто</option>
+          <option value="Cycle">🚲 Вело</option>
+          <option value="Hike">🥾 Туризм</option>
+        </select>
+
+        <select id="mapAppSelector" onchange="changeApp(this.value)">
+          <option value="All">(все форматы)</option>
+          <option value="Locus">Locus</option>
+          <option value="OsmandSql">OsmAnd Sqlitedb</option>
+          <option value="OsmandMeta">OsmAnd Metainfo</option>
+          <option value="GuruMaps">Guru Maps</option>
+          <option value="Alpne">Alpine Quest</option>
+          <option value="Orux">Orux Maps</option>
+        </select>
+
+      </div>
+
+
+      <div class="replacing_div">Список карт пуст</div>
+
+
+    </section>
+
+  </div>
+
+  <footer>
+    <p><b>Contacts</b> - project maintained by <a href="javascript:redirectToContactsPage()">nnngrach</a></p>
+
+    <p>Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+  </footer>
+
+
+  <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+  <!--
+  
+  -->
+</body>
+
+  <script>
+    showCorrectUiForCurrentMode();
+    //updateMapList()
+  </script>
+  
+</html>

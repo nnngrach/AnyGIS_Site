@@ -1,0 +1,78 @@
+/* Меню загрузки карт */
+
+.downloadMenuContainer {
+    position: relative;
+    left: -21px;
+    width: calc(100% + 42px);
+    /*left: 0;*/
+    /*width: 100%;*/
+
+    padding: 0;
+    /*margin:0 auto;*/
+    /*margin: 0;*/
+
+    text-align: center;
+    vertical-align: top;
+
+    line-height: 40px;
+    font-size: 14px;
+    font-weight: normal;
+    color: white;
+    /*background-color: #4C4C4C;*/
+}
+
+.downloadMenuContainer a {
+    color: white;
+    text-decoration: none;
+}
+
+.downloadMenuContainer div {
+    display: inline-block;
+    vertical-align:top;
+    margin: 0 -2px;
+}
+
+.downloadMenuResetBtn {
+    background-color: #3A7CBE;
+    width: 38px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.downloadMenuListBtn, .downloadMenuBackBtn {
+    /*background-color: #4C4C4C;*/
+    background-color: #434B55;
+    width: calc(100% - 38px - 144px);
+}
+
+.downloadMenuDownloadBtn {
+    background-color: #90a959;
+    width: 144px;
+}
+
+
+
+/* Рубрикаторы карт */
+
+.rubricator {
+    margin-top: 2em;
+    text-align: left;
+}
+
+.rubricator select, button {
+    /*height: 21px;*/
+    height: 20px;
+    /*line-height: 19px;*/
+    /*line-height: 21px;*/
+    vertical-align: top;
+    -webkit-appearance:menu-item;
+}
+
+
+
+
+/* Список карт карт */
+
+.mapLineCheckbox {
+    margin-right: 2em;
+}

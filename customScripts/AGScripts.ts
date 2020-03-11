@@ -1,5 +1,5 @@
 // =======================================================
-// MARK: Types
+// Types
 // =======================================================
 
 type MapDataLine = {name: string, regions: string, types: string, apps: string};
@@ -9,13 +9,13 @@ type MapDataLine = {name: string, regions: string, types: string, apps: string};
 
 
 // =======================================================
-// MARK: Redirecting
+// Redirecting
 // =======================================================
 
-const russianPagesPostfix: string = "_ru";
-const englishPagesPostfix: string = "_en";
 const indexPageUrlRu: string = "index";
 const indexPageUrlEn: string = "index_en";
+const russianPagesPostfix: string = "_ru";
+const englishPagesPostfix: string = "_en";
 const contactsPageUrlRu: string = "/Web/Html/Contacts_ru";
 const contactsPageUrlEn: string = "/Web/Html/Contacts_en";
 
@@ -63,26 +63,115 @@ function redirectToPageWithAnotherLanguage(): void {
 
 
 
+// =======================================================
+// First launch page setup
+// =======================================================
+
+    //showCorrectUiForCurrentMode();
+
+
 
 
 // =======================================================
-// MARK: Generating html maps list
+// Downloading menu mode
+// =======================================================
+
+let isInDownloadingMode = false;
+const regularModeButtonID = "downloadMenuListBtn";
+const downloadingModeButtonID = "downloadMenuBackBtn";
+
+
+function changeMenuMode(): void {
+
+    isInDownloadingMode = !isInDownloadingMode
+    showCorrectUiForCurrentMode();
+}
+
+
+function showCorrectUiForCurrentMode() {
+
+    if (isInDownloadingMode) {
+        setDivVisiability(regularModeButtonID, false);
+        setDivVisiability(downloadingModeButtonID, true);
+    } else {
+        setDivVisiability(regularModeButtonID, true);
+        setDivVisiability(downloadingModeButtonID, false);
+        updateMapList()
+    }
+}
+
+
+
+
+// =======================================================
+// Reset Html elements
+// =======================================================
+
+const defaultSelectorValue = 0;
+const countrySelectID = "mapCountrySelector";
+const categorySelectID = "mapCategorySelector";
+
+
+function resetAllSelectElements(): void {
+    currentRegion = defaultValue;
+    currentType = defaultValue;
+    resetSelectElement(countrySelectID);
+    resetSelectElement(categorySelectID);
+    updateMapList();
+}
+
+
+function resetSelectElement(id: string): void {
+    let element = document.getElementById(id) as HTMLSelectElement;
+    if (!element) return;
+
+    element.selectedIndex = defaultSelectorValue;
+}
+
+
+
+
+
+
+// =======================================================
+// Select elements state
 // =======================================================
 
 const defaultValue = "All";
-const allCountriesValue = "World";
-const replacingDivClass = "replacing_div";
 
 let currentRegion = defaultValue;
 let currentType = defaultValue;
+let currentApp = defaultValue;
 
+function changeRegion(newValue: string): void {
+    currentRegion = newValue;
+    updateMapList();
+}
+
+function changeType(newValue: string): void {
+    currentType = newValue;
+    updateMapList();
+}
+
+function changeApp(newValue: string): void {
+    currentApp = newValue;
+    updateMapList();
+}
+
+
+
+
+
+// =======================================================
+// Generating Html maps list
+// =======================================================
+
+const allCountriesValue = "World";
+const replacingDivClass = "replacing_div";
 
 let downloadedMapList: MapDataLine[] = [];
 
-
 function updateMapList(): void {
-
-    console.log("updateMapList");
 
     if (downloadedMapList.length === 0) {
         downloadedMapList = downloadMapList();
@@ -92,9 +181,10 @@ function updateMapList(): void {
 }
 
 
-function generateMapListHtml(mapListItems: MapDataLine[]): void {
 
-    console.log("generateMapListHtml");
+
+
+function generateMapListHtml(mapListItems: MapDataLine[]): void {
 
     let result: string = "";
 
@@ -107,13 +197,38 @@ function generateMapListHtml(mapListItems: MapDataLine[]): void {
             if (currentType == defaultValue ||
                 isContains(mapItem.types, currentType)) {
 
-                result += mapItem.name + "<br>";
+                let preparedMapline = mapLineTemplate.replace("{mapName}", mapItem.name);
+                result += preparedMapline;
             }
         }
     });
 
     replaceElementContent(replacingDivClass, result);
 }
+
+
+const mapLineTemplate = `
+<br>
+
+<div class="mapLine">
+    <input type="checkbox" class="mapLineCheckbox">
+
+    <a
+        href="https://anygis.ru/api/v1/preview/{anygisMapName}"
+        target="_blank" title="Предпросмотр карты">
+        <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+    </a>
+    
+    <a
+        href="{singleMapDownloadUrl}"
+        title="Скачать эту карту">
+        {mapName}
+    </a>
+</div>
+
+    `;
+
+
 
 
 function replaceElementContent(elementClass: string, newContent: string): void {
@@ -124,13 +239,44 @@ function replaceElementContent(elementClass: string, newContent: string): void {
 
 
 
+// =======================================================
+// Helping functions
+// =======================================================
+
+function getCurrentURL(): string {
+    return String(location);
+}
+
+
+function redirectTo(url: string): void {
+    window.location.replace(url);
+}
+
+
+function isContains(sourceText: string, checkingText: string): boolean {
+    // not found = -1
+    return sourceText.indexOf(checkingText) > -1;
+}
+
+
+function setDivVisiability(className: string, isVisible: boolean): void {
+
+    let elements = document.getElementsByClassName(className);
+    if (!elements) return;
+
+    let element = elements[0] as HTMLDivElement;
+    element.style.display = isVisible ? "inline-block" : "none";
+}
+
+
+
+
 
 // =======================================================
-// MARK: Download All maps list JSON  (MOCK)
+// Download All maps list JSON  (just MOCK for now)
 // =======================================================
 
 function downloadMapList(): MapDataLine[] {
-    console.log("pregeneratedMapList");
     return pregeneratedMapList;
 }
 
@@ -150,23 +296,3 @@ const pregeneratedMapList: MapDataLine[] = [
 
 
 
-// =======================================================
-// MARK: Helping functions
-// =======================================================
-
-function getCurrentURL(): string {
-    return String(location);
-}
-
-
-function redirectTo(url: string): void {
-    window.location.replace(url);
-}
-
-
-function isContains(sourceText: string, checkingText: string): boolean {
-    // not found = -1
-    return sourceText.indexOf(checkingText) > -1;
-}
-
-console.log("!");

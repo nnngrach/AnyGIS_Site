@@ -74,12 +74,12 @@
 
 
 
-      <h1 id="hh1">Скачать карты</h1>
+      <h1 id="hh1">Download maps</h1>
 
 
-      <button id="reset" onclick="currentRegion='All';currentType='All';updateMapList()">х</button>
+      <button id="reset" onclick="resetAllSelectElements()">х</button>
 
-      <select onchange="currentRegion=this.value;updateMapList()">
+      <select id="mapCountrySelector" onchange="changeRegion(this.value)">
         <option value="All">(все страны)</option>
         <option value="World">🌍 Глобальное покрытие</option>
         <option value="Russia">🇷🇺 Россия</option>
@@ -87,7 +87,7 @@
         <option value="Belarus">🇧🇾 Белорусь</option>
       </select>
 
-      <select onchange="currentType=this.value;updateMapList()">
+      <select id="mapCategorySelector" onchange="changeType(this.value)">
         <option value="All">(все категории)</option>
         <option value="Satellite">🛰 Спутниковые</option>
         <option value="City">🏠 Городские</option>
@@ -96,42 +96,52 @@
         <option value="Hike">🥾 Туризм</option>
       </select>
 
+      <select id="mapAppSelector" onchange="changeApp(this.value)">
+        <option value="All">(все форматы)</option>
+        <option value="Locus">Locus</option>
+        <option value="OsmandSql">OsmAnd Sqlitedb</option>
+        <option value="OsmandMeta">OsmAnd Metainfo</option>
+        <option value="GuruMaps">Guru Maps</option>
+        <option value="Alpne">Alpine Quest</option>
+        <option value="Orux">Orux Maps</option>
+      </select>
 
 
-      <br>
-      <br>
 
-      <button id="AllMaps" onclick="currentRegion='All';updateMapList()">х</button>
-      <button id="World" onclick="currentRegion='World';updateMapList()">Глобальные</button>
-      <button id="Russia" onclick="currentRegion='Russia';updateMapList()">Россия</button>
-      <button id="Ukraine" onclick="currentRegion='Ukraine';updateMapList()">Украина</button>
-      <button id="Belarus" onclick="currentRegion='Belarus';updateMapList()">Беларусь</button>
+<!--      <br>-->
+<!--      <br>-->
 
-      <br>
-      <!-- <br> -->
+<!--      <button id="AllMaps" onclick="currentRegion='All';updateMapList()">х</button>-->
+<!--      <button id="World" onclick="currentRegion='World';updateMapList()">Глобальные</button>-->
+<!--      <button id="Russia" onclick="currentRegion='Russia';updateMapList()">Россия</button>-->
+<!--      <button id="Ukraine" onclick="currentRegion='Ukraine';updateMapList()">Украина</button>-->
+<!--      <button id="Belarus" onclick="currentRegion='Belarus';updateMapList()">Беларусь</button>-->
 
-      <button id="AllMaps1" onclick="currentType='All';updateMapList()">х</button>
-      <button id="AllMaps2" onclick="currentType='Satellite';updateMapList()">Спутниковые</button>
-      <button id="AllMaps3" onclick="currentType='City';updateMapList()">Городские</button>
-      <button id="AllMaps4" onclick="currentType='Auto';updateMapList()">Авто</button>
+<!--      <br>-->
+<!--      &lt;!&ndash; <br> &ndash;&gt;-->
 
-      <button id="AllMaps5" onclick="currentType='Cycle';updateMapList()">Вело</button>
-      <button id="AllMaps6" onclick="currentType='Hike';updateMapList()">Туризм</button>
-      <button id="AllMaps7" onclick="currentType='Winter';updateMapList()">Зимние</button>
-      <button id="AllMaps8" onclick="currentType='Water';updateMapList()">Водные</button>
-      <button id="AllMaps9" onclick="currentType='Avia';updateMapList()">Авиа</button>
-      <button id="AllMaps10" onclick="currentType='Hike';updateMapList()">Туристические</button>
-      <button id="AllMaps11" onclick="currentType='Info';updateMapList()">Справочные</button>
-      <button id="AllMaps12" onclick="currentType='Infrastuctura';updateMapList()">Инфраструктура</button>
-      <button id="AllMaps13" onclick="currentType='Hystoric';updateMapList()">Исторические</button>
-      <button id="AllMaps14" onclick="currentType='Geology';updateMapList()">Геологические</button>
-      <button id="AllMaps15" onclick="currentType='Print';updateMapList()">Для печати</button>
-      <button id="AllMaps16" onclick="currentType='Other';updateMapList()">Разное</button>
-      <button id="AllMaps17" onclick="currentType='Relief';updateMapList()">Рельеф</button>
-      <button id="AllMaps18" onclick="currentType='Labels';updateMapList()">Подписи</button>
+<!--      <button id="AllMaps1" onclick="currentType='All';updateMapList()">х</button>-->
+<!--      <button id="AllMaps2" onclick="currentType='Satellite';updateMapList()">Спутниковые</button>-->
+<!--      <button id="AllMaps3" onclick="currentType='City';updateMapList()">Городские</button>-->
+<!--      <button id="AllMaps4" onclick="currentType='Auto';updateMapList()">Авто</button>-->
 
-      <br>
-      <br>
+<!--      <button id="AllMaps5" onclick="currentType='Cycle';updateMapList()">Вело</button>-->
+<!--      <button id="AllMaps6" onclick="currentType='Hike';updateMapList()">Туризм</button>-->
+<!--      <button id="AllMaps7" onclick="currentType='Winter';updateMapList()">Зимние</button>-->
+<!--      <button id="AllMaps8" onclick="currentType='Water';updateMapList()">Водные</button>-->
+<!--      <button id="AllMaps9" onclick="currentType='Avia';updateMapList()">Авиа</button>-->
+<!--      <button id="AllMaps10" onclick="currentType='Hike';updateMapList()">Туристические</button>-->
+<!--      <button id="AllMaps11" onclick="currentType='Info';updateMapList()">Справочные</button>-->
+<!--      <button id="AllMaps12" onclick="currentType='Infrastuctura';updateMapList()">Инфраструктура</button>-->
+<!--      <button id="AllMaps13" onclick="currentType='Hystoric';updateMapList()">Исторические</button>-->
+<!--      <button id="AllMaps14" onclick="currentType='Geology';updateMapList()">Геологические</button>-->
+<!--      <button id="AllMaps15" onclick="currentType='Print';updateMapList()">Для печати</button>-->
+<!--      <button id="AllMaps16" onclick="currentType='Other';updateMapList()">Разное</button>-->
+<!--      <button id="AllMaps17" onclick="currentType='Relief';updateMapList()">Рельеф</button>-->
+<!--      <button id="AllMaps18" onclick="currentType='Labels';updateMapList()">Подписи</button>-->
+
+<!--      <br>-->
+<!--      <br>-->
 
 
       <div class="replacing_div">Список карт пуст</div>
