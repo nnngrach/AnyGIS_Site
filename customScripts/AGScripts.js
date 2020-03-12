@@ -55,20 +55,29 @@ function redirectToPageWithAnotherLanguage() {
 // Downloading menu mode
 // =======================================================
 var isInDownloadingMode = false;
+var regularModeHeaderID = "regularModeHeader";
+var downloadingHeaderID = "downloadModeHeader";
 var regularModeButtonID = "downloadMenuListBtn";
 var downloadingModeButtonID = "downloadMenuBackBtn";
+var rubricatorID = "rubricator";
 function changeMenuMode() {
     isInDownloadingMode = !isInDownloadingMode;
     showCorrectUiForCurrentMode();
 }
 function showCorrectUiForCurrentMode() {
     if (isInDownloadingMode) {
+        setDivVisiability(regularModeHeaderID, false);
+        setDivVisiability(downloadingHeaderID, true);
         setDivVisiability(regularModeButtonID, false);
         setDivVisiability(downloadingModeButtonID, true);
+        setDivVisiability(rubricatorID, false);
     }
     else {
+        setDivVisiability(regularModeHeaderID, true);
+        setDivVisiability(downloadingHeaderID, false);
         setDivVisiability(regularModeButtonID, true);
         setDivVisiability(downloadingModeButtonID, false);
+        setDivVisiability(rubricatorID, true);
         updateMapList();
     }
 }
@@ -159,7 +168,6 @@ function setDivVisiability(className, isVisible) {
     if (!elements)
         return;
     var element = elements[0];
-    //element.style.visibility = isVisible ? "visible" : "hidden";
     element.style.display = isVisible ? "inline-block" : "none";
 }
 // =======================================================

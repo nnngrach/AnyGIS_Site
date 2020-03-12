@@ -77,8 +77,11 @@ function redirectToPageWithAnotherLanguage(): void {
 // =======================================================
 
 let isInDownloadingMode = false;
+const regularModeHeaderID = "regularModeHeader";
+const downloadingHeaderID = "downloadModeHeader";
 const regularModeButtonID = "downloadMenuListBtn";
 const downloadingModeButtonID = "downloadMenuBackBtn";
+const rubricatorID = "rubricator";
 
 
 function changeMenuMode(): void {
@@ -91,11 +94,17 @@ function changeMenuMode(): void {
 function showCorrectUiForCurrentMode() {
 
     if (isInDownloadingMode) {
+        setDivVisiability(regularModeHeaderID, false);
+        setDivVisiability(downloadingHeaderID, true);
         setDivVisiability(regularModeButtonID, false);
         setDivVisiability(downloadingModeButtonID, true);
+        setDivVisiability(rubricatorID, false);
     } else {
+        setDivVisiability(regularModeHeaderID, true);
+        setDivVisiability(downloadingHeaderID, false);
         setDivVisiability(regularModeButtonID, true);
         setDivVisiability(downloadingModeButtonID, false);
+        setDivVisiability(rubricatorID, true);
         updateMapList()
     }
 }

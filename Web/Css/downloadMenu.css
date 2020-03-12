@@ -19,6 +19,7 @@
     font-weight: normal;
     color: white;
     /*background-color: #4C4C4C;*/
+    box-shadow: 0 1px 3px rgba(0,0,0,0.65);
 }
 
 .downloadMenuContainer a {
@@ -42,7 +43,17 @@
 .downloadMenuListBtn, .downloadMenuBackBtn {
     /*background-color: #4C4C4C;*/
     background-color: #434B55;
+
     width: calc(100% - 38px - 144px);
+}
+
+.downloadMenuBackBtn {
+    /*background-color: #4C4C4C;*/
+    /*background-color: #434B55;*/
+    /*background-color: #3a4e5e;*/
+
+    /*background-color: #324452;*/
+    background-color: #485346;
 }
 
 .downloadMenuDownloadBtn {
