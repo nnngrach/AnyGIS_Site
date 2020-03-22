@@ -1,6 +1,9 @@
 /* Меню загрузки карт */
 
 .downloadMenuContainer {
+
+    display: none;
+
     position: relative;
     left: -21px;
     width: calc(100% + 42px);
@@ -28,6 +31,7 @@
 }
 
 .downloadMenuContainer div {
+    display: none;
     display: inline-block;
     vertical-align:top;
     margin: 0 -2px;
@@ -83,6 +87,10 @@
 
 
 /* Список карт карт */
+
+.mapLineLink  {
+    padding-left: 1em;
+}
 
 .mapLineCheckbox {
     margin-right: 2em;

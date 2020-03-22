@@ -2,7 +2,7 @@
 // Types
 // =======================================================
 
-type MapDataLine = {name: string, regions: string, types: string, apps: string};
+type MapDataLine = {nameRU: string, regions: string, types: string, apps: string};
 
 
 
@@ -63,14 +63,6 @@ function redirectToPageWithAnotherLanguage(): void {
 
 
 
-// =======================================================
-// First launch page setup
-// =======================================================
-
-    //showCorrectUiForCurrentMode();
-
-
-
 
 // =======================================================
 // Downloading menu mode
@@ -119,23 +111,83 @@ function showCorrectUiForCurrentMode() {
 const defaultSelectorValue = 0;
 const countrySelectID = "mapCountrySelector";
 const categorySelectID = "mapCategorySelector";
+const appSelectID = "mapAppSelector";
 
 
 function resetAllSelectElements(): void {
     currentRegion = defaultValue;
     currentType = defaultValue;
-    resetSelectElement(countrySelectID);
-    resetSelectElement(categorySelectID);
+    setSelectElementWith(defaultSelectorValue, countrySelectID);
+    setSelectElementWith(defaultSelectorValue, categorySelectID);
+
     updateMapList();
 }
 
 
-function resetSelectElement(id: string): void {
+
+function setSelectElementWith(value: number, id: string, ): void {
     let element = document.getElementById(id) as HTMLSelectElement;
     if (!element) return;
 
-    element.selectedIndex = defaultSelectorValue;
+    element.selectedIndex = value;
 }
+
+
+
+function setAppTypeFromUrlParams(): void {
+
+    try {
+        let queryAppName = getQueryVariable("app");
+
+        switch (queryAppName) {
+            case "Locus": {
+                currentApp = "Locus";
+                setSelectElementWith(1, appSelectID);
+                break;
+            }
+            case "OsmandSqlite": {
+                currentApp = "OsmandSqlite";
+                setSelectElementWith(2, appSelectID);
+                break;
+            }
+            case "OsmandMeta": {
+                currentApp = "OsmandMeta";
+                setSelectElementWith(3, appSelectID);
+                break;
+            }
+            case "Guru": {
+                currentApp = "Guru";
+                setSelectElementWith(4, appSelectID);
+                break;
+            }
+            case "Alpine": {
+                currentApp = "Alpine";
+                setSelectElementWith(5, appSelectID);
+                break;
+            }
+            case "Orux": {
+                currentApp = "Orux";
+                setSelectElementWith(6, appSelectID);
+                break;
+            }
+            case "Desktop": {
+                currentApp = "Desktop";
+                setSelectElementWith(7, appSelectID);
+                break;
+            }
+            default: {
+                throw new Error();
+                break;
+            }
+        }
+
+    } catch (e) {
+        currentApp = defaultValue;
+        setSelectElementWith(defaultSelectorValue, appSelectID);
+    }
+}
+
+
 
 
 
@@ -147,10 +199,13 @@ function resetSelectElement(id: string): void {
 // =======================================================
 
 const defaultValue = "All";
+const globalCoverageValue = "World";
 
 let currentRegion = defaultValue;
 let currentType = defaultValue;
 let currentApp = defaultValue;
+
+
 
 function changeRegion(newValue: string): void {
     currentRegion = newValue;
@@ -199,17 +254,19 @@ function generateMapListHtml(mapListItems: MapDataLine[]): void {
 
     mapListItems.forEach(function (mapItem) {
 
-        if (currentRegion == defaultValue ||
-            isContains(mapItem.regions, currentRegion) ||
-            isContains(mapItem.regions, allCountriesValue)) {
+        if (currentRegion != defaultValue &&
+            !isContains(mapItem.regions, currentRegion) &&
+            !isContains(mapItem.regions, globalCoverageValue)) return;
 
-            if (currentType == defaultValue ||
-                isContains(mapItem.types, currentType)) {
+        if (currentType != defaultValue &&
+            !isContains(mapItem.types, currentType)) return;
 
-                let preparedMapline = mapLineTemplate.replace("{mapName}", mapItem.name);
-                result += preparedMapline;
-            }
-        }
+        if (currentApp != defaultValue &&
+            !isContains(mapItem.apps, currentApp)) return;
+
+
+        let preparedMapline = mapLineTemplate.replace("{mapName}", mapItem.nameRU);
+        result += preparedMapline;
     });
 
     replaceElementContent(replacingDivClass, result);
@@ -220,15 +277,15 @@ const mapLineTemplate = `
 <br>
 
 <div class="mapLine">
-    <input type="checkbox" class="mapLineCheckbox">
+<!--    <input type="checkbox" class="mapLineCheckbox">-->
 
-    <a
+    <a class="mapLinePreview"
         href="https://anygis.ru/api/v1/preview/{anygisMapName}"
         target="_blank" title="Предпросмотр карты">
         <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
     </a>
     
-    <a
+    <a class="mapLineLink"
         href="{singleMapDownloadUrl}"
         title="Скачать эту карту">
         {mapName}
@@ -257,6 +314,20 @@ function getCurrentURL(): string {
 }
 
 
+function getQueryVariable(variable: string): string {
+    var query = window.location.search.substring(1);
+    var vars = query.split('&');
+    for (var i = 0; i < vars.length; i++) {
+        var pair = vars[i].split('=');
+        if (decodeURIComponent(pair[0]) == variable) {
+            return decodeURIComponent(pair[1]);
+        }
+    }
+
+    throw new Error("Query variable not found: " + variable);
+}
+
+
 function redirectTo(url: string): void {
     window.location.replace(url);
 }
@@ -281,27 +352,20 @@ function setDivVisiability(className: string, isVisible: boolean): void {
 
 
 
+
+
+
+
+
+
 // =======================================================
-// Download All maps list JSON  (just MOCK for now)
+// Get/Download All maps list JSON  
 // =======================================================
 
+// MapList is in file "MapList.js".
+// It added in HTML page with  <script = "..."> tag.
 function downloadMapList(): MapDataLine[] {
-    return pregeneratedMapList;
+
+    // @ts-ignore
+    return MapsList.mapsList;
 }
-
-
-const pregeneratedMapList: MapDataLine[] = [
-    {name: "Google Satellite", regions: "World", types: "Satellite", apps: "Locus, Guru, Osmand"},
-    {name: "Yandex Satellite", regions: "World", types: "Satellite", apps: "Locus, Osmand"},
-    {name: "Open Street Map", regions: "World", types: "City", apps: "Locus, Guru, Osmand"},
-    {name: "2Gis", regions: "Russia", types: "City", apps: "Locus, Guru, Osmand"},
-    {name: "Visikom", regions: "Ukraine", types: "City", apps: "Locus, Osmand"},
-    {name: "Open Topo Map", regions: "World", types: "Hike", apps: "Locus, Guru"},
-    {name: "GGC", regions: "Russia", types: "Hike", apps: "Locus, Guru, Osmand"},
-    {name: "Karpaty", regions: "Ukraine", types: "Hike", apps: "Locus, Guru, Osmand"}
-];
-
-
-
-
-

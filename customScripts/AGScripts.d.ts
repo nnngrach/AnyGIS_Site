@@ -1,5 +1,5 @@
 declare type MapDataLine = {
-    name: string;
+    nameRU: string;
     regions: string;
     types: string;
     apps: string;
@@ -24,9 +24,12 @@ declare function showCorrectUiForCurrentMode(): void;
 declare const defaultSelectorValue = 0;
 declare const countrySelectID = "mapCountrySelector";
 declare const categorySelectID = "mapCategorySelector";
+declare const appSelectID = "mapAppSelector";
 declare function resetAllSelectElements(): void;
-declare function resetSelectElement(id: string): void;
+declare function setSelectElementWith(value: number, id: string): void;
+declare function setAppTypeFromUrlParams(): void;
 declare const defaultValue = "All";
+declare const globalCoverageValue = "World";
 declare let currentRegion: string;
 declare let currentType: string;
 declare let currentApp: string;
@@ -38,12 +41,12 @@ declare const replacingDivClass = "replacing_div";
 declare let downloadedMapList: MapDataLine[];
 declare function updateMapList(): void;
 declare function generateMapListHtml(mapListItems: MapDataLine[]): void;
-declare const mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    <input type=\"checkbox\" class=\"mapLineCheckbox\">\n\n    <a\n        href=\"https://anygis.ru/api/v1/preview/{anygisMapName}\"\n        target=\"_blank\" title=\"\u041F\u0440\u0435\u0434\u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440 \u043A\u0430\u0440\u0442\u044B\">\n        <img src=\"/Web/Img/eye_gray.png\" class=\"eye_icon\"/>\n    </a>\n    \n    <a\n        href=\"{singleMapDownloadUrl}\"\n        title=\"\u0421\u043A\u0430\u0447\u0430\u0442\u044C \u044D\u0442\u0443 \u043A\u0430\u0440\u0442\u0443\">\n        {mapName}\n    </a>\n</div>\n\n    ";
+declare const mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n<!--    <input type=\"checkbox\" class=\"mapLineCheckbox\">-->\n\n    <a class=\"mapLinePreview\"\n        href=\"https://anygis.ru/api/v1/preview/{anygisMapName}\"\n        target=\"_blank\" title=\"\u041F\u0440\u0435\u0434\u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440 \u043A\u0430\u0440\u0442\u044B\">\n        <img src=\"/Web/Img/eye_gray.png\" class=\"eye_icon\"/>\n    </a>\n    \n    <a class=\"mapLineLink\"\n        href=\"{singleMapDownloadUrl}\"\n        title=\"\u0421\u043A\u0430\u0447\u0430\u0442\u044C \u044D\u0442\u0443 \u043A\u0430\u0440\u0442\u0443\">\n        {mapName}\n    </a>\n</div>\n\n    ";
 declare function replaceElementContent(elementClass: string, newContent: string): void;
 declare function getCurrentURL(): string;
+declare function getQueryVariable(variable: string): string;
 declare function redirectTo(url: string): void;
 declare function isContains(sourceText: string, checkingText: string): boolean;
 declare function setDivVisiability(className: string, isVisible: boolean): void;
 declare function downloadMapList(): MapDataLine[];
-declare const pregeneratedMapList: MapDataLine[];
 //# sourceMappingURL=AGScripts.d.ts.map
