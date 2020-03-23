@@ -2,6 +2,7 @@ declare type MapDataLine = {
     nameRU: string;
     nameEn: string;
     fileName: string;
+    normallisedFileName: string;
     apiName: string;
     hasPreview: boolean;
     regions: string;

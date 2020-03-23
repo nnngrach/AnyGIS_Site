@@ -230,10 +230,11 @@ function generateMapListHtml(mapListItems) {
         preparedMapline = preparedMapline.replace("{downloadMessage}", downloadMessage);
         var downloadUrl = getDownloadUrlTemplate(currentApp);
         var lang = (isEnglish) ? "en" : "ru";
-        var fileNormalName = mapItem.fileName.replace("=", "%3D");
+        //let fileNormalName = mapItem.fileName.replace("=", "%3D")
         downloadUrl = downloadUrl.replace("{lang}", lang);
         downloadUrl = downloadUrl.replace("{fileName}", mapItem.fileName);
-        downloadUrl = downloadUrl.replace("{fileNormalisedName}", fileNormalName);
+        //downloadUrl = downloadUrl.replace("{fileNormalisedName}", fileNormalName);
+        downloadUrl = downloadUrl.replace("{fileNormalisedName}", mapItem.normallisedFileName);
         preparedMapline = preparedMapline.replace("{singleMapDownloadUrl}", downloadUrl);
         result += preparedMapline;
     });

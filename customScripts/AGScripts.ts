@@ -2,7 +2,7 @@
 // Types
 // =======================================================
 
-type MapDataLine = {nameRU: string, nameEn: string, fileName: string, apiName: string, hasPreview: boolean, regions: string, types: string, apps: string, isInShortSet: string};
+type MapDataLine = {nameRU: string, nameEn: string, fileName: string, normallisedFileName: string, apiName: string, hasPreview: boolean, regions: string, types: string, apps: string, isInShortSet: string};
 
 
 
@@ -312,10 +312,11 @@ function generateMapListHtml(mapListItems: MapDataLine[]): void {
 
         let downloadUrl = getDownloadUrlTemplate(currentApp);
         let lang = (isEnglish) ? "en" : "ru";
-        let fileNormalName = mapItem.fileName.replace("=", "%3D")
+        //let fileNormalName = mapItem.fileName.replace("=", "%3D")
         downloadUrl = downloadUrl.replace("{lang}", lang);
         downloadUrl = downloadUrl.replace("{fileName}", mapItem.fileName);
-        downloadUrl = downloadUrl.replace("{fileNormalisedName}", fileNormalName);
+        //downloadUrl = downloadUrl.replace("{fileNormalisedName}", fileNormalName);
+        downloadUrl = downloadUrl.replace("{fileNormalisedName}", mapItem.normallisedFileName);
         preparedMapline = preparedMapline.replace("{singleMapDownloadUrl}", downloadUrl);
 
         result += preparedMapline;
