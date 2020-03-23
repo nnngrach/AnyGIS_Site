@@ -32,7 +32,7 @@
 
 .downloadMenuContainer div {
     display: none;
-    display: inline-block;
+    /*display: inline-block;*/
     vertical-align:top;
     margin: 0 -2px;
 }
@@ -69,9 +69,12 @@
 
 /* Рубрикаторы карт */
 
+
+
 .rubricator {
-    margin-top: 2em;
+    /*margin-top: 2em;*/
     text-align: left;
+    width: 100%;
 }
 
 .rubricator select, button {
@@ -81,9 +84,16 @@
     /*line-height: 21px;*/
     vertical-align: top;
     -webkit-appearance:menu-item;
+    /*display: grid;*/
+    /*width: 100%;*/
 }
 
-
+@media screen and (max-width: 650px) {
+    .rubricator select, button {
+        display: grid;
+        width: 100%;
+    }
+}
 
 
 /* Список карт карт */

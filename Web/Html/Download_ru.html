@@ -130,10 +130,24 @@
 
       </div>
 
+<!--      <br>-->
 
       <div class="rubricator">
 
-        <button id="reset" title="Сброс" onclick="resetAllSelectElements()">х</button>
+        <button id="reset" title="Сброс" onclick="resetAllSelectElements()"><b>Сброс</b></button>
+
+
+        <select id="mapAppSelector" onchange="changeApp(this.value)">
+          <option value="All">(все форматы)</option>
+          <option value="Locus">Locus</option>
+          <option value="OsmandSqlite">OsmAnd Sqlitedb</option>
+          <option value="OsmandMeta">OsmAnd Metainfo</option>
+          <option value="GuruIOS">Guru Maps iOS</option>
+          <option value="GuruAndroid">Guru Maps Android</option>
+          <option value="Alpine">Alpine Quest</option>
+          <option value="Desktop">Desktop editors</option>
+        </select>
+
 
         <select id="mapCountrySelector" onchange="changeRegion(this.value)">
           <option value="All">(все страны)</option>
@@ -214,17 +228,6 @@
           <option value="Overlay - Mobile coverage">⏹️ 📞 Слои - Покрытие связи</option>
 <!--          <option value="Overlay - Infrastructure">⏹️ 🚥 Слои - Инфраструктура</option>-->
 <!--          <option value="Overlay - Other">⏹️ 🧩 Слои - Разное</option>-->
-        </select>
-
-        <select id="mapAppSelector" onchange="changeApp(this.value)">
-          <option value="All">(все форматы)</option>
-          <option value="Locus">Locus</option>
-          <option value="OsmandSqlite">OsmAnd Sqlitedb</option>
-          <option value="OsmandMeta">OsmAnd Metainfo</option>
-          <option value="GuruIOS">Guru Maps iOS</option>
-          <option value="GuruAndroid">Guru Maps Android</option>
-          <option value="Alpine">Alpine Quest</option>
-          <option value="Desktop">Desktop editors</option>
         </select>
 
       </div>
