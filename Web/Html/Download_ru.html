@@ -133,14 +133,57 @@
 
       <div class="rubricator">
 
-        <button id="reset" onclick="resetAllSelectElements()">х</button>
+        <button id="reset" title="Сброс" onclick="resetAllSelectElements()">х</button>
 
         <select id="mapCountrySelector" onchange="changeRegion(this.value)">
           <option value="All">(все страны)</option>
-          <option value="World">🌍 Глобальное покрытие</option>
-          <option value="Russia">🇷🇺 Россия</option>
-          <option value="Ukraine">🇺🇦 Украина</option>
-          <option value="Belarus">🇧🇾 Белорусь</option>
+
+          <optgroup label="Популярные">
+            <option value="World">🌍 Глобальное покрытие</option>
+            <option value="Russia">🇷🇺 Россия</option>
+            <option value="Ukraine">🇺🇦 Украина</option>
+            <option value="Belarus">🇧🇾 Белорусь</option>
+          </optgroup>
+
+          <optgroup label="Европа">
+            <option value="Europe">🇪🇺 Европейский континент</option>
+            <option value="GB">🇬🇧 Великобритания</option>
+            <option value="Denmark">🇩🇰 Дания</option>
+            <option value="Italy">🇮🇹 Италия</option>
+            <option value="Latvia">🇱🇻 Латвия</option>
+            <option value="Lithuania">🇱🇹 Литва</option>
+            <option value="Norway">🇳🇴 Норвегия</option>
+            <option value="Poland">🇵🇱 Польша</option>
+            <option value="Finland">🇫🇮 Финляндия</option>
+            <option value="France">🇫🇷 Франция</option>
+            <option value="Montenegro">🇲🇪 Черногория</option>
+            <option value="Czech">🇨🇿 Чехия</option>
+            <option value="Switzerland">🇨🇭 Швейцария</option>
+            <option value="Sweden">🇸🇪 Швеция</option>
+            <option value="Estonia">🇪🇪 Эстония</option>
+          </optgroup>
+
+          <optgroup label="Азия">
+            <option value="Azerbaijan">🇦🇿 Азербайджан</option>
+            <option value="Armenia">🇦🇲 Армения</option>
+            <option value="Georgia">🇬🇪 Грузия</option>
+            <option value="India">🇮🇳 Индия</option>
+            <option value="Cyprus">🇨🇾 Кипр</option>
+            <option value="Kazakhstan">🇰🇿 Казахстан</option>
+            <option value="Kyrgyzstan">🇰🇬 Киргизия</option>
+            <option value="Mongolia">🇲🇳 Монголия</option>
+            <option value="Tajikistan">🇹🇯 Таджикистан</option>
+            <option value="Turkmenistan">🇹🇲 Туркменистан</option>
+            <option value="Turkey">🇹🇷 Турция</option>
+            <option value="Uzbekistan">🇧🇾 Узбекистан</option>
+          </optgroup>
+
+          <optgroup label="Остальные страны">
+            <option value="USA">🇺🇸 США</option>
+            <option value="UAE">🇦🇪 ОАЭ</option>
+            <option value="Chilie">🇨🇱 Чили</option>
+            <option value="NZ">🇳🇿 Новая Зеландия</option>
+          </optgroup>
         </select>
 
         <select id="mapCategorySelector" onchange="changeType(this.value)">
@@ -178,9 +221,9 @@
           <option value="Locus">Locus</option>
           <option value="OsmandSqlite">OsmAnd Sqlitedb</option>
           <option value="OsmandMeta">OsmAnd Metainfo</option>
-          <option value="Guru">Guru Maps</option>
+          <option value="GuruIOS">Guru Maps iOS</option>
+          <option value="GuruAndroid">Guru Maps Android</option>
           <option value="Alpine">Alpine Quest</option>
-          <option value="Orux">Orux Maps</option>
           <option value="Desktop">Desktop editors</option>
         </select>
 
@@ -195,9 +238,9 @@
   </div>
 
   <footer>
-    <p><b>Contacts</b> - project maintained by <a href="javascript:redirectToContactsPage()">nnngrach</a></p>
+    <p><a href="javascript:redirectToContactsPage()">Contacts: </a>@nnngrach</p>
 
-    <p>Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    <p>Fork on <a href="https://github.com/nnngrach/AnyGIS_server">GitHub</a></p>
   </footer>
 
 

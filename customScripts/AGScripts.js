@@ -116,18 +116,18 @@ function setAppTypeFromUrlParams() {
                 setSelectElementWith(3, appSelectID);
                 break;
             }
-            case "Guru": {
-                currentApp = "Guru";
+            case "GuruIOS": {
+                currentApp = "GuruIOS";
                 setSelectElementWith(4, appSelectID);
+                break;
+            }
+            case "GuruAndroid": {
+                currentApp = "GuruAndroid";
+                setSelectElementWith(5, appSelectID);
                 break;
             }
             case "Alpine": {
                 currentApp = "Alpine";
-                setSelectElementWith(5, appSelectID);
-                break;
-            }
-            case "Orux": {
-                currentApp = "Orux";
                 setSelectElementWith(6, appSelectID);
                 break;
             }
@@ -145,6 +145,28 @@ function setAppTypeFromUrlParams() {
     catch (e) {
         currentApp = defaultValue;
         setSelectElementWith(defaultSelectorValue, appSelectID);
+    }
+}
+function getFavoriteModeFromUrlParams() {
+    try {
+        var queryAppName = getQueryVariable("shortSet");
+        switch (queryAppName) {
+            case "true": {
+                return true;
+                break;
+            }
+            case "false": {
+                return false;
+                break;
+            }
+            default: {
+                throw new Error();
+                break;
+            }
+        }
+    }
+    catch (e) {
+        return false;
     }
 }
 // =======================================================
@@ -181,6 +203,8 @@ function updateMapList() {
 }
 function generateMapListHtml(mapListItems) {
     var result = "";
+    var isEnglish = isContains(getCurrentURL(), englishPagesPostfix);
+    var isShortSet = getFavoriteModeFromUrlParams();
     mapListItems.forEach(function (mapItem) {
         if (currentRegion != defaultValue &&
             !isContains(mapItem.regions, currentRegion) &&
@@ -192,14 +216,74 @@ function generateMapListHtml(mapListItems) {
         if (currentApp != defaultValue &&
             !isContains(mapItem.apps, currentApp))
             return;
-        var preparedMapline = mapLineTemplate.replace("{mapName}", mapItem.nameRU);
+        if (isShortSet && !(mapItem.isInShortSet))
+            return;
+        var preparedMapline = mapLineTemplate;
+        var previewBlock = getPrewiewHtmlBlock(mapItem.hasPreview);
+        preparedMapline = preparedMapline.replace("{previewBlock}", previewBlock);
+        var previewMessage = (isEnglish) ? "Preview" : "Предпросмотр карты";
+        preparedMapline = preparedMapline.replace("{previewMessage}", previewMessage);
+        preparedMapline = preparedMapline.replace("{anygisMapName}", mapItem.apiName);
+        var name = (isEnglish) ? mapItem.nameEn : mapItem.nameRU;
+        preparedMapline = preparedMapline.replace("{mapName}", name);
+        var downloadMessage = (isEnglish) ? "Download this map" : "Скачать эту карту";
+        preparedMapline = preparedMapline.replace("{downloadMessage}", downloadMessage);
+        var downloadUrl = getDownloadUrlTemplate(currentApp);
+        var lang = (isEnglish) ? "en" : "ru";
+        var fileNormalName = mapItem.fileName.replace("=", "%3D");
+        downloadUrl = downloadUrl.replace("{lang}", lang);
+        downloadUrl = downloadUrl.replace("{fileName}", mapItem.fileName);
+        downloadUrl = downloadUrl.replace("{fileNormalisedName}", fileNormalName);
+        preparedMapline = preparedMapline.replace("{singleMapDownloadUrl}", downloadUrl);
         result += preparedMapline;
     });
     replaceElementContent(replacingDivClass, result);
 }
-var mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n<!--    <input type=\"checkbox\" class=\"mapLineCheckbox\">-->\n\n    <a class=\"mapLinePreview\"\n        href=\"https://anygis.ru/api/v1/preview/{anygisMapName}\"\n        target=\"_blank\" title=\"\u041F\u0440\u0435\u0434\u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440 \u043A\u0430\u0440\u0442\u044B\">\n        <img src=\"/Web/Img/eye_gray.png\" class=\"eye_icon\"/>\n    </a>\n    \n    <a class=\"mapLineLink\"\n        href=\"{singleMapDownloadUrl}\"\n        title=\"\u0421\u043A\u0430\u0447\u0430\u0442\u044C \u044D\u0442\u0443 \u043A\u0430\u0440\u0442\u0443\">\n        {mapName}\n    </a>\n</div>\n\n    ";
-function replaceElementContent(elementClass, newContent) {
-    document.getElementsByClassName(elementClass)[0].innerHTML = newContent;
+function getDownloadUrlTemplate(app) {
+    switch (app) {
+        case "Locus": {
+            return "locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_{lang}/__{fileNormalisedName}.xml";
+        }
+        case "OsmandSqlite": {
+            return "https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_{lang}/{fileName}.sqlitedb";
+        }
+        case "OsmandMeta": {
+            return "https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_{lang}/{fileName}.zip";
+        }
+        case "GuruIOS": {
+            return "guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_{lang}/{fileNormalisedName}.ms";
+        }
+        case "GuruAndroid": {
+            return "https://anygis.ru/api/v1/download/galileo_{lang}/{fileName}.ms";
+        }
+        case "Alpine": {
+            return "https://anygis.ru/api/v1/download/alpine_{lang}/{fileName}.AQX";
+        }
+        case "Desktop": {
+            return "https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_{lang}/{fileName}.txt";
+        }
+        default: {
+            return "#";
+        }
+    }
+}
+function getPrewiewHtmlBlock(hasPrewiew) {
+    if (hasPrewiew) {
+        return "\n    <a class=\"mapLinePreview\"\n        href=\"https://anygis.ru/api/v1/preview/{anygisMapName}\"\n        target=\"_blank\" title=\"{previewMessage}\"> \n        <img src=\"/Web/Img/eye_gray.png\" class=\"eye_icon\"/>\n    </a>\n        ";
+    }
+    else {
+        return "   \n    <img class=\"mapLinePreview\" src=\"/Web/Img/eyeNo_gray.png\" class=\"eye_icon\"/>      \n    ";
+    }
+}
+var mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    \n    {previewBlock}\n    \n    <a class=\"mapLineLink\"\n        href=\"{singleMapDownloadUrl}\"\n        target=\"_blank\" title=\"{downloadMessage}\">\n        {mapName}\n    </a>\n</div>\n\n    ";
+// =======================================================
+// Get/Download All maps list JSON
+// =======================================================
+// MapList is in file "MapList.js".
+// It added in HTML page with  <script = "..."> tag.
+function downloadMapList() {
+    // @ts-ignore
+    return MapsList.mapsList;
 }
 // =======================================================
 // Helping functions
@@ -218,6 +302,9 @@ function getQueryVariable(variable) {
     }
     throw new Error("Query variable not found: " + variable);
 }
+function replaceElementContent(elementClass, newContent) {
+    document.getElementsByClassName(elementClass)[0].innerHTML = newContent;
+}
 function redirectTo(url) {
     window.location.replace(url);
 }
@@ -231,14 +318,5 @@ function setDivVisiability(className, isVisible) {
         return;
     var element = elements[0];
     element.style.display = isVisible ? "inline-block" : "none";
-}
-// =======================================================
-// Download All maps list JSON  (just MOCK for now)
-// =======================================================
-// MapList is in file "MapList.js".
-// It added in HTML page with  <script = "..."> tag.
-function downloadMapList() {
-    // @ts-ignore
-    return MapsList.mapsList;
 }
 //# sourceMappingURL=AGScripts.js.map

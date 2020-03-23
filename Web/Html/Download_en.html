@@ -29,8 +29,10 @@
 
 
   <!-- Custom parameters -->
+  <script src="/Web/Html/Download/mapsList.js"></script>
   <script src="/customScripts/AGScripts.js"></script>
   <link rel="stylesheet" href="/Web/Css/accordeonMenu.css">
+  <link rel="stylesheet" href="/Web/Css/downloadMenu.css">
   <link rel="shortcut icon" type="image/x-icon" href="https://anygis.ru/Web/Img/favicon.ico">
 
   <!--[if lt IE 9]>
@@ -61,99 +63,184 @@
       <table>
         <tbody>
           <tr>
-            <td><a href="/index">На главную</a></td>
-            <td><a href="/Web/Html/Articles_ru">Полезные статьи</a></td>
-            <td><a href="/Web/Html/DownloadPage_ru">Скачать карты</a></td>
-            <td><a href="https://www.donationalerts.com/r/nnngrach">Поддержать проект</a></td>
+            <td><a href="/index_en">Main pahe</a></td>
+            <td><a href="/Web/Html/Articles_en">Articles</a></td>
+            <td><a href="/Web/Html/DownloadPage_en">Download maps</a></td>
+            <td><a href="https://www.donationalerts.com/r/nnngrach">Donate</a></td>
           </tr>
         </tbody>
       </table>
 
 
+<!--      <h1 id="hh1">Скачать карты</h1>-->
+
+<!--      <div class="regularModeHeader">-->
+<!--        <h1>Список карт</h1>-->
+<!--      </div>-->
+
+      <div class="regularModeHeader">
+        <h1>Download maps</h1>
+      </div>
+
+      <div class="downloadModeHeader">
+        <h1>Selected</h1>
+      </div>
 
 
 
+      <div class="downloadMenuContainer">
 
-      <h1 id="hh1">Download maps</h1>
-
-
-      <button id="reset" onclick="resetAllSelectElements()">х</button>
-
-      <select id="mapCountrySelector" onchange="changeRegion(this.value)">
-        <option value="All">(все страны)</option>
-        <option value="World">🌍 Глобальное покрытие</option>
-        <option value="Russia">🇷🇺 Россия</option>
-        <option value="Ukraine">🇺🇦 Украина</option>
-        <option value="Belarus">🇧🇾 Белорусь</option>
-      </select>
-
-      <select id="mapCategorySelector" onchange="changeType(this.value)">
-        <option value="All">(все категории)</option>
-        <option value="Satellite">🛰 Спутниковые</option>
-        <option value="City">🏠 Городские</option>
-        <option value="Auto">🚗 Авто</option>
-        <option value="Cycle">🚲 Вело</option>
-        <option value="Hike">🥾 Туризм</option>
-      </select>
-
-      <select id="mapAppSelector" onchange="changeApp(this.value)">
-        <option value="All">(все форматы)</option>
-        <option value="Locus">Locus</option>
-        <option value="OsmandSql">OsmAnd Sqlitedb</option>
-        <option value="OsmandMeta">OsmAnd Metainfo</option>
-        <option value="GuruMaps">Guru Maps</option>
-        <option value="Alpne">Alpine Quest</option>
-        <option value="Orux">Orux Maps</option>
-      </select>
+        <div class="downloadMenuResetBtn">
+          <a href="#"
+             title="Reset"
+             onclick="">
+            x
+          </a>
+        </div>
 
 
 
-<!--      <br>-->
-<!--      <br>-->
-
-<!--      <button id="AllMaps" onclick="currentRegion='All';updateMapList()">х</button>-->
-<!--      <button id="World" onclick="currentRegion='World';updateMapList()">Глобальные</button>-->
-<!--      <button id="Russia" onclick="currentRegion='Russia';updateMapList()">Россия</button>-->
-<!--      <button id="Ukraine" onclick="currentRegion='Ukraine';updateMapList()">Украина</button>-->
-<!--      <button id="Belarus" onclick="currentRegion='Belarus';updateMapList()">Беларусь</button>-->
-
-<!--      <br>-->
-<!--      &lt;!&ndash; <br> &ndash;&gt;-->
-
-<!--      <button id="AllMaps1" onclick="currentType='All';updateMapList()">х</button>-->
-<!--      <button id="AllMaps2" onclick="currentType='Satellite';updateMapList()">Спутниковые</button>-->
-<!--      <button id="AllMaps3" onclick="currentType='City';updateMapList()">Городские</button>-->
-<!--      <button id="AllMaps4" onclick="currentType='Auto';updateMapList()">Авто</button>-->
-
-<!--      <button id="AllMaps5" onclick="currentType='Cycle';updateMapList()">Вело</button>-->
-<!--      <button id="AllMaps6" onclick="currentType='Hike';updateMapList()">Туризм</button>-->
-<!--      <button id="AllMaps7" onclick="currentType='Winter';updateMapList()">Зимние</button>-->
-<!--      <button id="AllMaps8" onclick="currentType='Water';updateMapList()">Водные</button>-->
-<!--      <button id="AllMaps9" onclick="currentType='Avia';updateMapList()">Авиа</button>-->
-<!--      <button id="AllMaps10" onclick="currentType='Hike';updateMapList()">Туристические</button>-->
-<!--      <button id="AllMaps11" onclick="currentType='Info';updateMapList()">Справочные</button>-->
-<!--      <button id="AllMaps12" onclick="currentType='Infrastuctura';updateMapList()">Инфраструктура</button>-->
-<!--      <button id="AllMaps13" onclick="currentType='Hystoric';updateMapList()">Исторические</button>-->
-<!--      <button id="AllMaps14" onclick="currentType='Geology';updateMapList()">Геологические</button>-->
-<!--      <button id="AllMaps15" onclick="currentType='Print';updateMapList()">Для печати</button>-->
-<!--      <button id="AllMaps16" onclick="currentType='Other';updateMapList()">Разное</button>-->
-<!--      <button id="AllMaps17" onclick="currentType='Relief';updateMapList()">Рельеф</button>-->
-<!--      <button id="AllMaps18" onclick="currentType='Labels';updateMapList()">Подписи</button>-->
-
-<!--      <br>-->
-<!--      <br>-->
+        <div class="downloadMenuListBtn">
+          <a href="#"
+             title="Show selected maps"
+             onclick="changeMenuMode()">
+             Выбрано: 342
+<!--            Выбрано карт: 342-->
+          </a>
+        </div>
 
 
-      <div class="replacing_div">Список карт пуст</div>
+        <div class="downloadMenuBackBtn">
+          <a href="#"
+             title="Back to adding maps menu"
+             onclick="changeMenuMode()">
+            Add more
+<!--            Назад-->
+<!--            Назад к выбору карт-->
+          </a>
+        </div>
+
+        <div class="downloadMenuDownloadBtn">
+          <a href="#"
+             title="Download all selected maps"
+             onclick="">
+            Download selected
+          </a>
+        </div>
+
+      </div>
+
+
+      <div class="rubricator">
+
+        <button id="reset" title="Reset" onclick="resetAllSelectElements()">х</button>
+
+        <select id="mapCountrySelector" onchange="changeRegion(this.value)">
+          <option value="All">(all countries)</option>
+
+          <optgroup label="Popular">
+            <option value="World">🌍 Global coverage</option>
+            <option value="Russia">🇷🇺 Russia</option>
+            <option value="Ukraine">🇺🇦 Ukraine</option>
+            <option value="Belarus">🇧🇾 Belarus</option>
+          </optgroup>
+
+          <optgroup label="Europe">
+            <option value="Europe">🇪🇺 Europe region</option>
+            <option value="Czech">🇨🇿 Czech</option>
+            <option value="Denmark">🇩🇰 Denmark</option>
+            <option value="Estonia">🇪🇪 Estonia</option>
+            <option value="Finland">🇫🇮 Finland</option>
+            <option value="France">🇫🇷 France</option>
+            <option value="GB">🇬🇧 Great Britain</option>
+            <option value="Italy">🇮🇹 Italy</option>
+            <option value="Latvia">🇱🇻 Latvia</option>
+            <option value="Lithuania">🇱🇹 Lithuania</option>
+            <option value="Montenegro">🇲🇪 Montenegro</option>
+            <option value="Norway">🇳🇴 Norway</option>
+            <option value="Poland">🇵🇱 Poland</option>
+            <option value="Sweden">🇸🇪 Sweden</option>
+            <option value="Switzerland">🇨🇭 Switzerland</option>
+          </optgroup>
+
+          <optgroup label="Asia">
+            <option value="Armenia">🇦🇲 Armenia</option>
+            <option value="Azerbaijan">🇦🇿 Azerbaijan</option>
+            <option value="Cyprus">🇨🇾 Cyprus</option>
+            <option value="Georgia">🇬🇪 Georgia</option>
+            <option value="India">🇮🇳 India</option>
+            <option value="Kazakhstan">🇰🇿 Kazakhstan</option>
+            <option value="Kyrgyzstan">🇰🇬 Kyrgyzstan</option>
+            <option value="Mongolia">🇲🇳 Mongolia</option>
+            <option value="Tajikistan">🇹🇯 Tajikistan</option>
+            <option value="Turkey">🇹🇷 Turkey</option>
+            <option value="Turkmenistan">🇹🇲 Turkmenistan</option>
+            <option value="Uzbekistan">🇧🇾 Uzbekistan</option>
+          </optgroup>
+
+          <optgroup label="Other regions">
+            <option value="USA">🇺🇸 USA</option>
+            <option value="UAE">🇦🇪 UAE</option>
+            <option value="Chilie">🇨🇱 Chilie</option>
+            <option value="NZ">🇳🇿 New Zealand</option>
+          </optgroup>
+        </select>
+
+        <select id="mapCategorySelector" onchange="changeType(this.value)">
+          <option value="All">(all categories)</option>
+          <option value="Satellites">🛰 Satellites</option>
+          <option value="City">🏠 City</option>
+          <option value="Road">🚗 Road</option>
+          <option value="Bike">🚲 Cycle</option>
+          <option value="Hike">🥾 Hike</option>
+          <option value="Topo">🧭 Topomaps</option>
+          <option value="Winter">❄️ Winter</option>
+          <option value="Water">⚓️ Water</option>
+          <option value="Aviation">✈️ Aviation</option>
+          <option value="Info">📖 Info</option>
+          <option value="Infrastructure">🚥 Infrastructure</option>
+          <option value="Hystoric">🏛 Hystoric</option>
+          <option value="Geology">⛏ Geology</option>
+          <option value="Print">🖨 For printing</option>
+          <option value="Other">🧩 Other</option>
+          <option value="Overlay - Relief">⏹️ 🏔️ Overlay - Relief</option>
+          <option value="Overlay - Labels">⏹️ 🏷 Overlay - Labels</option>
+<!--          <option value="Overlay - Road">⏹️ 🚗 Слои - Автомобильные</option>-->
+<!--          <option value="Overlay - Bike">⏹️ 🚲 Слои - Велосипедные</option>-->
+<!--          <option value="Overlay - Hike">⏹️ 🥾 Слои - Туристические</option>-->
+<!--          <option value="Overlay - Winter">⏹️ ❄️ Слои - Зимние</option>-->
+<!--          <option value="Overlay - Water">⏹️ ⚓️ Слои - Водные</option>-->
+<!--          <option value="Overlay - Info">⏹️ 📖 Слои - Справочные</option>-->
+          <option value="Overlay - Mobile coverage">⏹️ 📞 Overlay - Mobile coverage</option>
+<!--          <option value="Overlay - Infrastructure">⏹️ 🚥 Слои - Инфраструктура</option>-->
+<!--          <option value="Overlay - Other">⏹️ 🧩 Слои - Разное</option>-->
+        </select>
+
+        <select id="mapAppSelector" onchange="changeApp(this.value)">
+          <option value="All">(all formats)</option>
+          <option value="Locus">Locus</option>
+          <option value="OsmandSqlite">OsmAnd Sqlitedb</option>
+          <option value="OsmandMeta">OsmAnd Metainfo</option>
+          <option value="GuruIOS">Guru Maps iOS</option>
+          <option value="GuruAndroid">Guru Maps Android</option>
+          <option value="Alpine">Alpine Quest</option>
+          <option value="Desktop">Desktop editors</option>
+        </select>
+
+      </div>
+
+
+      <div class="replacing_div">Map list is empty</div>
+
 
     </section>
 
   </div>
 
   <footer>
-    <p><b>Contacts</b> - project maintained by <a href="javascript:redirectToContactsPage()">nnngrach</a></p>
+    <p><a href="javascript:redirectToContactsPage()">Contacts: </a>@nnngrach</p>
 
-    <p>Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    <p>Fork on <a href="https://github.com/nnngrach/AnyGIS_server">GitHub</a></p>
   </footer>
 
 
@@ -165,8 +252,8 @@
 </body>
 
   <script>
-    updateMapList();
-    //updateMapList()
+      setAppTypeFromUrlParams();
+      showCorrectUiForCurrentMode();
   </script>
   
 </html>

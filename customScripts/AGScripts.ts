@@ -2,7 +2,7 @@
 // Types
 // =======================================================
 
-type MapDataLine = {nameRU: string, regions: string, types: string, apps: string};
+type MapDataLine = {nameRU: string, nameEn: string, fileName: string, apiName: string, hasPreview: boolean, regions: string, types: string, apps: string, isInShortSet: string};
 
 
 
@@ -155,18 +155,18 @@ function setAppTypeFromUrlParams(): void {
                 setSelectElementWith(3, appSelectID);
                 break;
             }
-            case "Guru": {
-                currentApp = "Guru";
+            case "GuruIOS": {
+                currentApp = "GuruIOS";
                 setSelectElementWith(4, appSelectID);
+                break;
+            }
+            case "GuruAndroid": {
+                currentApp = "GuruAndroid";
+                setSelectElementWith(5, appSelectID);
                 break;
             }
             case "Alpine": {
                 currentApp = "Alpine";
-                setSelectElementWith(5, appSelectID);
-                break;
-            }
-            case "Orux": {
-                currentApp = "Orux";
                 setSelectElementWith(6, appSelectID);
                 break;
             }
@@ -188,6 +188,31 @@ function setAppTypeFromUrlParams(): void {
 }
 
 
+
+function getFavoriteModeFromUrlParams(): boolean {
+
+    try {
+        let queryAppName = getQueryVariable("shortSet");
+
+        switch (queryAppName) {
+            case "true": {
+                return true;
+                break;
+            }
+            case "false": {
+                return false;
+                break;
+            }
+            default: {
+                throw new Error();
+                break;
+            }
+        }
+
+    } catch (e) {
+        return false;
+    }
+}
 
 
 
@@ -246,11 +271,13 @@ function updateMapList(): void {
 
 
 
-
-
 function generateMapListHtml(mapListItems: MapDataLine[]): void {
 
     let result: string = "";
+
+    let isEnglish = isContains(getCurrentURL(), englishPagesPostfix);
+    let isShortSet = getFavoriteModeFromUrlParams();
+
 
     mapListItems.forEach(function (mapItem) {
 
@@ -264,8 +291,33 @@ function generateMapListHtml(mapListItems: MapDataLine[]): void {
         if (currentApp != defaultValue &&
             !isContains(mapItem.apps, currentApp)) return;
 
+        if (isShortSet && !(mapItem.isInShortSet)) return;
 
-        let preparedMapline = mapLineTemplate.replace("{mapName}", mapItem.nameRU);
+
+        let preparedMapline = mapLineTemplate;
+
+        let previewBlock = getPrewiewHtmlBlock(mapItem.hasPreview);
+        preparedMapline = preparedMapline.replace("{previewBlock}", previewBlock);
+
+        const previewMessage = (isEnglish) ? "Preview" : "Предпросмотр карты";
+        preparedMapline = preparedMapline.replace("{previewMessage}", previewMessage);
+        preparedMapline = preparedMapline.replace("{anygisMapName}", mapItem.apiName);
+
+
+        const name = (isEnglish) ? mapItem.nameEn : mapItem.nameRU;
+        preparedMapline = preparedMapline.replace("{mapName}", name);
+
+        const downloadMessage = (isEnglish) ? "Download this map" : "Скачать эту карту";
+        preparedMapline = preparedMapline.replace("{downloadMessage}", downloadMessage);
+
+        let downloadUrl = getDownloadUrlTemplate(currentApp);
+        let lang = (isEnglish) ? "en" : "ru";
+        let fileNormalName = mapItem.fileName.replace("=", "%3D")
+        downloadUrl = downloadUrl.replace("{lang}", lang);
+        downloadUrl = downloadUrl.replace("{fileName}", mapItem.fileName);
+        downloadUrl = downloadUrl.replace("{fileNormalisedName}", fileNormalName);
+        preparedMapline = preparedMapline.replace("{singleMapDownloadUrl}", downloadUrl);
+
         result += preparedMapline;
     });
 
@@ -273,21 +325,68 @@ function generateMapListHtml(mapListItems: MapDataLine[]): void {
 }
 
 
+
+
+function getDownloadUrlTemplate(app: string): string {
+    switch (app) {
+        case "Locus": {
+            return "locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_{lang}/__{fileNormalisedName}.xml"
+        }
+        case "OsmandSqlite": {
+            return "https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_{lang}/{fileName}.sqlitedb"
+        }
+        case "OsmandMeta": {
+            return "https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_{lang}/{fileName}.zip"
+        }
+        case "GuruIOS": {
+            return "guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_{lang}/{fileNormalisedName}.ms"
+        }
+        case "GuruAndroid": {
+            return "https://anygis.ru/api/v1/download/galileo_{lang}/{fileName}.ms"
+        }
+        case "Alpine": {
+            return "https://anygis.ru/api/v1/download/alpine_{lang}/{fileName}.AQX"
+        }
+        case "Desktop": {
+            return "https://github.com/nnngrach/AnyGIS_maps/blob/master/Desktop/_{lang}/{fileName}.txt"
+        }
+        default: {
+            return "#"
+        }
+    }
+}
+
+
+function getPrewiewHtmlBlock(hasPrewiew: boolean): string {
+
+    if (hasPrewiew) {
+        return `
+    <a class="mapLinePreview"
+        href="https://anygis.ru/api/v1/preview/{anygisMapName}"
+        target="_blank" title="{previewMessage}"> 
+        <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
+    </a>
+        `
+
+    } else {
+        return `   
+    <img class="mapLinePreview" src="/Web/Img/eyeNo_gray.png" class="eye_icon"/>      
+    `
+    }
+}
+
+
+
 const mapLineTemplate = `
 <br>
 
 <div class="mapLine">
-<!--    <input type="checkbox" class="mapLineCheckbox">-->
-
-    <a class="mapLinePreview"
-        href="https://anygis.ru/api/v1/preview/{anygisMapName}"
-        target="_blank" title="Предпросмотр карты">
-        <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
-    </a>
+    
+    {previewBlock}
     
     <a class="mapLineLink"
         href="{singleMapDownloadUrl}"
-        title="Скачать эту карту">
+        target="_blank" title="{downloadMessage}">
         {mapName}
     </a>
 </div>
@@ -297,10 +396,22 @@ const mapLineTemplate = `
 
 
 
-function replaceElementContent(elementClass: string, newContent: string): void {
-    document.getElementsByClassName(elementClass)[0].innerHTML = newContent;
-}
 
+
+
+
+
+// =======================================================
+// Get/Download All maps list JSON
+// =======================================================
+
+// MapList is in file "MapList.js".
+// It added in HTML page with  <script = "..."> tag.
+function downloadMapList(): MapDataLine[] {
+
+    // @ts-ignore
+    return MapsList.mapsList;
+}
 
 
 
@@ -328,6 +439,11 @@ function getQueryVariable(variable: string): string {
 }
 
 
+function replaceElementContent(elementClass: string, newContent: string): void {
+    document.getElementsByClassName(elementClass)[0].innerHTML = newContent;
+}
+
+
 function redirectTo(url: string): void {
     window.location.replace(url);
 }
@@ -346,26 +462,4 @@ function setDivVisiability(className: string, isVisible: boolean): void {
 
     let element = elements[0] as HTMLDivElement;
     element.style.display = isVisible ? "inline-block" : "none";
-}
-
-
-
-
-
-
-
-
-
-
-
-// =======================================================
-// Get/Download All maps list JSON  
-// =======================================================
-
-// MapList is in file "MapList.js".
-// It added in HTML page with  <script = "..."> tag.
-function downloadMapList(): MapDataLine[] {
-
-    // @ts-ignore
-    return MapsList.mapsList;
 }
