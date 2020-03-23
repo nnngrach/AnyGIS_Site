@@ -252,7 +252,7 @@ function getDownloadUrlTemplate(app) {
             return "https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_{lang}/{fileName}.zip";
         }
         case "GuruIOS": {
-            return "https://anygis.ru/api/v1/download/galileo_{lang}/{fileName}.ms";
+            return "guru://open?path=https://anygis.ru/api/v1/download/galileo_{lang}/{fileNormalisedName}.ms";
             // return "guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_{lang}/{fileNormalisedName}.ms"
         }
         case "GuruAndroid": {
