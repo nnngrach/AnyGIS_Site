@@ -277,7 +277,7 @@ function getPrewiewHtmlBlock(hasPrewiew) {
         return "   \n    <img class=\"mapLinePreview\" src=\"/Web/Img/eyeNo_gray.png\" class=\"eye_icon\"/>      \n    ";
     }
 }
-var mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    \n    {previewBlock}\n    \n    <a href=\"{singleMapDownloadUrl}\" title=\"{downloadMessage}\">{mapName}</a>\n    \n<!--    <a class=\"mapLineLink\"-->\n<!--        href=\"{singleMapDownloadUrl}\"-->\n<!--        title=\"{downloadMessage}\">-->\n<!--        {mapName}-->\n<!--    </a>-->\n</div>\n\n    ";
+var mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    \n    {previewBlock}\n    \n<!--    <a href=\"{singleMapDownloadUrl}\" title=\"{downloadMessage}\">{mapName}</a>-->\n    \n    <a class=\"mapLineLink\"\n        href=\"{singleMapDownloadUrl}\"\n        target=\"_blank\" title=\"{downloadMessage}\">\n        {mapName}\n    </a>\n</div>\n\n    ";
 // =======================================================
 // Get/Download All maps list JSON
 // =======================================================

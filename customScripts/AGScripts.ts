@@ -386,13 +386,13 @@ const mapLineTemplate = `
     
     {previewBlock}
     
-    <a href="{singleMapDownloadUrl}" title="{downloadMessage}">{mapName}</a>
+<!--    <a href="{singleMapDownloadUrl}" title="{downloadMessage}">{mapName}</a>-->
     
-<!--    <a class="mapLineLink"-->
-<!--        href="{singleMapDownloadUrl}"-->
-<!--        title="{downloadMessage}">-->
-<!--        {mapName}-->
-<!--    </a>-->
+    <a class="mapLineLink"
+        href="{singleMapDownloadUrl}"
+        target="_blank" title="{downloadMessage}">
+        {mapName}
+    </a>
 </div>
 
     `;
