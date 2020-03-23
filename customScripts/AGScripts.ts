@@ -340,8 +340,8 @@ function getDownloadUrlTemplate(app: string): string {
             return "https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_{lang}/{fileName}.zip"
         }
         case "GuruIOS": {
-            return "guru://open?path=https://anygis.ru/api/v1/download/galileo_{lang}/{fileNormalisedName}.ms"
-            // return "guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_{lang}/{fileNormalisedName}.ms"
+            //return "guru://open?path=https://anygis.ru/api/v1/download/galileo_{lang}/{fileNormalisedName}.ms"
+            return "guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_{lang}/{fileNormalisedName}.ms"
         }
         case "GuruAndroid": {
             return "https://anygis.ru/api/v1/download/galileo_{lang}/{fileName}.ms"
@@ -386,11 +386,13 @@ const mapLineTemplate = `
     
     {previewBlock}
     
-    <a class="mapLineLink"
-        href="{singleMapDownloadUrl}"
-        title="{downloadMessage}">
-        {mapName}
-    </a>
+    <a href="{singleMapDownloadUrl}" title="{downloadMessage}">{mapName}</a>
+    
+<!--    <a class="mapLineLink"-->
+<!--        href="{singleMapDownloadUrl}"-->
+<!--        title="{downloadMessage}">-->
+<!--        {mapName}-->
+<!--    </a>-->
 </div>
 
     `;

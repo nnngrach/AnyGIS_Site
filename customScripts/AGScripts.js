@@ -252,8 +252,8 @@ function getDownloadUrlTemplate(app) {
             return "https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_{lang}/{fileName}.zip";
         }
         case "GuruIOS": {
-            return "guru://open?path=https://anygis.ru/api/v1/download/galileo_{lang}/{fileNormalisedName}.ms";
-            // return "guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_{lang}/{fileNormalisedName}.ms"
+            //return "guru://open?path=https://anygis.ru/api/v1/download/galileo_{lang}/{fileNormalisedName}.ms"
+            return "guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_{lang}/{fileNormalisedName}.ms";
         }
         case "GuruAndroid": {
             return "https://anygis.ru/api/v1/download/galileo_{lang}/{fileName}.ms";
@@ -277,7 +277,7 @@ function getPrewiewHtmlBlock(hasPrewiew) {
         return "   \n    <img class=\"mapLinePreview\" src=\"/Web/Img/eyeNo_gray.png\" class=\"eye_icon\"/>      \n    ";
     }
 }
-var mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    \n    {previewBlock}\n    \n    <a class=\"mapLineLink\"\n        href=\"{singleMapDownloadUrl}\"\n        title=\"{downloadMessage}\">\n        {mapName}\n    </a>\n</div>\n\n    ";
+var mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    \n    {previewBlock}\n    \n    <a href=\"{singleMapDownloadUrl}\" title=\"{downloadMessage}\">{mapName}</a>\n    \n<!--    <a class=\"mapLineLink\"-->\n<!--        href=\"{singleMapDownloadUrl}\"-->\n<!--        title=\"{downloadMessage}\">-->\n<!--        {mapName}-->\n<!--    </a>-->\n</div>\n\n    ";
 // =======================================================
 // Get/Download All maps list JSON
 // =======================================================
