@@ -270,13 +270,13 @@ function getDownloadUrlTemplate(app) {
 }
 function getPrewiewHtmlBlock(hasPrewiew) {
     if (hasPrewiew) {
-        return "\n    <a class=\"mapLinePreview\"\n        href=\"https://anygis.ru/api/v1/preview/{anygisMapName}\"\n        title=\"{previewMessage}\"> \n        <img src=\"/Web/Img/eye_gray.png\" class=\"eye_icon\"/>\n    </a>\n        ";
+        return "\n    <a class=\"mapLinePreview\"\n        href=\"https://anygis.ru/api/v1/preview/{anygisMapName}\"\n        target=\"_blank\" title=\"{previewMessage}\"> \n        <img src=\"/Web/Img/eye_gray.png\" class=\"eye_icon\"/>\n    </a>\n        ";
     }
     else {
         return "   \n    <img class=\"mapLinePreview\" src=\"/Web/Img/eyeNo_gray.png\" class=\"eye_icon\"/>      \n    ";
     }
 }
-var mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    \n    {previewBlock}\n    \n    <a class=\"mapLineLink\"\n        href=\"{singleMapDownloadUrl}\"\n        target=\"_blank\" title=\"{downloadMessage}\">\n        {mapName}\n    </a>\n</div>\n\n    ";
+var mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    \n    {previewBlock}\n    \n    <a class=\"mapLineLink\"\n        href=\"{singleMapDownloadUrl}\"\n        title=\"{downloadMessage}\">\n        {mapName}\n    </a>\n</div>\n\n    ";
 // =======================================================
 // Get/Download All maps list JSON
 // =======================================================

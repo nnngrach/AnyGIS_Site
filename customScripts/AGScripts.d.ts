@@ -50,7 +50,7 @@ declare function updateMapList(): void;
 declare function generateMapListHtml(mapListItems: MapDataLine[]): void;
 declare function getDownloadUrlTemplate(app: string): string;
 declare function getPrewiewHtmlBlock(hasPrewiew: boolean): string;
-declare const mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    \n    {previewBlock}\n    \n    <a class=\"mapLineLink\"\n        href=\"{singleMapDownloadUrl}\"\n        target=\"_blank\" title=\"{downloadMessage}\">\n        {mapName}\n    </a>\n</div>\n\n    ";
+declare const mapLineTemplate = "\n<br>\n\n<div class=\"mapLine\">\n    \n    {previewBlock}\n    \n    <a class=\"mapLineLink\"\n        href=\"{singleMapDownloadUrl}\"\n        title=\"{downloadMessage}\">\n        {mapName}\n    </a>\n</div>\n\n    ";
 declare function downloadMapList(): MapDataLine[];
 declare function getCurrentURL(): string;
 declare function getQueryVariable(variable: string): string;
