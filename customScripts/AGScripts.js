@@ -270,7 +270,7 @@ function getDownloadUrlTemplate(app) {
 }
 function getPrewiewHtmlBlock(hasPrewiew) {
     if (hasPrewiew) {
-        return "\n    <a class=\"mapLinePreview\"\n        href=\"https://anygis.ru/api/v1/preview/{anygisMapName}\"\n        target=\"_blank\" title=\"{previewMessage}\"> \n        <img src=\"/Web/Img/eye_gray.png\" class=\"eye_icon\"/>\n    </a>\n        ";
+        return "\n    <a class=\"mapLinePreview\"\n        href=\"https://anygis.ru/api/v1/preview/{anygisMapName}\"\n        title=\"{previewMessage}\"> \n        <img src=\"/Web/Img/eye_gray.png\" class=\"eye_icon\"/>\n    </a>\n        ";
     }
     else {
         return "   \n    <img class=\"mapLinePreview\" src=\"/Web/Img/eyeNo_gray.png\" class=\"eye_icon\"/>      \n    ";

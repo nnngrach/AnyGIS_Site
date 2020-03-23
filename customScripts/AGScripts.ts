@@ -364,7 +364,7 @@ function getPrewiewHtmlBlock(hasPrewiew: boolean): string {
         return `
     <a class="mapLinePreview"
         href="https://anygis.ru/api/v1/preview/{anygisMapName}"
-        target="_blank" title="{previewMessage}"> 
+        title="{previewMessage}"> 
         <img src="/Web/Img/eye_gray.png" class="eye_icon"/>
     </a>
         `
