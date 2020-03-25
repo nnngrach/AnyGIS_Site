@@ -35,8 +35,10 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [1]: https://shuriktravel.ru/maps/
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_short_en.zip
-[3]: /Web/Html/Download/Guru_Maps_IOS_Short_en
-[4]: /Web/Html/Download/Guru_Maps_Android_Short_en
+<!-- [3]: /Web/Html/Download/Guru_Maps_IOS_Short_en
+[4]: /Web/Html/Download/Guru_Maps_Android_Short_en -->
+[3]: /Web/Html/Download_en?shortSet=true&app=GuruIOS
+[4]: /Web/Html/Download_en?shortSet=true&app=GuruAndroid
 [07]: /Web/Html/Vektor_and_raster_en
 
 ### Full set
@@ -64,8 +66,10 @@ If you already know what kind of maps you need, then this set is for you. Note t
 [9]: https://custom-map-source.appspot.com/
 [10]: https://www.sasgis.org/
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_full_en.zip
-[12]: /Web/Html/Download/Guru_Maps_IOS_Full_en
-[13]: /Web/Html/Download/Guru_Maps_Android_Full_en
+<!-- [12]: /Web/Html/Download/Guru_Maps_IOS_Full_en
+[13]: /Web/Html/Download/Guru_Maps_Android_Full_en -->
+[12]: /Web/Html/Download_en?app=GuruIOS
+[13]: /Web/Html/Download_en?app=GuruAndroid
 
 ---
 

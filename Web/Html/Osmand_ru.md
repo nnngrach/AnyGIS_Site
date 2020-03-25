@@ -41,9 +41,10 @@ layout: default
 
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Zip/Maps_short_ru.zip
 
-[3]: /Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Short_ru
-
-[4]: /Web/Html/Download/OsmAnd_Maps_(metainfo)_Short_ru
+<!-- [3]: /Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Short_ru
+[4]: /Web/Html/Download/OsmAnd_Maps_(metainfo)_Short_ru -->
+[3]: /Web/Html/Download_ru?shortSet=true&app=OsmandSqlite
+[4]: /Web/Html/Download_ru?shortSet=true&app=OsmandMeta
 
 
 ---
@@ -81,9 +82,10 @@ layout: default
 
 [12]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Zip/Maps_full_ru.zip
 
-[13]: /Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Full_ru
-
-[14]: /Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_ru
+<!-- [13]: /Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Full_ru
+[14]: /Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_ru -->
+[13]: /Web/Html/Download_ru?app=OsmandSqlite
+[14]: /Web/Html/Download_ru?app=OsmandMeta
 
 [20]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Sqlitedb/Zip/Maps_full_ru.zip
 

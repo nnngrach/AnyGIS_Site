@@ -39,8 +39,11 @@ layout: default
 [07]: /Web/Html/Vektor_and_raster_ru
 [1]: https://shuriktravel.ru/maps/
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_short_ru.zip
-[3]: /Web/Html/Download/Guru_Maps_IOS_Short_ru
-[4]: /Web/Html/Download/Guru_Maps_Android_Short_ru
+
+<!-- [3]: /Web/Html/Download/Guru_Maps_IOS_Short_ru
+[4]: /Web/Html/Download/Guru_Maps_Android_Short_ru -->
+[3]: /Web/Html/Download_ru?shortSet=true&app=GuruIOS
+[4]: /Web/Html/Download_ru?shortSet=true&app=GuruAndroid
 
 
 ---
@@ -72,8 +75,10 @@ layout: default
 [9]: https://custom-map-source.appspot.com/
 [10]: https://www.sasgis.org/
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_full_ru.zip
-[12]: /Web/Html/Download/Guru_Maps_IOS_Full_ru
-[13]: /Web/Html/Download/Guru_Maps_Android_Full_ru
+<!-- [12]: /Web/Html/Download/Guru_Maps_IOS_Full_ru
+[13]: /Web/Html/Download/Guru_Maps_Android_Full_ru -->
+[12]: /Web/Html/Download_ru?app=GuruIOS
+[13]: /Web/Html/Download_ru?app=GuruAndroid
 [22]: /Web/Html/ForbiddenMaps_ru
 
 ---

@@ -33,8 +33,8 @@ So in this section, I just provided a list of prepared URL templates. You can ju
 [002]: https://nakarte.me
 [003]: https://brouter.de/brouter-web/
 
-[11]: /Web/Html/Download/Desktop_Full_en
-
+<!-- [11]: /Web/Html/Download/Desktop_Full_en -->
+[11]: /Web/Html/Download_en?app=Desktop
 
 
 ### How to install

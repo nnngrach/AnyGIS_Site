@@ -37,7 +37,8 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_folders_en.zip
 
-[3]: https://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Short_en
+<!-- [3]: https://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Short_en -->
+[3]: https://anygis.ru/Web/Html/Download_en?shortSet=true&app=Alpine
 
 [07]: /Web/Html/Vektor_and_raster_en
 
@@ -65,7 +66,8 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_full_folders_en.zip
 
-[12]: https://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Full_ru
+<!-- [12]: https://anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Full_ru -->
+[12]: https://anygis.ru/Web/Html/Download_en?app=Alpine
 
 
 

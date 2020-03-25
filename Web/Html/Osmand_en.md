@@ -38,9 +38,10 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Zip/Maps_short_en.zip
 
-[3]: /Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Short_en
-
-[4]: /Web/Html/Download/OsmAnd_Maps_(metainfo)_Short_en
+<!-- [3]: /Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Short_en
+[4]: /Web/Html/Download/OsmAnd_Maps_(metainfo)_Short_en -->
+[3]: /Web/Html/Download_en?shortSet=true&app=OsmandSqlite
+[4]: /Web/Html/Download_en?shortSet=true&app=OsmandMeta
 
 [07]: /Web/Html/Vektor_and_raster_en
 
@@ -71,9 +72,10 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [12]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Zip/Maps_full_en.zip
 
-[13]: /Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Full_en
-
-[14]: /Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_en
+<!-- [13]: /Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Full_en
+[14]: /Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_en -->
+[13]: /Web/Html/Download_en?shortSet=true&app=OsmandSqlite
+[44]: /Web/Html/Download_en?shortSet=true&app=OsmandMeta
 
 
 

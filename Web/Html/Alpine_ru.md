@@ -38,7 +38,8 @@ layout: default
 
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_folders_ru.zip
 
-[3]: /Web/Html/Download/Alpine_Quest_Maps_Short_ru
+<!-- [3]: /Web/Html/Download/Alpine_Quest_Maps_Short_ru -->
+[3]: /Web/Html/Download_ru?shortSet=true&app=Alpine
 
 
 ---
@@ -69,7 +70,8 @@ layout: default
 
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_full_folders_ru.zip
 
-[12]: /Web/Html/Download/Alpine_Quest_Maps_Full_ru
+<!-- [12]: /Web/Html/Download/Alpine_Quest_Maps_Full_ru -->
+[12]: https://anygis.ru/Web/Html/Download_ru?app=Alpine
 [22]: /Web/Html/ForbiddenMaps_ru
 
 

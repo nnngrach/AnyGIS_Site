@@ -41,7 +41,8 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [3]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_short_en.zip
 
-[0]: /Web/Html/Download/Locus_Maps_Short_en
+<!-- [0]: /Web/Html/Download/Locus_Maps_Short_en -->
+[0]: /Web/Html/Download_en?shortSet=true&app=Locus
 
 [07]: /Web/Html/Vektor_and_raster_en
 
@@ -73,7 +74,8 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/AnyGIS_full_set.xml
 
-[13]: /Web/Html/Download/Locus_Maps_Full_en
+<!-- [13]: /Web/Html/Download/Locus_Maps_Full_en -->
+[13]: /Web/Html/Download_en?app=Locus
 
 
 ### Preparing for installation

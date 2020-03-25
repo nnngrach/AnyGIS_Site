@@ -43,7 +43,8 @@ layout: default
 
 [3]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_short_ru.zip
 
-[0]: /Web/Html/Download/Locus_Maps_Short_ru
+<!-- [0]: /Web/Html/Download/Locus_Maps_Short_ru -->
+[0]: /Web/Html/Download_ru?shortSet=true&app=Locus
 
 
 ---
@@ -78,7 +79,8 @@ layout: default
 
 [12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/AnyGIS_full_set.xml
 
-[13]: /Web/Html/Download/Locus_Maps_Full_ru
+<!-- [13]: /Web/Html/Download/Locus_Maps_Full_ru -->
+[13]: /Web/Html/Download_ru?app=Locus
 
 [22]: /Web/Html/ForbiddenMaps_ru
 
