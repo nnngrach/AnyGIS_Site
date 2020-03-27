@@ -246,7 +246,8 @@ function getDownloadUrlTemplate(app) {
             return "locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_{lang}/__{fileNormalisedName}.xml";
         }
         case "OsmandSqlite": {
-            return "https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_{lang}/{fileName}.sqlitedb";
+            return "https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Sqlitedb/Maps_full_{lang}/{fileNormalisedName}.sqlitedb";
+            //return "https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_{lang}/{fileName}.sqlitedb"
         }
         case "OsmandMeta": {
             return "https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_{lang}/{fileName}.zip";
