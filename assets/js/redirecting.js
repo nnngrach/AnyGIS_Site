@@ -32,11 +32,11 @@ function redirectToPageWithAnotherLanguage() {
     } else if (url.indexOf("index") != -1) {
       url = url.replace("index", "index_en");
     } else if (url.indexOf("_ru") == -1) {
+        url = url.replace("_ru", "_en");
+    } else if (url.indexOf("_en") == -1) {
         url = url.replace("_en", "_ru");
-    } else if (url.indexOf("") == -1) {
-        url = url.replace("", "index_en");
     } else {
-      url = url.replace("_ru", "_en");
+      url = url.replace("", "index_en");
     }
 
     window.location.replace(url);
