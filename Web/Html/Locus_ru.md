@@ -181,7 +181,6 @@ layout: default
   </label></h3>
   <div class="spoiler" markdown="1">
 
-### Ссылки
 
 Напоследок хочу порекомендовать несколько полезных ссылок:
 

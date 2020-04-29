@@ -199,7 +199,15 @@ layout: default
 
 </div></div></div>
 
----
+
+
+<div class="nav"><div class="item">
+  <input type="checkbox" id="06"/>
+  <img src="/Web/Img/arrow_menu.png" class="arrow_in_spoiler">
+  <h3><label class="spoiler_label" for="06">
+  Ссылки
+  </label></h3>
+  <div class="spoiler" markdown="1">
 
 Напоследок хочу порекомендовать несколько полезных ссылок:
 
@@ -207,7 +215,10 @@ layout: default
 
 [16]: http://anygis.ru/api/v1/westra_gpx/universal
 
----
+</div></div></div>
+
+
+
 
 На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку, то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте. 
 
