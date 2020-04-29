@@ -336,7 +336,7 @@ Osmand позволяет показывать и скрывать дополн�
 
 [18]: https://t.me/ruosmand
 
-[19]: http://anygis.ru/api/v1/westra_gpx/unuversal
+[19]: http://anygis.ru/api/v1/westra_gpx/osmand
 
 
 
