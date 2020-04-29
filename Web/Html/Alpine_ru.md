@@ -177,10 +177,11 @@ layout: default
 Напоследок хочу порекомендовать несколько полезных ссылок:
 
 [Русскоязычный форум AlpineQuest на 4PDA, с инструкцией и полезными файлами][15]
+
 [Скачать точки горных перевалов Вестра в формате GPX (с сайта Nakarte.me)][16]
 
 [15]: http://4pda.ru/forum/index.php?showtopic=737975
-[16]: http://anygis.ru/api/v1/westra_gpx/unuversal
+[16]: http://anygis.ru/api/v1/westra_gpx/universal
 
 
 

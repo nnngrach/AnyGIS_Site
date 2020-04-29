@@ -86,7 +86,8 @@ layout: default
 Напоследок хочу порекомендовать несколько полезных ссылок:
 
 [Скачать точки горных перевалов Вестра в формате GPX (с сайта Nakarte.me)][16]
-[16]: http://anygis.ru/api/v1/westra_gpx/unuversal
+
+[16]: http://anygis.ru/api/v1/westra_gpx/universal
 
 ---
 
