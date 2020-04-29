@@ -195,9 +195,8 @@ layout: default
 
 [Как настроить "дополнительные скрипты" для Locus][17]
 
-[Скачать перевалы Вестра в формате GPX][19]
+[Скачать точки горных перевалов Вестра в формате GPX (с сайта Nakarte.me)][19]
 
-[Скачать перевалы Вестра в формате GPX][20]
 
 [14]: https://shuriktravel.ru/locusmap_firststep/
 
@@ -210,8 +209,6 @@ layout: default
 [18]: https://melda.ru/locus/maps/
 
 [19]: locus-actions://https/anygis.ru/server/Westra/Westra%20Passes.xml
-
-[20]: locus-actions://https/anygis.ru/server/Westra/Westra%20Passes0.xml
 
 
 > Внимание! Для просмотра форума 4PDA нужно на нем зарегистрироваться. Иначе будет показано сообщение "Страница не найдена".
