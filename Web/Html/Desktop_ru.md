@@ -119,7 +119,7 @@ layout: default
 
 Сама же ссылка для подключению нового слоя к JOSM имеет следующий вид. Числа 3 и 16 - это значения из полей MinZoom и MaxZoom соответственно.
 
-> tms[3,16]:/api/v1/Tracks_Strava_All/{x}/{y}/{z}
+> tms[3,16]: https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}
 
 
 [21]: https://t.me/ruosm
