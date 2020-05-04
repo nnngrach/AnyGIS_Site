@@ -72,7 +72,7 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_full_en.zip
 
-[12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/AnyGIS_full_set.xml
+[12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_manual_created/AnyGIS_full_set_zip_en.xml
 
 <!-- [13]: /Web/Html/Download/Locus_Maps_Full_en -->
 [13]: /Web/Html/Download_en?app=Locus

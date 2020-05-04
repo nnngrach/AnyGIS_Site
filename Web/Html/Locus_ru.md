@@ -60,7 +60,7 @@ layout: default
 
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_full_ru.zip
 
-[12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/AnyGIS_full_set.xml
+[12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_manual_created/AnyGIS_full_set_zip_ru.xml
 
 <!-- [13]: /Web/Html/Download/Locus_Maps_Full_ru -->
 [13]: /Web/Html/Download_ru?app=Locus
