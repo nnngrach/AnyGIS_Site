@@ -25,7 +25,7 @@ layout: default
 
 | <img src="/Web/Img/icon_alpine.png" width="100"/> | **[Download maps for Alpine Quest][15]** |
 
-| <img src="/Web/Img/icon_desktop.png" width="100"/> | **[Download maps for Desktop editors][15]** |
+| <img src="/Web/Img/icon_desktop.png" width="100"/> | **[Download maps for Desktop editors][16]** |
 
 
 
